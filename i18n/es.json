@@ -1,0 +1,218 @@
+{
+  "nav": {
+    "institucional": "Institucional",
+    "flota": "Flota",
+    "comercial": "Comercial",
+    "frigorificos": "Frigoríficos",
+    "catalogo": "Catálogo",
+    "retail": "Retail",
+    "contacto": "Contacto"
+  },
+  "hero": {
+    "title": "From Patagonia",
+    "subtitle": "La esencia del Mar Argentino en cada producto",
+    "tagline": "Exportadora premium de langostinos, merluza, calamar y variado costero con trazabilidad total y certificación internacional",
+    "ctaCatalog": "Ver Catálogo",
+    "ctaContact": "Solicitar Cotización"
+  },
+  "highlights": {
+    "title": "Nuestra Diferencia",
+    "subtitle": "Calidad que nace en el mar, se procesa con excelencia y llega al mundo",
+    "fleet": { "title": "Flota Propia", "desc": "7 tipos de embarcaciones (tangoneros, arrastreros, poteros, nasa/trampa/palangre) operando en 7 puertos patagónicos" },
+    "plants": { "title": "Plantas Industriales", "desc": "Mar del Plata (7.500 m², 320 pers.) y Trelew (1.500 m², 200 pers.) con tecnología de congelamiento por placa y túneles" },
+    "certs": { "title": "Certificaciones Globales", "desc": "SENASA, HACCP, UE, FDA, China, Rusia, DIPOA Brasil - Acceso a los mercados más exigentes del mundo" },
+    "export": { "title": "Exportación Mundial", "desc": "Presencia en 13 mercados: USA, Europa, Rusia, China, Japón, Medio Oriente, Brasil, Venezuela y más" }
+  },
+  "products": {
+    "title": "Especies Estrella",
+    "subtitle": "Nuestros productos más demandados internacionalmente",
+    "langostino": { "name": "Langostino Patagónico", "sci": "Pleoticus muelleri", "desc": "Congelado a bordo y en tierra. Tallas L1, L2, L3, Colas C1, C2, C1L, Pelado y desvenado." },
+    "merluza": { "name": "Merluza", "sci": "Merluccius hubbsi", "desc": "Entera, HG/HGT, Filet con y sin piel. Zona FAO 41. Mareas 7-10 días (MDP) y 2-3 días (CR)." },
+    "calamar": { "name": "Calamar Argentino", "sci": "Illex argentinus", "desc": "Entero, Vaina, Tentáculo, Aleta, Tubo limpio, Anillas. Captura por flota potera especializada en el caladero patagónico." }
+  },
+  "cta": {
+    "title": "¿Listo para trabajar con la mejor calidad del Mar Argentino?",
+    "desc": "Empresas líderes mundiales confían en nuestra experiencia y trazabilidad. Solicite su cotización personalizada.",
+    "btn": "Solicitar Cotización"
+  },
+  "footer": {
+    "tagline": "Exportamos la riqueza del Mar Argentino al mundo",
+    "contact": "Contacto",
+    "address": "Mar del Plata, Buenos Aires, Argentina",
+    "phone": "+54 223 555-0123",
+    "company": "From Patagonia Seafood",
+    "follow": "Síguenos",
+    "rights": "Todos los derechos reservados",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos y Condiciones",
+    "watermark": "by Sottomarina SA / Guigus SA",
+    "contactForm": "Formulario de contacto",
+    "navInstitucional": "Institucional",
+    "navFlota": "Flota",
+    "navComercial": "Comercial",
+    "navFrigorificos": "Frigoríficos",
+    "navCatalogo": "Catálogo de Productos",
+    "navContacto": "Contacto",
+    "ariaInicio": "From Patagonia Seafood - Inicio"
+  },
+  "institucional": {
+    "title": "Institucional",
+    "subtitle": "Conozca nuestra historia, valores y compromiso con la excelencia.",
+    "history": {
+      "title": "Nuestra Historia",
+      "subtitle": "La esencia del Mar Argentino",
+      "p1": "En From Patagonia, nuestra esencia es el Mar Argentino. Somos una empresa familiar e histórica dedicada a la extracción, elaboración y exportación de pescados y mariscos con décadas de trayectoria, que integra toda la cadena de valor: desde la captura en nuestras aguas frías y cristalinas hasta la logística global que asegura que el producto llegue al mercado internacional en condiciones de frescura absoluta.",
+      "p2": "Operamos con flota propia, procesamos en nuestras plantas de Mar del Plata y Trelew con los más altos estándares sanitarios y nuestra marca e industria es sinónimo de trazabilidad total en todo el circuito productivo. Exportamos al mundo la riqueza de nuestras costas, con la seriedad y el compromiso que los mercados más exigentes demandan.",
+      "p3": "Empresas argentinas ampliamente conocidas en el mercado Mundial dejan la responsabilidad de sus producciones en nuestras manos debido a que tenemos amplia experiencia en esto!!"
+    },
+    "vision": {
+      "title": "Nuestra Visión",
+      "quote": "\"Consolidarnos como el referente indiscutible en la exportación de productos del Mar Argentino a nivel global, manteniendo la excelencia en calidad, trazabilidad y sostenibilidad que nos caracteriza.\""
+    },
+    "values": {
+      "title": "Valores que nos guían",
+      "items": [
+        { "title": "Trazabilidad Total", "desc": "Desde el mar hasta la mesa, cada paso documentado" },
+        { "title": "Calidad Premium", "desc": "Estándares internacionales en cada proceso" },
+        { "title": "Sostenibilidad", "desc": "Pesca responsable, cuidando el recurso para futuras generaciones" },
+        { "title": "Compromiso Familiar", "desc": "Décadas de experiencia, honrando nuestra palabra" }
+      ]
+    },
+    "certs": {
+      "title": "Certificaciones Internacionales",
+      "subtitle": "Avalan nuestra calidad y apertura de mercados"
+    }
+  },
+  "flota": {
+    "title": "Nuestra Flota",
+    "subtitle": "7 tipos de embarcaciones operando en 7 puertos patagónicos. Flota propia con trazabilidad total.",
+    "congeladores": {
+      "title": "A) CONGELADORES",
+      "tangoneros": { "name": "Tangoneros Arrastreros", "desc": "Flota especializada en langostino con congelamiento a bordo inmediato. Captura, clasificación y congelación en el mismo buque en minutos." },
+      "arrastreros": { "name": "Arrastreros (Especies Variadas/Merluza)", "desc": "Flota para merluza y especies variadas con mareas de 7-10 días (Mar del Plata) y 2-3 días (Comodoro Rivadavia). Procesamiento en plantas propias." },
+      "poteros": { "name": "Potero (Calamar)", "desc": "Flota especializada en calamar Illex argentinus con tecnología de pesca dirigida y procesamiento en planta." }
+    },
+    "fresqueros": {
+      "title": "B) FRESQUEROS",
+      "tangoneros": { "name": "Tangoneros Fresqueros", "desc": "Captura y descarga diaria en puertos patagónicos para procesamiento inmediato en planta. Máxima frescura garantizada." },
+      "monored": { "name": "Arrastreros Mono Red (Especies Variadas/Merluza)", "desc": "Flota fresquera con arte de arrastre mono red para captura selectiva de merluza y especies asociadas." },
+      "costeros": { "name": "Nasa/Trampa/Palangre (Costeros)", "desc": "Artes de pesca selectiva y sostenible para especies costeras de alto valor. Mínimo impacto ambiental." }
+    },
+    "gallery": { "title": "Galería de Flota", "subtitle": "Carrusel cinematográfico sincronizado con música. Ken Burns, swipe, pausa hover." },
+    "videos": { "title": "Videos de Flota", "subtitle": "Navegación y operaciones en el Mar Argentino" },
+    "ports": { "title": "Puertos de Operación" },
+    "video1Desc": "Barco convencional trabajando - Navegación en mal tiempo",
+    "video2Desc": "Barcos temporal - Timelapse navegación"
+  },
+  "frigorificos": {
+    "title": "Frigoríficos Industriales",
+    "subtitle": "Dos plantas de proceso con tecnología de punta y capacidad total de 1.250 toneladas de almacenamiento",
+    "specs": {
+      "title": "Especificaciones Técnicas",
+      "subtitle": "Infraestructura industrial de primer nivel para garantizar calidad y trazabilidad",
+      "thUbicacion": "Ubicación",
+      "thPersonal": "Personal",
+      "thSuperficie": "Superficie",
+      "thTecnologia": "Tecnología",
+      "thCapacidad": "Capacidad Almacenamiento",
+      "mdpName": "Mar del Plata",
+      "mdpLocation": "Ubicada en el puerto",
+      "mdpPersonal": "320 personas",
+      "mdpSuperficie": "7.500 m²",
+      "mdpTecnologia": "Congelamiento por placa de contacto, túneles estáticos y giro freezer",
+      "mdpCapacidad": "1.000 toneladas",
+      "trelewName": "Trelew",
+      "trelewLocation": "Parque Industrial",
+      "trelewPersonal": "200 personas (temporada langostino)",
+      "trelewSuperficie": "1.500 m²",
+      "trelewTecnologia": "Congelamiento por placa de contacto y túneles estáticos",
+      "trelewCapacidad": "250 toneladas"
+    },
+    "gallery": { "title": "Galería de Plantas", "subtitle": "Carrusel cinematográfico con videos de proceso. Ken Burns, swipe, pausa hover, sync con música." },
+    "videos": { "title": "Videos de Proceso", "subtitle": "Procesamiento en nuestras plantas" },
+    "video1Desc": "Clasificación y control de parásitos en filet",
+    "video2Desc": "Envase de filet de merluza",
+    "video3Desc": "Proceso de langostino entero",
+    "video4Desc": "Proceso de corvina entera",
+    "video5Desc": "Producción de langostinos pelado y desvenado",
+    "certs": {
+      "title": "Certificaciones",
+      "subtitle": "Avalan nuestro cumplimiento con los estándares internacionales más exigentes",
+      "senasa": "Servicio Nacional de Sanidad y Calidad Agroalimentaria",
+      "haccp": "Análisis de Peligros y Puntos Críticos de Control",
+      "ue": "Reglamento CE 852/2004 y 853/2004",
+      "fda": "Food and Drug Administration - USA",
+      "china": "GACC - General Administration of Customs",
+      "rusia": "Rosselkhoznadzor - Servicio Federal Veterinario",
+      "dipoa": "Departamento de Inspección de Productos de Origen Animal"
+    }
+  },
+  "comercial": {
+    "title": "Área Comercial",
+    "subtitle": "Nuestra red logística global conecta la Patagonia con los principales mercados mundiales.",
+    "sectionTitle": "Red Comercial Global",
+    "sectionSubtitle": "La Patagonia conectada con los mercados más exigentes del mundo",
+    "statMercados": "Mercados",
+    "statPaises": "Países",
+    "statContinentes": "Continentes",
+    "mapTitle": "Mapa de Exportaciones",
+    "mapSubtitle": "Conexiones comerciales desde la Patagonia hacia el mundo"
+  },
+  "catalogo": {
+    "title": "Catálogo de Productos",
+    "subtitle": "Explore nuestra completa gama de especies del Mar Argentino. Cada producto cuenta con trazabilidad total y certificación internacional."
+  },
+  "retail": {
+    "title": "Redirigiendo...",
+    "text": "La línea Retail ahora forma parte de nuestro ",
+    "catalogoLink": "Catálogo de Productos"
+  },
+  "contacto": {
+    "title": "Solicitar Cotización",
+    "subtitle": "Complete el formulario y nuestro equipo comercial le responderá a la brevedad",
+    "form": {
+      "nombre": "Nombre y Apellido *",
+      "empresa": "Empresa *",
+      "cargo": "Cargo",
+      "telefono": "Teléfono *",
+      "email": "Email *",
+      "mensaje": "Mensaje *",
+      "placeholder": "Describa su consulta, especies de interés, volúmenes estimados, mercados destino...",
+      "submit": "Enviar Consulta",
+      "submitting": "Enviando...",
+      "success": "¡Mensaje enviado correctamente! Nuestro equipo comercial le contactará a la brevedad.",
+      "error": "Error al enviar. Por favor intente nuevamente o contáctenos directamente."
+    }
+  },
+  "header": {
+    "ariaNav": "Navegación principal",
+    "ariaLangSelector": "Seleccionar idioma",
+    "ariaLangCurrent": "Idioma actual: Español",
+    "ariaLangs": "Idiomas disponibles",
+    "audiotoggle": "Silenciar música de fondo",
+    "menuOpen": "Abrir menú",
+    "menuClose": "Cerrar menú",
+    "inicio": "Inicio",
+    "skipLink": "Saltar al contenido principal"
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Error",
+    "retry": "Reintentar",
+    "close": "Cerrar",
+    "next": "Siguiente",
+    "prev": "Anterior",
+    "play": "Reproducir",
+    "pause": "Pausar",
+    "mute": "Silenciar",
+    "unmute": "Activar sonido",
+    "fullscreen": "Pantalla completa",
+    "gallery": "Ver galería completa",
+    "certifications": "Certificaciones",
+    "specifications": "Especificaciones",
+    "description": "Descripción",
+    "packing": "Packing",
+    "scientificName": "Nombre científico",
+    "allRights": "Todos los derechos reservados"
+  }
+}

@@ -1,0 +1,385 @@
+{
+  "nav": {
+    "institucional": "Istituzionale",
+    "flota": "Flotta",
+    "comercial": "Commerciale",
+    "frigorificos": "Frigoriferi",
+    "catalogo": "Catalogo",
+    "retail": "Dettaglio",
+    "contacto": "Contatto"
+  },
+  "hero": {
+    "title": "From Patagonia",
+    "subtitle": "L'essenza del Mare Argentino in ogni prodotto",
+    "tagline": "Esportatore premium di gamberi, nasello, calamari e varietà costiera con tracciabilità totale e certificazione internazionale",
+    "ctaCatalog": "Vedi Catalogo",
+    "ctaContact": "Richiedi Preventivo"
+  },
+  "highlights": {
+    "title": "La Nostra Differenza",
+    "subtitle": "Qualità nata in mare, lavorata con eccellenza, consegnata in tutto il mondo",
+    "fleet": {
+      "title": "Flotta Propria",
+      "desc": "7 tipi di imbarcazioni (strascico, potenza, nassa/palangaro) operanti da 7 porti patagionici"
+    },
+    "plants": {
+      "title": "Impianti Industriali",
+      "desc": "Mar del Plata (7.500 m², 320 pers.) e Trelew (1.500 m², 200 pers.) con tecnologia di congelamento a piastra e tunnel"
+    },
+    "certs": {
+      "title": "Certificazioni Globali",
+      "desc": "SENASA, HACCP, UE, FDA, Cina, Russia, DIPOA Brasile - Accesso ai mercati più esigenti del mondo"
+    },
+    "export": {
+      "title": "Esportazione Mondiale",
+      "desc": "Presenza in 13 mercati: USA, Europa, Russia, Cina, Giappone, Medio Oriente, Brasile, Venezuela e altro"
+    }
+  },
+  "products": {
+    "title": "Specie Star",
+    "subtitle": "I nostri prodotti più richiesti a livello internazionale",
+    "langostino": {
+      "name": "Gambero Patagonico",
+      "sci": "Pleoticus muelleri",
+      "desc": "Congelato a bordo e a terra. Taglie L1, L2, L3, Code C1, C2, C1L, Pelato e privato del filo nero."
+    },
+    "merluza": {
+      "name": "Nasello",
+      "sci": "Merluccius hubbsi",
+      "desc": "Intero, HG/HGT, Filetto con e senza pelle. Zona FAO 41. Maree 7-10 giorni (MDP) e 2-3 giorni (CR)."
+    },
+    "calamar": {
+      "name": "Calamaro Argentino",
+      "sci": "Illex argentinus",
+      "desc": "Intero, Guaina, Tentacolo, Pinna, Tubo pulito, Anelli. Cattura da flotta specializzata nei fondali patagionici."
+    }
+  },
+  "cta": {
+    "title": "Pronto a lavorare con la migliore qualità del Mare Argentino?",
+    "desc": "Aziende leader mondiali si fidano della nostra esperienza e tracciabilità. Richiedi il tuo preventivo personalizzato.",
+    "btn": "Richiedi Preventivo"
+  },
+  "footer": {
+    "tagline": "Esportiamo la ricchezza del Mare Argentino nel mondo",
+    "contact": "Contatto",
+    "address": "Mar del Plata, Buenos Aires, Argentina",
+    "phone": "+54 223 555-0123",
+    "company": "From Patagonia Seafood",
+    "follow": "Seguici",
+    "rights": "Tutti i diritti riservati",
+    "privacy": "Informativa sulla Privacy",
+    "terms": "Termini e Condizioni",
+    "watermark": "by Sottomarina SA / Guigus SA",
+    "contactForm": "Modulo di contatto",
+    "navInstitucional": "Istituzionale",
+    "navFlota": "Flotta",
+    "navComercial": "Commerciale",
+    "navFrigorificos": "Frigoriferi",
+    "navCatalogo": "Catalogo Prodotti",
+    "navContacto": "Contatto",
+    "ariaInicio": "From Patagonia Seafood - Home"
+  },
+  "institucional": {
+    "title": "Istituzionale",
+    "subtitle": "Scopri la nostra storia, i nostri valori e l'impegno per l'eccellenza.",
+    "history": {
+      "title": "La Nostra Storia",
+      "subtitle": "L'essenza del Mare Argentino",
+      "p1": "In From Patagonia, la nostra essenza è il Mare Argentino. Siamo un'azienda familiare e storica dedicata all'estrazione, trasformazione ed esportazione di pesce e frutti di mare con decenni di esperienza, integrando l'intera catena del valore: dalla cattura nelle nostre acque fredde e cristalline alla logistica globale che assicura che il prodotto arrivi ai mercati internazionali in condizioni di freschezza assoluta.",
+      "p2": "Operiamo con flotta propria, trasformiamo nei nostri stabilimenti di Mar del Plata e Trelew con i più alti standard sanitari e il nostro marchio è sinonimo di tracciabilità totale in tutto il circuito produttivo. Esportiamo al mondo la ricchezza delle nostre coste, con la serietà e l'impegno che i mercati più esigenti richiedono.",
+      "p3": "Aziende argentine ampiamente conosciute nel mercato mondiale affidano a noi le loro produzioni grazie alla nostra vasta esperienza!!"
+    },
+    "vision": {
+      "title": "La Nostra Visione",
+      "quote": "\"Consolidarci come il riferimento indiscutibile nell'esportazione di prodotti del Mare Argentino a livello globale, mantenendo l'eccellenza in qualità, tracciabilità e sostenibilità che ci caratterizza.\""
+    },
+    "values": {
+      "title": "Valori che ci guidano",
+      "items": [
+        {
+          "title": "Tracciabilità Totale",
+          "desc": "Dal mare alla tavola, ogni passo documentato"
+        },
+        {
+          "title": "Qualità Premium",
+          "desc": "Standard internazionali in ogni processo"
+        },
+        {
+          "title": "Sostenibilità",
+          "desc": "Pesca responsabile, preservando la risorsa per le generazioni future"
+        },
+        {
+          "title": "Impegno Familiare",
+          "desc": "Decenni di esperienza, onorando la nostra parola"
+        }
+      ]
+    },
+    "certs": {
+      "title": "Certificazioni Internazionali",
+      "subtitle": "Garantiscono la nostra qualità e l'accesso ai mercati"
+    }
+  },
+  "flota": {
+    "title": "La Nostra Flotta",
+    "subtitle": "7 tipi di imbarcazioni operanti da 7 porti patagionici. Flotta propria con tracciabilità totale.",
+    "congeladores": {
+      "title": "A) CONGELATORI",
+      "tangoneros": {
+        "name": "Strascico Tangonero",
+        "desc": "Flotta specializzata in gamberi con congelamento immediato a bordo. Cattura, classificazione e congelamento sulla stessa nave in minuti."
+      },
+      "arrastreros": {
+        "name": "Strascico (Specie Varie/Nasello)",
+        "desc": "Flotta per nasello e specie varie con maree di 7-10 giorni (Mar del Plata) e 2-3 giorni (Comodoro Rivadavia). Lavorazione in impianti propri."
+      },
+      "poteros": {
+        "name": "Pesca a Lenza (Calamaro)",
+        "desc": "Flotta specializzata in calamaro Illex argentinus con tecnologia di pesca diretta e lavorazione in impianto."
+      }
+    },
+    "fresqueros": {
+      "title": "B) PESCHERECCI FRESCHI",
+      "tangoneros": {
+        "name": "Tangonieri Freschi",
+        "desc": "Cattura e scarico giornaliero nei porti patagionici per lavorazione immediata in impianto. Massima freschezza garantita."
+      },
+      "monored": {
+        "name": "Strascico Monorete (Specie Varie/Nasello)",
+        "desc": "Flotta fresca con arte di strascico monorete per cattura selettiva di nasello e specie associate."
+      },
+      "costeros": {
+        "name": "Nassa/Palangaro (Costieri)",
+        "desc": "Attrezzi da pesca selettiva e sostenibile per specie costiere di alto valore. Minimo impatto ambientale."
+      }
+    },
+    "gallery": {
+      "title": "Galleria della Flotta",
+      "subtitle": "Carosello cinematografico sincronizzato con musica. Ken Burns, swipe, pausa hover."
+    },
+    "videos": {
+      "title": "Video della Flotta",
+      "subtitle": "Navigazione e operazioni nel Mare Argentino"
+    },
+    "ports": {
+      "title": "Porti di Operazione"
+    },
+    "video1Desc": "Nave convenzionale al lavoro - Navigazione in maltempo",
+    "video2Desc": "Navi in tempesta - Timelapse navigazione"
+  },
+  "frigorificos": {
+    "title": "Frigoriferi Industriali",
+    "subtitle": "Due impianti di lavorazione con tecnologia all'avanguardia e capacità totale di 1.250 tonnellate di stoccaggio",
+    "specs": {
+      "title": "Specifiche Tecniche",
+      "subtitle": "Infrastruttura industriale di primo livello per garantire qualità e tracciabilità",
+      "thUbicacion": "Ubicazione",
+      "thPersonal": "Personale",
+      "thSuperficie": "Superficie",
+      "thTecnologia": "Tecnologia",
+      "thCapacidad": "Capacità Stoccaggio",
+      "mdpName": "Mar del Plata",
+      "mdpLocation": "Situata al porto",
+      "mdpPersonal": "320 persone",
+      "mdpSuperficie": "7.500 m²",
+      "mdpTecnologia": "Congelamento a piastra di contatto, tunnel statici e spirale freezer",
+      "mdpCapacidad": "1.000 tonnellate",
+      "trelewName": "Trelew",
+      "trelewLocation": "Parco Industriale",
+      "trelewPersonal": "200 persone (stagione gamberi)",
+      "trelewSuperficie": "1.500 m²",
+      "trelewTecnologia": "Congelamento a piastra di contatto e tunnel statici",
+      "trelewCapacidad": "250 tonnellate"
+    },
+    "gallery": {
+      "title": "Galleria Impianti",
+      "subtitle": "Carosello cinematografico con video di processo. Ken Burns, swipe, pausa hover, sync musica."
+    },
+    "videos": {
+      "title": "Video di Processo",
+      "subtitle": "Lavorazione nei nostri impianti"
+    },
+    "video1Desc": "Classificazione e controllo parassiti nel filetto",
+    "video2Desc": "Confezionamento filetto di nasello",
+    "video3Desc": "Processo gambero intero",
+    "video4Desc": "Processo corvina intera",
+    "video5Desc": "Produzione gamberi pelati e privati del filo nero",
+    "certs": {
+      "title": "Certificazioni",
+      "subtitle": "Garantiscono la nostra conformità agli standard internazionali più esigenti",
+      "senasa": "Servizio Nazionale di Sanità e Qualità Agroalimentare",
+      "haccp": "Analisi dei Pericoli e Punti Critici di Controllo",
+      "ue": "Regolamento CE 852/2004 e 853/2004",
+      "fda": "Food and Drug Administration - USA",
+      "china": "GACC - General Administration of Customs",
+      "rusia": "Rosselkhoznadzor - Servizio Federale Veterinario",
+      "dipoa": "Dipartimento di Ispezione dei Prodotti di Origine Animale"
+    }
+  },
+  "comercial": {
+    "title": "Area Commerciale",
+    "subtitle": "La nostra rete logistica globale collega la Patagonia con i principali mercati mondiali.",
+    "sectionTitle": "Rete Commerciale Globale",
+    "sectionSubtitle": "La Patagonia connessa con i mercati più esigenti del mondo",
+    "statMercados": "Mercati",
+    "statPaises": "Paesi",
+    "statContinentes": "Continenti",
+    "mapTitle": "Mappa delle Esportazioni",
+    "mapSubtitle": "Connessioni commerciali dalla Patagonia al mondo"
+  },
+  "catalogo": {
+    "title": "Catalogo Prodotti",
+    "subtitle": "Esplora la nostra gamma completa di specie del Mare Argentino. Ogni prodotto ha tracciabilità totale e certificazione internazionale.",
+    "langostinos": {
+      "name": "GAMBERI",
+      "desc": "Il nostro Gambero Patagonico (Pleoticus muelleri) è il gioiello del Mare Argentino. Catturato dalla nostra flotta nelle acque fredde e cristalline della Patagonia e lavorato con i più alti standard di qualità e sicurezza alimentare, è disponibile in un'ampia varietà di presentazioni: intero congelato a bordo o a terra, code, pelato e privato del filo nero. Il suo sapore intenso e la sua texture soda lo rendono la scelta preferita dei mercati internazionali più esigenti."
+    },
+    "langostino-bordo": {
+      "name": "Gambero lavorato a bordo",
+      "desc": "L'eccellenza del gambero congelato a bordo risiede nella sua immediatezza. Catturato in acque nazionali, viene classificato e congelato sulla stessa nave in pochi minuti dopo la pesca. Questo processo elimina la catena di trasporto a terra, permettendo al prodotto di mantenere intatte tutte le sue qualità organolettiche dal mare alla scatola finale. È, per definizione, un prodotto di freschezza assoluta catturato al suo punto ottimale.",
+      "v": {
+        "0": "INTERO L1 (10/20 PPK)",
+        "1": "INTERO L2 (20/30 PPK)",
+        "2": "INTERO L3 (30/40 PPK)",
+        "3": "CODE"
+      }
+    },
+    "langostino-tierra": {
+      "name": "Gambero lavorato a terra",
+      "desc": "Il nostro gambero fresco di stagione viene catturato dalla nostra flotta fresca e trasportato quotidianamente ai nostri impianti di Trelew, garantendo una catena del freddo ininterrotta. Qui, un team specializzato esegue la lavorazione su misura secondo le vostre esigenze: dalla decapitazione alla pelatura e rimozione del filo nero precisa. Ogni pezzo viene accuratamente classificato e congelato seguendo rigorosi controlli di sicurezza alimentare per garantire un prodotto pronto all'uso con qualità da esportazione.",
+      "v": {
+        "0": "INTERO L1 (10/20 PPK)",
+        "1": "INTERO L2 (20/30 PPK)",
+        "2": "INTERO L3 (30/40 PPK)",
+        "3": "CODE C1 (30/55 PPK)",
+        "4": "CODE C2 (55/UP)",
+        "5": "CODE C1L (30/45 PPK)",
+        "6": "CODE MIX (C1 e C2)",
+        "7": "SGUSCIATO E SBARBATO",
+        "8": "SGUSCIATO SACCHETTO"
+      }
+    },
+    "merluza": {
+      "name": "NASELLO",
+      "desc": "Il nostro Nasello (Merluccius hubbsi) proviene dalla Zona FAO 41, con maree di 7-10 giorni (flotta Mar del Plata) o 2-3 giorni (flotta Comodoro Rivadavia) che garantiscono una freschezza ineguagliabile. All'arrivo al porto, il pesce viene trasferito sotto una stretta catena del freddo verso i nostri impianti di lavorazione (Mar del Plata o Trelew). Qui vengono eseguite la decapitazione e l'eviscerazione automatica con i più alti standard igienici, seguite da una classificazione precisa per taglie e un congelamento ultra-rapido che preserva la texture e le proprietà naturali."
+    },
+    "merluza-entera-hg": {
+      "name": "Nasello intero e HG/HGT",
+      "desc": "Il nostro Nasello proviene dalla Zona FAO 41, con maree di 7-10 giorni (flotta Mar del Plata) o 2-3 giorni (flotta Comodoro Rivadavia) che garantiscono una freschezza ineguagliabile. All'arrivo al porto, il pesce viene trasferito sotto una stretta catena del freddo verso i nostri impianti di lavorazione. Qui vengono eseguite la decapitazione e l'eviscerazione automatica con i più alti standard igienici, seguite da una classificazione precisa per taglie e un congelamento ultra-rapido.",
+      "v": {
+        "0": "INTERA 80/200 GRS (Blocco / Interfoliato 10 kg)",
+        "1": "HG o HGT 80/200 GRS (Blocco / Interfoliato 10 kg, sacchetto 1-10 kg)"
+      }
+    },
+    "merluza-filet": {
+      "name": "Filetto di nasello",
+      "desc": "Il filetto del nostro nasello è sinonimo di precisione e cura. Dopo la ricezione in impianto, esperti filettatori eseguono il taglio garantendo l'integrità di ogni pezzo. Il nostro processo include una fase chiave di controllo sanitario e deparassitazione manuale, assicurando un prodotto di massima purezza. Classificato per dimensione e confezionato all'origine, il nostro filetto viene congelato istantaneamente per arrivare sulla vostra tavola mantenendo la sua qualità premium.",
+      "v": {
+        "0": "FILETTO CON PELLE (Interfoliato / IQF 1/2 lbs)",
+        "1": "FILETTO SENZA PELLE (Interfoliato / IQF 1-10 kg)"
+      }
+    },
+    "calamar": {
+      "name": "CALAMARO",
+      "desc": "Risorse di calamari dell'Atlantico Meridionale di eccellente consistenza e calibro omogeneo. Catturato in stagione ottimale e lavorato secondo rigorose normative internazionali."
+    },
+    "calamar-variedades": {
+      "name": "Calamaro",
+      "desc": "Risorse di calamari dell'Atlantico Meridionale di eccellente texture e calibro omogeneo. Catturato in stagione ottimale e lavorato secondo rigorose normative internazionali.",
+      "v": {
+        "0": "INTERO",
+        "1": "INTERO",
+        "2": "TUBO",
+        "3": "TENTACOLO",
+        "4": "PINNA O ALA",
+        "5": "TUBO PULITO",
+        "6": "ANELLI"
+      }
+    },
+    "variado-costero": {
+      "name": "VARIETÀ COSTIERA",
+      "desc": "Selezione giornaliera di varietà costiere dai nostri porti, garantendo freschezza assoluta sia per il mercato interno che per l'esportazione aerea."
+    },
+    "variado-costero-cat": {
+      "name": "Varietà costiera",
+      "desc": "Selezione giornaliera di varietà costiere dai nostri porti, garantendo freschezza assoluta sia per il mercato interno che per l'esportazione aerea.",
+      "v": {
+        "0": "FRESCO INTERO (per via aerea)",
+        "1": "CONGELATO INTERO",
+        "2": "CORVINA INTERA",
+        "3": "CORVINA GS (YELLOW CROAKER) Sacchetti 3 kg, 2 sacchetti x master"
+      }
+    },
+    "elaborados": {
+      "name": "LAVORATI",
+      "desc": "Lavorazione speciale adattata ai requisiti specifici dei mercati di destinazione, ottimizzando presentazione, grammature e cartoni master di esportazione."
+    },
+    "elaborados-cat": {
+      "name": "Lavorati",
+      "desc": "Lavorazione speciale adattata ai requisiti specifici dei mercati di destinazione, ottimizzando presentazione, grammature e cartoni master di esportazione.",
+      "v": {
+        "0": "FILETTO DI MERLUZZA IMPANATO",
+        "1": "HAMBURGER (Merluzza, pollo, spinaci, prosciutto, formaggio, primavera)",
+        "2": "BASTONCINI (Merluzza, pollo, spinaci, prosciutto, formaggio, primavera)",
+        "3": "ANELLI DI CALAMARO (Naturale e impanato)",
+        "4": "FORMINE INFANTILI E MARINE",
+        "5": "FILETTO DI MERLUZZA PORZIONATO",
+        "6": "DETTAGLIO"
+      }
+    },
+    "packingLabel": "Presentazione / Confezione:",
+    "varietiesLabel": "Varietà e Foto:"
+  },
+  "retail": {
+    "title": "Reindirizzamento...",
+    "text": "La linea Dettaglio ora fa parte del nostro ",
+    "catalogoLink": "Catalogo Prodotti"
+  },
+  "contacto": {
+    "title": "Richiedi Preventivo",
+    "subtitle": "Compila il modulo e il nostro team commerciale ti risponderà a breve",
+    "form": {
+      "nombre": "Nome Completo *",
+      "empresa": "Azienda *",
+      "cargo": "Posizione",
+      "telefono": "Telefono *",
+      "email": "Email *",
+      "mensaje": "Messaggio *",
+      "placeholder": "Descrivi la tua richiesta, specie di interesse, volumi stimati, mercati di destinazione...",
+      "submit": "Invia Richiesta",
+      "submitting": "Invio in corso...",
+      "success": "Messaggio inviato con successo! Il nostro team commerciale ti contatterà a breve.",
+      "error": "Errore durante l'invio. Riprova o contattaci direttamente."
+    }
+  },
+  "header": {
+    "ariaNav": "Navigazione principale",
+    "ariaLangSelector": "Seleziona lingua",
+    "ariaLangCurrent": "Lingua attuale: Italiano",
+    "ariaLangs": "Lingue disponibili",
+    "audiotoggle": "Silenzia musica di sottofondo",
+    "menuOpen": "Apri menu",
+    "menuClose": "Chiudi menu",
+    "inicio": "Home",
+    "skipLink": "Salta al contenuto principale"
+  },
+  "common": {
+    "loading": "Caricamento...",
+    "error": "Errore",
+    "retry": "Riprova",
+    "close": "Chiudi",
+    "next": "Successivo",
+    "prev": "Precedente",
+    "play": "Riproduci",
+    "pause": "Pausa",
+    "mute": "Silenzia",
+    "unmute": "Attiva suono",
+    "fullscreen": "Schermo intero",
+    "gallery": "Vedi galleria completa",
+    "certifications": "Certificazioni",
+    "specifications": "Specifiche",
+    "description": "Descrizione",
+    "packing": "Confezionamento",
+    "scientificName": "Nome scientifico",
+    "allRights": "Tutti i diritti riservati"
+  }
+}

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <title>Opciones de color</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: 'Segoe UI', sans-serif; background: #fff; padding: 40px; display: flex; flex-direction: column; align-items: center; gap: 30px; }
+    h1 { font-size: 24px; color: #333; }
+    h2 { font-size: 18px; color: #555; margin-top: 10px; }
+    .palette { display: flex; flex-direction: column; align-items: center; gap: 16px; border: 2px solid #ddd; border-radius: 12px; padding: 30px; width: 600px; background: #fafafa; }
+    .row { display: flex; gap: 12px; align-items: center; }
+    .swatch { width: 80px; height: 80px; border-radius: 10px; border: 2px solid #ccc; display: flex; flex-direction: column; align-items: center; justify-content: center; font-size: 10px; color: #333; text-align: center; padding: 4px; }
+    .swatch span { background: rgba(255,255,255,0.85); padding: 2px 6px; border-radius: 4px; font-weight: 600; }
+    .bg-white { background: #FFFFFF; }
+    .bg-celeste1 { background: #E3F2FD; }
+    .bg-celeste2 { background: #D4E6F1; }
+    .bg-celeste3 { background: #C5E0F0; }
+    .bg-azul1 { background: #1A4B7A; }
+    .bg-azul2 { background: #2E6DA4; }
+    .bg-dorado { background: #D4AF37; }
+    .preview-box { width: 100%; padding: 20px; border-radius: 10px; margin-top: 10px; }
+    .preview-box h3 { margin-bottom: 8px; }
+    .preview-box p { font-size: 14px; line-height: 1.6; }
+    .shine { position: relative; overflow: hidden; }
+    .shine::after { content: ''; position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; background: radial-gradient(ellipse at 30% 20%, rgba(255,255,255,0.4) 0%, transparent 60%); pointer-events: none; }
+  </style>
+</head>
+<body>
+  <h1>🎨 Opciones de color de fondo</h1>
+
+  <div class="palette">
+    <h2>Actual — Blanco</h2>
+    <div class="row">
+      <div class="swatch bg-white" style="border:2px solid #999"><span>#FFFFFF</span></div>
+    </div>
+  </div>
+
+  <div class="palette">
+    <h2>Opción 1 — Celeste suave (cielo claro)</h2>
+    <div class="row">
+      <div class="swatch bg-celeste1"><span>#E3F2FD</span></div>
+    </div>
+    <div class="preview-box bg-celeste1 shine" style="border:1px solid #B0C4DE;">
+      <h3>Texto de ejemplo</h3>
+      <p>Este es el fondo celeste suave con efecto brillo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore.</p>
+    </div>
+  </div>
+
+  <div class="palette">
+    <h2>Opción 2 — Celeste medio (tipo Conarpesa)</h2>
+    <div class="row">
+      <div class="swatch bg-celeste2"><span>#D4E6F1</span></div>
+    </div>
+    <div class="preview-box bg-celeste2 shine" style="border:1px solid #9BB7D4;">
+      <h3>Texto de ejemplo</h3>
+      <p>Este es el fondo celeste medio con efecto brillo. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    </div>
+  </div>
+
+  <div class="palette">
+    <h2>Opción 3 — Celeste intenso (más notorio)</h2>
+    <div class="row">
+      <div class="swatch bg-celeste3"><span>#C5E0F0</span></div>
+    </div>
+    <div class="preview-box bg-celeste3 shine" style="border:1px solid #8BAEC2;">
+      <h3>Texto de ejemplo</h3>
+      <p>Este es el fondo celeste intenso con efecto brillo. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    </div>
+  </div>
+
+  <div class="palette">
+    <h2>Colores complementarios actuales</h2>
+    <div class="row">
+      <div class="swatch bg-azul1"><span style="color:white">#1A4B7A</span></div>
+      <div class="swatch bg-azul2"><span style="color:white">#2E6DA4</span></div>
+      <div class="swatch bg-dorado"><span style="color:white">#D4AF37</span></div>
+    </div>
+  </div>
+</body>
+</html>

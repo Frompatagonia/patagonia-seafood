@@ -1,0 +1,232 @@
+{
+  "nav": {
+    "institucional": "Institutional",
+    "flota": "Fleet",
+    "comercial": "Commercial",
+    "frigorificos": "Cold Storage",
+    "catalogo": "Catalog",
+    "retail": "Retail",
+    "contacto": "Contact"
+  },
+  "hero": {
+    "title": "From Patagonia",
+    "subtitle": "The essence of the Argentine Sea in every product",
+    "tagline": "Premium exporter of shrimp, hake, squid and coastal varieties with full traceability and international certification",
+    "ctaCatalog": "View Catalog",
+    "ctaContact": "Request Quote"
+  },
+  "highlights": {
+    "title": "Our Difference",
+    "subtitle": "Quality born at sea, processed with excellence, delivered worldwide",
+    "fleet": { "title": "Own Fleet", "desc": "7 vessel types (trawlers, jiggers, trap/longline) operating from 7 Patagonian ports" },
+    "plants": { "title": "Industrial Plants", "desc": "Mar del Plata (7,500 m², 320 pers.) and Trelew (1,500 m², 200 pers.) with plate freezing, static tunnels and spiral freezer technology" },
+    "certs": { "title": "Global Certifications", "desc": "SENASA, HACCP, EU, FDA, China, Russia, DIPOA Brazil - Access to the world's most demanding markets" },
+    "export": { "title": "Worldwide Export", "desc": "Presence in 13 markets: USA, Europe, Russia, China, Japan, Middle East, Brazil, Venezuela and more" }
+  },
+  "products": {
+    "title": "Star Species",
+    "subtitle": "Our most internationally demanded products",
+    "langostino": { "name": "Patagonian Shrimp", "sci": "Pleoticus muelleri", "desc": "Frozen on board and on land. Sizes L1, L2, L3, Tails C1, C2, C1L, Peeled and deveined." },
+    "merluza": { "name": "Southern Hake", "sci": "Merluccius hubbsi", "desc": "Whole, HG/HGT, Fillet with and without skin. FAO Zone 41. 7-10 day trips (MDP) and 2-3 days (CR)." },
+    "calamar": { "name": "Argentine Squid", "sci": "Illex argentinus", "desc": "Whole, Tube, Tentacle, Fin, Clean tube, Rings. Caught by specialized jigging fleet in the Patagonian fishing grounds." }
+  },
+  "cta": {
+    "title": "Ready to work with the highest quality from the Argentine Sea?",
+    "desc": "World-leading companies trust our experience and traceability. Request your personalized quote.",
+    "btn": "Request Quote"
+  },
+  "footer": {
+    "tagline": "Exporting the richness of the Argentine Sea to the world",
+    "contact": "Contact",
+    "address": "Mar del Plata, Buenos Aires, Argentina",
+    "phone": "+54 223 555-0123",
+    "company": "From Patagonia Seafood",
+    "follow": "Follow Us",
+    "rights": "All rights reserved",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "watermark": "by Sottomarina SA / Guigus SA",
+    "contactForm": "Contact form",
+    "navInstitucional": "Institutional",
+    "navFlota": "Fleet",
+    "navComercial": "Commercial",
+    "navFrigorificos": "Cold Storage",
+    "navCatalogo": "Product Catalog",
+    "navContacto": "Contact",
+    "ariaInicio": "From Patagonia Seafood - Home"
+  },
+  "institucional": {
+    "title": "Institutional",
+    "subtitle": "Discover our history, values and commitment to excellence.",
+    "history": {
+      "title": "Our History",
+      "subtitle": "The essence of the Argentine Sea",
+      "p1": "At From Patagonia, our essence is the Argentine Sea. We are a family-owned historic company dedicated to the extraction, processing and export of fish and seafood with decades of experience, integrating the entire value chain: from capture in our cold crystalline waters to global logistics ensuring the product reaches international markets in absolute freshness conditions.",
+      "p2": "We operate with our own fleet, process at our Mar del Plata and Trelew plants with the highest sanitary standards, and our brand and industry are synonymous with total traceability throughout the entire production circuit. We export the richness of our coasts to the world, with the seriousness and commitment that the most demanding markets require.",
+      "p3": "Well-known Argentine companies in the global market entrust their productions to us because we have extensive experience in this!!"
+    },
+    "vision": {
+      "title": "Our Vision",
+      "quote": "\"To consolidate ourselves as the undisputed benchmark in the export of Argentine Sea products globally, maintaining the excellence in quality, traceability and sustainability that characterizes us.\""
+    },
+    "values": {
+      "title": "Values that guide us",
+      "items": [
+        { "title": "Total Traceability", "desc": "From sea to table, every step documented" },
+        { "title": "Premium Quality", "desc": "International standards in every process" },
+        { "title": "Sustainability", "desc": "Responsible fishing, preserving the resource for future generations" },
+        { "title": "Family Commitment", "desc": "Decades of experience, honoring our word" }
+      ]
+    },
+    "certs": {
+      "title": "International Certifications",
+      "subtitle": "Endorsing our quality and market access"
+    }
+  },
+  "flota": {
+    "title": "Our Fleet",
+    "subtitle": "7 vessel types operating from 7 Patagonian ports. Own fleet with full traceability.",
+    "congeladores": {
+      "title": "A) FREEZERS",
+      "tangoneros": { "name": "Trawler Tangoneros", "desc": "Fleet specialized in shrimp with immediate on-board freezing. Catch, classification and freezing on the same vessel in minutes." },
+      "arrastreros": { "name": "Trawlers (Varied Species/Hake)", "desc": "Fleet for hake and varied species with 7-10 day trips (Mar del Plata) and 2-3 days (Comodoro Rivadavia). Processing at own plants." },
+      "poteros": { "name": "Jigger (Squid)", "desc": "Fleet specialized in Illex argentinus squid with directed fishing technology and plant processing." }
+    },
+    "fresqueros": {
+      "title": "B) FRESH FISH VESSELS",
+      "tangoneros": { "name": "Fresh Fish Tangoneros", "desc": "Daily catch and unloading at Patagonian ports for immediate plant processing. Maximum guaranteed freshness." },
+      "monored": { "name": "Single Net Trawlers (Varied Species/Hake)", "desc": "Fresh fish fleet with single net trawl for selective capture of hake and associated species." },
+      "costeros": { "name": "Trap/Longline (Coastal)", "desc": "Selective and sustainable fishing gear for high-value coastal species. Minimum environmental impact." }
+    },
+    "gallery": { "title": "Fleet Gallery", "subtitle": "Cinematic carousel synchronized with music. Ken Burns, swipe, hover pause." },
+    "videos": { "title": "Fleet Videos", "subtitle": "Navigation and operations in the Argentine Sea" },
+    "ports": { "title": "Operating Ports" },
+    "video1Desc": "Conventional vessel working - Navigation in bad weather",
+    "video2Desc": "Vessels in storm - Navigation timelapse"
+  },
+  "frigorificos": {
+    "title": "Industrial Cold Storage",
+    "subtitle": "Two processing plants with cutting-edge technology and total storage capacity of 1,250 tons",
+    "specs": {
+      "title": "Technical Specifications",
+      "subtitle": "First-class industrial infrastructure to guarantee quality and traceability",
+      "thUbicacion": "Location",
+      "thPersonal": "Personnel",
+      "thSuperficie": "Surface Area",
+      "thTecnologia": "Technology",
+      "thCapacidad": "Storage Capacity",
+      "mdpName": "Mar del Plata",
+      "mdpLocation": "Located at the port",
+      "mdpPersonal": "320 people",
+      "mdpSuperficie": "7,500 m²",
+      "mdpTecnologia": "Contact plate freezing, static tunnels and spiral freezer",
+      "mdpCapacidad": "1,000 tons",
+      "trelewName": "Trelew",
+      "trelewLocation": "Industrial Park",
+      "trelewPersonal": "200 people (shrimp season)",
+      "trelewSuperficie": "1,500 m²",
+      "trelewTecnologia": "Contact plate freezing and static tunnels",
+      "trelewCapacidad": "250 tons"
+    },
+    "gallery": { "title": "Plant Gallery", "subtitle": "Cinematic carousel with process videos. Ken Burns, swipe, hover pause, music sync." },
+    "videos": { "title": "Process Videos", "subtitle": "Processing at our plants" },
+    "video1Desc": "Parasite classification and control in fillet",
+    "video2Desc": "Hake fillet packaging",
+    "video3Desc": "Whole shrimp process",
+    "video4Desc": "Whole corvina process",
+    "video5Desc": "Peeled and deveined shrimp production",
+    "certs": {
+      "title": "Certifications",
+      "subtitle": "Endorsing our compliance with the most demanding international standards",
+      "senasa": "National Service of Agri-Food Health and Quality",
+      "haccp": "Hazard Analysis and Critical Control Points",
+      "ue": "EC Regulation 852/2004 and 853/2004",
+      "fda": "Food and Drug Administration - USA",
+      "china": "GACC - General Administration of Customs",
+      "rusia": "Rosselkhoznadzor - Federal Veterinary Service",
+      "dipoa": "Department of Inspection of Animal Origin Products"
+    }
+  },
+  "comercial": {
+    "title": "Commercial Area",
+    "subtitle": "Our global logistics network connects Patagonia with the world's main markets.",
+    "sectionTitle": "Global Commercial Network",
+    "sectionSubtitle": "Patagonia connected with the world's most demanding markets",
+    "statMercados": "Markets",
+    "statPaises": "Countries",
+    "statContinentes": "Continents",
+    "mapTitle": "Export Map",
+    "mapSubtitle": "Commercial connections from Patagonia to the world"
+  },
+  "catalogo": {
+    "title": "Product Catalog",
+    "subtitle": "Explore our complete range of Argentine Sea species. Each product has full traceability and international certification.",
+    "langostinos": { "name": "SHRIMP", "desc": "Our Patagonian Shrimp (Pleoticus muelleri) is the jewel of the Argentine Sea. Caught by our own fleet in the cold, pristine waters of Patagonia and processed with the highest standards of quality and food safety, it is available in a wide variety of presentations: whole frozen on board or on land, tails, peeled and deveined. Its intense flavor and firm texture make it the preferred choice of the most demanding international markets." },
+    "langostino-bordo": { "name": "Shrimp processed on board", "desc": "The excellence of on-board frozen shrimp lies in its immediacy. Caught in national waters, it is sorted and frozen on the same vessel within minutes of being caught. This process eliminates the land transport chain, allowing the product to keep all its organoleptic qualities intact from the sea to the final carton. It is, by definition, a product of absolute freshness caught at its optimum point.", "v": { "0": "WHOLE L1 (10/20 PPK)", "1": "WHOLE L2 (20/30 PPK)", "2": "WHOLE L3 (30/40 PPK)", "3": "TAILS" } },
+    "langostino-tierra": { "name": "Shrimp processed on land", "desc": "Our fresh seasonal shrimp is caught by our fresh fish fleet and transported daily to our plants in Trelew, ensuring an uninterrupted cold chain. Here, a specialized team performs custom processing according to your requirements: from headless to precise peeling and deveining. Each piece is carefully sorted and frozen following rigorous food safety controls to guarantee a ready-to-use product with export quality.", "v": { "0": "WHOLE L1 (10/20 PPK)", "1": "WHOLE L2 (20/30 PPK)", "2": "WHOLE L3 (30/40 PPK)", "3": "TAILS C1 (30/55 PPK)", "4": "TAILS C2 (55/UP)", "5": "TAILS C1L (30/45 PPK)", "6": "TAILS MIX (C1 & C2)", "7": "PEELED AND DEVEINED", "8": "PEELED BAG" } },
+    "merluza": { "name": "HAKE", "desc": "Our Southern Hake (Merluccius hubbsi) comes from FAO Zone 41, with 7-10 day trips (Mar del Plata fleet) or 2-3 days (Comodoro Rivadavia fleet) that guarantee unparalleled freshness. Upon arrival at port, the fish is transferred under a strict cold chain to our processing plants (Mar del Plata or Trelew). There, automatic heading and gutting is performed with the highest hygiene standards, followed by precise size grading and ultra-fast freezing that preserves texture and natural properties." },
+    "merluza-entera-hg": { "name": "Whole hake and HG/HGT", "desc": "Our Southern Hake comes from our fleet caught in FAO Zone 41, with 7 to 10 day trips (Mar del Plata fleet) or 2 to 3 days (Comodoro Rivadavia fleet) guaranteeing unparalleled freshness. Upon arrival at port, the fish is transferred under a strict cold chain to our processing plants (Mar del Plata or Trelew). There, automatic heading and gutting is performed with the highest hygiene standards, followed by precise size grading and ultra-fast freezing that preserves the texture and natural properties.", "v": { "0": "WHOLE 80/200 GRS (Block / Interleaved 10 kg)", "1": "HG or HGT 80/200 GRS (Block / Interleaved 10 kg, bag 1-10 kg)" } },
+    "merluza-filet": { "name": "Hake fillet", "desc": "Our hake fillet is synonymous with precision and care. After reception at the plant, expert filleters perform the cutting ensuring the integrity of each piece. Our process includes a key stage of sanitary control and manual deparasitizing, ensuring a product of maximum purity. Sorted by size and packed at origin, our fillet is instantly frozen to reach your table maintaining its premium quality.", "v": { "0": "FILLET WITH SKIN (Interleaved / IQF 1/2 lbs)", "1": "FILLET SKINLESS (Interleaved / IQF 1-10 kg)" } },
+    "calamar": { "name": "SQUID", "desc": "South Atlantic squid resources of excellent texture and homogeneous size. Caught in optimal season and processed under rigorous international regulations." },
+    "calamar-variedades": { "name": "Squid", "desc": "South Atlantic squid resources of excellent texture and homogeneous caliber. Caught in optimal season and processed under rigorous international regulations.", "v": { "0": "WHOLE", "1": "WHOLE", "2": "TUBE", "3": "TENTACLE", "4": "FIN OR WING", "5": "CLEAN TUBE", "6": "RINGS" } },
+    "variado-costero": { "name": "COASTAL VARIETY", "desc": "Daily selection of coastal varieties from our ports, guaranteeing absolute freshness for both the domestic market and air export." },
+    "variado-costero-cat": { "name": "Coastal variety", "desc": "Daily selection of coastal varieties from our ports, guaranteeing absolute freshness for both domestic market and air export.", "v": { "0": "FRESH WHOLE (by air)", "1": "FROZEN WHOLE", "2": "WHOLE CROAKER", "3": "CORVINA GS (YELLOW CROAKER) Bags 3 kg, 2 bags x master" } },
+    "elaborados": { "name": "PROCESSED PRODUCTS", "desc": "Special processing adapted to the specific requirements of destination markets, optimizing presentation, weights and export master cartons." },
+    "elaborados-cat": { "name": "Processed products", "desc": "Special processing adapted to the specific requirements of destination markets, optimizing presentation, weights and export master cartons.", "v": { "0": "BREADED HAKE FILLET", "1": "BURGERS (Hake, chicken, spinach, ham, cheese, spring)", "2": "STICKS (Hake, chicken, spinach, ham, cheese, spring)", "3": "SQUID RINGS (Natural and breaded)", "4": "KIDS & MARINE SHAPES", "5": "PORTIONED HAKE FILLET", "6": "RETAIL" } },
+    "packingLabel": "Presentation / Packing:",
+    "varietiesLabel": "Varieties and Photos:"
+  },
+  "retail": {
+    "title": "Redirecting...",
+    "text": "The Retail line is now part of our ",
+    "catalogoLink": "Product Catalog"
+  },
+  "contacto": {
+    "title": "Request Quote",
+    "subtitle": "Complete the form and our commercial team will respond shortly",
+    "form": {
+      "nombre": "Full Name *",
+      "empresa": "Company *",
+      "cargo": "Position",
+      "telefono": "Phone *",
+      "email": "Email *",
+      "mensaje": "Message *",
+      "placeholder": "Describe your inquiry, species of interest, estimated volumes, destination markets...",
+      "submit": "Send Inquiry",
+      "submitting": "Sending...",
+      "success": "Message sent successfully! Our commercial team will contact you shortly.",
+      "error": "Error sending. Please try again or contact us directly."
+    }
+  },
+  "header": {
+    "ariaNav": "Main navigation",
+    "ariaLangSelector": "Select language",
+    "ariaLangCurrent": "Current language: English",
+    "ariaLangs": "Available languages",
+    "audiotoggle": "Mute background music",
+    "menuOpen": "Open menu",
+    "menuClose": "Close menu",
+    "inicio": "Home",
+    "skipLink": "Skip to main content"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "retry": "Retry",
+    "close": "Close",
+    "next": "Next",
+    "prev": "Previous",
+    "play": "Play",
+    "pause": "Pause",
+    "mute": "Mute",
+    "unmute": "Unmute",
+    "fullscreen": "Fullscreen",
+    "gallery": "View full gallery",
+    "certifications": "Certifications",
+    "specifications": "Specifications",
+    "description": "Description",
+    "packing": "Packing",
+    "scientificName": "Scientific name",
+    "allRights": "All rights reserved"
+  }
+}
