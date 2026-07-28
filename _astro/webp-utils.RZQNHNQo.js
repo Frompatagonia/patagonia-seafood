@@ -1,0 +1,1 @@
+function p(t){if(!t)return t;const e=t.replace(/\.(jpg|jpeg|png)$/i,".webp"),a="/patagonia-seafood";return e.startsWith("/")&&!e.startsWith(a)?a.replace(/\/$/,"")+"/"+e.replace(/^\//,""):e}export{p as w};
