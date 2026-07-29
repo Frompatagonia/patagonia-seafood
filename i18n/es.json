@@ -11,7 +11,9 @@
   },
   "informacion": {
     "title": "Información del Sector Pesquero",
-    "subtitle": "Noticias, novedades y análisis del mercado pesquero argentino e internacional"
+    "subtitle": "Noticias, novedades y análisis del mercado pesquero argentino e internacional",
+    "sectionFromPatagonia": "From Patagonia Seafood",
+    "sectionNoticias": "Noticias del Sector"
   },
   "hero": {
     "title": "From Patagonia",
@@ -23,17 +25,41 @@
   "highlights": {
     "title": "Nuestra Diferencia",
     "subtitle": "Calidad que nace en el mar, se procesa con excelencia y llega al mundo",
-    "fleet": { "title": "Flota Propia", "desc": "7 tipos de embarcaciones operando en 7 puertos patagónicos" },
-    "plants": { "title": "Plantas Industriales", "desc": "Mar del Plata (7.500 m²) y Trelew (1.500 m²) con tecnología de punta" },
-    "certs": { "title": "Certificaciones Globales", "desc": "SENASA, HACCP, UE, FDA, China, Rusia, DIPOA Brasil" },
-    "export": { "title": "Exportación Mundial", "desc": "Presencia en 13 mercados internacionales" }
+    "fleet": {
+      "title": "Flota Propia",
+      "desc": "7 tipos de embarcaciones operando en 7 puertos patagónicos"
+    },
+    "plants": {
+      "title": "Plantas Industriales",
+      "desc": "Mar del Plata (7.500 m²) y Trelew (1.500 m²) con tecnología de punta"
+    },
+    "certs": {
+      "title": "Certificaciones Globales",
+      "desc": "SENASA, HACCP, UE, FDA, China, Rusia, DIPOA Brasil"
+    },
+    "export": {
+      "title": "Exportación Mundial",
+      "desc": "Presencia en 13 mercados internacionales"
+    }
   },
   "products": {
     "title": "Especies Estrella",
     "subtitle": "Nuestros productos más demandados internacionalmente",
-    "langostino": { "name": "Langostino Patagónico", "sci": "Pleoticus muelleri", "desc": "Congelado a bordo y en tierra. Tallas L1, L2, L3, Colas C1, C2, C1L, Pelado y desvenado." },
-    "merluza": { "name": "Merluza Austral", "sci": "Merluccius hubbsi", "desc": "Entera, HG/HGT, Filet con y sin piel. Zona FAO 41. Mareas 7-10 días (MDP) y 2-3 días (CR)." },
-    "calamar": { "name": "Calamar Argentino", "sci": "Illex argentinus", "desc": "Entero, Vaina, Tentáculo, Aleta, Tubo limpio, Anillas. Captura por flota potera especializada." }
+    "langostino": {
+      "name": "Langostino Patagónico",
+      "sci": "Pleoticus muelleri",
+      "desc": "Congelado a bordo y en tierra. Tallas L1, L2, L3, Colas C1, C2, C1L, Pelado y desvenado."
+    },
+    "merluza": {
+      "name": "Merluza Austral",
+      "sci": "Merluccius hubbsi",
+      "desc": "Entera, HG/HGT, Filet con y sin piel. Zona FAO 41. Mareas 7-10 días (MDP) y 2-3 días (CR)."
+    },
+    "calamar": {
+      "name": "Calamar Argentino",
+      "sci": "Illex argentinus",
+      "desc": "Entero, Vaina, Tentáculo, Aleta, Tubo limpio, Anillas. Captura por flota potera especializada."
+    }
   },
   "cta": {
     "title": "¿Listo para trabajar con la mejor calidad del Mar Argentino?",
@@ -45,7 +71,6 @@
     "contact": "Contacto",
     "address": "Mar del Plata, Buenos Aires, Argentina",
     "phone": "+54 223 555-0123",
-    
     "follow": "Síguenos",
     "rights": "Todos los derechos reservados",
     "privacy": "Política de Privacidad",
@@ -70,10 +95,22 @@
     "values": {
       "title": "Valores que nos guían",
       "items": [
-        { "title": "Trazabilidad Total", "desc": "Desde el mar hasta la mesa, cada paso documentado" },
-        { "title": "Calidad Premium", "desc": "Estándares internacionales en cada proceso" },
-        { "title": "Sostenibilidad", "desc": "Pesca responsable, cuidando el recurso para futuras generaciones" },
-        { "title": "Compromiso Familiar", "desc": "Décadas de experiencia, honrando nuestra palabra" }
+        {
+          "title": "Trazabilidad Total",
+          "desc": "Desde el mar hasta la mesa, cada paso documentado"
+        },
+        {
+          "title": "Calidad Premium",
+          "desc": "Estándares internacionales en cada proceso"
+        },
+        {
+          "title": "Sostenibilidad",
+          "desc": "Pesca responsable, cuidando el recurso para futuras generaciones"
+        },
+        {
+          "title": "Compromiso Familiar",
+          "desc": "Décadas de experiencia, honrando nuestra palabra"
+        }
       ]
     },
     "certs": {
@@ -86,24 +123,53 @@
     "subtitle": "7 tipos de embarcaciones operando en 7 puertos patagónicos. Flota propia con trazabilidad total.",
     "congeladores": {
       "title": "A) CONGELADORES",
-      "tangoneros": { "name": "Tangoneros Arrastreros", "desc": "Flota principal de congeladores para langostino con congelamiento a bordo inmediato." },
-      "arrastreros": { "name": "Arrastreros (Especies Variadas/Merluza)", "desc": "Especializados en merluza hubbsi y especies asociadas. Procesamiento y congelación en cubierta." },
-      "poteros": { "name": "Poteros (Calamar)", "desc": "Flota especializada en calamar illex. Sistema de luz y poteras con procesamiento inmediato." }
+      "tangoneros": {
+        "name": "Tangoneros Arrastreros",
+        "desc": "Flota principal de congeladores para langostino con congelamiento a bordo inmediato."
+      },
+      "arrastreros": {
+        "name": "Arrastreros (Especies Variadas/Merluza)",
+        "desc": "Especializados en merluza hubbsi y especies asociadas. Procesamiento y congelación en cubierta."
+      },
+      "poteros": {
+        "name": "Poteros (Calamar)",
+        "desc": "Flota especializada en calamar illex. Sistema de luz y poteras con procesamiento inmediato."
+      }
     },
     "fresqueros": {
       "title": "B) FRESQUEROS",
-      "tangoneros": { "name": "Tangoneros Fresqueros", "desc": "Entrega diaria de langostino fresco a planta Trelew. Cadena de frío ininterrumpida." },
-      "monored": { "name": "Arrastreros Mono Red", "desc": "Captura fresca de merluza y especies asociadas para procesamiento inmediato." },
-      "costeros": { "name": "Nasa/Trampa/Palangre (Costeros)", "desc": "Flota artesanal costera. Captura selectiva de especies de alto valor para mercado premium." }
+      "tangoneros": {
+        "name": "Tangoneros Fresqueros",
+        "desc": "Entrega diaria de langostino fresco a planta Trelew. Cadena de frío ininterrumpida."
+      },
+      "monored": {
+        "name": "Arrastreros Mono Red",
+        "desc": "Captura fresca de merluza y especies asociadas para procesamiento inmediato."
+      },
+      "costeros": {
+        "name": "Nasa/Trampa/Palangre (Costeros)",
+        "desc": "Flota artesanal costera. Captura selectiva de especies de alto valor para mercado premium."
+      }
     },
-    "gallery": { "title": "Galería de Buques", "subtitle": "Carrusel cinematográfico sincronizado con música. Ken Burns, swipe, pausa hover." },
-    "videos": { "title": "Navegación en Condiciones Extremas", "subtitle": "Videos de nuestra flota operando en el Mar Argentino" },
-    "ports": { "title": "Puertos de Operación" }
+    "gallery": {
+      "title": "Galería de Buques",
+      "subtitle": "Carrusel cinematográfico sincronizado con música. Ken Burns, swipe, pausa hover."
+    },
+    "videos": {
+      "title": "Navegación en Condiciones Extremas",
+      "subtitle": "Videos de nuestra flota operando en el Mar Argentino"
+    },
+    "ports": {
+      "title": "Puertos de Operación"
+    }
   },
   "comercial": {
     "title": "Área Comercial",
     "subtitle": "Nuestra red logística global conecta la Patagonia con los principales mercados mundiales.",
-    "tabs": { "puertos": "🇦🇷 Puertos Argentina", "mercados": "🌍 Mercados Mundiales" },
+    "tabs": {
+      "puertos": "🇦🇷 Puertos Argentina",
+      "mercados": "🌍 Mercados Mundiales"
+    },
     "legend": {
       "puertos": "Puertos operativos (7)",
       "plantas": "Plantas de proceso (2)",
@@ -117,9 +183,17 @@
   "frigorificos": {
     "title": "Frigoríficos Industriales",
     "subtitle": "Dos plantas de proceso con tecnología de punta y capacidad total de 1.250 toneladas de almacenamiento",
-    "specs": { "title": "Especificaciones Técnicas", "subtitle": "Infraestructura industrial de primer nivel" },
-    "gallery": { "title": "Galería de Plantas", "subtitle": "Carrusel + videos con prioridad de audio + mosaico fotográfico" },
-    "certs": { "title": "Certificaciones" }
+    "specs": {
+      "title": "Especificaciones Técnicas",
+      "subtitle": "Infraestructura industrial de primer nivel"
+    },
+    "gallery": {
+      "title": "Galería de Plantas",
+      "subtitle": "Carrusel + videos con prioridad de audio + mosaico fotográfico"
+    },
+    "certs": {
+      "title": "Certificaciones"
+    }
   },
   "catalogo": {
     "title": "Catálogo de Productos",
@@ -135,7 +209,10 @@
   "retail": {
     "title": "Línea Retail",
     "subtitle": "Productos listos para góndola y food service. Presentaciones consumer-ready con la calidad From Patagonia.",
-    "gallery": { "title": "Galería de Productos Retail", "subtitle": "Presentaciones finales para supermercados e hipermercados" },
+    "gallery": {
+      "title": "Galería de Productos Retail",
+      "subtitle": "Presentaciones finales para supermercados e hipermercados"
+    },
     "categories": {
       "filet": "Filet de Merluza Rebozado",
       "hamburguesas": "Hamburguesas (Merluza, Pollo, Espinaca, Jamón, Queso, Primavera)",
