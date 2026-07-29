@@ -64,7 +64,55 @@
     "title": "Informação do Setor Pesqueiro",
     "subtitle": "Notícias e análises do setor pesqueiro argentino e internacional",
     "sectionFromPatagonia": "From Patagonia Seafood",
-    "sectionNoticias": "Notícias do Setor"
+    "sectionNoticias": "Notícias do Setor",
+    "herramientas": [
+      {
+        "titulo": "Chegada de Navios ao Porto",
+        "descripcion": "Consulta diária de chegadas programadas ao porto de Mar del Plata. Atualizado pela Prefeitura Naval."
+      },
+      {
+        "titulo": "Monitoramento por Satélite",
+        "descripcion": "Mapa interativo oficial do MAGyP com a posição de navios pesqueiros na ZEE Argentina."
+      },
+      {
+        "titulo": "Desembarques",
+        "descripcion": "Estatísticas oficiais de capturas por espécie, frota e porto. Atualizado pela Secretaria de Pesca."
+      },
+      {
+        "titulo": "Resoluções CFP",
+        "descripcion": "Resoluções do Conselho Federal de Pesca. Regulamentação atualizada do setor pesqueiro argentino."
+      },
+      {
+        "titulo": "Atas CFP",
+        "descripcion": "Atas das sessões do Conselho Federal de Pesca. Decisões e debates do órgão."
+      },
+      {
+        "titulo": "Novidades CFP",
+        "descripcion": "Últimas novidades e comunicados do Conselho Federal de Pesca."
+      }
+    ],
+    "pinned": [
+      {
+        "titulo": "From Patagonia Seafood participou da Seafood Expo Global em Barcelona",
+        "resumen": "Nossa equipe comercial apresentou a linha completa na feira mais importante do setor, gerando novos contatos na Europa e Ásia."
+      },
+      {
+        "titulo": "Nova certificação HACCP renovada para nossas plantas de Trelew e Mar del Plata",
+        "resumen": "Ambas as plantas passaram com sucesso nas auditorias anuais, reafirmando nosso compromisso com a qualidade."
+      },
+      {
+        "titulo": "From Patagonia Seafood expande presença no mercado japonês",
+        "resumen": "Novos acordos comerciais com compradores de Tóquio e Osaka para fornecimento de camarão patagônico premium."
+      },
+      {
+        "titulo": "Temporada de camarão 2026: resultados positivos nas primeiras semanas",
+        "resumen": "Nossa frota tangoneira reporta bons rendimentos na Zona FAO 41 com tamanhos comerciais ótimos."
+      },
+      {
+        "titulo": "Delegação chinesa visita nossas plantas na Patagônia",
+        "resumen": "Representantes de redes de varejo de Xangai visitaram nossas instalações para conhecer o processo produtivo."
+      }
+    ]
   },
   "footer": {
     "tagline": "Exportamos a riqueza do Mar Argentino ao mundo",

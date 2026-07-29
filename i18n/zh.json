@@ -64,7 +64,55 @@
     "title": "渔业行业信息",
     "subtitle": "阿根廷和国际渔业的新闻与分析",
     "sectionFromPatagonia": "From Patagonia Seafood",
-    "sectionNoticias": "行业新闻"
+    "sectionNoticias": "行业新闻",
+    "herramientas": [
+      {
+        "titulo": "船只入港信息",
+        "descripcion": "马德普拉塔港每日到港船期查询。由海军管理局更新。"
+      },
+      {
+        "titulo": "卫星监测",
+        "descripcion": "MAGyP官方交互地图，显示阿根廷专属经济区内渔船位置。"
+      },
+      {
+        "titulo": "渔获上岸统计",
+        "descripcion": "按物种、船队和港口分类的官方渔获统计。渔业秘书处更新。"
+      },
+      {
+        "titulo": "CFP决议",
+        "descripcion": "联邦渔业委员会决议。阿根廷渔业最新法规。"
+      },
+      {
+        "titulo": "CFP会议纪要",
+        "descripcion": "联邦渔业委员会会议纪要。机构决策与讨论。"
+      },
+      {
+        "titulo": "CFP动态",
+        "descripcion": "联邦渔业委员会最新消息和公告。"
+      }
+    ],
+    "pinned": [
+      {
+        "titulo": "From Patagonia Seafood 参加巴塞罗那全球海鲜博览会",
+        "resumen": "我司商务团队在最重要的行业展会上展示全线产品，开拓欧亚新商机。"
+      },
+      {
+        "titulo": "特雷利乌和马德普拉塔工厂更新HACCP认证",
+        "resumen": "两家工厂成功通过年度审核，重申对质量和食品安全的承诺。"
+      },
+      {
+        "titulo": "From Patagonia Seafood 扩大日本市场份额",
+        "resumen": "与东京和大阪买家签署新协议，供应 premium 巴塔哥尼亚虾。"
+      },
+      {
+        "titulo": "2026年虾季：前几周取得积极成果",
+        "resumen": "拖网船队在FAO 41区报告良好渔获，国际市场价格规格适中。"
+      },
+      {
+        "titulo": "中国代表团访问巴塔哥尼亚工厂",
+        "resumen": "上海零售连锁代表参观我司工厂了解生产过程。"
+      }
+    ]
   },
   "footer": {
     "tagline": "将阿根廷海的丰富资源出口到世界",

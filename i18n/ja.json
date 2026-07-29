@@ -64,7 +64,55 @@
     "title": "水産業界情報",
     "subtitle": "アルゼンチンおよび国際的な水産業のニュースと分析",
     "sectionFromPatagonia": "From Patagonia Seafood",
-    "sectionNoticias": "業界ニュース"
+    "sectionNoticias": "業界ニュース",
+    "herramientas": [
+      {
+        "titulo": "船舶入港情報",
+        "descripcion": "マルデルプラタ港への入港予定情報。海上保安局による更新。"
+      },
+      {
+        "titulo": "衛星モニタリング",
+        "descripcion": "アルゼンチンEEZ内の漁船位置を示すMAGyP公式インタラクティブマップ。"
+      },
+      {
+        "titulo": "水揚げ統計",
+        "descripcion": "魚種、船団、港別の公式水揚げ統計。水産局による更新。"
+      },
+      {
+        "titulo": "CFP決議",
+        "descripcion": "連邦水産審議会の決議。アルゼンチン水産業の最新規制。"
+      },
+      {
+        "titulo": "CFP議事録",
+        "descripcion": "連邦水産審議会の議事録。決定と討議内容。"
+      },
+      {
+        "titulo": "CFPニュース",
+        "descripcion": "連邦水産審議会の最新ニュースとお知らせ。"
+      }
+    ],
+    "pinned": [
+      {
+        "titulo": "From Patagonia SeafoodがバルセロナのSeafood Expo Globalに出展",
+        "resumen": "営業チームが主要見本市で全製品ラインを紹介し、欧州・アジアで新たな取引先を開拓。"
+      },
+      {
+        "titulo": "トレレウ工場とマルデルプラタ工場でHACCP認証を更新",
+        "resumen": "両工場が年次監査に合格、品質と食品安全への取り組みを再確認。"
+      },
+      {
+        "titulo": "From Patagonia Seafoodが日本市場でのプレゼンスを拡大",
+        "resumen": "東京・大阪のバイヤーとの間でプレミアムパタゴニア産エビの供給契約を締結。"
+      },
+      {
+        "titulo": "2026年エビ漁期：初週で好調な結果",
+        "resumen": "タンゴネロ船団がFAO海域41で好漁獲を報告、国際市場向け最適サイズ。"
+      },
+      {
+        "titulo": "中国代表団がパタゴニアの工場を訪問",
+        "resumen": "上海の小売チェーン代表が生産工程を視察するため工場を訪問。"
+      }
+    ]
   },
   "footer": {
     "tagline": "アルゼンチン海の豊かさを世界へ輸出",

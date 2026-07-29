@@ -13,7 +13,55 @@
     "title": "Fishing Industry Information",
     "subtitle": "News, updates and analysis of the Argentine and international fishing industry",
     "sectionFromPatagonia": "From Patagonia Seafood",
-    "sectionNoticias": "Industry News"
+    "sectionNoticias": "Industry News",
+    "herramientas": [
+      {
+        "titulo": "Port Vessel Arrivals",
+        "descripcion": "Daily schedule of arrivals at Mar del Plata port. Updated by the Naval Prefecture."
+      },
+      {
+        "titulo": "Satellite Monitoring",
+        "descripcion": "Official MAGyP interactive map showing fishing vessel positions reporting in the Argentine EEZ."
+      },
+      {
+        "titulo": "Landings",
+        "descripcion": "Official statistics of marine catches by species, fleet and port. Updated by the Fisheries Secretariat."
+      },
+      {
+        "titulo": "CFP Resolutions",
+        "descripcion": "Resolutions of the Federal Fisheries Council. Updated Argentine fisheries regulations."
+      },
+      {
+        "titulo": "CFP Minutes",
+        "descripcion": "Minutes of Federal Fisheries Council sessions. Decisions and debates of the body."
+      },
+      {
+        "titulo": "CFP News",
+        "descripcion": "Latest news and announcements from the Federal Fisheries Council."
+      }
+    ],
+    "pinned": [
+      {
+        "titulo": "From Patagonia Seafood participated in Seafood Expo Global in Barcelona",
+        "resumen": "Our commercial team presented the full product line at the industry's most important fair, generating new business contacts in Europe and Asia."
+      },
+      {
+        "titulo": "New HACCP certification renewed for our Trelew and Mar del Plata plants",
+        "resumen": "Both plants successfully passed the annual audits, reaffirming our commitment to quality and food safety."
+      },
+      {
+        "titulo": "From Patagonia Seafood expands its presence in the Japanese market",
+        "resumen": "New commercial agreements with buyers in Tokyo and Osaka for the supply of premium Patagonian shrimp and hake fillet."
+      },
+      {
+        "titulo": "2026 shrimp season: positive results in the first weeks",
+        "resumen": "Our tangonero fleet reports good yields in FAO Zone 41 with optimal commercial sizes for international markets."
+      },
+      {
+        "titulo": "Chinese delegation visits our plants in Patagonia",
+        "resumen": "Representatives from Shanghai retail chains toured our Trelew and Mar del Plata facilities to learn about the production process."
+      }
+    ]
   },
   "hero": {
     "title": "From Patagonia",

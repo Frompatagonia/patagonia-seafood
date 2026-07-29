@@ -13,7 +13,55 @@
     "title": "Información del Sector Pesquero",
     "subtitle": "Noticias, novedades y análisis del mercado pesquero argentino e internacional",
     "sectionFromPatagonia": "From Patagonia Seafood",
-    "sectionNoticias": "Noticias del Sector"
+    "sectionNoticias": "Noticias del Sector",
+    "herramientas": [
+      {
+        "titulo": "Ingreso de Buques a Puerto",
+        "descripcion": "Consulta diaria de arribos programados al puerto de Mar del Plata. Actualizado por Prefectura Naval."
+      },
+      {
+        "titulo": "Monitoreo Satelital",
+        "descripcion": "Mapa interactivo oficial del MAGyP con la posición de buques pesqueros reportando al sistema en ZEE Argentina."
+      },
+      {
+        "titulo": "Desembarques",
+        "descripcion": "Estadísticas oficiales de capturas marítimas por especie, flota y puerto. Datos actualizados por la Secretaría de Pesca."
+      },
+      {
+        "titulo": "Resoluciones CFP",
+        "descripcion": "Resoluciones del Consejo Federal Pesquero. Normativa actualizada del sector pesquero argentino."
+      },
+      {
+        "titulo": "Actas CFP",
+        "descripcion": "Actas de las sesiones del Consejo Federal Pesquero. Decisiones y debates del organismo."
+      },
+      {
+        "titulo": "Novedades CFP",
+        "descripcion": "Últimas novedades y comunicados del Consejo Federal Pesquero."
+      }
+    ],
+    "pinned": [
+      {
+        "titulo": "From Patagonia Seafood participó de la feria Seafood Expo Global en Barcelona",
+        "resumen": "Nuestro equipo comercial presentó la línea completa de productos en la feria más importante del sector, generando nuevos contactos comerciales en Europa y Asia."
+      },
+      {
+        "titulo": "Nueva certificación HACCP renovada para nuestras plantas de Trelew y Mar del Plata",
+        "resumen": "Ambas plantas superaron con éxito las auditorías anuales, reafirmando nuestro compromiso con la calidad y la seguridad alimentaria."
+      },
+      {
+        "titulo": "From Patagonia Seafood expande su presencia en el mercado japonés",
+        "resumen": "Nuevos acuerdos comerciales con compradores de Tokio y Osaka para el suministro de langostino patagónico premium y filet de merluza."
+      },
+      {
+        "titulo": "Campaña de langostino 2026: resultados positivos en las primeras semanas",
+        "resumen": "Nuestra flota tangonera reporta buenos rendimientos en la Zona FAO 41 con calibres comerciales óptimos para los mercados internacionales."
+      },
+      {
+        "titulo": "Delegación china visita nuestras plantas en Patagonia",
+        "resumen": "Representantes de cadenas de retail de Shanghái recorrieron nuestras instalaciones de Trelew y Mar del Plata para conocer el proceso productivo."
+      }
+    ]
   },
   "hero": {
     "title": "From Patagonia",

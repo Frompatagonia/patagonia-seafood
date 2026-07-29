@@ -64,7 +64,55 @@
     "title": "Information sur le Secteur de la Pêche",
     "subtitle": "Actualités et analyses du secteur de la pêche argentin et international",
     "sectionFromPatagonia": "From Patagonia Seafood",
-    "sectionNoticias": "Actualités du Secteur"
+    "sectionNoticias": "Actualités du Secteur",
+    "herramientas": [
+      {
+        "titulo": "Arrivées de Navires au Port",
+        "descripcion": "Consultation quotidienne des arrivées programmées au port de Mar del Plata. Mis à jour par la Préfecture Navale."
+      },
+      {
+        "titulo": "Surveillance par Satellite",
+        "descripcion": "Carte interactive officielle du MAGyP avec la position des navires de pêche dans la ZEE argentine."
+      },
+      {
+        "titulo": "Débarquements",
+        "descripcion": "Statistiques officielles des captures maritimes par espèce, flotte et port. Données mises à jour."
+      },
+      {
+        "titulo": "Résolutions CFP",
+        "descripcion": "Résolutions du Conseil Fédéral de la Pêche. Réglementation actualisée du secteur."
+      },
+      {
+        "titulo": "Procès-verbaux CFP",
+        "descripcion": "Procès-verbaux des sessions du Conseil Fédéral de la Pêche. Décisions et débats."
+      },
+      {
+        "titulo": "Actualités CFP",
+        "descripcion": "Dernières nouvelles et communications du Conseil Fédéral de la Pêche."
+      }
+    ],
+    "pinned": [
+      {
+        "titulo": "From Patagonia Seafood a participé au Seafood Expo Global à Barcelone",
+        "resumen": "Notre équipe commerciale a présenté la gamme complète au plus important salon du secteur."
+      },
+      {
+        "titulo": "Nouvelle certification HACCP renouvelée pour nos usines de Trelew et Mar del Plata",
+        "resumen": "Les deux usines ont réussi les audits annuels, réaffirmant notre engagement envers la qualité."
+      },
+      {
+        "titulo": "From Patagonia Seafood étend sa présence sur le marché japonais",
+        "resumen": "Nouveaux accords commerciaux avec des acheteurs de Tokyo et Osaka."
+      },
+      {
+        "titulo": "Campagne crevettes 2026 : résultats positifs",
+        "resumen": "Notre flotte tangonier rapporte de bons rendements dans la Zone FAO 41."
+      },
+      {
+        "titulo": "Délégation chinoise visite nos usines en Patagonie",
+        "resumen": "Des représentants de chaînes de distribution de Shanghai ont visité nos installations."
+      }
+    ]
   },
   "footer": {
     "tagline": "Exportons la richesse de la Mer Argentine au monde",

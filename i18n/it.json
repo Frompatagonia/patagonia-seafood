@@ -64,7 +64,55 @@
     "title": "Informazioni sul Settore della Pesca",
     "subtitle": "Notizie e analisi del settore della pesca argentino e internazionale",
     "sectionFromPatagonia": "From Patagonia Seafood",
-    "sectionNoticias": "Notizie del Settore"
+    "sectionNoticias": "Notizie del Settore",
+    "herramientas": [
+      {
+        "titulo": "Arrivi di Navi al Porto",
+        "descripcion": "Consultazione giornaliera degli arrivi programmati al porto di Mar del Plata. Aggiornato dalla Prefettura Navale."
+      },
+      {
+        "titulo": "Monitoraggio Satellitare",
+        "descripcion": "Mappa interattiva ufficiale del MAGyP con la posizione dei pescherecci nella ZEE argentina."
+      },
+      {
+        "titulo": "Sbarchi",
+        "descripcion": "Statistiche ufficiali delle catture marine per specie, flotta e porto. Dati aggiornati."
+      },
+      {
+        "titulo": "Risoluzioni CFP",
+        "descripcion": "Risoluzioni del Consiglio Federale della Pesca. Normativa aggiornata del settore."
+      },
+      {
+        "titulo": "Verbali CFP",
+        "descripcion": "Verbali delle sessioni del Consiglio Federale della Pesca. Decisioni e dibattiti."
+      },
+      {
+        "titulo": "Novità CFP",
+        "descripcion": "Ultime novità e comunicati del Consiglio Federale della Pesca."
+      }
+    ],
+    "pinned": [
+      {
+        "titulo": "From Patagonia Seafood ha partecipato al Seafood Expo Global di Barcellona",
+        "resumen": "Il nostro team commerciale ha presentato la linea completa alla fiera più importante del settore."
+      },
+      {
+        "titulo": "Rinnovata certificazione HACCP per i nostri stabilimenti di Trelew e Mar del Plata",
+        "resumen": "Entrambi gli stabilimenti hanno superato con successo gli audit annuali."
+      },
+      {
+        "titulo": "From Patagonia Seafood espande la presenza nel mercato giapponese",
+        "resumen": "Nuovi accordi commerciali con acquirenti di Tokyo e Osaka."
+      },
+      {
+        "titulo": "Campagna gamberi 2026: risultati positivi",
+        "resumen": "La nostra flotta tangonero riporta buoni rendimenti nella Zona FAO 41."
+      },
+      {
+        "titulo": "Delegazione cinese visita i nostri stabilimenti in Patagonia",
+        "resumen": "Rappresentanti di catene di vendita al dettaglio di Shanghai hanno visitato le nostre strutture."
+      }
+    ]
   },
   "footer": {
     "tagline": "Esportiamo la ricchezza del Mare Argentino nel mondo",
