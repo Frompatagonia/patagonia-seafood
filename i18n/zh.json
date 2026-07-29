@@ -6,6 +6,7 @@
     "frigorificos": "冷冻厂",
     "catalogo": "目录",
     "retail": "零售",
+    "informacion": "信息",
     "contacto": "联系"
   },
   "hero": {
@@ -20,19 +21,19 @@
     "subtitle": "生于海洋，精工加工，交付世界的品质",
     "fleet": {
       "title": "自有船队",
-      "desc": "7种船舶（拖网船、鱿钓船、笼/延绳船）在7个巴塔哥尼亚港口运营"
+      "desc": "7种船舶在7个巴塔哥尼亚港口运营"
     },
     "plants": {
       "title": "工业工厂",
-      "desc": "马德普拉塔（7,500㎡，320人）和特雷勒乌（1,500㎡，200人），配备平板速冻和隧道速冻技术"
+      "desc": "马德普拉塔(7,500平方米)和特雷勒乌(1,500平方米)采用尖端技术"
     },
     "certs": {
       "title": "全球认证",
-      "desc": "SENASA、HACCP、欧盟、FDA、中国、俄罗斯、DIPOA巴西 - 通往全球最严格市场的通行证"
+      "desc": "SENASA, HACCP, 欧盟, FDA, 中国, 俄罗斯, DIPOA巴西"
     },
     "export": {
       "title": "全球出口",
-      "desc": "覆盖13个市场：美国、欧洲、俄罗斯、中国、日本、中东、巴西、委内瑞拉等"
+      "desc": "在13个国际市场有业务"
     }
   },
   "products": {
@@ -41,17 +42,17 @@
     "langostino": {
       "name": "巴塔哥尼亚虾",
       "sci": "Pleoticus muelleri",
-      "desc": "船上冷冻和陆地冷冻。规格L1、L2、L3、虾仁C1、C2、C1L、去壳去沙线。"
+      "desc": "船上冷冻和陆地冷冻。规格L1, L2, L3, 虾仁C1, C2, C1L, 去壳去沙线。"
     },
     "merluza": {
-      "name": "南美鳕鱼",
+      "name": "南方鳕鱼",
       "sci": "Merluccius hubbsi",
-      "desc": "整鱼、HG/HGT、带皮/去皮鱼片。FAO 41区。捕捞周期7-10天（马德普拉塔）和2-3天（科莫多罗里瓦达维亚）。"
+      "desc": "整鱼, HG/HGT, 带皮/去皮鱼片. FAO 41区. 捕捞周期7-10天(马德普拉塔)和2-3天(科莫多罗里瓦达维亚)."
     },
     "calamar": {
       "name": "阿根廷鱿鱼",
       "sci": "Illex argentinus",
-      "desc": "整体、管状、触手、翅、去皮管、圈。由巴塔哥尼亚海域专业鱿钓船队捕获。"
+      "desc": "整体, 管状, 触手, 翅, 去皮管, 圈. 专业鱿鱼钓船队捕获。"
     }
   },
   "cta": {
@@ -59,308 +60,23 @@
     "desc": "全球领先企业信任我们的经验和可追溯性。请索取您的个性化报价。",
     "btn": "索取报价"
   },
+  "informacion": {
+    "title": "渔业行业信息",
+    "subtitle": "阿根廷和国际渔业的新闻与分析",
+    "sectionFromPatagonia": "From Patagonia Seafood",
+    "sectionNoticias": "行业新闻"
+  },
   "footer": {
     "tagline": "将阿根廷海的丰富资源出口到世界",
     "contact": "联系方式",
-    "address": "马德普拉塔，布宜诺斯艾利斯，阿根廷",
+    "address": "马德普拉塔, 布宜诺斯艾利斯, 阿根廷",
     "phone": "+54 223 555-0123",
-    "company": "From Patagonia Seafood",
     "follow": "关注我们",
     "rights": "版权所有",
     "privacy": "隐私政策",
     "terms": "服务条款",
     "watermark": "by Sottomarina SA / Guigus SA",
-    "contactForm": "联系表单",
-    "navInstitucional": "机构信息",
-    "navFlota": "船队",
-    "navComercial": "商业",
-    "navFrigorificos": "冷冻厂",
-    "navCatalogo": "产品目录",
-    "navContacto": "联系方式",
-    "ariaInicio": "From Patagonia Seafood - 首页"
-  },
-  "institucional": {
-    "title": "机构信息",
-    "subtitle": "了解我们的历史、价值观和对卓越的承诺。",
-    "history": {
-      "title": "我们的历史",
-      "subtitle": "阿根廷海的精髓",
-      "p1": "在From Patagonia，我们的根在阿根廷海。我们是一家拥有数十年经验的家族历史企业，致力于海鲜的捕捞、加工和出口，整合了整个价值链：从冰冷清澈的海水中捕捞，到确保产品以绝对新鲜状态运抵国际市场的全球物流。",
-      "p2": "我们运营自有船队，在马德普拉塔和特雷勒乌的工厂以最高卫生标准加工，我们的品牌是整个生产环节中完全可追溯的代名词。我们以最严格市场所要求的认真和承诺，将我们的海岸财富出口到世界。",
-      "p3": "全球市场广泛认可的阿根廷企业信赖我们丰富的经验，将生产委托给我们!!"
-    },
-    "vision": {
-      "title": "我们的愿景",
-      "quote": "\"巩固我们在全球阿根廷海产品出口中不可争议的标杆地位，同时保持我们所特有的质量、可追溯性和可持续性的卓越水平。\""
-    },
-    "values": {
-      "title": "指导我们的价值观",
-      "items": [
-        {
-          "title": "完全可追溯性",
-          "desc": "从海洋到餐桌，每一步都有记录"
-        },
-        {
-          "title": "优质品质",
-          "desc": "每个流程都符合国际标准"
-        },
-        {
-          "title": "可持续发展",
-          "desc": "负责任的渔业，为子孙后代保护资源"
-        },
-        {
-          "title": "家族承诺",
-          "desc": "数十年的经验，信守诺言"
-        }
-      ]
-    },
-    "certs": {
-      "title": "国际认证",
-      "subtitle": "保证我们的品质和市场准入"
-    }
-  },
-  "flota": {
-    "title": "我们的船队",
-    "subtitle": "7种船舶在7个巴塔哥尼亚港口运营。自有船队，完全可追溯。",
-    "congeladores": {
-      "title": "A) 冷冻船",
-      "tangoneros": {
-        "name": "拖网船（虾网船）",
-        "desc": "虾类专业冷冻船队。船上即时冷冻，几分钟内在船上完成捕捞、分选和冷冻。"
-      },
-      "arrastreros": {
-        "name": "拖网船（杂鱼/鳕鱼）",
-        "desc": "针对鳕鱼和杂鱼的船队，捕捞周期7-10天（马德普拉塔）和2-3天（科莫多罗里瓦达维亚）。自有工厂加工。"
-      },
-      "poteros": {
-        "name": "鱿钓船",
-        "desc": "阿根廷鱿鱼（Illex argentinus）专业船队，使用集鱼灯和钓机进行捕捞，工厂加工。"
-      }
-    },
-    "fresqueros": {
-      "title": "B) 鲜鱼船",
-      "tangoneros": {
-        "name": "鲜鱼拖网船",
-        "desc": "在巴塔哥尼亚港口每日捕捞并卸货，立即运往工厂加工。确保最大鲜度。"
-      },
-      "monored": {
-        "name": "单网拖网船（杂鱼/鳕鱼）",
-        "desc": "使用单网拖网选择性捕捞鳕鱼及相关鱼种的鲜鱼船队。"
-      },
-      "costeros": {
-        "name": "笼/延绳船（近岸）",
-        "desc": "针对高价值近岸鱼类的选择性和可持续捕捞方式。环境影响最小。"
-      }
-    },
-    "gallery": {
-      "title": "船队图库",
-      "subtitle": "与音乐同步的电影级轮播。Ken Burns效果、滑动、悬停暂停。"
-    },
-    "videos": {
-      "title": "船队视频",
-      "subtitle": "在阿根廷海的航行和作业"
-    },
-    "ports": {
-      "title": "运营港口"
-    },
-    "video1Desc": "常规船舶在恶劣天气下航行",
-    "video2Desc": "暴风雨中的船舶-延时航行"
-  },
-  "frigorificos": {
-    "title": "冷冻加工厂",
-    "subtitle": "两座配备尖端技术的加工厂，总储存能力1,250吨",
-    "specs": {
-      "title": "技术规格",
-      "subtitle": "确保品质和可追溯性的一流工业基础设施",
-      "thUbicacion": "位置",
-      "thPersonal": "员工",
-      "thSuperficie": "面积",
-      "thTecnologia": "技术",
-      "thCapacidad": "储存能力",
-      "mdpName": "马德普拉塔",
-      "mdpLocation": "位于港口",
-      "mdpPersonal": "320人",
-      "mdpSuperficie": "7,500㎡",
-      "mdpTecnologia": "接触式平板速冻机、静态隧道速冻机、螺旋速冻机",
-      "mdpCapacidad": "1,000吨",
-      "trelewName": "特雷勒乌",
-      "trelewLocation": "工业园区",
-      "trelewPersonal": "200人（虾季）",
-      "trelewSuperficie": "1,500㎡",
-      "trelewTecnologia": "接触式平板速冻机和静态隧道速冻机",
-      "trelewCapacidad": "250吨"
-    },
-    "gallery": {
-      "title": "工厂图库",
-      "subtitle": "带加工视频的电影级轮播。Ken Burns效果、滑动、悬停暂停、音乐同步。"
-    },
-    "videos": {
-      "title": "加工视频",
-      "subtitle": "在我们的工厂加工"
-    },
-    "video1Desc": "鱼片寄生虫分类和控制",
-    "video2Desc": "鳕鱼片包装",
-    "video3Desc": "整虾加工",
-    "video4Desc": "整鱼加工",
-    "video5Desc": "去壳去沙线虾生产",
-    "certs": {
-      "title": "认证",
-      "subtitle": "保证符合最严格的国际标准",
-      "senasa": "国家农产品卫生与质量服务局",
-      "haccp": "危害分析与关键控制点",
-      "ue": "EC法规852/2004和853/2004",
-      "fda": "美国食品药品监督管理局",
-      "china": "GACC - 中国海关总署",
-      "rusia": "Rosselkhoznadzor - 联邦兽医局",
-      "dipoa": "动物源产品检验局"
-    }
-  },
-  "comercial": {
-    "title": "商业部门",
-    "subtitle": "我们的全球物流网络将巴塔哥尼亚与全球主要市场连接起来。",
-    "sectionTitle": "全球销售网络",
-    "sectionSubtitle": "巴塔哥尼亚与全球最严格市场的连接",
-    "statMercados": "市场",
-    "statPaises": "国家",
-    "statContinentes": "大洲",
-    "mapTitle": "出口地图",
-    "mapSubtitle": "从巴塔哥尼亚到世界的商业通道"
-  },
-  "catalogo": {
-    "title": "产品目录",
-    "subtitle": "浏览我们的完整阿根廷海产品系列。每种产品都具有完全可追溯性和国际认证。",
-    "langostinos": {
-      "name": "虾（SHRIMP）",
-      "desc": "我们的巴塔哥尼亚虾（Pleoticus muelleri）是阿根廷海的明珠。由我们自有的船队在巴塔哥尼亚冰冷清澈的海水中捕捞，并以最高的质量和食品安全标准加工，可提供多种规格：船上冷冻或陆上冷冻整虾、虾尾、去壳去沙线虾仁。其浓郁的风味和紧实的肉质使其成为最挑剔国际市场的首选。"
-    },
-    "langostino-bordo": {
-      "name": "船上加工虾（Shrimp processed on board）",
-      "desc": "船上冷冻虾的卓越之处在于其即时性。在阿根廷海域捕获后，数分钟内在同一艘船上完成分拣和冷冻。这一过程消除了陆上运输链，使产品从海洋到最终包装盒保持所有感官品质完好无损。从定义上讲，这是在最佳状态下捕获的绝对新鲜的产品。",
-      "v": {
-        "0": "整只 L1 (10/20 PPK)",
-        "1": "整只 L2 (20/30 PPK)",
-        "2": "整只 L3 (30/40 PPK)",
-        "3": "虾尾"
-      }
-    },
-    "langostino-tierra": {
-      "name": "陆上加工虾（Shrimp processed on land）",
-      "desc": "我们的时令鲜虾由我们的鲜鱼船队捕捞，每天运送到我们在特雷勒乌的工厂，确保冷链不间断。在这里，专业团队根据您的要求进行定制加工：从去头到精确的去壳和去沙线。每只虾都经过仔细分拣，并按照严格的食品安全控制进行冷冻，以确保即用型产品达到出口品质。",
-      "v": {
-        "0": "整只 L1 (10/20 PPK)",
-        "1": "整只 L2 (20/30 PPK)",
-        "2": "整只 L3 (30/40 PPK)",
-        "3": "虾尾 C1 (30/55 PPK)",
-        "4": "虾尾 C2 (55/UP)",
-        "5": "虾尾 C1L (30/45 PPK)",
-        "6": "虾尾 MIX (C1 & C2)",
-        "7": "去壳去肠",
-        "8": "去壳袋装"
-      }
-    },
-    "merluza": {
-      "name": "鳕鱼（HAKE）",
-      "desc": "我们的南方鳕鱼（Merluccius hubbsi）来自FAO 41区，马德普拉塔船队航行7-10天，科莫多罗里瓦达维亚船队航行2-3天，保证了无与伦比的鲜度。到港后，在严格的冷链下运送到我们的加工厂（马德普拉塔或特雷勒乌）。在那里，以最高的卫生标准进行自动去头去内脏，然后进行精确的尺寸分级和超快速冷冻，以保持其质地和天然特性。"
-    },
-    "merluza-entera-hg": {
-      "name": "整鱼和HG/HGT（Whole hake and HG/HGT）",
-      "desc": "我们的南方鳕鱼来自FAO 41区，马德普拉塔船队航行7-10天，科莫多罗里瓦达维亚船队航行2-3天。到港后在严格的冷链下运送到我们的加工厂，以最高卫生标准进行自动去头去内脏，精确尺寸分级和超快速冷冻。",
-      "v": {
-        "0": "整条 80/200 GRS (块冻 / 层叠 10 kg)",
-        "1": "HG 或 HGT 80/200 GRS (块冻 / 层叠 10 kg, 袋 1-10 kg)"
-      }
-    },
-    "merluza-filet": {
-      "name": "鳕鱼片（Hake fillet）",
-      "desc": "我们的鳕鱼片是精准和细心的代名词。进厂后，经验丰富的切片师傅进行切割，确保每片鱼片的完整性。我们的加工过程包括关键的卫生控制和手动去寄生虫环节，确保产品的最高纯净度。按大小分级并在产地包装，我们的鱼片被即时冷冻，以保持其优质品质送达您的餐桌。",
-      "v": {
-        "0": "带皮鱼片 (层叠 / IQF 1/2 lbs)",
-        "1": "去皮鱼片 (层叠 / IQF 1-10 kg)"
-      }
-    },
-    "calamar": {
-      "name": "鱿鱼（SQUID）",
-      "desc": "南大西洋鱿鱼资源，质地优良，大小均匀。在最佳季节捕获，并按照严格的国际法规加工。"
-    },
-    "calamar-variedades": {
-      "name": "鱿鱼（Squid）",
-      "desc": "南大西洋鱿鱼资源，质地优良，大小均匀。在最佳季节捕获，按照严格的国际法规加工。",
-      "v": {
-        "0": "整只",
-        "1": "整只",
-        "2": "筒",
-        "3": "触须",
-        "4": "鳍或翼",
-        "5": "净筒",
-        "6": "圈"
-      }
-    },
-    "variado-costero": {
-      "name": "沿岸鱼类（COASTAL VARIETY）",
-      "desc": "从我们的港口每日精选沿岸鱼类，保证绝对新鲜，适用于国内市场和航空出口。"
-    },
-    "variado-costero-cat": {
-      "name": "沿岸鱼类（Coastal variety）",
-      "desc": "从我们的港口每日精选沿岸鱼类，保证绝对新鲜，适用于国内市场和航空出口。",
-      "v": {
-        "0": "鲜整条（空运）",
-        "1": "冷冻整条",
-        "2": "整条黄花鱼",
-        "3": "CORVINA GS (YELLOW CROAKER) 袋 3 kg, 2袋 x 大箱"
-      }
-    },
-    "elaborados": {
-      "name": "加工产品（PROCESSED PRODUCTS）",
-      "desc": "针对目标市场的特定要求进行特殊加工，优化展示形式、重量和出口外箱规格。"
-    },
-    "elaborados-cat": {
-      "name": "加工产品（Processed products）",
-      "desc": "针对目标市场特定要求的特殊加工，优化展示形式、重量和出口外箱。",
-      "v": {
-        "0": "裹粉鳕鱼片",
-        "1": "汉堡 (鳕鱼、鸡肉、菠菜、火腿、奶酪、春蔬)",
-        "2": "手指鱼 (鳕鱼、鸡肉、菠菜、火腿、奶酪、春蔬)",
-        "3": "鱿鱼圈 (天然和裹粉)",
-        "4": "儿童与海洋造型",
-        "5": "分份鳕鱼片",
-        "6": "零售"
-      }
-    },
-    "packingLabel": "展示 / 包装：",
-    "varietiesLabel": "品种与照片："
-  },
-  "retail": {
-    "title": "重定向中...",
-    "text": "零售系列现已整合至我们的 ",
-    "catalogoLink": "产品目录"
-  },
-  "contacto": {
-    "title": "索取报价",
-    "subtitle": "填写表格，我们的销售团队将尽快与您联系",
-    "form": {
-      "nombre": "姓名 *",
-      "empresa": "公司名称 *",
-      "cargo": "职位",
-      "telefono": "电话 *",
-      "email": "邮箱 *",
-      "mensaje": "留言 *",
-      "placeholder": "描述您的需求、感兴趣的品种、预估数量、目标市场...",
-      "submit": "发送询盘",
-      "submitting": "发送中...",
-      "success": "消息发送成功！我们的销售团队将尽快与您联系。",
-      "error": "发送失败。请重试或直接与我们联系。"
-    }
-  },
-  "header": {
-    "ariaNav": "主导航",
-    "ariaLangSelector": "选择语言",
-    "ariaLangCurrent": "当前语言：中文",
-    "ariaLangs": "可用语言",
-    "audiotoggle": "静音背景音乐",
-    "menuOpen": "打开菜单",
-    "menuClose": "关闭菜单",
-    "inicio": "首页",
-    "skipLink": "跳转到主要内容"
+    "navInformacion": "行业信息"
   },
   "common": {
     "loading": "加载中...",

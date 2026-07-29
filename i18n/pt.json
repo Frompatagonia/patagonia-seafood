@@ -6,12 +6,13 @@
     "frigorificos": "Frigoríficos",
     "catalogo": "Catálogo",
     "retail": "Varejo",
+    "informacion": "Informação",
     "contacto": "Contato"
   },
   "hero": {
     "title": "From Patagonia",
     "subtitle": "A essência do Mar Argentino em cada produto",
-    "tagline": "Exportador premium de camarão, merluza, lula e variado costeiro com rastreabilidade total e certificação internacional",
+    "tagline": "Exportador premium de camarão, merluza, lula e peixe costeiro com rastreabilidade total e certificação internacional",
     "ctaCatalog": "Ver Catálogo",
     "ctaContact": "Solicitar Orçamento"
   },
@@ -20,23 +21,23 @@
     "subtitle": "Qualidade nascida no mar, processada com excelência, entregue ao mundo",
     "fleet": {
       "title": "Frota Própria",
-      "desc": "7 tipos de embarcações (tangoneiros, arrasteiros, pozeiros, covo/armadilha/palangre) operando em 7 portos patagônicos"
+      "desc": "7 tipos de embarcações operando em 7 portos patagônicos"
     },
     "plants": {
       "title": "Plantas Industriais",
-      "desc": "Mar del Plata (7.500 m², 320 pers.) e Trelew (1.500 m², 200 pers.) com tecnologia de congelamento por placa e túneis"
+      "desc": "Mar del Plata (7.500 m²) e Trelew (1.500 m²) com tecnologia de ponta"
     },
     "certs": {
       "title": "Certificações Globais",
-      "desc": "SENASA, HACCP, UE, FDA, China, Rússia, DIPOA Brasil - Acesso aos mercados mais exigentes do mundo"
+      "desc": "SENASA, HACCP, UE, FDA, China, Rússia, DIPOA Brasil"
     },
     "export": {
       "title": "Exportação Mundial",
-      "desc": "Presença em 13 mercados: EUA, Europa, Rússia, China, Japão, Oriente Médio, Brasil, Venezuela e mais"
+      "desc": "Presença em 13 mercados internacionais"
     }
   },
   "products": {
-    "title": "Espécies Estrela",
+    "title": "Espécies Principais",
     "subtitle": "Nossos produtos mais demandados internacionalmente",
     "langostino": {
       "name": "Camarão Patagônico",
@@ -44,323 +45,38 @@
       "desc": "Congelado a bordo e em terra. Tamanhos L1, L2, L3, Caudas C1, C2, C1L, Descascado e deveinado."
     },
     "merluza": {
-      "name": "Merluza",
+      "name": "Merluza Austral",
       "sci": "Merluccius hubbsi",
-      "desc": "Inteira, HG/HGT, Filé com e sem pele. Zona FAO 41. Mares 7-10 dias (MDP) e 2-3 dias (CR)."
+      "desc": "Inteira, HG/HGT, Filé com/sem pele. Zona FAO 41. Marés 7-10d (MDP) e 2-3d (CR)."
     },
     "calamar": {
       "name": "Lula Argentina",
       "sci": "Illex argentinus",
-      "desc": "Inteira, Bainha, Tentáculo, Barbatana, Tubo limpo, Anéis. Captura por frota pozeira especializada no caladouro patagônico."
+      "desc": "Inteira, Tubo, Tentáculo, Nadadeira, Tubo limpo, Anéis. Captura por frota especializada."
     }
   },
   "cta": {
     "title": "Pronto para trabalhar com a melhor qualidade do Mar Argentino?",
-    "desc": "Empresas líderes mundiais confiam em nossa experiência e rastreabilidade. Solicite seu orçamento personalizado.",
+    "desc": "Líderes mundiais confiam em nossa experiência e rastreabilidade. Solicite seu orçamento personalizado.",
     "btn": "Solicitar Orçamento"
+  },
+  "informacion": {
+    "title": "Informação do Setor Pesqueiro",
+    "subtitle": "Notícias e análises do setor pesqueiro argentino e internacional",
+    "sectionFromPatagonia": "From Patagonia Seafood",
+    "sectionNoticias": "Notícias do Setor"
   },
   "footer": {
     "tagline": "Exportamos a riqueza do Mar Argentino ao mundo",
     "contact": "Contato",
     "address": "Mar del Plata, Buenos Aires, Argentina",
     "phone": "+54 223 555-0123",
-    "company": "From Patagonia Seafood",
     "follow": "Siga-nos",
     "rights": "Todos os direitos reservados",
     "privacy": "Política de Privacidade",
     "terms": "Termos e Condições",
     "watermark": "by Sottomarina SA / Guigus SA",
-    "contactForm": "Formulário de contato",
-    "navInstitucional": "Institucional",
-    "navFlota": "Frota",
-    "navComercial": "Comercial",
-    "navFrigorificos": "Frigoríficos",
-    "navCatalogo": "Catálogo de Produtos",
-    "navContacto": "Contato",
-    "ariaInicio": "From Patagonia Seafood - Início"
-  },
-  "institucional": {
-    "title": "Institucional",
-    "subtitle": "Conheça nossa história, valores e compromisso com a excelência.",
-    "history": {
-      "title": "Nossa História",
-      "subtitle": "A essência do Mar Argentino",
-      "p1": "Na From Patagonia, nossa essência é o Mar Argentino. Somos uma empresa familiar e histórica dedicada à extração, processamento e exportação de peixes e frutos do mar com décadas de experiência, integrando toda a cadeia de valor: desde a captura em nossas águas frias e cristalinas até a logística global que garante que o produto chegue ao mercado internacional em condições de frescor absoluto.",
-      "p2": "Operamos com frota própria, processamos em nossas plantas de Mar del Plata e Trelew com os mais altos padrões sanitários e nossa marca é sinônimo de rastreabilidade total em todo o circuito produtivo. Exportamos ao mundo a riqueza de nossas costas, com a seriedade e o compromisso que os mercados mais exigentes demandam.",
-      "p3": "Empresas argentinas amplamente conhecidas no mercado mundial confiam suas produções em nossas mãos devido à nossa ampla experiência!!"
-    },
-    "vision": {
-      "title": "Nossa Visão",
-      "quote": "\"Consolidar-nos como a referência indiscutível na exportação de produtos do Mar Argentino a nível global, mantendo a excelência em qualidade, rastreabilidade e sustentabilidade que nos caracteriza.\""
-    },
-    "values": {
-      "title": "Valores que nos guiam",
-      "items": [
-        {
-          "title": "Rastreabilidade Total",
-          "desc": "Do mar à mesa, cada passo documentado"
-        },
-        {
-          "title": "Qualidade Premium",
-          "desc": "Padrões internacionais em cada processo"
-        },
-        {
-          "title": "Sustentabilidade",
-          "desc": "Pesca responsável, cuidando do recurso para futuras gerações"
-        },
-        {
-          "title": "Compromisso Familiar",
-          "desc": "Décadas de experiência, honrando nossa palavra"
-        }
-      ]
-    },
-    "certs": {
-      "title": "Certificações Internacionais",
-      "subtitle": "Avaliam nossa qualidade e abertura de mercados"
-    }
-  },
-  "flota": {
-    "title": "Nossa Frota",
-    "subtitle": "7 tipos de embarcações operando em 7 portos patagônicos. Frota própria com rastreabilidade total.",
-    "congeladores": {
-      "title": "A) CONGELADORES",
-      "tangoneros": {
-        "name": "Tangoneiros Arrasteiros",
-        "desc": "Frota especializada em camarão com congelamento a bordo imediato. Captura, classificação e congelamento no mesmo navio em minutos."
-      },
-      "arrastreros": {
-        "name": "Arrasteiros (Espécies Variadas/Merluza)",
-        "desc": "Frota para merluza e espécies variadas com marés de 7-10 dias (Mar del Plata) e 2-3 dias (Comodoro Rivadavia). Processamento em plantas próprias."
-      },
-      "poteros": {
-        "name": "Poziero (Lula)",
-        "desc": "Frota especializada em lula Illex argentinus com tecnologia de pesca dirigida e processamento em planta."
-      }
-    },
-    "fresqueros": {
-      "title": "B) FRESQUEIROS",
-      "tangoneros": {
-        "name": "Tangoneiros Fresqueiros",
-        "desc": "Captura e descarga diária em portos patagônicos para processamento imediato em planta. Máximo frescor garantido."
-      },
-      "monored": {
-        "name": "Arrasteiros Mono Rede (Espécies Variadas/Merluza)",
-        "desc": "Frota fresqueira com arte de arrasto mono rede para captura seletiva de merluza e espécies associadas."
-      },
-      "costeros": {
-        "name": "Covo/Armadilha/Palangre (Costeiros)",
-        "desc": "Artes de pesca seletiva e sustentável para espécies costeiras de alto valor. Mínimo impacto ambiental."
-      }
-    },
-    "gallery": {
-      "title": "Galeria de Frota",
-      "subtitle": "Carrossel cinematográfico sincronizado com música. Ken Burns, swipe, pausa hover."
-    },
-    "videos": {
-      "title": "Vídeos de Frota",
-      "subtitle": "Navegação e operações no Mar Argentino"
-    },
-    "ports": {
-      "title": "Portos de Operação"
-    },
-    "video1Desc": "Navio convencional trabalhando - Navegação em mau tempo",
-    "video2Desc": "Navios em tempestade - Timelapse navegação"
-  },
-  "frigorificos": {
-    "title": "Frigoríficos Industriais",
-    "subtitle": "Duas plantas de processo com tecnologia de ponta e capacidade total de 1.250 toneladas de armazenamento",
-    "specs": {
-      "title": "Especificações Técnicas",
-      "subtitle": "Infraestrutura industrial de primeiro nível para garantir qualidade e rastreabilidade",
-      "thUbicacion": "Localização",
-      "thPersonal": "Pessoal",
-      "thSuperficie": "Superfície",
-      "thTecnologia": "Tecnologia",
-      "thCapacidad": "Capacidade Armazenamento",
-      "mdpName": "Mar del Plata",
-      "mdpLocation": "Localizada no porto",
-      "mdpPersonal": "320 pessoas",
-      "mdpSuperficie": "7.500 m²",
-      "mdpTecnologia": "Congelamento por placa de contato, túneis estáticos e giro freezer",
-      "mdpCapacidad": "1.000 toneladas",
-      "trelewName": "Trelew",
-      "trelewLocation": "Parque Industrial",
-      "trelewPersonal": "200 pessoas (temporada camarão)",
-      "trelewSuperficie": "1.500 m²",
-      "trelewTecnologia": "Congelamento por placa de contato e túneis estáticos",
-      "trelewCapacidad": "250 toneladas"
-    },
-    "gallery": {
-      "title": "Galeria de Plantas",
-      "subtitle": "Carrossel cinematográfico com vídeos de processo. Ken Burns, swipe, pausa hover, sync com música."
-    },
-    "videos": {
-      "title": "Vídeos de Processo",
-      "subtitle": "Processamento em nossas plantas"
-    },
-    "video1Desc": "Classificação e controle de parasitas em filé",
-    "video2Desc": "Embalagem de filé de merluza",
-    "video3Desc": "Processo de camarão inteiro",
-    "video4Desc": "Processo de corvina inteira",
-    "video5Desc": "Produção de camarão descascado e deveinado",
-    "certs": {
-      "title": "Certificações",
-      "subtitle": "Avaliam nosso cumprimento com os padrões internacionais mais exigentes",
-      "senasa": "Serviço Nacional de Sanidade e Qualidade Agroalimentar",
-      "haccp": "Análise de Perigos e Pontos Críticos de Controle",
-      "ue": "Regulamento CE 852/2004 e 853/2004",
-      "fda": "Food and Drug Administration - EUA",
-      "china": "GACC - General Administration of Customs",
-      "rusia": "Rosselkhoznadzor - Serviço Federal Veterinário",
-      "dipoa": "Departamento de Inspeção de Produtos de Origem Animal"
-    }
-  },
-  "comercial": {
-    "title": "Área Comercial",
-    "subtitle": "Nossa rede logística global conecta a Patagônia com os principais mercados mundiais.",
-    "sectionTitle": "Rede Comercial Global",
-    "sectionSubtitle": "A Patagônia conectada com os mercados mais exigentes do mundo",
-    "statMercados": "Mercados",
-    "statPaises": "Países",
-    "statContinentes": "Continentes",
-    "mapTitle": "Mapa de Exportações",
-    "mapSubtitle": "Conexões comerciais da Patagônia para o mundo"
-  },
-  "catalogo": {
-    "title": "Catálogo de Produtos",
-    "subtitle": "Explore nossa completa gama de espécies do Mar Argentino. Cada produto conta com rastreabilidade total e certificação internacional.",
-    "langostinos": {
-      "name": "CAMARÃO",
-      "desc": "Nosso Camarão Patagônico (Pleoticus muelleri) é a joia do Mar Argentino. Capturado por nossa frota própria nas águas frias e cristalinas da Patagônia e processado com os mais altos padrões de qualidade e segurança alimentar, está disponível em uma ampla variedade de apresentações: inteiro congelado a bordo ou em terra, caudas, descascado e deveinado. Seu sabor intenso e textura firme o tornam a escolha preferida dos mercados internacionais mais exigentes."
-    },
-    "langostino-bordo": {
-      "name": "Camarão processado a bordo",
-      "desc": "A excelência do camarão congelado a bordo reside na sua imediatidade. Capturado em águas nacionais, é classificado e congelado no mesmo navio em questão de minutos após sua pesca. Este processo elimina a cadeia de transporte em terra, permitindo que o produto mantenha todas as suas qualidades organolépticas intactas do mar até a caixa final. É, por definição, um produto de frescor absoluto capturado no seu ponto ótimo.",
-      "v": {
-        "0": "INTEIRO L1 (10/20 PPK)",
-        "1": "INTEIRO L2 (20/30 PPK)",
-        "2": "INTEIRO L3 (30/40 PPK)",
-        "3": "CAUDAS"
-      }
-    },
-    "langostino-tierra": {
-      "name": "Camarão processado em terra",
-      "desc": "Nosso camarão fresco de temporada é capturado por nossa frota fresqueira e transportado diariamente às nossas plantas em Trelew, garantindo uma cadeia de frio ininterrupta. Aqui, uma equipe especializada realiza o processamento sob medida segundo seus requisitos: desde a decaptação até a descasca e deveinação precisa. Cada peça é classificada cuidadosamente e congelada seguindo rigorosos controles de segurança alimentar para garantir um produto pronto para usar com qualidade de exportação.",
-      "v": {
-        "0": "INTEIRO L1 (10/20 PPK)",
-        "1": "INTEIRO L2 (20/30 PPK)",
-        "2": "INTEIRO L3 (30/40 PPK)",
-        "3": "CAUDAS C1 (30/55 PPK)",
-        "4": "CAUDAS C2 (55/UP)",
-        "5": "CAUDAS C1L (30/45 PPK)",
-        "6": "CAUDAS MIX (C1 e C2)",
-        "7": "PELADO E LIMPO",
-        "8": "PELADO SACO"
-      }
-    },
-    "merluza": {
-      "name": "MERLUZA",
-      "desc": "Nossa Merluza (Merluccius hubbsi) provém da Zona FAO 41, com marés de 7 a 10 dias (frota Mar del Plata) ou 2 a 3 dias (frota Comodoro Rivadavia) que garantem frescor inigualável. Ao chegar ao porto, o peixe é transferido sob estrita cadeia de frio para nossas plantas de processamento (Mar del Plata ou Trelew). Ali se realiza a decaptação e evisceração automática com os mais altos padrões de higiene, seguido de classificação precisa por tamanhos e congelamento ultrarrápido que preserva a textura e propriedades naturais."
-    },
-    "merluza-entera-hg": {
-      "name": "Merluza inteira e HG/HGT",
-      "desc": "Nossa Merluza provém da Zona FAO 41, com marés de 7 a 10 dias (frota Mar del Plata) ou 2 a 3 dias (frota Comodoro Rivadavia) que garantem frescor inigualável. Ao chegar ao porto, o peixe é transferido sob estrita cadeia de frio para nossas plantas de processamento. Ali se realiza a decaptação e evisceração automática com os mais altos padrões de higiene, seguido de classificação precisa por tamanhos e congelamento ultrarrápido.",
-      "v": {
-        "0": "INTEIRA 80/200 GRS (Bloco / Interfolhado 10 kg)",
-        "1": "HG ou HGT 80/200 GRS (Bloco / Interfolhado 10 kg, saco 1-10 kg)"
-      }
-    },
-    "merluza-filet": {
-      "name": "Filé de merluza",
-      "desc": "O filé da nossa merluza é sinônimo de precisão e cuidado. Após a recepção na planta, especialistas fileteiros realizam o corte garantindo a integridade de cada peça. Nosso processo inclui uma etapa chave de controle sanitário e desparasitação manual, assegurando um produto de máxima pureza. Classificado por tamanho e embalado na origem, nosso filé é congelado instantaneamente para chegar à sua mesa mantendo sua qualidade premium.",
-      "v": {
-        "0": "FILÉ COM PELE (Interfolhado / IQF 1/2 lbs)",
-        "1": "FILÉ SEM PELE (Interfolhado / IQF 1-10 kg)"
-      }
-    },
-    "calamar": {
-      "name": "LULA",
-      "desc": "Recursos de lula do Atlântico Sul de excelente textura e calibre homogêneo. Capturada em temporada ótima e processada sob rigorosas normas internacionais."
-    },
-    "calamar-variedades": {
-      "name": "Lula",
-      "desc": "Recursos de lula do Atlântico Sul de excelente textura e calibre homogêneo. Capturada em temporada ótima e processada sob rigorosas normas internacionais.",
-      "v": {
-        "0": "INTEIRO",
-        "1": "INTEIRO",
-        "2": "TUBO",
-        "3": "TENTÁCULO",
-        "4": "NADEIRA OU ASA",
-        "5": "TUBO LIMPO",
-        "6": "ANÉIS"
-      }
-    },
-    "variado-costero": {
-      "name": "VARIADO COSTEIRO",
-      "desc": "Seleção diária de variedades costeiras de nossos portos, garantindo frescor absoluto tanto para mercado interno quanto para exportação aérea."
-    },
-    "variado-costero-cat": {
-      "name": "Variado costeiro",
-      "desc": "Seleção diária de variedades costeiras de nossos portos, garantindo frescor absoluto tanto para mercado interno quanto para exportação aérea.",
-      "v": {
-        "0": "FRESCO INTEIRO (por via aérea)",
-        "1": "CONGELADO INTEIRO",
-        "2": "CORVINA INTEIRA",
-        "3": "CORVINA GS (YELLOW CROAKER) Sacos 3 kg, 2 sacos x master"
-      }
-    },
-    "elaborados": {
-      "name": "ELABORADOS",
-      "desc": "Processamento especial adaptado aos requisitos específicos dos mercados de destino, otimizando apresentação, gramaturas e caixas master de exportação."
-    },
-    "elaborados-cat": {
-      "name": "Elaborados",
-      "desc": "Processamento especial adaptado aos requisitos específicos dos mercados de destino, otimizando apresentação, gramaturas e caixas master de exportação.",
-      "v": {
-        "0": "FILÉ DE MERLUZA EMPANADO",
-        "1": "HAMBÚRGUERES (Merluza, frango, espinafre, presunto, queijo, primavera)",
-        "2": "PALITOS (Merluza, frango, espinafre, presunto, queijo, primavera)",
-        "3": "ANÉIS DE LULA (Natural e empanado)",
-        "4": "FORMAS INFANTIS E MARINHAS",
-        "5": "FILÉ DE MERLUZA PORCIONADO",
-        "6": "VAREJO"
-      }
-    },
-    "packingLabel": "Apresentação / Embalagem:",
-    "varietiesLabel": "Variedades e Fotos:"
-  },
-  "retail": {
-    "title": "Redirecionando...",
-    "text": "A linha Varejo agora faz parte do nosso ",
-    "catalogoLink": "Catálogo de Produtos"
-  },
-  "contacto": {
-    "title": "Solicitar Orçamento",
-    "subtitle": "Complete o formulário e nossa equipe comercial responderá em breve",
-    "form": {
-      "nombre": "Nome Completo *",
-      "empresa": "Empresa *",
-      "cargo": "Cargo",
-      "telefono": "Telefone *",
-      "email": "Email *",
-      "mensaje": "Mensagem *",
-      "placeholder": "Descreva sua consulta, espécies de interesse, volumes estimados, mercados destino...",
-      "submit": "Enviar Consulta",
-      "submitting": "Enviando...",
-      "success": "Mensagem enviada com sucesso! Nossa equipe comercial entrará em contato em breve.",
-      "error": "Erro ao enviar. Tente novamente ou contate-nos diretamente."
-    }
-  },
-  "header": {
-    "ariaNav": "Navegação principal",
-    "ariaLangSelector": "Selecionar idioma",
-    "ariaLangCurrent": "Idioma atual: Português",
-    "ariaLangs": "Idiomas disponíveis",
-    "audiotoggle": "Silenciar música de fundo",
-    "menuOpen": "Abrir menu",
-    "menuClose": "Fechar menu",
-    "inicio": "Início",
-    "skipLink": "Pular para o conteúdo principal"
+    "navInformacion": "Informação do Setor"
   },
   "common": {
     "loading": "Carregando...",
@@ -372,7 +88,7 @@
     "play": "Reproduzir",
     "pause": "Pausar",
     "mute": "Mudo",
-    "unmute": "Ativar som",
+    "unmute": "Som",
     "fullscreen": "Tela cheia",
     "gallery": "Ver galeria completa",
     "certifications": "Certificações",

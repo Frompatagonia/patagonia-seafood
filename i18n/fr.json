@@ -5,362 +5,78 @@
     "comercial": "Commercial",
     "frigorificos": "Frigorifiques",
     "catalogo": "Catalogue",
-    "retail": "Détail",
+    "retail": "Retail",
+    "informacion": "Information",
     "contacto": "Contact"
   },
   "hero": {
     "title": "From Patagonia",
     "subtitle": "L'essence de la Mer Argentine dans chaque produit",
-    "tagline": "Exportateur premium de crevettes, merlu, calmar et variété côtière avec traçabilité totale et certification internationale",
-    "ctaCatalog": "Voir le Catalogue",
-    "ctaContact": "Demander un Devis"
+    "tagline": "Exportateur premium de crevettes, merlu, calmar et poisson côtier avec traçabilité totale et certification internationale",
+    "ctaCatalog": "Voir Catalogue",
+    "ctaContact": "Demander Devis"
   },
   "highlights": {
     "title": "Notre Différence",
-    "subtitle": "Qualité née en mer, transformée avec excellence, livrée dans le monde entier",
+    "subtitle": "Qualité née en mer, transformée avec excellence, livrée au monde",
     "fleet": {
       "title": "Flotte Propre",
-      "desc": "7 types de navires (chalutiers, ligneurs, casiers/palangres) opérant depuis 7 ports patagoniens"
+      "desc": "7 types de navires opérant dans 7 ports patagoniens"
     },
     "plants": {
       "title": "Usines Industrielles",
-      "desc": "Mar del Plata (7.500 m², 320 pers.) et Trelew (1.500 m², 200 pers.) avec technologie de congélation par plaque et tunnels"
+      "desc": "Mar del Plata (7.500 m²) et Trelew (1.500 m²) avec technologie de pointe"
     },
     "certs": {
       "title": "Certifications Globales",
-      "desc": "SENASA, HACCP, UE, FDA, Chine, Russie, DIPOA Brésil - Accès aux marchés les plus exigeants du monde"
+      "desc": "SENASA, HACCP, UE, FDA, Chine, Russie, DIPOA Brésil"
     },
     "export": {
       "title": "Exportation Mondiale",
-      "desc": "Présence dans 13 marchés : USA, Europe, Russie, Chine, Japon, Moyen-Orient, Brésil, Venezuela et plus"
+      "desc": "Présence sur 13 marchés internationaux"
     }
   },
   "products": {
-    "title": "Espèces Stars",
+    "title": "Espèces Phares",
     "subtitle": "Nos produits les plus demandés internationalement",
     "langostino": {
-      "name": "Crevette Patagonienne",
+      "name": "Crevette Patagonique",
       "sci": "Pleoticus muelleri",
       "desc": "Congelé à bord et à terre. Tailles L1, L2, L3, Queues C1, C2, C1L, Décortiqué et déveiné."
     },
     "merluza": {
-      "name": "Merlu",
+      "name": "Merlu Austral",
       "sci": "Merluccius hubbsi",
-      "desc": "Entier, HG/HGT, Filet avec et sans peau. Zone FAO 41. Marées 7-10 jours (MDP) et 2-3 jours (CR)."
+      "desc": "Entier, HG/HGT, Filet avec/sans peau. Zone FAO 41. Marées 7-10j (MDP) et 2-3j (CR)."
     },
     "calamar": {
       "name": "Calmar Argentin",
       "sci": "Illex argentinus",
-      "desc": "Entier, Gaine, Tentacule, Aileron, Tube propre, Anneaux. Capture par flotte spécialisée dans les eaux patagoniennes."
+      "desc": "Entier, Tube, Tentacule, Nageoire, Tube net, Anneaux. Capturé par flotte spécialisée."
     }
   },
   "cta": {
     "title": "Prêt à travailler avec la meilleure qualité de la Mer Argentine ?",
-    "desc": "Des entreprises leaders mondiaux font confiance à notre expérience et traçabilité. Demandez votre devis personnalisé.",
-    "btn": "Demander un Devis"
+    "desc": "Les leaders mondiaux font confiance à notre expérience et traçabilité. Demandez votre devis personnalisé.",
+    "btn": "Demander Devis"
+  },
+  "informacion": {
+    "title": "Information sur le Secteur de la Pêche",
+    "subtitle": "Actualités et analyses du secteur de la pêche argentin et international",
+    "sectionFromPatagonia": "From Patagonia Seafood",
+    "sectionNoticias": "Actualités du Secteur"
   },
   "footer": {
-    "tagline": "Nous exportons la richesse de la Mer Argentine dans le monde",
+    "tagline": "Exportons la richesse de la Mer Argentine au monde",
     "contact": "Contact",
     "address": "Mar del Plata, Buenos Aires, Argentine",
     "phone": "+54 223 555-0123",
-    "company": "From Patagonia Seafood",
     "follow": "Suivez-nous",
     "rights": "Tous droits réservés",
     "privacy": "Politique de Confidentialité",
     "terms": "Conditions Générales",
     "watermark": "by Sottomarina SA / Guigus SA",
-    "contactForm": "Formulaire de contact",
-    "navInstitucional": "Institutionnel",
-    "navFlota": "Flotte",
-    "navComercial": "Commercial",
-    "navFrigorificos": "Frigorifiques",
-    "navCatalogo": "Catalogue Produits",
-    "navContacto": "Contact",
-    "ariaInicio": "From Patagonia Seafood - Accueil"
-  },
-  "institucional": {
-    "title": "Institutionnel",
-    "subtitle": "Découvrez notre histoire, nos valeurs et notre engagement envers l'excellence.",
-    "history": {
-      "title": "Notre Histoire",
-      "subtitle": "L'essence de la Mer Argentine",
-      "p1": "Chez From Patagonia, notre essence est la Mer Argentine. Nous sommes une entreprise familiale historique dédiée à l'extraction, la transformation et l'exportation de poissons et fruits de mer avec des décennies d'expérience, intégrant toute la chaîne de valeur : de la capture dans nos eaux froides et cristallines à la logistique mondiale garantissant que le produit arrive aux marchés internationaux dans des conditions de fraîcheur absolue.",
-      "p2": "Nous opérons avec notre propre flotte, transformons dans nos usines de Mar del Plata et Trelew avec les plus hautes normes sanitaires, et notre marque est synonyme de traçabilité totale dans tout le circuit de production. Nous exportons la richesse de nos côtes au monde, avec le sérieux et l'engagement que les marchés les plus exigeants demandent.",
-      "p3": "Des entreprises argentines largement connues sur le marché mondial confient leurs productions entre nos mains grâce à notre vaste expérience !!"
-    },
-    "vision": {
-      "title": "Notre Vision",
-      "quote": "\"Nous consolider comme la référence incontestée dans l'exportation de produits de la Mer Argentine au niveau mondial, en maintenant l'excellence en qualité, traçabilité et durabilité qui nous caractérise.\""
-    },
-    "values": {
-      "title": "Valeurs qui nous guident",
-      "items": [
-        {
-          "title": "Traçabilité Totale",
-          "desc": "De la mer à la table, chaque étape documentée"
-        },
-        {
-          "title": "Qualité Premium",
-          "desc": "Normes internationales dans chaque processus"
-        },
-        {
-          "title": "Durabilité",
-          "desc": "Pêche responsable, préservant la ressource pour les générations futures"
-        },
-        {
-          "title": "Engagement Familial",
-          "desc": "Des décennies d'expérience, honorant notre parole"
-        }
-      ]
-    },
-    "certs": {
-      "title": "Certifications Internationales",
-      "subtitle": "Garantissant notre qualité et notre accès aux marchés"
-    }
-  },
-  "flota": {
-    "title": "Notre Flotte",
-    "subtitle": "7 types de navires opérant depuis 7 ports patagoniens. Flotte propre avec traçabilité totale.",
-    "congeladores": {
-      "title": "A) CONGÉLATEURS",
-      "tangoneros": {
-        "name": "Chalutiers Tangon",
-        "desc": "Flotte spécialisée dans la crevette avec congélation immédiate à bord. Capture, tri et congélation sur le même navire en minutes."
-      },
-      "arrastreros": {
-        "name": "Chalutiers (Espèces Variées/Merlu)",
-        "desc": "Flotte pour le merlu et espèces variées avec marées de 7-10 jours (Mar del Plata) et 2-3 jours (Comodoro Rivadavia). Transformation dans nos propres usines."
-      },
-      "poteros": {
-        "name": "Ligneur (Calmar)",
-        "desc": "Flotte spécialisée dans le calmar Illex argentinus avec technologie de pêche dirigée et transformation en usine."
-      }
-    },
-    "fresqueros": {
-      "title": "B) NAVIRES FRAIS",
-      "tangoneros": {
-        "name": "Tangoniers Frais",
-        "desc": "Capture et déchargement quotidiens dans les ports patagoniens pour transformation immédiate en usine. Fraîcheur maximale garantie."
-      },
-      "monored": {
-        "name": "Chalutiers Monofilament (Espèces Variées/Merlu)",
-        "desc": "Flotte fraîche avec art de chalut mono filet pour capture sélective de merlu et espèces associées."
-      },
-      "costeros": {
-        "name": "Casier/Palangre (Côtiers)",
-        "desc": "Engins de pêche sélective et durable pour espèces côtières de haute valeur. Impact environnemental minimal."
-      }
-    },
-    "gallery": {
-      "title": "Galerie de la Flotte",
-      "subtitle": "Carrousel cinématographique synchronisé avec musique. Ken Burns, swipe, pause au survol."
-    },
-    "videos": {
-      "title": "Vidéos de la Flotte",
-      "subtitle": "Navigation et opérations dans la Mer Argentine"
-    },
-    "ports": {
-      "title": "Ports d'Opération"
-    },
-    "video1Desc": "Navire conventionnel au travail - Navigation par mauvais temps",
-    "video2Desc": "Navires en tempête - Timelapse navigation"
-  },
-  "frigorificos": {
-    "title": "Frigorifiques Industriels",
-    "subtitle": "Deux usines de transformation avec technologie de pointe et capacité totale de 1.250 tonnes de stockage",
-    "specs": {
-      "title": "Spécifications Techniques",
-      "subtitle": "Infrastructure industrielle de premier niveau pour garantir qualité et traçabilité",
-      "thUbicacion": "Emplacement",
-      "thPersonal": "Personnel",
-      "thSuperficie": "Surface",
-      "thTecnologia": "Technologie",
-      "thCapacidad": "Capacité Stockage",
-      "mdpName": "Mar del Plata",
-      "mdpLocation": "Située au port",
-      "mdpPersonal": "320 personnes",
-      "mdpSuperficie": "7.500 m²",
-      "mdpTecnologia": "Congélation par plaque de contact, tunnels statiques et spiral freezer",
-      "mdpCapacidad": "1.000 tonnes",
-      "trelewName": "Trelew",
-      "trelewLocation": "Parc Industriel",
-      "trelewPersonal": "200 personnes (saison crevette)",
-      "trelewSuperficie": "1.500 m²",
-      "trelewTecnologia": "Congélation par plaque de contact et tunnels statiques",
-      "trelewCapacidad": "250 tonnes"
-    },
-    "gallery": {
-      "title": "Galerie des Usines",
-      "subtitle": "Carrousel cinématographique avec vidéos de processus. Ken Burns, swipe, pause survol, sync musique."
-    },
-    "videos": {
-      "title": "Vidéos de Processus",
-      "subtitle": "Transformation dans nos usines"
-    },
-    "video1Desc": "Classification et contrôle des parasites dans le filet",
-    "video2Desc": "Conditionnement du filet de merlu",
-    "video3Desc": "Processus de crevette entière",
-    "video4Desc": "Processus de courbine entière",
-    "video5Desc": "Production de crevettes décortiquées et déveinées",
-    "certs": {
-      "title": "Certifications",
-      "subtitle": "Garantissant notre conformité aux normes internationales les plus exigeantes",
-      "senasa": "Service National de Santé et Qualité Agroalimentaire",
-      "haccp": "Analyse des Dangers et Points Critiques de Contrôle",
-      "ue": "Règlement CE 852/2004 et 853/2004",
-      "fda": "Food and Drug Administration - USA",
-      "china": "GACC - General Administration of Customs",
-      "rusia": "Rosselkhoznadzor - Service Fédéral Vétérinaire",
-      "dipoa": "Département d'Inspection des Produits d'Origine Animale"
-    }
-  },
-  "comercial": {
-    "title": "Zone Commerciale",
-    "subtitle": "Notre réseau logistique mondial connecte la Patagonie aux principaux marchés mondiaux.",
-    "sectionTitle": "Réseau Commercial Global",
-    "sectionSubtitle": "La Patagonie connectée aux marchés les plus exigeants du monde",
-    "statMercados": "Marchés",
-    "statPaises": "Pays",
-    "statContinentes": "Continents",
-    "mapTitle": "Carte des Exportations",
-    "mapSubtitle": "Connexions commerciales de la Patagonie vers le monde"
-  },
-  "catalogo": {
-    "title": "Catalogue de Produits",
-    "subtitle": "Explorez notre gamme complète d'espèces de la Mer Argentine. Chaque produit bénéficie d'une traçabilité totale et d'une certification internationale.",
-    "langostinos": {
-      "name": "CREVETTES",
-      "desc": "Notre Crevette Patagonienne (Pleoticus muelleri) est le joyau de la Mer Argentine. Capturée par notre propre flotte dans les eaux froides et cristallines de la Patagonie et transformée selon les plus hauts standards de qualité et de sécurité alimentaire, elle est disponible dans une large gamme de présentations : entière congelée à bord ou à terre, queues, décortiquée et déveinée. Sa saveur intense et sa texture ferme en font le choix préféré des marchés internationaux les plus exigeants."
-    },
-    "langostino-bordo": {
-      "name": "Crevette transformée à bord",
-      "desc": "L'excellence de la crevette congelée à bord réside dans son immédiateté. Capturée en eaux nationales, elle est triée et congelée sur le même navire en quelques minutes après sa pêche. Ce processus élimine la chaîne de transport à terre, permettant au produit de conserver toutes ses qualités organoleptiques intactes de la mer jusqu'au carton final. C'est, par définition, un produit de fraîcheur absolue capturé à son point optimal.",
-      "v": {
-        "0": "ENTIER L1 (10/20 PPK)",
-        "1": "ENTIER L2 (20/30 PPK)",
-        "2": "ENTIER L3 (30/40 PPK)",
-        "3": "QUEUES"
-      }
-    },
-    "langostino-tierra": {
-      "name": "Crevette transformée à terre",
-      "desc": "Notre crevette fraîche de saison est capturée par notre flotte de pêche fraîche et transportée quotidiennement à nos usines de Trelew, garantissant une chaîne du froid ininterrompue. Ici, une équipe spécialisée effectue la transformation sur mesure selon vos besoins : de l'étêtage au décorticage et déveinage précis. Chaque pièce est soigneusement triée et congelée suivant des contrôles rigoureux de sécurité alimentaire pour garantir un produit prêt à l'emploi avec une qualité d'exportation.",
-      "v": {
-        "0": "ENTIER L1 (10/20 PPK)",
-        "1": "ENTIER L2 (20/30 PPK)",
-        "2": "ENTIER L3 (30/40 PPK)",
-        "3": "QUEUES C1 (30/55 PPK)",
-        "4": "QUEUES C2 (55/UP)",
-        "5": "QUEUES C1L (30/45 PPK)",
-        "6": "QUEUES MIX (C1 et C2)",
-        "7": "DÉCORTIQUÉ ET DÉVEINÉ",
-        "8": "DÉCORTIQUÉ SAC"
-      }
-    },
-    "merluza": {
-      "name": "MERLU",
-      "desc": "Notre Merlu (Merluccius hubbsi) provient de la zone FAO 41, avec des marées de 7 à 10 jours (flotte Mar del Plata) ou 2 à 3 jours (flotte Comodoro Rivadavia) garantissant une fraîcheur inégalée. À l'arrivée au port, le poisson est transféré sous une chaîne du froid stricte vers nos usines de transformation (Mar del Plata ou Trelew). L'étêtage et l'éviscération automatiques y sont effectués selon les plus hautes normes d'hygiène, suivis d'un calibrage précis et d'une congélation ultra-rapide qui préserve la texture et les propriétés naturelles."
-    },
-    "merluza-entera-hg": {
-      "name": "Merlu entier et HG/HGT",
-      "desc": "Notre Merlu provient de la zone FAO 41, avec des marées de 7 à 10 jours (flotte Mar del Plata) ou 2 à 3 jours (flotte Comodoro Rivadavia) garantissant une fraîcheur inégalée. À l'arrivée au port, le poisson est transféré sous une chaîne du froid stricte vers nos usines de transformation. L'étêtage et l'éviscération automatiques y sont effectués selon les plus hautes normes d'hygiène, suivis d'un calibrage précis et d'une congélation ultra-rapide.",
-      "v": {
-        "0": "ENTIÈRE 80/200 GRS (Bloc / Interfeuille 10 kg)",
-        "1": "HG ou HGT 80/200 GRS (Bloc / Interfeuille 10 kg, sac 1-10 kg)"
-      }
-    },
-    "merluza-filet": {
-      "name": "Filet de merlu",
-      "desc": "Le filet de notre merlu est synonyme de précision et de soin. Après réception à l'usine, des fileteurs experts effectuent la découpe garantissant l'intégrité de chaque pièce. Notre processus comprend une étape clé de contrôle sanitaire et de déparasitage manuel, assurant un produit d'une pureté maximale. Calibré par taille et conditionné à l'origine, notre filet est congelé instantanément pour arriver à votre table en conservant sa qualité premium.",
-      "v": {
-        "0": "FILET AVEC PEAU (Interfeuille / IQF 1/2 lbs)",
-        "1": "FILET SANS PEAU (Interfeuille / IQF 1-10 kg)"
-      }
-    },
-    "calamar": {
-      "name": "CALMAR",
-      "desc": "Ressources de calmars de l'Atlantique Sud d'excellente texture et calibre homogène. Capturé en saison optimale et transformé selon des réglementations internationales rigoureuses."
-    },
-    "calamar-variedades": {
-      "name": "Calmar",
-      "desc": "Ressources de calmars de l'Atlantique Sud d'excellente texture et calibre homogène. Capturé en saison optimale et transformé selon des réglementations internationales rigoureuses.",
-      "v": {
-        "0": "ENTIER",
-        "1": "ENTIER",
-        "2": "TUBE",
-        "3": "TENTACULE",
-        "4": "AILERON OU AILE",
-        "5": "TUBE PROPRE",
-        "6": "RONDELES"
-      }
-    },
-    "variado-costero": {
-      "name": "VARIÉTÉ CÔTIÈRE",
-      "desc": "Sélection quotidienne de variétés côtières depuis nos ports, garantissant une fraîcheur absolue tant pour le marché intérieur que pour l'exportation aérienne."
-    },
-    "variado-costero-cat": {
-      "name": "Variété côtière",
-      "desc": "Sélection quotidienne de variétés côtières depuis nos ports, garantissant une fraîcheur absolue tant pour le marché intérieur que pour l'exportation aérienne.",
-      "v": {
-        "0": "FRAIS ENTIER (par avion)",
-        "1": "CONGELÉ ENTIER",
-        "2": "COURBINE ENTIÈRE",
-        "3": "CORVINA GS (YELLOW CROAKER) Sacs 3 kg, 2 sacs x master"
-      }
-    },
-    "elaborados": {
-      "name": "PRODUITS TRANSFORMÉS",
-      "desc": "Transformation spéciale adaptée aux exigences spécifiques des marchés de destination, optimisant la présentation, les grammages et les cartons master d'exportation."
-    },
-    "elaborados-cat": {
-      "name": "Produits transformés",
-      "desc": "Transformation spéciale adaptée aux exigences spécifiques des marchés de destination, optimisant la présentation, les grammages et les cartons master d'exportation.",
-      "v": {
-        "0": "FILET DE MERLU PANÉ",
-        "1": "HAMBURGERS (Merlu, poulet, épinard, jambon, fromage, printemps)",
-        "2": "BÂTONNETS (Merlu, poulet, épinard, jambon, fromage, printemps)",
-        "3": "RONDELES DE CALMAR (Nature et pané)",
-        "4": "FORMES ENFANTINES ET MARINES",
-        "5": "FILET DE MERLU PORTIONNÉ",
-        "6": "DÉTAIL"
-      }
-    },
-    "packingLabel": "Présentation / Emballage :",
-    "varietiesLabel": "Variétés et Photos :"
-  },
-  "retail": {
-    "title": "Redirection...",
-    "text": "La ligne Détail fait maintenant partie de notre ",
-    "catalogoLink": "Catalogue de Produits"
-  },
-  "contacto": {
-    "title": "Demander un Devis",
-    "subtitle": "Remplissez le formulaire et notre équipe commerciale vous répondra rapidement",
-    "form": {
-      "nombre": "Nom Complet *",
-      "empresa": "Société *",
-      "cargo": "Fonction",
-      "telefono": "Téléphone *",
-      "email": "Email *",
-      "mensaje": "Message *",
-      "placeholder": "Décrivez votre demande, espèces d'intérêt, volumes estimés, marchés destinataires...",
-      "submit": "Envoyer la Demande",
-      "submitting": "Envoi en cours...",
-      "success": "Message envoyé avec succès ! Notre équipe commerciale vous contactera sous peu.",
-      "error": "Erreur lors de l'envoi. Veuillez réessayer ou nous contacter directement."
-    }
-  },
-  "header": {
-    "ariaNav": "Navigation principale",
-    "ariaLangSelector": "Sélectionner la langue",
-    "ariaLangCurrent": "Langue actuelle : Français",
-    "ariaLangs": "Langues disponibles",
-    "audiotoggle": "Couper la musique de fond",
-    "menuOpen": "Ouvrir le menu",
-    "menuClose": "Fermer le menu",
-    "inicio": "Accueil",
-    "skipLink": "Passer au contenu principal"
+    "navInformacion": "Information du Secteur"
   },
   "common": {
     "loading": "Chargement...",
@@ -371,14 +87,14 @@
     "prev": "Précédent",
     "play": "Lire",
     "pause": "Pause",
-    "mute": "Silencieux",
-    "unmute": "Activer le son",
+    "mute": "Muet",
+    "unmute": "Son",
     "fullscreen": "Plein écran",
-    "gallery": "Voir la galerie complète",
+    "gallery": "Voir galerie complète",
     "certifications": "Certifications",
     "specifications": "Spécifications",
     "description": "Description",
-    "packing": "Conditionnement",
+    "packing": "Emballage",
     "scientificName": "Nom scientifique",
     "allRights": "Tous droits réservés"
   }
