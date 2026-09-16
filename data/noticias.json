@@ -1,5 +1,82 @@
 [
   {
+    "fecha": "2026-09-16",
+    "titulo": "Ingreso de Buques a Puerto de Mar del Plata",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/ingreso-de-buques-a-puerto/",
+    "resumen": "Buques programados: BP BEAGLE I - 16:00. Actualización: 16.SEP.2026 05:35 HS"
+  },
+  {
+    "fecha": "2026-09-16",
+    "titulo": "Buques Operando en ZEE Argentina",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/buques-operando/",
+    "resumen": "Mapa interactivo de buques reportando al sistema. Áreas: Zona Común de Pesca (ARG-URU) / Zona de Veda Permanente de Juveniles de Merluza."
+  },
+  {
+    "fecha": "2026-09-16",
+    "titulo": "Monitoreo Satelital de Buques Pesqueros",
+    "fuente": "MAGyP",
+    "url": "https://www.magyp.gob.ar/sitio/areas/pesca_maritima/monitoreo/",
+    "resumen": "Monitoreo oficial de buques reportando al sistema. Áreas: Zona Rinc&oacute;n (Res. CFP N&ordm; 27/2009 y posteriores)."
+  },
+  {
+    "fecha": "2026-09-16",
+    "titulo": "Desembarques de Capturas Marítimas (2026)",
+    "fuente": "MAGyP",
+    "url": "https://www.magyp.gob.ar/sitio/areas/pesca_maritima/desembarques/",
+    "resumen": "Estadísticas oficiales de desembarques por especie, flota y puerto. Datos disponibles: 2026, 2025, 2024, 2023, 2022, 2021, 2020."
+  },
+  {
+    "fecha": "2026-09-16",
+    "titulo": "El CFP convoca hasta cuatro buques para investigar la sardina fueguina",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/el-cfp-convoca-hasta-cuatro-buques-para-investigar-la-sardina-fueguina/",
+    "resumen": "Los proyectos podrán presentarse hasta el 22 de septiembre. La experiencia permitirá evaluar el recurso y las condiciones para desarrollar una nueva pesquería austral."
+  },
+  {
+    "fecha": "2026-09-16",
+    "titulo": "Resolución CTMFM Nro. 8/2026: se fijó en 2.750 toneladas la captura permisible de rayas de altura para 2027",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/resolucion-ctmfm-nro-8-2026-se-fijo-en-2750-toneladas-la-captura-permisible-de-rayas-de-altura-para-2027/",
+    "resumen": "La medida regirá en la Zona Común de Pesca y contempla 2.450 toneladas inicialmente habilitadas y una reserva administrativa de 300 toneladas. La Comisión aplicó un criterio precautorio a partir de la evaluación del recurso."
+  },
+  {
+    "fecha": "2026-09-16",
+    "titulo": "La Comisión de Intereses Marítimos reunió al sector para debatir trazabilidad y transparencia en la pesca",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/la-comision-de-intereses-maritimos-reunio-al-sector-para-debatir-trazabilidad-y-transparencia-en-la-pesca/",
+    "resumen": "Diputados retomó el debate con la participación de organizaciones ambientales, cámaras empresarias, sindicatos y especialistas. Hubo coincidencias sobre la importancia de la trazabilidad, pero diferencias respecto de crear un nuevo sistema nacional o integrar y transparentar los mecanismos que ya funcionan."
+  },
+  {
+    "fecha": "2026-09-16",
+    "titulo": "El apetito de saber: la pesca lleva la escuela a bordo y en tierra",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/09/el-apetito-de-saber-la-pesca-lleva-la-escuela-a-bordo-y-en-tierra/",
+    "resumen": "Iberconsa, San Isidro, Estrella Patagónica y Argenova sostienen un programa que les permite a sus trabajadores terminar la primaria y la secundaria. No hablan de filantropía sino de vocación de aprendizaje, de realización más allá de lo material y de poder discutir de igual a igual."
+  },
+  {
+    "fecha": "2026-09-16",
+    "titulo": "CONARPESA compró un potero en Taiwán y lo alista en China",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/09/conarpesa-compro-un-potero-en-taiwan-y-lo-alista-en-china/",
+    "resumen": "Álvarez Castellano confirmó la adquisición. Se trata de un barco de doce años de antigüedad y capacidad para congelar 120 toneladas diarias. Fue uno de los dieciocho proyectos aprobados por el CFP. Llegará a mediados de noviembre y se llamará “Puerto Madryn 1995”. El empresario negó tener vínculos con Malvinas."
+  },
+  {
+    "fecha": "2026-09-16",
+    "titulo": "No logró consenso el cambio de reglas para la merluza en el Golfo San Jorge",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/09/no-logro-consenso-el-cambio-de-reglas-para-la-merluza-en-el-golfo-san-jorge/",
+    "resumen": "Desde Caleta Olivia y también desde Comodoro Rivadavia desestimaron la propuesta para que la flota amarilla opere sobre la especie merluza en ambas jurisdicciones provinciales. Los barcos de Santa Cruz y Chubut seguirán pescando, cada uno, en su lado del golfo."
+  },
+  {
+    "fecha": "2026-09-16",
+    "titulo": "EPSA reduce personal para preservar el empleo de temporada",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/09/epsa-reduce-personal-para-preservar-el-empleo-de-temporada/",
+    "resumen": "La compañía argumentó “cuestiones operativas y de imposibilidad económica”. Sostuvo que busca preservar la continuidad de la compañía y el empleo durante las temporadas de langostino, cuando puede llegar a ocupar a unos 600 operarios. Trabajo exhortó a retrotraer el conflicto y convocó a una primera audiencia."
+  },
+  {
     "fecha": "2026-09-15",
     "titulo": "Malvinas: denuncian por contrabando a siete pesqueras",
     "fuente": "Pescare",
@@ -47,34 +124,6 @@
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/09/rio-negro-transita-uno-de-los-anos-con-menor-volumen-pesquero-de-la-ultima-decada/",
     "resumen": "La situación de la actividad pesquera en esa provincia patagónica sigue siendo crítica. En lo que va de 2026 apenas se desembarcaron 3.365 toneladas de productos pesqueros. La tendencia decreciente iniciada en 2023 parece no tener piso. Río Negro redireccionó su matriz productiva hacia el desarrollo energético."
-  },
-  {
-    "fecha": "2026-09-15",
-    "titulo": "Ingreso de Buques a Puerto de Mar del Plata",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/ingreso-de-buques-a-puerto/",
-    "resumen": "Buques programados: BP TABEIRON TRES - 00:30. Actualización: 16.SEP.2026 15:35 HS"
-  },
-  {
-    "fecha": "2026-09-15",
-    "titulo": "Buques Operando en ZEE Argentina",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/buques-operando/",
-    "resumen": "Mapa interactivo de buques reportando al sistema. Áreas: Zona Común de Pesca (ARG-URU) / Zona de Veda Permanente de Juveniles de Merluza."
-  },
-  {
-    "fecha": "2026-09-15",
-    "titulo": "Monitoreo Satelital de Buques Pesqueros",
-    "fuente": "MAGyP",
-    "url": "https://www.magyp.gob.ar/sitio/areas/pesca_maritima/monitoreo/",
-    "resumen": "Monitoreo oficial de buques reportando al sistema. Áreas: Zona Rinc&oacute;n (Res. CFP N&ordm; 27/2009 y posteriores)."
-  },
-  {
-    "fecha": "2026-09-15",
-    "titulo": "Desembarques de Capturas Marítimas (2026)",
-    "fuente": "MAGyP",
-    "url": "https://www.magyp.gob.ar/sitio/areas/pesca_maritima/desembarques/",
-    "resumen": "Estadísticas oficiales de desembarques por especie, flota y puerto. Datos disponibles: 2026, 2025, 2024, 2023, 2022, 2021, 2020."
   },
   {
     "fecha": "2026-09-14",
@@ -313,68 +362,5 @@
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/prefectura-llevo-a-galapex-iv-2026-su-experiencia-en-el-control-de-la-pesca-ilegal-y-las-flotas-extranjeras/",
     "resumen": "La Autoridad Marítima argentina participó en Ecuador del ejercicio multinacional enfocado en vigilancia y seguridad marítima. Compartió procedimientos desarrollados para detectar y controlar la pesca INDNR, con especial énfasis en el seguimiento de buques que operan próximos al límite exterior de la ZEEA."
-  },
-  {
-    "fecha": "2026-09-05",
-    "titulo": "Argentina multó al Farruco con $1.844 millones por pesca ilegal",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/argentina-multo-al-farruco-con-pesos-1844-millones-por-pesca-ilegal/",
-    "resumen": "El pesquero español es el quinto extranjero sancionado en 2026. Las actuaciones anteriores ya habían permitido cobrar más de $5.381 millones."
-  },
-  {
-    "fecha": "2026-09-05",
-    "titulo": "SPI Astilleros recibió el Sello de Buen Diseño Argentino por uno de sus desarrollos navales",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/spi-astilleros-recibio-el-sello-de-buen-diseno-argentino-por-uno-de-sus-desarrollos-navales/",
-    "resumen": "El reconocimiento fue otorgado al proyecto SPI 2090DC, diseñado y desarrollado por la compañía, y destacó el trabajo de ingeniería, innovación y producción realizado en el país."
-  },
-  {
-    "fecha": "2026-09-04",
-    "titulo": "Global Shrimp Forum 2026 cerró con un giro hacia la demanda y marcó el rumbo del mercado mundial",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/global-shrimp-forum-2026-cerro-con-un-giro-hacia-la-demanda-y-marco-el-rumbo-del-mercado-mundial/",
-    "resumen": "La última jornada colocó el foco en inversión, valor agregado, derechos laborales, inteligencia artificial y consumo. Estados Unidos exhibe una demanda estancada, mientras Ecuador avanza sobre el procesamiento y los mercados finales. Para el langostino argentino, la abundancia exige diferenciación, continuidad comercial y acceso directo al consumidor."
-  },
-  {
-    "fecha": "2026-09-04",
-    "titulo": "Acta CFP N° 24/2026: langostino, calamar y nuevas medidas para la centolla marcaron la agenda",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/acta-cfp-n-24-2026-langostino-calamar-y-nuevas-medidas-para-la-centolla-marcaron-la-agenda/",
-    "resumen": "Las decisiones redistribuyen capturas y modifican condiciones operativas con efectos directos sobre la flota, los desembarques y la continuidad de distintos proyectos pesqueros."
-  },
-  {
-    "fecha": "2026-09-04",
-    "titulo": "Centolla: modifican el tamaño de los anillos de escape tras tres temporadas de evaluación",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/centolla-modifican-el-tamano-de-los-anillos-de-escape-tras-tres-temporadas-de-evaluacion/",
-    "resumen": "La decisión se tomó tras tres temporadas de pruebas y a partir de los resultados del INIDEP, que determinaron una mayor retención de ejemplares comerciales con los anillos de menor diámetro."
-  },
-  {
-    "fecha": "2026-09-04",
-    "titulo": "Milei colocó al Atlántico Sur en la política de seguridad nacional y reforzó el valor estratégico de Tierra del Fuego",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/milei-coloco-al-atlantico-sur-en-la-politica-de-seguridad-nacional-y-reforzo-el-valor-estrategico-de-tierra-del-fuego/",
-    "resumen": "El Presidente vinculó Malvinas, recursos naturales, infraestructura naval y proyección antártica dentro de una misma concepción geopolítica. La presencia sostenida del Estado y de la flota argentina aparece como condición material para proteger los intereses nacionales en el mar."
-  },
-  {
-    "fecha": "2026-09-03",
-    "titulo": "La merluza desplazó al langostino y forzó el cierre de la Subárea 8",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/la-merluza-desplazo-al-langostino-y-forzo-el-cierre-de-la-subarea-8/",
-    "resumen": "Había aparecido langostino de buen tamaño y calidad, pero la elevada fauna acompañante llevó la relación merluza-langostino por encima del límite permitido. El Consejo Federal Pesquero decidió cerrar en forma definitiva esa subárea."
-  },
-  {
-    "fecha": "2026-09-03",
-    "titulo": "Pesca cierra la Subárea 16 por exceso de captura incidental de merluza",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/pesca-cierra-la-subarea-16-por-exceso-de-captura-incidental-de-merluza/",
-    "resumen": "La prohibición rige desde las 00:00 del jueves 3 de septiembre dentro de la Zona de Veda Permanente de Juveniles de Merluza."
-  },
-  {
-    "fecha": "2026-09-03",
-    "titulo": "Argentina establece por primera vez un marco sanitario para la piscicultura comercial",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/argentina-establece-por-primera-vez-un-marco-sanitario-para-la-piscicultura-comercial/",
-    "resumen": "La regulación alcanza a establecimientos dedicados a la cría y engorde de peces para consumo, tanto en tierra como en ríos, lagos, embalses y ambientes marítimos."
   }
 ]
