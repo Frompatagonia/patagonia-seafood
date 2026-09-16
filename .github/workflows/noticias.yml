@@ -1,0 +1,32 @@
+name: Actualizar Noticias del Sector Pesquero
+
+on:
+  schedule:
+    - cron: '0 10 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-noticias:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Descargar noticias frescas
+        run: node scripts/fetch-noticias-deploy.cjs
+
+      - name: Commit y push
+        run: |
+          git config user.name "From Patagonia Bot"
+          git config user.email "bot@frompatagonia.com"
+          git add data/noticias.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Actualización diaria de noticias"
+          git push
