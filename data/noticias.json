@@ -1,31 +1,66 @@
 [
   {
-    "fecha": "2026-09-16",
+    "fecha": "2026-09-17",
     "titulo": "Ingreso de Buques a Puerto de Mar del Plata",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/ingreso-de-buques-a-puerto/",
-    "resumen": "Buques programados: BP BEAGLE I - 16:00. Actualización: 16.SEP.2026 05:35 HS"
+    "resumen": "Buques programados: BP PADRE PIO - 12:00 | BP MARIA ALEJANDRA I - 13:00 | BP PROMARSA III - 20:00 | BP VIRGEN MARIA - 20:00. Actualización: 17.SEP.2026 06:00 HS"
   },
   {
-    "fecha": "2026-09-16",
+    "fecha": "2026-09-17",
     "titulo": "Buques Operando en ZEE Argentina",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/buques-operando/",
     "resumen": "Mapa interactivo de buques reportando al sistema. Áreas: Zona Común de Pesca (ARG-URU) / Zona de Veda Permanente de Juveniles de Merluza."
   },
   {
-    "fecha": "2026-09-16",
+    "fecha": "2026-09-17",
     "titulo": "Monitoreo Satelital de Buques Pesqueros",
     "fuente": "MAGyP",
     "url": "https://www.magyp.gob.ar/sitio/areas/pesca_maritima/monitoreo/",
     "resumen": "Monitoreo oficial de buques reportando al sistema. Áreas: Zona Rinc&oacute;n (Res. CFP N&ordm; 27/2009 y posteriores)."
   },
   {
-    "fecha": "2026-09-16",
+    "fecha": "2026-09-17",
     "titulo": "Desembarques de Capturas Marítimas (2026)",
     "fuente": "MAGyP",
     "url": "https://www.magyp.gob.ar/sitio/areas/pesca_maritima/desembarques/",
     "resumen": "Estadísticas oficiales de desembarques por especie, flota y puerto. Datos disponibles: 2026, 2025, 2024, 2023, 2022, 2021, 2020."
+  },
+  {
+    "fecha": "2026-09-17",
+    "titulo": "Presupuesto 2027: el Gobierno busca USD 2.300 millones para tres submarinos en Mar del Plata",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/presupuesto-2027-el-gobierno-busca-usd-2-300-millones-para-tres-submarinos-en-mar-del-plata/",
+    "resumen": "El proyecto coloca a la base naval como destino del programa de recuperación submarina. La contratación dependerá del aval legislativo y del financiamiento; el uso de la autorización deberá informarse trimestralmente al Congreso."
+  },
+  {
+    "fecha": "2026-09-17",
+    "titulo": "Malvinas: el Gobierno envió una ley para endurecer las sanciones por explotar recursos",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/malvinas-el-gobierno-envio-una-ley-para-endurecer-las-sanciones-por-explotar-recursos/",
+    "resumen": "La propuesta reemplazaría el régimen hidrocarburífero de 2011 y crearía un Consejo de Seguridad Nacional. La legislación vigente ya contempla prisión y restricciones a empresas vinculadas."
+  },
+  {
+    "fecha": "2026-09-17",
+    "titulo": "Lenguados y rayas costeras tendrán nuevos límites de captura en el área del Río de la Plata y su Frente Marítimo",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/lenguados-y-rayas-costeras-tendran-nuevos-limites-de-captura-en-el-area-del-rio-de-la-plata-y-su-frente-maritimo/",
+    "resumen": "Argentina y Uruguay establecieron las capturas permitidas para ambos conjuntos de especies. En lenguados se habilitarán 4.400 toneladas por período administrativo, mientras que para las rayas costeras podrán pescarse 3.600 toneladas durante 2027, con límites adicionales a medida que avance el consumo del cupo."
+  },
+  {
+    "fecha": "2026-09-17",
+    "titulo": "Estrella Patagónica despidió a 27 trabajadores permanentes y el conflicto sigue sin acuerdo",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/estrella-patagonica-despidio-a-27-trabajadores-permanentes-y-el-conflicto-sigue-sin-acuerdo/",
+    "resumen": "La primera audiencia terminó sin acuerdo. El STIA exige reincorporaciones y la compañía argumenta dificultades para sostener los salarios entre temporadas."
+  },
+  {
+    "fecha": "2026-09-17",
+    "titulo": "Puerto Deseado busca sumar merluza fresca para sostener la actividad y el empleo",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/puerto-deseado-busca-sumar-merluza-fresca-para-sostener-la-actividad-y-el-empleo/",
+    "resumen": "La Provincia reunió a empresas y actores vinculados al puerto para analizar una posibilidad que permita mantener el movimiento laboral durante los meses de menor actividad. Hay firmas interesadas en operar con buques fresqueros, aunque todavía deberán alcanzarse acuerdos con los trabajadores."
   },
   {
     "fecha": "2026-09-16",
@@ -383,26 +418,5 @@
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/global-shrimp-forum-2026-cerro-con-un-giro-hacia-la-demanda-y-marco-el-rumbo-del-mercado-mundial/",
     "resumen": "La última jornada colocó el foco en inversión, valor agregado, derechos laborales, inteligencia artificial y consumo. Estados Unidos exhibe una demanda estancada, mientras Ecuador avanza sobre el procesamiento y los mercados finales. Para el langostino argentino, la abundancia exige diferenciación, continuidad comercial y acceso directo al consumidor."
-  },
-  {
-    "fecha": "2026-09-04",
-    "titulo": "Acta CFP N° 24/2026: langostino, calamar y nuevas medidas para la centolla marcaron la agenda",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/acta-cfp-n-24-2026-langostino-calamar-y-nuevas-medidas-para-la-centolla-marcaron-la-agenda/",
-    "resumen": "Las decisiones redistribuyen capturas y modifican condiciones operativas con efectos directos sobre la flota, los desembarques y la continuidad de distintos proyectos pesqueros."
-  },
-  {
-    "fecha": "2026-09-04",
-    "titulo": "Centolla: modifican el tamaño de los anillos de escape tras tres temporadas de evaluación",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/centolla-modifican-el-tamano-de-los-anillos-de-escape-tras-tres-temporadas-de-evaluacion/",
-    "resumen": "La decisión se tomó tras tres temporadas de pruebas y a partir de los resultados del INIDEP, que determinaron una mayor retención de ejemplares comerciales con los anillos de menor diámetro."
-  },
-  {
-    "fecha": "2026-09-04",
-    "titulo": "Milei colocó al Atlántico Sur en la política de seguridad nacional y reforzó el valor estratégico de Tierra del Fuego",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/milei-coloco-al-atlantico-sur-en-la-politica-de-seguridad-nacional-y-reforzo-el-valor-estrategico-de-tierra-del-fuego/",
-    "resumen": "El Presidente vinculó Malvinas, recursos naturales, infraestructura naval y proyección antártica dentro de una misma concepción geopolítica. La presencia sostenida del Estado y de la flota argentina aparece como condición material para proteger los intereses nacionales en el mar."
   }
 ]
