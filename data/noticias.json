@@ -1,17 +1,17 @@
 [
   {
+    "fecha": "2026-09-18",
+    "titulo": "PRUEBA: ¡Sitio renovado! Catálogo en PDF y nueva web en línea",
+    "fuente": "From Patagonia Seafood",
+    "url": "https://frompatagonia.github.io/patagonia-seafood/",
+    "resumen": "Publicación de prueba del sistema automatizado: la web quedó actualizada con el nuevo diseño, catálogo descargable en PDF y la sección de frigoríficos. El sitio ya está en línea."
+  },
+  {
     "fecha": "2026-09-16",
     "titulo": "El CFP convoca hasta cuatro buques para investigar la sardina fueguina",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/el-cfp-convoca-hasta-cuatro-buques-para-investigar-la-sardina-fueguina/",
     "resumen": "Los proyectos podrán presentarse hasta el 22 de septiembre. La experiencia permitirá evaluar el recurso y las condiciones para desarrollar una nueva pesquería austral."
-  },
-  {
-    "fecha": "2026-09-16",
-    "titulo": "Resolución CTMFM Nro. 8/2026: se fijó en 2.750 toneladas la captura permisible de rayas de altura para 2027",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/resolucion-ctmfm-nro-8-2026-se-fijo-en-2750-toneladas-la-captura-permisible-de-rayas-de-altura-para-2027/",
-    "resumen": "La medida regirá en la Zona Común de Pesca y contempla 2.450 toneladas inicialmente habilitadas y una reserva administrativa de 300 toneladas. La Comisión aplicó un criterio precautorio a partir de la evaluación del recurso."
   },
   {
     "fecha": "2026-09-16",
@@ -47,6 +47,13 @@
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/09/epsa-reduce-personal-para-preservar-el-empleo-de-temporada/",
     "resumen": "La compañía argumentó “cuestiones operativas y de imposibilidad económica”. Sostuvo que busca preservar la continuidad de la compañía y el empleo durante las temporadas de langostino, cuando puede llegar a ocupar a unos 600 operarios. Trabajo exhortó a retrotraer el conflicto y convocó a una primera audiencia."
+  },
+  {
+    "fecha": "2026-09-16",
+    "titulo": "Resolución CTMFM Nro. 8/2026: se fijó en 2.750 toneladas la captura permisible de rayas de altura para 2027",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/resolucion-ctmfm-nro-8-2026-se-fijo-en-2750-toneladas-la-captura-permisible-de-rayas-de-altura-para-2027/",
+    "resumen": "La medida regirá en la Zona Común de Pesca y contempla 2.450 toneladas inicialmente habilitadas y una reserva administrativa de 300 toneladas. La Comisión aplicó un criterio precautorio a partir de la evaluación del recurso."
   },
   {
     "fecha": "2026-09-15",
@@ -376,13 +383,6 @@
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/merluza-comun-los-desembarques-suben-12-al-21-de-julio-y-superan-al-de-anos-precedentes/",
     "resumen": "El acumulado de 2026 alcanzó 171.247 toneladas. Aplicado el mismo corte de 21 días sobre julio de 2024 y 2025, el volumen actual supera ambas referencias; los fresqueros de altura aportan 63% de la descarga y Mar del Plata conserva el mayor aporte portuario."
-  },
-  {
-    "fecha": "2026-07-29",
-    "titulo": "Cámara de Diputados. Piden a Cancillería intervenir ante una posible ruta marítima entre Chile y Malvinas",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/camara-de-diputados-piden-a-cancilleria-intervenir-ante-una-posible-ruta-maritima-entre-chile-y-malvinas/",
-    "resumen": "La iniciativa parlamentaria solicita que la Cancillería Argentina intervenga ante el Gobierno de Chile para evitar que un servicio marítimo regular contribuya al abastecimiento y al desarrollo de actividades económicas en el archipiélago, en medio de la disputa de soberanía con el Reino Unido."
   },
   {
     "fecha": "2026-07-22",
