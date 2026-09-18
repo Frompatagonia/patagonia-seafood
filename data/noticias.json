@@ -1,31 +1,87 @@
 [
   {
-    "fecha": "2026-09-17",
+    "fecha": "2026-09-18",
     "titulo": "Ingreso de Buques a Puerto de Mar del Plata",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/ingreso-de-buques-a-puerto/",
-    "resumen": "Buques programados: BP PADRE PIO - 12:00 | BP MARIA ALEJANDRA I - 13:00 | BP PROMARSA III - 20:00 | BP VIRGEN MARIA - 20:00. Actualización: 17.SEP.2026 06:00 HS"
+    "resumen": "Buques programados: BP MERCEA C - 15:00 | BP DON NICOLA - 16:00 | BP ANTONINO - 19:30 | BP ACRUX - 23:30. Actualización: 18.SEP.2026 10:20 HS"
   },
   {
-    "fecha": "2026-09-17",
+    "fecha": "2026-09-18",
     "titulo": "Buques Operando en ZEE Argentina",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/buques-operando/",
     "resumen": "Mapa interactivo de buques reportando al sistema. Áreas: Zona Común de Pesca (ARG-URU) / Zona de Veda Permanente de Juveniles de Merluza."
   },
   {
-    "fecha": "2026-09-17",
+    "fecha": "2026-09-18",
     "titulo": "Monitoreo Satelital de Buques Pesqueros",
     "fuente": "MAGyP",
     "url": "https://www.magyp.gob.ar/sitio/areas/pesca_maritima/monitoreo/",
     "resumen": "Monitoreo oficial de buques reportando al sistema. Áreas: Zona Rinc&oacute;n (Res. CFP N&ordm; 27/2009 y posteriores)."
   },
   {
-    "fecha": "2026-09-17",
+    "fecha": "2026-09-18",
     "titulo": "Desembarques de Capturas Marítimas (2026)",
     "fuente": "MAGyP",
     "url": "https://www.magyp.gob.ar/sitio/areas/pesca_maritima/desembarques/",
     "resumen": "Estadísticas oficiales de desembarques por especie, flota y puerto. Datos disponibles: 2026, 2025, 2024, 2023, 2022, 2021, 2020."
+  },
+  {
+    "fecha": "2026-09-18",
+    "titulo": "El SOIP elige hoy su conducción con lista única y las plantas condicionadas por la falta de merluza",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/el-soip-elige-hoy-su-conduccion-con-lista-unica-y-las-plantas-condicionadas-por-la-falta-de-merluza/",
+    "resumen": "La Justicia rechazó suspender los comicios y mantiene abierta la revisión del proceso. La elección encuentra al personal de tierra con dificultades de abastecimiento que afectan las jornadas de trabajo y los ingresos."
+  },
+  {
+    "fecha": "2026-09-18",
+    "titulo": "Santa Cruz reclama 50.000 toneladas de langostino para abastecer sus plantas",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/santa-cruz-reclama-50-000-toneladas-de-langostino-para-abastecer-sus-plantas/",
+    "resumen": "La provincia busca ampliar el reconocimiento por conservar el Golfo San Jorge dentro de una eventual cuotificación. El antecedente es un cupo social de 4.500 toneladas; el nuevo pedido abre definiciones sobre beneficiarios, procesamiento y empleo."
+  },
+  {
+    "fecha": "2026-09-18",
+    "titulo": "CAABPA pide redistribuir cuotas de merluza y Buenos Aires reclama prioridad para fresqueros",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/caabpa-pide-redistribuir-cuotas-de-merluza-y-buenos-aires-reclama-prioridad-para-fresqueros/",
+    "resumen": "La cámara planteó que durante 2026 los titulares puedan ceder temporalmente hasta el 50% del volumen anual de CITC que estimen que no capturarán. Buenos Aires acompañó el planteo ante las necesidades de abastecimiento de pescado fresco de las plantas procesadoras."
+  },
+  {
+    "fecha": "2026-09-18",
+    "titulo": "Acta CFP N° 25/2026: asignación de merluza común y comisiones de seguimiento de merluza negra, polaca y merluza de cola",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/acta-cfp-numero-25-2026/",
+    "resumen": "El Consejo Federal Pesquero analizó el cierre de la temporada de langostino en aguas nacionales, recibió nuevos indicadores sobre el estado de la merluza de cola y avanzó con asignaciones de merluza común."
+  },
+  {
+    "fecha": "2026-09-18",
+    "titulo": "El proyecto de soberanía abre una salida para las sociedades en Malvinas",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/09/el-proyecto-de-soberania-abre-una-salida-para-las-sociedades-en-malvinas/",
+    "resumen": "El proyecto del Ejecutivo deja las escisiones societarias sujetas a revisión: la responsabilidad subsiste si la separación fue sólo aparente. Pero por esa misma vía otorga la posibilidad de acreditar un cese efectivo de la actividad en Malvinas y regularizar la situación."
+  },
+  {
+    "fecha": "2026-09-18",
+    "titulo": "Se vota en el SOIP: Justicia rechazó cautelar de lista opositora",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/09/se-vota-en-el-soip-justicia-rechazo-cautelar-de-lista-opositora/",
+    "resumen": "La Sala V de la Cámara Nacional de Apelaciones rechazó el planteo de la lista opositora que había pedido la suspensión de los comicios que se realizan este viernes. Cristina Ledesma, secretaria general del gremio, encabeza la única lista habilitada."
+  },
+  {
+    "fecha": "2026-09-18",
+    "titulo": "Chubut define la organización de Puerto de Rawson para la próxima zafra",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/09/chubut-define-la-organizacion-de-puerto-de-rawson-para-la-proxima-zafra/",
+    "resumen": "El secretario de Pesca, Diego Brandán, mantuvo una reunión con la CAFACh y empresas de estiba para coordinar aspectos operativos, de seguridad y funcionamiento portuario antes del inicio de la próxima zafra. La temporada anterior terminó con 90.000 toneladas descargadas y buenos indicadores biológicos del recurso."
+  },
+  {
+    "fecha": "2026-09-18",
+    "titulo": "Santa Cruz ratificó su pedido de 50.000 toneladas de cuota social de langostino",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/09/santa-cruz-ratifico-su-pedido-de-50-000-toneladas-de-cuota-social-de-langostino/",
+    "resumen": "Klimenko dijo que esa provincia acompaña un régimen de cuotificación para la especie, pero insistió en que deben recibir una compensación por los ocho últimos años de cierre del Golfo San Jorge. Reclamó al CFP la base de datos históricos y los criterios de ponderación."
   },
   {
     "fecha": "2026-09-17",
@@ -53,7 +109,7 @@
     "titulo": "Estrella Patagónica despidió a 27 trabajadores permanentes y el conflicto sigue sin acuerdo",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/estrella-patagonica-despidio-a-27-trabajadores-permanentes-y-el-conflicto-sigue-sin-acuerdo/",
-    "resumen": "La primera audiencia terminó sin acuerdo. El STIA exige reincorporaciones y la compañía argumenta dificultades para sostener los salarios entre temporadas."
+    "resumen": "La discusión se concentra en cómo sostener el empleo entre temporadas. El gremio reclama reincorporaciones y la próxima audiencia será el martes, bajo conciliación obligatoria."
   },
   {
     "fecha": "2026-09-17",
@@ -61,6 +117,34 @@
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/puerto-deseado-busca-sumar-merluza-fresca-para-sostener-la-actividad-y-el-empleo/",
     "resumen": "La Provincia reunió a empresas y actores vinculados al puerto para analizar una posibilidad que permita mantener el movimiento laboral durante los meses de menor actividad. Hay firmas interesadas en operar con buques fresqueros, aunque todavía deberán alcanzarse acuerdos con los trabajadores."
+  },
+  {
+    "fecha": "2026-09-17",
+    "titulo": "Sanciones por Malvinas: un proyecto pensado sólo para el petróleo",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/09/sanciones-por-malvinas-un-proyecto-pensado-solo-para-el-petroleo/",
+    "resumen": "Un trabajo de nueve meses en Cancillería precedió al anuncio, pero fue concebido sólo sobre la actividad petrolera. Nadie previó el alcance sobre la pesca y otros sectores. El proyecto de ley que iba a presentarse en 48 horas sigue sin fecha."
+  },
+  {
+    "fecha": "2026-09-17",
+    "titulo": "El debate por la trazabilidad y los riesgos de sumar burocracia al sistema",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/09/el-debate-por-la-trazabilidad-y-los-riesgos-de-sumar-burocracia-al-sistema/",
+    "resumen": "En la Comisión de Intereses Marítimos de Diputados, representantes del sector y especialistas coincidieron en que la trazabilidad de la pesca ya existe, pero cuestionaron que la información esté dispersa. Los autores de los proyectos proponen una herramienta que unifique datos y reduzca cargas administrativas."
+  },
+  {
+    "fecha": "2026-09-17",
+    "titulo": "Disminuyen capturas de peces demersales australes",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/09/disminuyen-capturas-de-peces-demersales-australes/",
+    "resumen": "Un Informe Técnico del INIDEP actualizó la estadística pesquera de este grupo íctico en el Atlántico Sudoccidental entre 2013-2025. El año pasado la totalidad de las capturas correspondientes a bacalao austral, merluza de cola, merluza negra y polaca alcanzaron las 23.288 toneladas. La flota argentina capturó casi 20 mil."
+  },
+  {
+    "fecha": "2026-09-17",
+    "titulo": "Ushuaia contabiliza desembarques pesqueros por 17.830 toneladas",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/09/ushuaia-contabiliza-desembarques-pesqueros-por-17-830-toneladas/",
+    "resumen": "El puerto fueguino recibe descargas de especies diferentes a las otras cuatro provincias con litoral marítimo. La provincia no desarrolló una industria de procesamiento en tierra del pescado fresco, sino que todos los desembarques son de congelado a bordo. Predominan merluza de cola, merluza negra, polaca, entre otras."
   },
   {
     "fecha": "2026-09-16",
@@ -334,89 +418,5 @@
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/prefectura-aeroevacuo-un-tripulante-del-pesquero-portugues-novo-virgem-da-barca-a-25-millas-de-mar-del-plata/",
     "resumen": "El operativo se realizó sobre el buque de bandera portuguesa Novo Virgem Da Barca, que navegaba fuera de la Zona Económica Exclusiva Argentina. Un tripulante de 57 años presentaba síntomas compatibles con un accidente cerebrovascular y debió ser trasladado de urgencia a tierra."
-  },
-  {
-    "fecha": "2026-09-08",
-    "titulo": "Mar del Plata: la caída de las cargas deja sin trabajo a la mitad de los estibadores, advierte el SUPA",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/mar-del-plata-la-caida-de-las-cargas-deja-sin-trabajo-a-la-mitad-de-los-estibadores-advierte-el-supa/",
-    "resumen": "La caída de las descargas y la pérdida de líneas navieras recortan los jornales en Mar del Plata. Según el SUPA, solo 400 de sus 800 estibadores consiguen trabajar."
-  },
-  {
-    "fecha": "2026-09-08",
-    "titulo": "Proyectan un segundo parque submarino frente a Mar del Plata y prevén hundir el BP Scombrus II",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/proyectan-un-segundo-parque-submarino-frente-a-mar-del-plata-y-preven-hundir-el-bp-scombrus-ii/",
-    "resumen": "El Ministerio de Ambiente bonaerense abrió la consulta pública para evaluar la creación del Parque Submarino “Kyokko Rua”, en un área más alejada de la costa que el histórico Cristo Rey. La iniciativa contempla incorporar como arrecife artificial al BP Scombrus II, actualmente fuera de servicio en el Puerto de Mar del Plata."
-  },
-  {
-    "fecha": "2026-09-08",
-    "titulo": "Conarpesa construye su parque solar para reducir costos en su planta pesquera",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/conarpesa-construye-su-parque-solar-para-reducir-costos-en-su-planta-pesquera/",
-    "resumen": "La instalación de Puerto Madryn tendrá 2.832 paneles. La inversión se complementa con dos plantas de tratamiento de agua para aumentar el abastecimiento propio."
-  },
-  {
-    "fecha": "2026-09-07",
-    "titulo": "Langostino 2026: Pesca cierra las últimas subáreas y pone fecha al último despacho",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/langostino-2026-pesca-cierra-las-ultimas-subareas-y-pone-fecha-al-ultimo-despacho/",
-    "resumen": "El deterioro de los rendimientos adelantó la decisión. La flota tendrá hasta el miércoles para realizar el último despacho a aguas nacionales."
-  },
-  {
-    "fecha": "2026-09-07",
-    "titulo": "Pesca Nación prevé cerrar la temporada de langostino en aguas nacionales el 13 de septiembre",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/pesca-nacion-preve-cerrar-la-temporada-de-langostino-en-aguas-nacionales-el-13-de-septiembre/",
-    "resumen": "El cierre comprendería las subáreas 4 y 5 y los sectores exteriores a la ZVPJM. La especie quedaría limitada a capturas incidentales en operaciones dirigidas a otros recursos."
-  },
-  {
-    "fecha": "2026-09-07",
-    "titulo": "Raúl Durdos fue absuelto en el juicio por la denuncia de una exdirigente del SOMU",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/raul-durdos-fue-absuelto-en-el-juicio-por-la-denuncia-de-una-exdirigente-del-somu/",
-    "resumen": "Los fundamentos de la sentencia se conocerán el 14 de septiembre. El sindicato comunicó el resultado del proceso."
-  },
-  {
-    "fecha": "2026-09-07",
-    "titulo": "SIMAPE y las cámaras acordaron salarios por IPC y extendieron el régimen de crisis hasta diciembre",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/simape-y-las-camaras-acordaron-salarios-por-ipc-y-extendieron-el-regimen-de-crisis-hasta-diciembre/",
-    "resumen": "El convenio alcanza al personal del CCT 586/10. Las empresas deberán ratificar su adhesión y asumir compromisos sobre empleo y remuneraciones para aplicar el esquema excepcional."
-  },
-  {
-    "fecha": "2026-09-07",
-    "titulo": "El INIDEP confirmó la sobreexplotación del gatuzo y pidió coordinar su recuperación",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/el-inidep-confirmo-la-sobreexplotacion-del-gatuzo-y-pidio-coordinar-su-recuperacion/",
-    "resumen": "La evaluación regional de 2026 vinculó el estado del recurso con las capturas históricas. La administración binacional fijó un máximo anual de 1.500 toneladas."
-  },
-  {
-    "fecha": "2026-09-07",
-    "titulo": "Prefectura llevó a GALAPEX IV 2026 su experiencia en el control de la pesca ilegal y las flotas extranjeras",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/prefectura-llevo-a-galapex-iv-2026-su-experiencia-en-el-control-de-la-pesca-ilegal-y-las-flotas-extranjeras/",
-    "resumen": "La Autoridad Marítima argentina participó en Ecuador del ejercicio multinacional enfocado en vigilancia y seguridad marítima. Compartió procedimientos desarrollados para detectar y controlar la pesca INDNR, con especial énfasis en el seguimiento de buques que operan próximos al límite exterior de la ZEEA."
-  },
-  {
-    "fecha": "2026-09-05",
-    "titulo": "Argentina multó al Farruco con $1.844 millones por pesca ilegal",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/argentina-multo-al-farruco-con-pesos-1844-millones-por-pesca-ilegal/",
-    "resumen": "El pesquero español es el quinto extranjero sancionado en 2026. Las actuaciones anteriores ya habían permitido cobrar más de $5.381 millones."
-  },
-  {
-    "fecha": "2026-09-05",
-    "titulo": "SPI Astilleros recibió el Sello de Buen Diseño Argentino por uno de sus desarrollos navales",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/spi-astilleros-recibio-el-sello-de-buen-diseno-argentino-por-uno-de-sus-desarrollos-navales/",
-    "resumen": "El reconocimiento fue otorgado al proyecto SPI 2090DC, diseñado y desarrollado por la compañía, y destacó el trabajo de ingeniería, innovación y producción realizado en el país."
-  },
-  {
-    "fecha": "2026-09-04",
-    "titulo": "Global Shrimp Forum 2026 cerró con un giro hacia la demanda y marcó el rumbo del mercado mundial",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/global-shrimp-forum-2026-cerro-con-un-giro-hacia-la-demanda-y-marco-el-rumbo-del-mercado-mundial/",
-    "resumen": "La última jornada colocó el foco en inversión, valor agregado, derechos laborales, inteligencia artificial y consumo. Estados Unidos exhibe una demanda estancada, mientras Ecuador avanza sobre el procesamiento y los mercados finales. Para el langostino argentino, la abundancia exige diferenciación, continuidad comercial y acceso directo al consumidor."
   }
 ]
