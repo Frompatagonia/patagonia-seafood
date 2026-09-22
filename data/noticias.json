@@ -1,31 +1,80 @@
 [
   {
-    "fecha": "2026-09-21",
+    "fecha": "2026-09-22",
     "titulo": "Ingreso de Buques a Puerto de Mar del Plata",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/ingreso-de-buques-a-puerto/",
-    "resumen": "Buques programados: BP ERIN BRUCE II - 11:00 | BP GURISES - 13:00 | BP DESAFIO - 17:30 | BP VENTARRON I - 21:00 | BP UR ERTZA - 22:00 | BP KARINA - 22:30 | BP DON RAIMUNDO - 22:30 | BP PROMAC - 23:00. Actualización: 21.SEP.2026 11:00 HS"
+    "resumen": "Buques programados: BP DON CAYETANO - 06:00 | BP DON NATALIO - 07:30 | BP TOZUDO - 16:30. Actualización: 22.SEP.2026 05:00 HS."
   },
   {
-    "fecha": "2026-09-21",
+    "fecha": "2026-09-22",
     "titulo": "Buques Operando en ZEE Argentina",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/buques-operando/",
     "resumen": "Mapa interactivo de buques reportando al sistema. Áreas: Zona Común de Pesca (ARG-URU) / Zona de Veda Permanente de Juveniles de Merluza."
   },
   {
-    "fecha": "2026-09-21",
+    "fecha": "2026-09-22",
     "titulo": "Monitoreo Satelital de Buques Pesqueros",
     "fuente": "MAGyP",
     "url": "https://www.magyp.gob.ar/sitio/areas/pesca_maritima/monitoreo/",
     "resumen": "Monitoreo oficial de buques reportando al sistema. Áreas: Zona Rinc&oacute;n (Res. CFP N&ordm; 27/2009 y posteriores)."
   },
   {
-    "fecha": "2026-09-21",
+    "fecha": "2026-09-22",
     "titulo": "Desembarques de Capturas Marítimas (2026)",
     "fuente": "MAGyP",
     "url": "https://www.magyp.gob.ar/sitio/areas/pesca_maritima/desembarques/",
     "resumen": "Estadísticas oficiales de desembarques por especie, flota y puerto. Datos disponibles: 2026, 2025, 2024, 2023, 2022, 2021, 2020."
+  },
+  {
+    "fecha": "2026-09-22",
+    "titulo": "Langostino 2026: el BP Don Juan Álvarez encabeza el ranking de los diez buques con mayores capturas en aguas nacionales",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/langostino-2026-el-bp-don-juan-alvarez-encabeza-el-ranking-de-los-diez-buques-con-mayores-capturas-en-aguas-nacionales/",
+    "resumen": "El BP Don Juan Álvarez encabezó el registro de la flota congeladora con 1.952 toneladas. Conarpesa ubicó cuatro embarcaciones entre las diez primeras, mientras que Iberconsa tuvo tres unidades dentro del ranking."
+  },
+  {
+    "fecha": "2026-09-22",
+    "titulo": "El INIDEP busca revelar la ruta de tiburones y rayas con tecnología satelital",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/el-inidep-busca-revelar-la-ruta-de-tiburones-y-rayas-con-tecnologia-satelital/",
+    "resumen": "Durante cinco días, investigadores y técnicos trabajarán a bordo del BIP Mar Argentino con transmisores satelitales y marcas convencionales. La campaña busca obtener nueva información sobre movimientos, migraciones estacionales y crecimiento de distintas especies de condrictios."
+  },
+  {
+    "fecha": "2026-09-22",
+    "titulo": "Emergencia en el Río de la Plata: Prefectura aeroevacuó a un tripulante a 130 kilómetros de la costa",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/emergencia-en-el-rio-de-la-plata-prefectura-aeroevacuo-a-un-tripulante-a-130-kilometros-de-la-costa/",
+    "resumen": "El marino uruguayo, de 39 años, presentó dolor torácico mientras navegaba a bordo del mercante de bandera liberiana RT Tannat. Fue trasladado al Hospital Fernández, de la Ciudad Autónoma de Buenos Aires."
+  },
+  {
+    "fecha": "2026-09-22",
+    "titulo": "Camarón de cultivo: Ecuador mantiene los precios más bajos y Tailandia sube hasta 9,8%",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/camaron-de-cultivo-ecuador-mantiene-los-precios-mas-bajos-y-tailandia-sube/",
+    "resumen": "Camarón de cultivo: Ecuador mantiene los precios más bajos y Tailandia sube hasta 9,8%"
+  },
+  {
+    "fecha": "2026-09-22",
+    "titulo": "Mar del Plata fue sede de la Feria Internacional Portuaria",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/09/mar-del-plata-fue-sede-de-la-feria-internacional-portuaria/",
+    "resumen": "Se trató de la primera edición de un evento que puso el foco en temas como logística, energía, sustentabilidad, pesca, industria naval y capacitación de recursos humanos. Participaron más de dos mil personas y fue organizada por la Fundación Desarrollo Portuario Argentino."
+  },
+  {
+    "fecha": "2026-09-22",
+    "titulo": "Trazabilidad pesquera: integrar lo que ya funciona",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/09/trazabilidad-pesquera-integrar-lo-que-ya-funciona/",
+    "resumen": "Los proyectos que se debaten en el Congreso persiguen objetivos que el sector comparte: trazabilidad, transparencia, legalidad y acceso a la información. El desafío, sin embargo, no parece estar en crear sistemas nuevos, sino en integrar los que ya funcionan y reconocer las herramientas existentes."
+  },
+  {
+    "fecha": "2026-09-22",
+    "titulo": "“Hay que preparar barcos para que se trabaje con una calidad superior”",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/09/hay-que-preparar-barcos-para-que-se-trabaje-con-una-calidad-superior/",
+    "resumen": "La firma Makro botó en el astillero Alon Car el artesanal Adviento, que operará desde Rawson. El grupo también incorporó este año un congelador tangonero y pone a punto sus barcos de flota amarilla para la próxima temporada de langostino en Chubut."
   },
   {
     "fecha": "2026-09-21",
@@ -369,54 +418,5 @@
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/dia-de-la-industria-naval-los-astilleros-argentinos-se-adaptan-a-nuevas-demandas/",
     "resumen": "Momentos de transición en la demanda y nuevo orden político económico ordenan una actividad que ya comienza a tener capacidad ociosa."
-  },
-  {
-    "fecha": "2026-09-12",
-    "titulo": "SPI inicia una lancha para apoyar la salida exportadora de Vaca Muerta",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/spi-inicia-una-lancha-para-apoyar-la-salida-exportadora-de-vaca-muerta/",
-    "resumen": "La C81 se sumará a la flota de Antares Naviera. Su entrada en servicio está prevista para el segundo trimestre de 2027."
-  },
-  {
-    "fecha": "2026-09-12",
-    "titulo": "Malvinas: Londres respalda la explotación petrolera frente a las medidas argentinas",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/malvinas-londres-respalda-la-explotacion-petrolera-frente-a-las-medidas-argentinas/",
-    "resumen": "La respuesta británica vincula soberanía y recursos naturales. Sea Lion lleva la controversia al terreno empresarial y devuelve al Atlántico Sur un lugar en la agenda nacional."
-  },
-  {
-    "fecha": "2026-09-12",
-    "titulo": "Nación proyecta un nuevo régimen de evaluación ambiental para puertos y vías navegables",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/nacion-proyecta-un-nuevo-regimen-de-evaluacion-ambiental-para-puertos-y-vias-navegables/",
-    "resumen": "La Agencia Nacional de Puertos y Navegación abrió una instancia participativa para definir un procedimiento que clasificará las obras según su incidencia ambiental y establecerá diferentes exigencias para su evaluación."
-  },
-  {
-    "fecha": "2026-09-11",
-    "titulo": "Pesca Nación confirma el cierre de la temporada de langostino y ordena el regreso a puerto",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/pesca-nacion-confirma-el-cierre-de-la-temporada-de-langostino-y-ordena-el-regreso-a-puerto/",
-    "resumen": "La temporada en aguas nacionales finalizará el domingo 13 de septiembre. La comunicación oficial ratifica la fecha anticipada por PESCARE."
-  },
-  {
-    "fecha": "2026-09-11",
-    "titulo": "Malvinas y pesca ilegal: un proyecto en Diputados apunta al recorrido comercial de las capturas",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/malvinas-y-pesca-ilegal-un-proyecto-en-diputados-apunta-al-recorrido-comercial-de-las-capturas/",
-    "resumen": "El proyecto pone el foco en la trazabilidad. Su aplicación exige distinguir las competencias pesqueras de las limitaciones que impone la disputa de soberanía."
-  },
-  {
-    "fecha": "2026-09-11",
-    "titulo": "El Puerto de Mar del Plata presentó el proyecto de Puerto Azul con criterios de la FAO",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/el-puerto-de-mar-del-plata-presento-el-proyecto-de-puerto-azul-con-criterios-de-la-fao/",
-    "resumen": "Un diagnóstico integral permitirá definir prioridades y metas, con participación empresaria, gremial, académica y social."
-  },
-  {
-    "fecha": "2026-09-11",
-    "titulo": "El INIDEP profundizó los estudios sobre la caballa en El Rincón con una nueva campaña",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/el-inidep-profundizo-los-estudios-sobre-la-caballa-en-el-rincon-con-una-nueva-campana/",
-    "resumen": "Durante cuatro jornadas a bordo del BIP Mar Argentino, investigadores analizaron las concentraciones del stock sureño mediante tecnología hidroacústica, registros de video y muestreos biológicos."
   }
 ]
