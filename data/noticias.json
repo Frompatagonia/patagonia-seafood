@@ -1,31 +1,94 @@
 [
   {
-    "fecha": "2026-09-22",
+    "fecha": "2026-09-23",
     "titulo": "Ingreso de Buques a Puerto de Mar del Plata",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/ingreso-de-buques-a-puerto/",
-    "resumen": "Buques programados: BP DON CAYETANO - 06:00 | BP DON NATALIO - 07:30 | BP TOZUDO - 16:30. Actualización: 22.SEP.2026 05:00 HS."
+    "resumen": "Buques programados: NO SE REGISTRAN INGRESOS A PUERTO MDP - 00:00. Actualización: 23.SEP.2026 04:30 HS."
   },
   {
-    "fecha": "2026-09-22",
+    "fecha": "2026-09-23",
     "titulo": "Buques Operando en ZEE Argentina",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/buques-operando/",
     "resumen": "Mapa interactivo de buques reportando al sistema. Áreas: Zona Común de Pesca (ARG-URU) / Zona de Veda Permanente de Juveniles de Merluza."
   },
   {
-    "fecha": "2026-09-22",
+    "fecha": "2026-09-23",
     "titulo": "Monitoreo Satelital de Buques Pesqueros",
     "fuente": "MAGyP",
     "url": "https://www.magyp.gob.ar/sitio/areas/pesca_maritima/monitoreo/",
     "resumen": "Monitoreo oficial de buques reportando al sistema. Áreas: Zona Rinc&oacute;n (Res. CFP N&ordm; 27/2009 y posteriores)."
   },
   {
-    "fecha": "2026-09-22",
+    "fecha": "2026-09-23",
     "titulo": "Desembarques de Capturas Marítimas (2026)",
     "fuente": "MAGyP",
     "url": "https://www.magyp.gob.ar/sitio/areas/pesca_maritima/desembarques/",
     "resumen": "Estadísticas oficiales de desembarques por especie, flota y puerto. Datos disponibles: 2026, 2025, 2024, 2023, 2022, 2021, 2020."
+  },
+  {
+    "fecha": "2026-09-23",
+    "titulo": "Armada y Prefectura buscan por aire, mar y tierra a dos kayakistas desaparecidos en Santa Teresita",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/armada-y-prefectura-buscan-por-aire-mar-y-tierra-a-dos-kayakistas-desaparecidos-en-santa-teresita/",
+    "resumen": "El ARA Storni y el Thompson realizan rastrillajes en el área. El Río Luján zarpó esta mañana desde Mar del Plata y se espera destaque en la zona asignada durante la tarde, mientras continúa el apoyo aéreo."
+  },
+  {
+    "fecha": "2026-09-23",
+    "titulo": "Remolcadores Mar del Plata trasladó una plataforma a Río Negro para obras submarinas en VMOS",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/remolcadores-mar-del-plata-traslado-una-plataforma-a-rio-negro-para-obras-submarinas-en-vmos/",
+    "resumen": "El REMARSA I llevó la PG 410 desde Puerto Rosales hasta San Antonio Este. El operativo combinó cálculos de estabilidad, planificación meteorológica y maniobras con corrientes adversas. La continuidad  de las tripulaciones y el conocimiento de cada remolcador fueron parte del éxito en la prestación del servicio."
+  },
+  {
+    "fecha": "2026-09-23",
+    "titulo": "Trelew: una nueva planta pesquera proyecta más de 120 empleos",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/trelew-una-nueva-planta-pesquera-proyecta-mas-de-120-empleos/",
+    "resumen": "Pesquera Mediterráneo del Sur acondiciona sus instalaciones en la Subzona Franca y prevé comenzar a producir hacia fines de 2026. Procesará langostino y merluza, además de reprocesar calamar, con incorporación progresiva de personal."
+  },
+  {
+    "fecha": "2026-09-23",
+    "titulo": "ESNAV 2026 reúne a astilleros y puertos con foco en costos y nuevas cargas",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/esnav-2026-reune-a-astilleros-y-puertos-con-foco-en-costos-y-nuevas-cargas/",
+    "resumen": "El encuentro del 23 y 24 de septiembre abordará las condiciones para construir y operar buques en el país. La agenda incluye financiamiento, logística minera y una investigación aplicada a la potencia de los pesqueros."
+  },
+  {
+    "fecha": "2026-09-23",
+    "titulo": "El API V será remotorizado en Galicia para volver a pescar en 2027",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/el-api-v-sera-remotorizado-en-galicia-para-volver-a-pescar-en-2027/",
+    "resumen": "El congelador de Iberconsa ingresó a Nodosa tras casi un mes de navegación desde Puerto Madryn. Sus cuotas originales de merluza común y de cola equivalen a casi 12.000 toneladas sobre los límites de captura establecidos para 2026."
+  },
+  {
+    "fecha": "2026-09-23",
+    "titulo": "“La obra social del SOMU está en un abandono notorio”",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/09/la-obra-social-del-somu-esta-en-un-abandono-notorio/",
+    "resumen": "El dirigente sindical Guillermo Centurión cuestionó el deterioro de la cobertura que se extiende a todas las seccionales del país del gremio de los marineros. “Hace años que estamos en una desidia total”, afirmó y lamentó las dilaciones judiciales en la causa SOMU."
+  },
+  {
+    "fecha": "2026-09-23",
+    "titulo": "Parque Industrial de Trelew: “Sin ponerle el pie encima al que produce”",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/09/parque-industrial-de-trelew-sin-ponerle-el-pie-encima-al-que-produce/",
+    "resumen": "El proyecto del empresario Daniel Jurado avanza con la puesta en marcha de una planta para procesar langostino, merluza y reprocesar calamar. El gobernador Torres recorrió las instalaciones y destacó el régimen de beneficios como una herramienta para recuperar la actividad industrial y generar empleo en Chubut."
+  },
+  {
+    "fecha": "2026-09-23",
+    "titulo": "Condrictios: en cinco días de campaña colocaron 1.250 marcas",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/09/condrictios-en-cinco-dias-de-campana-colocaron-1-250-marcas/",
+    "resumen": "Se completó el estudio a bordo del BIPO “Mar Argentino” el domingo pasado. El Programa de Marcado y Recaptura, que arrancó hace menos de dos años, ya suma 3021 marcas sobre tiburones. En una década se marcaron casi 10 mil ejemplares."
+  },
+  {
+    "fecha": "2026-09-23",
+    "titulo": "Talleres sobre reconversión del R-22 en la flota pesquera en Puerto Madryn",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/09/talleres-sobre-reconversion-del-r-22-en-la-flota-pesquera-en-puerto-madryn/",
+    "resumen": "Se realizarán el 1 y 2 de octubre en la UTN y forman parte del proyecto de asistencia técnica impulsado por la Oficina Programa Ozono y ONUDI, con la participación de la consultora Ubajay. Buscan acompañar al sector en la transición hacia refrigerantes de menor impacto ambiental y avanzar en la reconversión de los sistemas de frío a bordo."
   },
   {
     "fecha": "2026-09-22",
@@ -75,6 +138,13 @@
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/09/hay-que-preparar-barcos-para-que-se-trabaje-con-una-calidad-superior/",
     "resumen": "La firma Makro botó en el astillero Alon Car el artesanal Adviento, que operará desde Rawson. El grupo también incorporó este año un congelador tangonero y pone a punto sus barcos de flota amarilla para la próxima temporada de langostino en Chubut."
+  },
+  {
+    "fecha": "2026-09-22",
+    "titulo": "El INIDEP busca rastrear tiburones por satélite y conocer sus migraciones",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/el-inidep-busca-revelar-la-ruta-de-tiburones-y-rayas-con-tecnologia-satelital/",
+    "resumen": "La campaña contempló tres transmisores y el marcado convencional de tiburones y rayas. Reconstruir sus desplazamientos permitirá estudiar cómo utilizan el hábitat y aportar información para el manejo pesquero."
   },
   {
     "fecha": "2026-09-21",
@@ -179,7 +249,7 @@
     "titulo": "Santa Cruz reclama 50.000 toneladas de langostino para abastecer sus plantas",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/santa-cruz-reclama-50-000-toneladas-de-langostino-para-abastecer-sus-plantas/",
-    "resumen": "La provincia busca ampliar el reconocimiento por conservar el Golfo San Jorge dentro de una eventual cuotificación. El antecedente es un cupo social de 4.500 toneladas; el nuevo pedido abre definiciones sobre beneficiarios, procesamiento y empleo."
+    "resumen": "La provincia busca una compensación mayor por el cierre del Golfo San Jorge. El antecedente es un cupo social de 4.500 toneladas anuales; el nuevo planteo exige definir cómo se vincularía el recurso con el procesamiento y el empleo local."
   },
   {
     "fecha": "2026-09-18",
@@ -348,75 +418,5 @@
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/09/la-denuncia-por-malvinas-apunta-a-siete-empresas-y-a-funcionarios-argentinos/",
     "resumen": "Los abogados José Lucas Magioncalda y Juan Martín Fazio, de la agrupación Reset Republicano, denunciaron por presunto contrabando a siete grupos pesqueros gallegos ante el Juzgado en lo Penal Económico N° 7. Invocan los artículos 863, 864 y 865 del Código Aduanero."
-  },
-  {
-    "fecha": "2026-09-15",
-    "titulo": "Catesur apuesta a la anchoíta pero no ayuda la abundancia ni su tamaño",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/09/catesur-apuesta-a-la-anchoita-pero-no-ayuda-la-abundancia-ni-su-tamano/",
-    "resumen": "El establecimiento es el único que procesa la anchoíta bonaerense que capturan dos fresqueros, “Padre Pío” y “Belvedere”, que son parte del mismo grupo empresario Ritorno, Sallustio y Cicciotti.  En el inicio de zafra la mayoría es calibre D."
-  },
-  {
-    "fecha": "2026-09-15",
-    "titulo": "Mirabella cerró Nación con buen balance y apuesta a trabajar hasta once meses al año",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/09/mirabella-cerro-nacion-con-buen-balance-y-apuesta-a-trabajar-hasta-once-meses-al-ano/",
-    "resumen": "Carlos Martín Rocca, propietario de la pesquera madrynense, destacó el buen nivel de capturas en la última temporada, aunque advirtió por la calidad dispar de la materia prima. De cara a los próximos meses, anticipó que la empresa comenzará a procesar merluza."
-  },
-  {
-    "fecha": "2026-09-15",
-    "titulo": "Río Negro transita uno de los años con menor volumen pesquero de la última década",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/09/rio-negro-transita-uno-de-los-anos-con-menor-volumen-pesquero-de-la-ultima-decada/",
-    "resumen": "La situación de la actividad pesquera en esa provincia patagónica sigue siendo crítica. En lo que va de 2026 apenas se desembarcaron 3.365 toneladas de productos pesqueros. La tendencia decreciente iniciada en 2023 parece no tener piso. Río Negro redireccionó su matriz productiva hacia el desarrollo energético."
-  },
-  {
-    "fecha": "2026-09-14",
-    "titulo": "AIS apagado: una práctica que pone en riesgo la seguridad durante la navegación",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/ais-apagado-una-practica-que-pone-en-riesgo-la-seguridad-durante-la-navegacion/",
-    "resumen": "La desconexión durante la marea, incluso en operaciones de pesca, retira información de seguridad a los demás navegantes. Las normas establecen la continuidad del servicio y delimitan las excepciones."
-  },
-  {
-    "fecha": "2026-09-14",
-    "titulo": "Santa Cruz impulsa un acuerdo con Chubut para ampliar el acceso a la merluza",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/santa-cruz-impulsa-un-acuerdo-con-chubut-para-ampliar-el-acceso-a-la-merluza/",
-    "resumen": "La propuesta permitiría a un padrón de barcos amarillos pescar en ambas jurisdicciones del Golfo San Jorge. Su instrumentación requiere consenso sectorial y reglas de manejo sobre un área de cría del recurso."
-  },
-  {
-    "fecha": "2026-09-14",
-    "titulo": "El Gobierno reactiva la base naval de Ushuaia con un muelle para grandes buques",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/el-gobierno-reactiva-la-base-naval-de-ushuaia-con-un-muelle-para-grandes-buques/",
-    "resumen": "La primera habilitación contempla 240 metros de atraque. El programa busca reunir abastecimiento y mantenimiento naval con instalaciones para las campañas antárticas; su continuidad requiere fondos del Presupuesto 2027."
-  },
-  {
-    "fecha": "2026-09-14",
-    "titulo": "Nueva denuncia contra la Junta Electoral del SOIP a días de los comicios",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/09/nueva-denuncia-contra-la-junta-electoral-del-soip-a-dias-de-los-comicios/",
-    "resumen": "Los apoderados de la Lista Verde y Azul presentaron un escrito en el que advierten que una persona ajena a la Junta difunde por redes documentación privada de la lista. Piden que se corte la circulación y que se investigue cómo salió del cuerpo que administra los comicios."
-  },
-  {
-    "fecha": "2026-09-14",
-    "titulo": "En Mar del Plata los estibadores cargan sus bolsas de alimentos no perecederos",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/09/en-mar-del-plata-los-estibadores-cargan-sus-bolsas-de-alimentos-no-perecederos/",
-    "resumen": "Ante la falta de trabajo por la caída en los desembarques y la falta de portacontenedores, el SUPA comenzó a entregar bolsones para eventuales y asociados a algunas cooperativas. “La mitad de los compañeros está sin trabajo”, dijo Carlos Mezzamico."
-  },
-  {
-    "fecha": "2026-09-14",
-    "titulo": "Merluza hubbsi: la principal especie de descarga en Comodoro Rivadavia",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/09/merluza-hubbsi-la-principal-especie-de-descarga-en-comodoro-rivadavia/",
-    "resumen": "Es la ciudad de Chubut con mayor cantidad de plantas dedicadas a su procesamiento. Se abastecen con materia prima del Golfo San Jorge y de aguas nacionales. En 2025 se desembarcaron 21.984 toneladas y en 2026 se llevan contabilizan 14.729 toneladas."
-  },
-  {
-    "fecha": "2026-09-12",
-    "titulo": "Día de la Industria Naval: los astilleros argentinos se adaptan a nuevas demandas",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/dia-de-la-industria-naval-los-astilleros-argentinos-se-adaptan-a-nuevas-demandas/",
-    "resumen": "Momentos de transición en la demanda y nuevo orden político económico ordenan una actividad que ya comienza a tener capacidad ociosa."
   }
 ]
