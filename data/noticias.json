@@ -1,31 +1,80 @@
 [
   {
-    "fecha": "2026-09-23",
+    "fecha": "2026-09-24",
     "titulo": "Ingreso de Buques a Puerto de Mar del Plata",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/ingreso-de-buques-a-puerto/",
-    "resumen": "Buques programados: NO SE REGISTRAN INGRESOS A PUERTO MDP - 00:00. Actualización: 23.SEP.2026 04:30 HS."
+    "resumen": "Buques programados: BP EL MARISCO I - 08:00 | BP ANITA - 13:00 | BP WIRON IV - 19:00. Actualización: 24.SEP.2026 06:38 HS."
   },
   {
-    "fecha": "2026-09-23",
+    "fecha": "2026-09-24",
     "titulo": "Buques Operando en ZEE Argentina",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/buques-operando/",
     "resumen": "Mapa interactivo de buques reportando al sistema. Áreas: Zona Común de Pesca (ARG-URU) / Zona de Veda Permanente de Juveniles de Merluza."
   },
   {
-    "fecha": "2026-09-23",
+    "fecha": "2026-09-24",
     "titulo": "Monitoreo Satelital de Buques Pesqueros",
     "fuente": "MAGyP",
     "url": "https://www.magyp.gob.ar/sitio/areas/pesca_maritima/monitoreo/",
     "resumen": "Monitoreo oficial de buques reportando al sistema. Áreas: Zona Rinc&oacute;n (Res. CFP N&ordm; 27/2009 y posteriores)."
   },
   {
-    "fecha": "2026-09-23",
+    "fecha": "2026-09-24",
     "titulo": "Desembarques de Capturas Marítimas (2026)",
     "fuente": "MAGyP",
     "url": "https://www.magyp.gob.ar/sitio/areas/pesca_maritima/desembarques/",
     "resumen": "Estadísticas oficiales de desembarques por especie, flota y puerto. Datos disponibles: 2026, 2025, 2024, 2023, 2022, 2021, 2020."
+  },
+  {
+    "fecha": "2026-09-24",
+    "titulo": "Malvinas y Sea Lion: por qué la pesca también es una cuestión de soberanía",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/malvinas-y-sea-lion-por-que-la-pesca-tambien-es-una-cuestion-de-soberania/",
+    "resumen": "La discusión por el petróleo encuentra un antecedente en las decisiones pesqueras de 2026. La consulta de López Cazorla sobre nuevos poteros, el respaldo del INIDEP y las sanciones por pesca ilegal permiten analizar el aporte del sector a la defensa de los recursos argentinos."
+  },
+  {
+    "fecha": "2026-09-24",
+    "titulo": "Mar del Plata: licitan la demolición de la histórica galería de los silos del puerto",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/mar-del-plata-licitan-la-demolicion-de-la-historica-galeria-de-los-silos-del-puerto/",
+    "resumen": "La obra tiene un presupuesto de $3.823 millones más IVA y comprende la renovación de 5.342 metros cuadrados de pavimentos. El retiro de la estructura permitirá liberar sectores de carga y descarga afectados por desprendimientos."
+  },
+  {
+    "fecha": "2026-09-24",
+    "titulo": "Prefectura capacitó a 156 profesionales para auditar la protección de buques y puertos",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/prefectura-capacito-a-156-profesionales-para-auditar-la-proteccion-de-buques-y-puertos/",
+    "resumen": "La formación reunió a participantes de 30 nacionalidades. El programa abordó cómo evaluar la aplicación del Código PBIP, que establece medidas para prevenir amenazas al transporte marítimo internacional."
+  },
+  {
+    "fecha": "2026-09-24",
+    "titulo": "Wöhler: El impacto de la pesca en Malvinas, cuotificación de langostino y poteros",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/09/wohler-el-impacto-de-la-pesca-en-malvinas-cuotificacion-de-langostino-y-poteros/",
+    "resumen": "El director de Investigación del INIDEP advirtió que las autoridades pesqueras de las islas analizan reducir la abundancia de merluza en el área para favorecer al loligo. Además, defendió la cuotificación del langostino y dio una lectura positiva del ingreso de 18 nuevos poteros."
+  },
+  {
+    "fecha": "2026-09-24",
+    "titulo": "La flota amarilla cerró con SICONARA un acuerdo anticipado para la zafra de Rawson",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/09/la-flota-amarilla-cerro-con-siconara-un-acuerdo-anticipado-para-la-zafra-de-rawson/",
+    "resumen": "El acuerdo se logró a pocas semanas de la prospección que definirá la próxima temporada. El presidente de CAFACH informó que ya hubo reuniones con el SOMU, Capitanes y la estiba, y sostuvo que el entendimiento reduce la incertidumbre frente a una demanda todavía débil y altos costos."
+  },
+  {
+    "fecha": "2026-09-24",
+    "titulo": "Contaminación de Coomarpes y Agustiner: piden embargo y que intervenga la PROCELAC",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/09/contaminacion-de-coomarpes-y-agustiner-piden-embargo-y-que-intervenga-la-procelac/",
+    "resumen": "Roberto Maturana, el querellante en la causa contra las harineras del puerto de Mar del Plata que investiga la justicia federal, aportó nuevas pruebas sobre el desinterés de las empresas en cuidar el medio ambiente como “un dispositivo de maximización de rentabilidad”."
+  },
+  {
+    "fecha": "2026-09-24",
+    "titulo": "El flete marítimo vuelve a presionar sobre las exportaciones pesqueras argentinas",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/09/el-flete-maritimo-vuelve-a-presionar-sobre-las-exportaciones-pesqueras-argentinas/",
+    "resumen": "La industria pesquera, fuertemente orientada al comercio exterior, enfrenta un segundo semestre de 2026 marcado por la volatilidad de los costos marítimos. Aunque las tarifas evolucionan de manera dispar según las rutas, las navieras vienen aplicando nuevos cargos y ajustes sobre las cargas refrigeradas, que suman presión sobre la competitividad del sector."
   },
   {
     "fecha": "2026-09-23",
@@ -369,54 +418,5 @@
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/09/conarpesa-compro-un-potero-en-taiwan-y-lo-alista-en-china/",
     "resumen": "Álvarez Castellano confirmó la adquisición. Se trata de un barco de doce años de antigüedad y capacidad para congelar 120 toneladas diarias. Fue uno de los dieciocho proyectos aprobados por el CFP. Llegará a mediados de noviembre y se llamará “Puerto Madryn 1995”. El empresario negó tener vínculos con Malvinas."
-  },
-  {
-    "fecha": "2026-09-16",
-    "titulo": "No logró consenso el cambio de reglas para la merluza en el Golfo San Jorge",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/09/no-logro-consenso-el-cambio-de-reglas-para-la-merluza-en-el-golfo-san-jorge/",
-    "resumen": "Desde Caleta Olivia y también desde Comodoro Rivadavia desestimaron la propuesta para que la flota amarilla opere sobre la especie merluza en ambas jurisdicciones provinciales. Los barcos de Santa Cruz y Chubut seguirán pescando, cada uno, en su lado del golfo."
-  },
-  {
-    "fecha": "2026-09-16",
-    "titulo": "EPSA reduce personal para preservar el empleo de temporada",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/09/epsa-reduce-personal-para-preservar-el-empleo-de-temporada/",
-    "resumen": "La compañía argumentó “cuestiones operativas y de imposibilidad económica”. Sostuvo que busca preservar la continuidad de la compañía y el empleo durante las temporadas de langostino, cuando puede llegar a ocupar a unos 600 operarios. Trabajo exhortó a retrotraer el conflicto y convocó a una primera audiencia."
-  },
-  {
-    "fecha": "2026-09-16",
-    "titulo": "Resolución CTMFM Nro. 8/2026: se fijó en 2.750 toneladas la captura permisible de rayas de altura para 2027",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/resolucion-ctmfm-nro-8-2026-se-fijo-en-2750-toneladas-la-captura-permisible-de-rayas-de-altura-para-2027/",
-    "resumen": "La medida regirá en la Zona Común de Pesca y contempla 2.450 toneladas inicialmente habilitadas y una reserva administrativa de 300 toneladas. La Comisión aplicó un criterio precautorio a partir de la evaluación del recurso."
-  },
-  {
-    "fecha": "2026-09-15",
-    "titulo": "Malvinas: denuncian por contrabando a siete pesqueras",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/malvinas-denuncian-por-contrabando-a-siete-pesqueras-gallegas/",
-    "resumen": "La presentación pide reconstruir el destino comercial de las capturas e investigar conexiones empresariales en Argentina. Esos vínculos pueden tener consecuencias sobre los permisos nacionales si se comprueban las infracciones previstas en la ley pesquera."
-  },
-  {
-    "fecha": "2026-09-15",
-    "titulo": "Langostino 2026 cerraría por encima de las 130 mil toneladas en aguas nacionales",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/langostino-2026-cerraria-por-encima-de-las-130-mil-toneladas-en-aguas-nacionales/",
-    "resumen": "La pesca en aguas nacionales dejó hasta el 9 de septiembre 126.163 toneladas declaradas, un 42% más que las 88.850 toneladas de toda la temporada 2025. El balance todavía es provisorio porque restan computarse las últimas descargas de los buques que regresaron a puerto tras el cierre."
-  },
-  {
-    "fecha": "2026-09-15",
-    "titulo": "Sonapescal vincula la expansión de la flota artesanal con la caída del precio de la pota",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/sonapescal-vincula-la-expansion-de-la-flota-artesanal-con-la-caida-del-precio-de-la-pota/",
-    "resumen": "El gremio peruano estima más de 9.000 embarcaciones participantes y reclama un padrón específico. El valor informado en planta se ubica 80,9% por debajo del máximo de 2025."
-  },
-  {
-    "fecha": "2026-09-15",
-    "titulo": "La denuncia por Malvinas apunta a siete empresas y a funcionarios argentinos",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/09/la-denuncia-por-malvinas-apunta-a-siete-empresas-y-a-funcionarios-argentinos/",
-    "resumen": "Los abogados José Lucas Magioncalda y Juan Martín Fazio, de la agrupación Reset Republicano, denunciaron por presunto contrabando a siete grupos pesqueros gallegos ante el Juzgado en lo Penal Económico N° 7. Invocan los artículos 863, 864 y 865 del Código Aduanero."
   }
 ]
