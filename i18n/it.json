@@ -1,150 +1,359 @@
 {
-  "nav": {
-    "institucional": "Istituzionale",
-    "flota": "Flotta",
-    "comercial": "Commerciale",
-    "frigorificos": "Frigoriferi",
-    "catalogo": "Catalogo",
-    "retail": "Retail",
-    "informacion": "Informazioni",
-    "contacto": "Contatti"
-  },
-  "hero": {
-    "title": "From Patagonia",
-    "subtitle": "L'essenza del Mare Argentino in ogni prodotto",
-    "tagline": "Esportatore premium di gamberi, merluzzo, calamaro e pesce costiero con tracciabilità totale e certificazione internazionale",
-    "ctaCatalog": "Vedi Catalogo",
-    "ctaContact": "Richiedi Preventivo",
-    "ctaPdf": "Scarica Catalogo PDF"
-  },
-  "highlights": {
-    "title": "La Nostra Differenza",
-    "subtitle": "Qualità nata in mare, lavorata con eccellenza, consegnata al mondo",
-    "fleet": {
-      "title": "Flotta Propria",
-      "desc": "7 tipi di imbarcazioni operanti in 7 porti patagonici"
-    },
-    "plants": {
-      "title": "Stabilimenti Industriali",
-      "desc": "Mar del Plata (7.500 m²) e Trelew (1.500 m²) con tecnologia all'avanguardia"
-    },
-    "certs": {
-      "title": "Certificazioni Globali",
-      "desc": "SENASA, HACCP, UE, FDA, Cina, Russia, DIPOA Brasile"
-    },
-    "export": {
-      "title": "Esportazione Mondiale",
-      "desc": "Presenza in 13 mercati internazionali"
-    }
-  },
-  "products": {
-    "title": "Specie Principali",
-    "subtitle": "I nostri prodotti più richiesti a livello internazionale",
-    "langostino": {
-      "name": "Gambero Patagonico",
-      "sci": "Pleoticus muelleri",
-      "desc": "Congelato a bordo e a terra. Taglie L1, L2, L3, Code C1, C2, C1L, Sgusciato e deveinato."
-    },
-    "merluza": {
-      "name": "Merluzzo Australe",
-      "sci": "Merluccius hubbsi",
-      "desc": "Intero, HG/HGT, Filetto con/senza pelle. Zona FAO 41. Maree 7-10g (MDP) e 2-3g (CR)."
-    },
-    "calamar": {
-      "name": "Calamaro Argentino",
-      "sci": "Illex argentinus",
-      "desc": "Intero, Tubo, Tentacolo, Pinna, Tubo pulito, Anelli. Cattura da flotta specializzata."
-    }
-  },
-  "cta": {
-    "title": "Pronto a lavorare con la migliore qualità del Mare Argentino?",
-    "desc": "Le aziende leader mondiali si affidano alla nostra esperienza e tracciabilità. Richiedi il tuo preventivo personalizzato.",
-    "btn": "Richiedi Preventivo"
-  },
-  "informacion": {
-    "title": "Informazioni sul Settore della Pesca",
-    "subtitle": "Notizie e analisi del settore della pesca argentino e internazionale",
-    "sectionFromPatagonia": "From Patagonia Seafood",
-    "sectionNoticias": "Notizie del Settore",
-    "herramientas": [
-      {
-        "titulo": "Arrivi di Navi al Porto",
-        "descripcion": "Consultazione giornaliera degli arrivi programmati al porto di Mar del Plata. Aggiornato dalla Prefettura Navale."
-      },
-      {
-        "titulo": "Monitoraggio Satellitare",
-        "descripcion": "Mappa interattiva ufficiale del MAGyP con la posizione dei pescherecci nella ZEE argentina."
-      },
-      {
-        "titulo": "Sbarchi",
-        "descripcion": "Statistiche ufficiali delle catture marine per specie, flotta e porto. Dati aggiornati."
-      },
-      {
-        "titulo": "Risoluzioni CFP",
-        "descripcion": "Risoluzioni del Consiglio Federale della Pesca. Normativa aggiornata del settore."
-      },
-      {
-        "titulo": "Verbali CFP",
-        "descripcion": "Verbali delle sessioni del Consiglio Federale della Pesca. Decisioni e dibattiti."
-      },
-      {
-        "titulo": "Novità CFP",
-        "descripcion": "Ultime novità e comunicati del Consiglio Federale della Pesca."
-      }
-    ],
-    "pinned": [
-      {
-        "titulo": "From Patagonia Seafood ha partecipato al Seafood Expo Global di Barcellona",
-        "resumen": "Il nostro team commerciale ha presentato la linea completa alla fiera più importante del settore."
-      },
-      {
-        "titulo": "Rinnovata certificazione HACCP per i nostri stabilimenti di Trelew e Mar del Plata",
-        "resumen": "Entrambi gli stabilimenti hanno superato con successo gli audit annuali."
-      },
-      {
-        "titulo": "From Patagonia Seafood espande la presenza nel mercato giapponese",
-        "resumen": "Nuovi accordi commerciali con acquirenti di Tokyo e Osaka."
-      },
-      {
-        "titulo": "Campagna gamberi 2026: risultati positivi",
-        "resumen": "La nostra flotta tangonero riporta buoni rendimenti nella Zona FAO 41."
-      },
-      {
-        "titulo": "Delegazione cinese visita i nostri stabilimenti in Patagonia",
-        "resumen": "Rappresentanti di catene di vendita al dettaglio di Shanghai hanno visitato le nostre strutture."
-      }
-    ]
-  },
-  "footer": {
-    "tagline": "Esportiamo la ricchezza del Mare Argentino nel mondo",
-    "contact": "Contatti",
-    "address": "Mar del Plata, Buenos Aires, Argentina",
-    "phone": "+54 223 555-0123",
-    "follow": "Seguici",
-    "rights": "Tutti i diritti riservati",
-    "privacy": "Politica sulla Privacy",
-    "terms": "Termini e Condizioni",
-    "watermark": "by Sottomarina SA / Guigus SA",
-    "navInformacion": "Informazioni del Settore"
-  },
-  "common": {
-    "loading": "Caricamento...",
-    "error": "Errore",
-    "retry": "Riprova",
-    "close": "Chiudi",
-    "next": "Avanti",
-    "prev": "Indietro",
-    "play": "Riproduci",
-    "pause": "Pausa",
-    "mute": "Muto",
-    "unmute": "Audio",
-    "fullscreen": "Schermo intero",
-    "gallery": "Vedi galleria completa",
-    "certifications": "Certificazioni",
-    "specifications": "Specifiche",
-    "description": "Descrizione",
-    "packing": "Imballaggio",
-    "scientificName": "Nome scientifico",
-    "allRights": "Tutti i diritti riservati"
-  }
+    "flota":  {
+                  "gallery":  {
+                                  "title":  "Galleria delle Navi",
+                                  "subtitle":  "Carosello cinematografico sincronizzato con la musica. Ken Burns, swipe, pausa hover."
+                              },
+                  "videos":  {
+                                 "subtitle":  "Video della nostra flotta in operazione nel Mar Argentino",
+                                 "title":  "Navigazione in Condizioni Estreme"
+                             },
+                  "subtitle":  "7 tipi di imbarcazioni operanti in 7 porti patagonici. Flotta propria con tracciabilità totale.",
+                  "ports":  {
+                                "title":  "Porti Operativi"
+                            },
+                  "video1Desc":  "Nave convenzionale al lavoro - Navigazione in cattivo tempo",
+                  "video2Desc":  "Navi nella tempesta - Timelapse di navigazione",
+                  "fresqueros":  {
+                                     "title":  "B) NAVI PER PESCE FRESCO",
+                                     "tangoneros":  {
+                                                        "name":  "Pescherecci a divergenti (fresco)",
+                                                        "desc":  "Consegna giornaliera di gamberi freschi allo stabilimento di Trelew. Catena del freddo ininterrotta."
+                                                    },
+                                     "costeros":  {
+                                                      "name":  "Naselli/Trappole/Palamito (Costieri)",
+                                                      "desc":  "Flotta artigianale costiera. Cattura selettiva di specie di alto valore per il mercato premium."
+                                                  },
+                                     "monored":  {
+                                                     "name":  "Pescherecci Mono Rete",
+                                                     "desc":  "Cattura fresca di merluzzo e specie associate per lavorazione immediata."
+                                                 }
+                                 },
+                  "title":  "La Nostra Flotta",
+                  "congeladores":  {
+                                       "tangoneros":  {
+                                                          "name":  "Pescherecci a divergenti",
+                                                          "desc":  "Flotta principale di congelatori per gamberi con congelamento immediato a bordo."
+                                                      },
+                                       "poteros":  {
+                                                       "name":  "Lampare (Calamaro)",
+                                                       "desc":  "Flotta specializzata nel calamaro Illex. Sistema a luce e totani con lavorazione immediata."
+                                                   },
+                                       "arrastreros":  {
+                                                           "name":  "Pescherecci a strascico (Specie Varie/Merluzzo)",
+                                                           "desc":  "Specializzati in merluzzo hubbsi e specie associate. Lavorazione e congelamento a bordo."
+                                                       },
+                                       "title":  "A) NAVI CONGELATRICI"
+                                   }
+              },
+    "frigorificos":  {
+                         "video4Desc":  "Lavorazione della corvina intera",
+                         "specs":  {
+                                       "trelewTecnologia":  "Congelamento a piastre di contatto e tunnel statici",
+                                       "mdpName":  "Mar del Plata",
+                                       "thTecnologia":  "Tecnologia",
+                                       "thCapacidad":  "Capacità di Stoccaggio",
+                                       "mdpCapacidad":  "1.000 tonnellate",
+                                       "thPersonal":  "Personale",
+                                       "mdpPersonal":  "320 persone",
+                                       "trelewSuperficie":  "1.200 m²",
+                                       "mdpSuperficie":  "7.500 m²",
+                                       "title":  "Specifiche Tecniche",
+                                       "subtitle":  "Infrastruttura industriale di primo livello",
+                                       "mdpTecnologia":  "Congelamento a piastre di contatto, tunnel statici e giro freezer",
+                                       "trelewLocation":  "Parco Industriale",
+                                       "thSuperficie":  "Superficie",
+                                       "thUbicacion":  "Ubicazione",
+                                       "trelewName":  "Trelew",
+                                       "mdpLocation":  "Situata nel porto",
+                                       "trelewCapacidad":  "250 tonnellate",
+                                       "trelewPersonal":  "200 persone (stagione dei gamberi)"
+                                   },
+                         "certs":  {
+                                       "rusia":  "Rosselkhoznadzor - Servizio Veterinario Federale",
+                                       "subtitle":  "Attestano la nostra conformità ai più esigenti standard internazionali",
+                                       "dipoa":  "Dipartimento di Ispezione dei Prodotti di Origine Animale",
+                                       "title":  "Certificazioni",
+                                       "haccp":  "Analisi dei Pericoli e Punti Critici di Controllo",
+                                       "china":  "GACC - General Administration of Customs",
+                                       "ue":  "Regolamento CE 852/2004 e 853/2004",
+                                       "fda":  "Food and Drug Administration - USA",
+                                       "senasa":  "Servizio Nazionale di Sanità e Qualità Agroalimentare"
+                                   },
+                         "subtitle":  "Due stabilimenti di lavorazione all\u0027avanguardia e capacità totale di stoccaggio di 1.250 tonnellate",
+                         "video3Desc":  "Lavorazione del gambero intero",
+                         "videos":  {
+                                        "title":  "Video di Processo",
+                                        "subtitle":  "Lavorazione nei nostri stabilimenti"
+                                    },
+                         "video1Desc":  "Selezione e controllo dei parassiti nei filetti",
+                         "video2Desc":  "Confezionamento del filetto di merluzzo",
+                         "gallery":  {
+                                         "title":  "Galleria degli Stabilimenti",
+                                         "subtitle":  "Carosello + video con priorità audio + mosaico fotografico"
+                                     },
+                         "video5Desc":  "Produzione di gamberi sgusciati e puliti",
+                         "title":  "Frigoriferi Industriali"
+                     },
+    "catalogo":  {
+                     "categories":  {
+                                        "elaborados":  "PRODOTTI TRASFORMATI",
+                                        "merluza":  "MERLUZZO",
+                                        "calamar":  "CALAMARO",
+                                        "langostinos":  "GAMBERI",
+                                        "variado":  "VARIETÀ COSTIERA"
+                                    },
+                     "title":  "Catalogo Prodotti",
+                     "subtitle":  "Esplora la nostra gamma completa di specie del Mar Argentino. Tracciabilità totale e certificazione internazionale."
+                 },
+    "highlights":  {
+                       "certs":  {
+                                     "desc":  "SENASA, HACCP, UE, FDA, Cina, Russia, DIPOA Brasile",
+                                     "title":  "Certificazioni Globali"
+                                 },
+                       "subtitle":  "Qualità nata in mare, lavorata con eccellenza, consegnata al mondo",
+                       "fleet":  {
+                                     "title":  "Flotta Propria",
+                                     "desc":  "7 tipi di imbarcazioni operanti in 7 porti patagonici"
+                                 },
+                       "export":  {
+                                      "desc":  "Presenza in 13 mercati internazionali",
+                                      "title":  "Esportazione Mondiale"
+                                  },
+                       "plants":  {
+                                      "desc":  "Mar del Plata (7.500 m²) e Trelew (1.500 m²) con tecnologia all\u0027avanguardia",
+                                      "title":  "Stabilimenti Industriali"
+                                  },
+                       "title":  "La Nostra Differenza"
+                   },
+    "cta":  {
+                "title":  "Pronto a lavorare con la migliore qualità del Mare Argentino?",
+                "btn":  "Richiedi Preventivo",
+                "desc":  "Le aziende leader mondiali si affidano alla nostra esperienza e tracciabilità. Richiedi il tuo preventivo personalizzato."
+            },
+    "products":  {
+                     "title":  "Specie Principali",
+                     "merluza":  {
+                                     "name":  "Merluzzo Australe",
+                                     "desc":  "Intero, HG/HGT, Filetto con/senza pelle. Zona FAO 41. Maree 7-10g (MDP) e 2-3g (CR).",
+                                     "sci":  "Merluccius hubbsi"
+                                 },
+                     "langostino":  {
+                                        "name":  "Gambero Patagonico",
+                                        "desc":  "Congelato a bordo e a terra. Taglie L1, L2, L3, Code C1, C2, C1L, Sgusciato e deveinato.",
+                                        "sci":  "Pleoticus muelleri"
+                                    },
+                     "subtitle":  "I nostri prodotti più richiesti a livello internazionale",
+                     "calamar":  {
+                                     "name":  "Calamaro Argentino",
+                                     "desc":  "Intero, Tubo, Tentacolo, Pinna, Tubo pulito, Anelli. Cattura da flotta specializzata.",
+                                     "sci":  "Illex argentinus"
+                                 }
+                 },
+    "hero":  {
+                 "ctaContact":  "Richiedi Preventivo",
+                 "ctaCatalog":  "Vedi Catalogo",
+                 "subtitle":  "L\u0027essenza del Mare Argentino in ogni prodotto",
+                 "ctaPdf":  "Scarica Catalogo PDF",
+                 "title":  "From Patagonia",
+                 "tagline":  "Esportatore premium di gamberi, merluzzo, calamaro e pesce costiero con tracciabilità totale e certificazione internazionale"
+             },
+    "footer":  {
+                   "navFrigorificos":  "Frigoriferi",
+                   "contact":  "Contatti",
+                   "watermark":  "by Sottomarina SA / Guigus SA",
+                   "phone":  "+54 223 555-0123",
+                   "navFlota":  "Flotta",
+                   "navInformacion":  "Informazioni del Settore",
+                   "contactForm":  "Modulo di Contatto",
+                   "navContacto":  "Contatti",
+                   "address":  "Mar del Plata, Buenos Aires, Argentina",
+                   "follow":  "Seguici",
+                   "terms":  "Termini e Condizioni",
+                   "rights":  "Tutti i diritti riservati",
+                   "navCatalogo":  "Catalogo Prodotti",
+                   "tagline":  "Esportiamo la ricchezza del Mare Argentino nel mondo",
+                   "navComercial":  "Commerciale",
+                   "navInstitucional":  "Azienda",
+                   "privacy":  "Politica sulla Privacy"
+               },
+    "nav":  {
+                "frigorificos":  "Frigoriferi",
+                "catalogo":  "Catalogo",
+                "contacto":  "Contatti",
+                "comercial":  "Commerciale",
+                "informacion":  "Informazioni",
+                "retail":  "Retail",
+                "flota":  "Flotta",
+                "institucional":  "Istituzionale"
+            },
+    "institucional":  {
+                          "certs":  {
+                                        "subtitle":  "Attestano la nostra qualità e l\u0027apertura dei mercati",
+                                        "title":  "Certificazioni Internazionali"
+                                    },
+                          "subtitle":  "Scopri la nostra storia, i nostri valori e il nostro impegno per l\u0027eccellenza",
+                          "vision":  {
+                                         "quote":  "Affermarci come il riferimento indiscusso nell\u0027esportazione di prodotti del Mar Argentino a livello globale, mantenendo l\u0027eccellenza in qualità, tracciabilità e sostenibilità che ci contraddistingue.",
+                                         "title":  "La Nostra Visione"
+                                     },
+                          "values":  {
+                                         "items":  {
+                                                       "2":  {
+                                                                 "title":  "Sostenibilità",
+                                                                 "desc":  "Pesca responsabile, tutelando la risorsa per le future generazioni"
+                                                             },
+                                                       "3":  {
+                                                                 "title":  "Impegno Familiare",
+                                                                 "desc":  "Decenni di esperienza, onorando la nostra parola"
+                                                             },
+                                                       "1":  {
+                                                                 "desc":  "Standard internazionali in ogni processo",
+                                                                 "title":  "Qualità Premium"
+                                                             },
+                                                       "0":  {
+                                                                 "title":  "Tracciabilità Totale",
+                                                                 "desc":  "Dal mare alla tavola, ogni passo documentato"
+                                                             }
+                                                   },
+                                         "title":  "Valori che ci guidano"
+                                     },
+                          "banner":  "Ci vediamo il 6 ottobre - Monumento",
+                          "title":  "Azienda",
+                          "history":  {
+                                          "p1":  "In From Patagonia, la nostra essenza è il Mar Argentino. Siamo un\u0027azienda familiare e storica dedita alla cattura, lavorazione ed esportazione di pesci e frutti di mare, con decenni di esperienza, che integra l\u0027intera catena del valore: dalla pesca nelle nostre acque fredde e cristalline alla logistica globale che assicura che il prodotto raggiunga il mercato internazionale in condizioni di assoluta freschezza.",
+                                          "title":  "La Nostra Storia",
+                                          "p2":  "Operiamo con flotta propria, lavoriamo nei nostri stabilimenti di Mar del Plata e Trelew con i più alti standard sanitari, e il nostro marchio e la nostra industria sono sinonimo di tracciabilità totale in tutto il ciclo produttivo. Esportiamo nel mondo la ricchezza delle nostre coste, con la serietà e l\u0027impegno che i mercati più esigenti richiedono.",
+                                          "subtitle":  "L\u0027essenza del Mar Argentino",
+                                          "p3":  "Aziende argentine ampiamente conosciute sul mercato mondiale ci affidano la responsabilità delle loro produzioni, perché abbiamo una vasta esperienza in questo campo!"
+                                      }
+                      },
+    "informacion":  {
+                        "herramientas":  {
+                                             "3":  {
+                                                       "descripcion":  "Risoluzioni del Consiglio Federale della Pesca. Normativa aggiornata del settore ittico argentino.",
+                                                       "titulo":  "Risoluzioni CFP"
+                                                   },
+                                             "4":  {
+                                                       "descripcion":  "Verbali delle sessioni del Consiglio Federale della Pesca. Decisioni e dibattiti dell\u0027organismo.",
+                                                       "titulo":  "Verbali CFP"
+                                                   },
+                                             "2":  {
+                                                       "descripcion":  "Statistiche ufficiali delle catture marittime per specie, flotta e porto. Dati aggiornati dalla Segreteria della Pesca.",
+                                                       "titulo":  "Sbarchi"
+                                                   },
+                                             "1":  {
+                                                       "descripcion":  "Mappa interattiva ufficiale del MAGyP con la posizione delle navi da pesca che segnalano al sistema nella ZEE argentina.",
+                                                       "titulo":  "Monitoraggio Satellitare"
+                                                   },
+                                             "0":  {
+                                                       "descripcion":  "Consultazione giornaliera degli arrivi programmati al porto di Mar del Plata. Aggiornato dalla Guardia Costiera.",
+                                                       "titulo":  "Ingresso delle Navi in Porto"
+                                                   },
+                                             "5":  {
+                                                       "descripcion":  "Ultime novità e comunicati del Consiglio Federale della Pesca.",
+                                                       "titulo":  "Novità CFP"
+                                                   }
+                                         },
+                        "sectionNoticias":  "Notizie del Settore",
+                        "title":  "Informazioni sul Settore della Pesca",
+                        "sectionFromPatagonia":  "From Patagonia Seafood",
+                        "subtitle":  "Notizie e analisi del settore della pesca argentino e internazionale"
+                    },
+    "contacto":  {
+                     "direct":  {
+                                    "email":  "gdc1971@hotmail.com",
+                                    "title":  "Dati di Contatto Diretto",
+                                    "phone":  "+54 223 555-0123",
+                                    "address":  "Mar del Plata, Buenos Aires, Argentina"
+                                },
+                     "subtitle":  "Richiedi il tuo preventivo personalizzato. Acquisiamo automaticamente i dati di audit interno.",
+                     "form":  {
+                                  "submitting":  "Invio...",
+                                  "success":  "Messaggio inviato correttamente! Il nostro team commerciale ti contatterà a breve.",
+                                  "mensaje":  "Messaggio *",
+                                  "submit":  "Richiedi un Preventivo",
+                                  "telefono":  "Telefono *",
+                                  "cargo":  "Posizione",
+                                  "subtitle":  "Compila il modulo e il nostro team commerciale ti risponderà a breve",
+                                  "title":  "Richiedi un Preventivo",
+                                  "error":  "Errore di invio. Riprova o contattaci direttamente.",
+                                  "disclaimer":  "Inviando questo modulo, accetti che acquisiamo il tuo IP, data, ora e posizione approssimativa per audit interni. I tuoi dati vengono inviati direttamente a gdc1971@hotmail.com tramite Formspree.",
+                                  "placeholder":  "Descrivi la tua richiesta, specie di interesse, volumi stimati, mercati di destinazione...",
+                                  "empresa":  "Azienda *",
+                                  "email":  "Email *",
+                                  "nombre":  "Nome e Cognome *",
+                                  "fields":  {
+                                                 "empresa":  "Azienda *",
+                                                 "mensaje":  "Messaggio *",
+                                                 "cargo":  "Posizione",
+                                                 "nombre":  "Nome e Cognome *",
+                                                 "telefono":  "Telefono *",
+                                                 "email":  "Email *"
+                                             }
+                              },
+                     "title":  "Contatti e Audit"
+                 },
+    "comercial":  {
+                      "statPaises":  "Paesi",
+                      "legend":  {
+                                     "mercados":  "13 mercati di destinazione",
+                                     "plantas":  "Stabilimenti di lavorazione (2)",
+                                     "origen":  "Origine: Mar del Plata",
+                                     "rutas":  "13 rotte commerciali animate",
+                                     "puertos":  "Porti operativi (7)",
+                                     "hover":  "Passa il mouse per i dettagli di ogni porto",
+                                     "barco":  "Nave portacontainer in movimento"
+                                 },
+                      "statContinentes":  "Continenti",
+                      "subtitle":  "La nostra rete logistica globale collega la Patagonia ai principali mercati mondiali.",
+                      "statMercados":  "Mercati",
+                      "sectionTitle":  "Rete Commerciale Globale",
+                      "mapTitle":  "Mappa delle Esportazioni",
+                      "sectionSubtitle":  "La Patagonia connessa ai mercati più esigenti del mondo",
+                      "mapSubtitle":  "Connessioni commerciali dalla Patagonia al mondo",
+                      "title":  "Area Commerciale",
+                      "tabs":  {
+                                   "mercados":  "🌍 Mercati Mondiali",
+                                   "puertos":  "🇦🇷 Porti dell\u0027Argentina"
+                               }
+                  },
+    "common":  {
+                   "scientificName":  "Nome scientifico",
+                   "description":  "Descrizione",
+                   "fullscreen":  "Schermo intero",
+                   "loading":  "Caricamento...",
+                   "retry":  "Riprova",
+                   "specifications":  "Specifiche",
+                   "play":  "Riproduci",
+                   "next":  "Avanti",
+                   "mute":  "Muto",
+                   "certifications":  "Certificazioni",
+                   "close":  "Chiudi",
+                   "unmute":  "Audio",
+                   "error":  "Errore",
+                   "prev":  "Indietro",
+                   "allRights":  "Tutti i diritti riservati",
+                   "pause":  "Pausa",
+                   "packing":  "Imballaggio",
+                   "gallery":  "Vedi galleria completa"
+               },
+    "retail":  {
+                   "gallery":  {
+                                   "subtitle":  "Presentazioni finali per supermercati e ipermercati",
+                                   "title":  "Galleria Prodotti Retail"
+                               },
+                   "text":  "La linea Retail ora fa parte del nostro",
+                   "subtitle":  "Prodotti pronti per lo scaffale e il food service. Presentazioni consumer-ready con la qualità From Patagonia.",
+                   "title":  "Linea Retail",
+                   "categories":  {
+                                      "porcionado":  "Filetto di Merluzzo Porzionato",
+                                      "formas":  "Forme per Bambini e Marine",
+                                      "filet":  "Filetto di Merluzzo Impanato",
+                                      "hamburguesas":  "Hamburger (Merluzzo, Pollo, Spinaci, Prosciutto, Formaggio, Primavera)",
+                                      "bastones":  "Bastoncini (Merluzzo, Pollo, Spinaci, Prosciutto, Formaggio, Primavera)",
+                                      "anillas":  "Anelli di Calamaro Naturale e Impanati"
+                                  },
+                   "catalogoLink":  "Catalogo Prodotti"
+               }
 }

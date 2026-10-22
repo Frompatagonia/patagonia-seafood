@@ -1,150 +1,359 @@
 {
-  "nav": {
-    "institucional": "机构",
-    "flota": "船队",
-    "comercial": "商业",
-    "frigorificos": "冷冻厂",
-    "catalogo": "目录",
-    "retail": "零售",
-    "informacion": "信息",
-    "contacto": "联系"
-  },
-  "hero": {
-    "title": "From Patagonia",
-    "subtitle": "阿根廷海的精髓在每个产品中",
-    "tagline": "虾、鳕鱼、鱿鱼和近岸鱼类的优质出口商，拥有完全的可追溯性和国际认证",
-    "ctaCatalog": "查看目录",
-    "ctaContact": "询价",
-    "ctaPdf": "下载产品目录PDF"
-  },
-  "highlights": {
-    "title": "我们的差异",
-    "subtitle": "生于海洋，精工加工，交付世界的品质",
-    "fleet": {
-      "title": "自有船队",
-      "desc": "7种船舶在7个巴塔哥尼亚港口运营"
-    },
-    "plants": {
-      "title": "工业工厂",
-      "desc": "马德普拉塔(7,500平方米)和特雷勒乌(1,500平方米)采用尖端技术"
-    },
-    "certs": {
-      "title": "全球认证",
-      "desc": "SENASA, HACCP, 欧盟, FDA, 中国, 俄罗斯, DIPOA巴西"
-    },
-    "export": {
-      "title": "全球出口",
-      "desc": "在13个国际市场有业务"
-    }
-  },
-  "products": {
-    "title": "主打物种",
-    "subtitle": "国际上需求最大的产品",
-    "langostino": {
-      "name": "巴塔哥尼亚虾",
-      "sci": "Pleoticus muelleri",
-      "desc": "船上冷冻和陆地冷冻。规格L1, L2, L3, 虾仁C1, C2, C1L, 去壳去沙线。"
-    },
-    "merluza": {
-      "name": "南方鳕鱼",
-      "sci": "Merluccius hubbsi",
-      "desc": "整鱼, HG/HGT, 带皮/去皮鱼片. FAO 41区. 捕捞周期7-10天(马德普拉塔)和2-3天(科莫多罗里瓦达维亚)."
-    },
-    "calamar": {
-      "name": "阿根廷鱿鱼",
-      "sci": "Illex argentinus",
-      "desc": "整体, 管状, 触手, 翅, 去皮管, 圈. 专业鱿鱼钓船队捕获。"
-    }
-  },
-  "cta": {
-    "title": "准备好与阿根廷海的最佳品质合作了吗？",
-    "desc": "全球领先企业信任我们的经验和可追溯性。请索取您的个性化报价。",
-    "btn": "索取报价"
-  },
-  "informacion": {
-    "title": "渔业行业信息",
-    "subtitle": "阿根廷和国际渔业的新闻与分析",
-    "sectionFromPatagonia": "From Patagonia Seafood",
-    "sectionNoticias": "行业新闻",
-    "herramientas": [
-      {
-        "titulo": "船只入港信息",
-        "descripcion": "马德普拉塔港每日到港船期查询。由海军管理局更新。"
-      },
-      {
-        "titulo": "卫星监测",
-        "descripcion": "MAGyP官方交互地图，显示阿根廷专属经济区内渔船位置。"
-      },
-      {
-        "titulo": "渔获上岸统计",
-        "descripcion": "按物种、船队和港口分类的官方渔获统计。渔业秘书处更新。"
-      },
-      {
-        "titulo": "CFP决议",
-        "descripcion": "联邦渔业委员会决议。阿根廷渔业最新法规。"
-      },
-      {
-        "titulo": "CFP会议纪要",
-        "descripcion": "联邦渔业委员会会议纪要。机构决策与讨论。"
-      },
-      {
-        "titulo": "CFP动态",
-        "descripcion": "联邦渔业委员会最新消息和公告。"
-      }
-    ],
-    "pinned": [
-      {
-        "titulo": "From Patagonia Seafood 参加巴塞罗那全球海鲜博览会",
-        "resumen": "我司商务团队在最重要的行业展会上展示全线产品，开拓欧亚新商机。"
-      },
-      {
-        "titulo": "特雷利乌和马德普拉塔工厂更新HACCP认证",
-        "resumen": "两家工厂成功通过年度审核，重申对质量和食品安全的承诺。"
-      },
-      {
-        "titulo": "From Patagonia Seafood 扩大日本市场份额",
-        "resumen": "与东京和大阪买家签署新协议，供应 premium 巴塔哥尼亚虾。"
-      },
-      {
-        "titulo": "2026年虾季：前几周取得积极成果",
-        "resumen": "拖网船队在FAO 41区报告良好渔获，国际市场价格规格适中。"
-      },
-      {
-        "titulo": "中国代表团访问巴塔哥尼亚工厂",
-        "resumen": "上海零售连锁代表参观我司工厂了解生产过程。"
-      }
-    ]
-  },
-  "footer": {
-    "tagline": "将阿根廷海的丰富资源出口到世界",
-    "contact": "联系方式",
-    "address": "马德普拉塔, 布宜诺斯艾利斯, 阿根廷",
-    "phone": "+54 223 555-0123",
-    "follow": "关注我们",
-    "rights": "版权所有",
-    "privacy": "隐私政策",
-    "terms": "服务条款",
-    "watermark": "by Sottomarina SA / Guigus SA",
-    "navInformacion": "行业信息"
-  },
-  "common": {
-    "loading": "加载中...",
-    "error": "错误",
-    "retry": "重试",
-    "close": "关闭",
-    "next": "下一个",
-    "prev": "上一个",
-    "play": "播放",
-    "pause": "暂停",
-    "mute": "静音",
-    "unmute": "取消静音",
-    "fullscreen": "全屏",
-    "gallery": "查看完整图库",
-    "certifications": "认证",
-    "specifications": "规格",
-    "description": "描述",
-    "packing": "包装",
-    "scientificName": "学名",
-    "allRights": "版权所有"
-  }
+    "flota":  {
+                  "gallery":  {
+                                  "title":  "船队图库",
+                                  "subtitle":  "与音乐同步的电影式轮播。Ken Burns、滑动、悬停暂停。"
+                              },
+                  "videos":  {
+                                 "subtitle":  "我们的船队在阿根廷海域作业的视频",
+                                 "title":  "极端条件下的航行"
+                             },
+                  "subtitle":  "7种船型在7个巴塔哥尼亚港口作业。自有船队，全程可追溯。",
+                  "ports":  {
+                                "title":  "作业港口"
+                            },
+                  "video1Desc":  "常规船舶作业——恶劣天气航行",
+                  "video2Desc":  "风暴中的船只——航行延时摄影",
+                  "fresqueros":  {
+                                     "title":  "B) 保鲜船",
+                                     "tangoneros":  {
+                                                        "name":  "舷外撑杆保鲜船",
+                                                        "desc":  "每日向特雷利乌工厂配送新鲜虾。不间断冷链。"
+                                                    },
+                                     "costeros":  {
+                                                      "name":  "笼捕/延绳（沿海）",
+                                                      "desc":  "沿岸手工船队。为目标高端市场选择性捕捞高价值品种。"
+                                                  },
+                                     "monored":  {
+                                                     "name":  "单网拖网船",
+                                                     "desc":  "新鲜捕捞无须鳕及相关鱼种，即时加工。"
+                                                 }
+                                 },
+                  "title":  "我们的船队",
+                  "congeladores":  {
+                                       "tangoneros":  {
+                                                          "name":  "舷外撑杆拖网船",
+                                                          "desc":  "虾类冷冻船主力船队，船上即时冷冻。"
+                                                      },
+                                       "poteros":  {
+                                                       "name":  "鱿钓船（鱿鱼）",
+                                                       "desc":  "专营阿根廷滑柔鱼（Illex）的船队。集鱼灯与钓捕系统，即时加工。"
+                                                   },
+                                       "arrastreros":  {
+                                                           "name":  "拖网船（杂鱼/无须鳕）",
+                                                           "desc":  "专注无须鳕（hubbsi）及相关鱼种。船上加工与冷冻。"
+                                                       },
+                                       "title":  "A) 冷冻船"
+                                   }
+              },
+    "frigorificos":  {
+                         "video4Desc":  "整条石首鱼加工",
+                         "specs":  {
+                                       "trelewTecnologia":  "接触式平板冻结和静态隧道",
+                                       "mdpName":  "马德普拉塔",
+                                       "thTecnologia":  "技术",
+                                       "thCapacidad":  "仓储容量",
+                                       "mdpCapacidad":  "1,000 吨",
+                                       "thPersonal":  "员工",
+                                       "mdpPersonal":  "320 人",
+                                       "trelewSuperficie":  "1,200 平方米",
+                                       "mdpSuperficie":  "7,500 平方米",
+                                       "title":  "技术规格",
+                                       "subtitle":  "一流的工业基础设施",
+                                       "mdpTecnologia":  "接触式平板冻结、静态隧道和螺旋冷冻机",
+                                       "trelewLocation":  "工业园区",
+                                       "thSuperficie":  "面积",
+                                       "thUbicacion":  "位置",
+                                       "trelewName":  "特雷利乌",
+                                       "mdpLocation":  "位于港口",
+                                       "trelewCapacidad":  "250 吨",
+                                       "trelewPersonal":  "200 人（虾季）"
+                                   },
+                         "certs":  {
+                                       "rusia":  "俄罗斯联邦兽医及植物卫生监督局",
+                                       "subtitle":  "印证我们符合最严苛的国际标准",
+                                       "dipoa":  "动物源产品检验局",
+                                       "title":  "认证",
+                                       "haccp":  "危害分析与关键控制点",
+                                       "china":  "GACC - General Administration of Customs",
+                                       "ue":  "欧盟条例 852/2004 和 853/2004",
+                                       "fda":  "Food and Drug Administration - USA",
+                                       "senasa":  "国家农食品卫生与质量局"
+                                   },
+                         "subtitle":  "两座配备尖端技术的加工厂，总仓储能力 1,250 吨",
+                         "video3Desc":  "整只虾加工",
+                         "videos":  {
+                                        "title":  "加工视频",
+                                        "subtitle":  "在我们工厂的加工"
+                                    },
+                         "video1Desc":  "鱼片分级与寄生虫控制",
+                         "video2Desc":  "无须鳕鱼片包装",
+                         "gallery":  {
+                                         "title":  "工厂图库",
+                                         "subtitle":  "轮播＋音频优先视频＋照片马赛克"
+                                     },
+                         "video5Desc":  "去壳去肠虾仁生产",
+                         "title":  "工业冷藏厂"
+                     },
+    "catalogo":  {
+                     "categories":  {
+                                        "elaborados":  "加工产品",
+                                        "merluza":  "无须鳕",
+                                        "calamar":  "鱿鱼",
+                                        "langostinos":  "虾",
+                                        "variado":  "沿海杂鱼"
+                                    },
+                     "title":  "产品目录",
+                     "subtitle":  "探索来自阿根廷海域的全系列产品。全程可追溯，国际认证。"
+                 },
+    "highlights":  {
+                       "certs":  {
+                                     "desc":  "SENASA, HACCP, 欧盟, FDA, 中国, 俄罗斯, DIPOA巴西",
+                                     "title":  "全球认证"
+                                 },
+                       "subtitle":  "生于海洋，精工加工，交付世界的品质",
+                       "fleet":  {
+                                     "title":  "自有船队",
+                                     "desc":  "7种船舶在7个巴塔哥尼亚港口运营"
+                                 },
+                       "export":  {
+                                      "desc":  "在13个国际市场有业务",
+                                      "title":  "全球出口"
+                                  },
+                       "plants":  {
+                                      "desc":  "马德普拉塔(7,500平方米)和特雷勒乌(1,500平方米)采用尖端技术",
+                                      "title":  "工业工厂"
+                                  },
+                       "title":  "我们的差异"
+                   },
+    "cta":  {
+                "title":  "准备好与阿根廷海的最佳品质合作了吗？",
+                "btn":  "索取报价",
+                "desc":  "全球领先企业信任我们的经验和可追溯性。请索取您的个性化报价。"
+            },
+    "products":  {
+                     "title":  "主打物种",
+                     "merluza":  {
+                                     "name":  "南方鳕鱼",
+                                     "desc":  "整鱼, HG/HGT, 带皮/去皮鱼片. FAO 41区. 捕捞周期7-10天(马德普拉塔)和2-3天(科莫多罗里瓦达维亚).",
+                                     "sci":  "Merluccius hubbsi"
+                                 },
+                     "langostino":  {
+                                        "name":  "巴塔哥尼亚虾",
+                                        "desc":  "船上冷冻和陆地冷冻。规格L1, L2, L3, 虾仁C1, C2, C1L, 去壳去沙线。",
+                                        "sci":  "Pleoticus muelleri"
+                                    },
+                     "subtitle":  "国际上需求最大的产品",
+                     "calamar":  {
+                                     "name":  "阿根廷鱿鱼",
+                                     "desc":  "整体, 管状, 触手, 翅, 去皮管, 圈. 专业鱿鱼钓船队捕获。",
+                                     "sci":  "Illex argentinus"
+                                 }
+                 },
+    "hero":  {
+                 "ctaContact":  "询价",
+                 "ctaCatalog":  "查看目录",
+                 "subtitle":  "阿根廷海的精髓在每个产品中",
+                 "ctaPdf":  "下载产品目录PDF",
+                 "title":  "From Patagonia",
+                 "tagline":  "虾、鳕鱼、鱿鱼和近岸鱼类的优质出口商，拥有完全的可追溯性和国际认证"
+             },
+    "footer":  {
+                   "navFrigorificos":  "冷藏厂",
+                   "contact":  "联系方式",
+                   "watermark":  "by Sottomarina SA / Guigus SA",
+                   "phone":  "+54 223 555-0123",
+                   "navFlota":  "船队",
+                   "navInformacion":  "行业信息",
+                   "contactForm":  "联系表单",
+                   "navContacto":  "联系我们",
+                   "address":  "马德普拉塔, 布宜诺斯艾利斯, 阿根廷",
+                   "follow":  "关注我们",
+                   "terms":  "服务条款",
+                   "rights":  "版权所有",
+                   "navCatalogo":  "产品目录",
+                   "tagline":  "将阿根廷海的丰富资源出口到世界",
+                   "navComercial":  "商务",
+                   "navInstitucional":  "公司信息",
+                   "privacy":  "隐私政策"
+               },
+    "nav":  {
+                "frigorificos":  "冷冻厂",
+                "catalogo":  "目录",
+                "contacto":  "联系",
+                "comercial":  "商业",
+                "informacion":  "信息",
+                "retail":  "零售",
+                "flota":  "船队",
+                "institucional":  "机构"
+            },
+    "institucional":  {
+                          "certs":  {
+                                        "subtitle":  "印证我们的品质与市场准入",
+                                        "title":  "国际认证"
+                                    },
+                          "subtitle":  "了解我们的历史、价值观和对卓越的承诺",
+                          "vision":  {
+                                         "quote":  "巩固我们作为阿根廷海产品全球出口领域无可争议标杆的地位，保持我们一贯在品质、可追溯性和可持续性方面的卓越表现。",
+                                         "title":  "我们的愿景"
+                                     },
+                          "values":  {
+                                         "items":  {
+                                                       "2":  {
+                                                                 "title":  "可持续性",
+                                                                 "desc":  "负责任捕捞，为子孙后代保护资源"
+                                                             },
+                                                       "3":  {
+                                                                 "title":  "家族承诺",
+                                                                 "desc":  "数十年经验，信守承诺"
+                                                             },
+                                                       "1":  {
+                                                                 "desc":  "每道工序均符合国际标准",
+                                                                 "title":  "优质品质"
+                                                             },
+                                                       "0":  {
+                                                                 "title":  "全程可追溯",
+                                                                 "desc":  "从海洋到餐桌，每一步都有记录"
+                                                             }
+                                                   },
+                                         "title":  "指引我们的价值观"
+                                     },
+                          "banner":  "10月6日见——纪念碑",
+                          "title":  "公司信息",
+                          "history":  {
+                                          "p1":  "在 From Patagonia，我们的本质是阿根廷海。我们是一家拥有数十年历史的家族企业，专注于鱼类和海鲜的捕捞、加工与出口，整合了完整的价值链：从我们在寒冷清澈海域的捕捞，到确保产品以绝对新鲜的状态抵达国际市场的全球物流。",
+                                          "title":  "我们的历史",
+                                          "p2":  "我们以自有船队运营，在马德普拉塔和特雷利乌的自有工厂按最高卫生标准进行加工，我们的品牌与产业是全生产链全程可追溯的代名词。我们以最严苛市场所要求的严谨与承诺，将我们海岸的丰富资源出口到世界各地。",
+                                          "subtitle":  "阿根廷海的精髓",
+                                          "p3":  "在全球市场广为人知的阿根廷企业将他们的生产责任交托给我们，因为我们在这一领域拥有丰富的经验！"
+                                      }
+                      },
+    "informacion":  {
+                        "herramientas":  {
+                                             "3":  {
+                                                       "descripcion":  "联邦渔业委员会决议。阿根廷渔业部门的最新法规。",
+                                                       "titulo":  "CFP 决议"
+                                                   },
+                                             "4":  {
+                                                       "descripcion":  "联邦渔业委员会会议纪要。该机构的决定与讨论。",
+                                                       "titulo":  "CFP 会议纪要"
+                                                   },
+                                             "2":  {
+                                                       "descripcion":  "按品种、船队和港口划分的官方海上捕捞统计。由渔业秘书处更新。",
+                                                       "titulo":  "卸货量"
+                                                   },
+                                             "1":  {
+                                                       "descripcion":  "MAGyP官方互动地图，显示在阿根廷专属经济区向系统报告的渔船位置。",
+                                                       "titulo":  "卫星监控"
+                                                   },
+                                             "0":  {
+                                                       "descripcion":  "马德普拉塔港预定进港每日查询。由海岸警卫队更新。",
+                                                       "titulo":  "船舶进港"
+                                                   },
+                                             "5":  {
+                                                       "descripcion":  "联邦渔业委员会的最新消息与公告。",
+                                                       "titulo":  "CFP 新闻"
+                                                   }
+                                         },
+                        "sectionNoticias":  "行业新闻",
+                        "title":  "渔业行业信息",
+                        "sectionFromPatagonia":  "From Patagonia Seafood",
+                        "subtitle":  "阿根廷和国际渔业的新闻与分析"
+                    },
+    "contacto":  {
+                     "direct":  {
+                                    "email":  "gdc1971@hotmail.com",
+                                    "title":  "直接联系方式",
+                                    "phone":  "+54 223 555-0123",
+                                    "address":  "马德普拉塔，布宜诺斯艾利斯，阿根廷"
+                                },
+                     "subtitle":  "索取您的专属报价。我们会自动记录内部审计数据。",
+                     "form":  {
+                                  "submitting":  "发送中……",
+                                  "success":  "消息发送成功！我们的商务团队将尽快与您联系。",
+                                  "mensaje":  "留言 *",
+                                  "submit":  "索取报价",
+                                  "telefono":  "电话 *",
+                                  "cargo":  "职位",
+                                  "subtitle":  "请填写表单，我们的商务团队将尽快与您联系",
+                                  "title":  "索取报价",
+                                  "error":  "发送错误。请重试或直接联系我们。",
+                                  "disclaimer":  "提交此表单即表示您同意我们为内部审计记录您的IP地址、日期、时间和大致位置。您的数据将通过Formspree直接发送至gdc1971@hotmail.com。",
+                                  "placeholder":  "请描述您的咨询内容、感兴趣的品种、预计数量、目的市场……",
+                                  "empresa":  "公司 *",
+                                  "email":  "电子邮箱 *",
+                                  "nombre":  "姓名 *",
+                                  "fields":  {
+                                                 "empresa":  "公司 *",
+                                                 "mensaje":  "留言 *",
+                                                 "cargo":  "职位",
+                                                 "nombre":  "姓名 *",
+                                                 "telefono":  "电话 *",
+                                                 "email":  "电子邮箱 *"
+                                             }
+                              },
+                     "title":  "联系与审计"
+                 },
+    "comercial":  {
+                      "statPaises":  "国家",
+                      "legend":  {
+                                     "mercados":  "13个目的地市场",
+                                     "plantas":  "加工厂（2）",
+                                     "origen":  "产地：马德普拉塔",
+                                     "rutas":  "13条动态贸易路线",
+                                     "puertos":  "运营港口（7）",
+                                     "hover":  "悬停查看每个港口详情",
+                                     "barco":  "航行中的集装箱船"
+                                 },
+                      "statContinentes":  "大洲",
+                      "subtitle":  "我们的全球物流网络将巴塔哥尼亚与全球主要市场相连。",
+                      "statMercados":  "市场",
+                      "sectionTitle":  "全球商业网络",
+                      "mapTitle":  "出口地图",
+                      "sectionSubtitle":  "巴塔哥尼亚连接全球最严苛的市场",
+                      "mapSubtitle":  "从巴塔哥尼亚通往世界的贸易网络",
+                      "title":  "商务领域",
+                      "tabs":  {
+                                   "mercados":  "🌍 全球市场",
+                                   "puertos":  "🇦🇷 阿根廷港口"
+                               }
+                  },
+    "common":  {
+                   "scientificName":  "学名",
+                   "description":  "描述",
+                   "fullscreen":  "全屏",
+                   "loading":  "加载中...",
+                   "retry":  "重试",
+                   "specifications":  "规格",
+                   "play":  "播放",
+                   "next":  "下一个",
+                   "mute":  "静音",
+                   "certifications":  "认证",
+                   "close":  "关闭",
+                   "unmute":  "取消静音",
+                   "error":  "错误",
+                   "prev":  "上一个",
+                   "allRights":  "版权所有",
+                   "pause":  "暂停",
+                   "packing":  "包装",
+                   "gallery":  "查看完整图库"
+               },
+    "retail":  {
+                   "gallery":  {
+                                   "subtitle":  "面向超市和大卖场的成品包装",
+                                   "title":  "零售产品图库"
+                               },
+                   "text":  "零售系列现已成为我们的一部分",
+                   "subtitle":  "可直接上架及餐饮服务的产品。具备 From Patagonia 品质的即食包装。",
+                   "title":  "零售系列",
+                   "categories":  {
+                                      "porcionado":  "分切无须鳕鱼片",
+                                      "formas":  "儿童造型与海洋造型",
+                                      "filet":  "裹粉无须鳕鱼片",
+                                      "hamburguesas":  "汉堡（无须鳕、鸡肉、菠菜、火腿、奶酪、春季蔬菜）",
+                                      "bastones":  "鱼柳棒（无须鳕、鸡肉、菠菜、火腿、奶酪、春季蔬菜）",
+                                      "anillas":  "天然和裹粉鱿鱼圈"
+                                  },
+                   "catalogoLink":  "产品目录"
+               }
 }

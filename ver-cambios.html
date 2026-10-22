@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vista previa | From Patagonia Seafood</title>
+<style>
+  :root{--navy:#12324f;--blue:#1b3a5c;--red:#c8102e;--ice:#eef6fb;--line:#d8e2ea;--text:#22384d;--muted:#6b7f90}
+  *{box-sizing:border-box}
+  html,body{margin:0;padding:0}
+  body{font-family:Inter,Arial,sans-serif;background:linear-gradient(180deg,#eaf4fb 0%,#f7fbfe 45%,#fff 100%);color:var(--text);min-height:100vh}
+  .wrap{max-width:1100px;margin:0 auto;padding:34px 22px 50px}
+  header{display:flex;justify-content:space-between;align-items:flex-end;gap:20px;padding-bottom:18px;border-bottom:2px solid var(--line);flex-wrap:wrap}
+  .brand{font-size:11px;letter-spacing:.16em;font-weight:800;color:var(--navy);text-transform:uppercase}
+  .brand small{display:block;margin-top:5px;color:var(--muted);font-size:10px;letter-spacing:.1em;font-weight:500}
+  h1{font-family:Georgia,'Times New Roman',serif;font-size:38px;line-height:1.05;margin:0;color:var(--navy);font-weight:600}
+  .intro{max-width:720px;color:var(--muted);line-height:1.6;margin:14px 0 28px;font-size:15px}
+  .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+  .card{display:flex;flex-direction:column;min-height:220px;padding:22px;border:1px solid var(--line);border-radius:14px;background:#fff;text-decoration:none;color:var(--text);box-shadow:0 8px 24px rgba(18,50,79,.06);transition:transform .2s ease,box-shadow .2s ease,border-color .2s ease}
+  .card:hover{transform:translateY(-4px);border-color:#b7cfdf;box-shadow:0 14px 32px rgba(18,50,79,.12)}
+  .card .num{font-family:Georgia,serif;font-size:28px;color:var(--red);line-height:1;margin-bottom:14px}
+  .card h2{font-size:19px;margin:0 0 8px;color:var(--navy)}
+  .card p{margin:0;color:var(--muted);line-height:1.5;font-size:14px}
+  .card b{margin-top:auto;padding-top:18px;color:var(--red);font-size:12px;letter-spacing:.08em;text-transform:uppercase}
+  .pdfs{margin-top:30px;padding:24px;border-radius:14px;background:var(--blue);color:#fff}
+  .pdfs h2{font-family:Georgia,serif;font-size:24px;margin:0 0 6px;font-weight:600}
+  .pdfs p{margin:0 0 16px;color:#b9d8ea;font-size:13px}
+  .pdfgrid{display:grid;grid-template-columns:repeat(5,1fr);gap:10px}
+  .pdfgrid a{display:flex;justify-content:space-between;align-items:center;gap:8px;padding:13px 14px;border:1px solid rgba(255,255,255,.2);border-radius:9px;background:rgba(255,255,255,.07);color:#fff;text-decoration:none;font-size:13px;font-weight:600;transition:background .2s ease,border-color .2s ease}
+  .pdfgrid a:hover{background:var(--red);border-color:var(--red)}
+  .pdfgrid span{font-size:9px;letter-spacing:.08em;padding:3px 5px;border-radius:4px;background:rgba(255,255,255,.16)}
+  footer{margin-top:28px;display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap;color:var(--muted);font-size:12px;border-top:1px solid var(--line);padding-top:14px}
+  @media(max-width:860px){.grid{grid-template-columns:1fr}.pdfgrid{grid-template-columns:1fr 1fr}h1{font-size:30px}}
+  @media(max-width:520px){.pdfgrid{grid-template-columns:1fr}.wrap{padding:24px 16px 40px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div class="brand">From Patagonia Seafood<small>Mar del Plata · Argentina</small></div>
+    <div style="font-size:11px;letter-spacing:.12em;color:var(--muted);text-transform:uppercase">Vista previa local</div>
+  </header>
+
+  <h1>Cambios de esta ronda</h1>
+  <p class="intro">Desde acá podés abrir las tres páginas modificadas y los cinco catálogos PDF. Los enlaces se abren en una pestaña nueva para que puedas volver a esta vista.</p>
+
+  <section class="grid">
+    <a class="card" href="./" target="_blank" rel="noopener">
+      <div class="num">01</div>
+      <h2>Inicio</h2>
+      <p>Pie sin el botón de LinkedIn y sin las rutas rojas de WhatsApp. Quedan Instagram y Facebook.</p>
+      <b>Abrir Inicio →</b>
+    </a>
+    <a class="card" href="./contacto/" target="_blank" rel="noopener">
+      <div class="num">02</div>
+      <h2>Contacto</h2>
+      <p>Héroe con la foto de reunión de negocios, overlay y texto blanco. Probado en desktop, tablet y móvil.</p>
+      <b>Abrir Contacto →</b>
+    </a>
+    <a class="card" href="./catalogo/" target="_blank" rel="noopener">
+      <div class="num">03</div>
+      <h2>Catálogo</h2>
+      <p>Botones FICHA TÉCNICA y CATÁLOGO PDF en cada categoría. Variado conserva sus seis fichas por especie.</p>
+      <b>Abrir Catálogo →</b>
+    </a>
+  </section>
+
+  <section class="pdfs">
+    <h2>Catálogos PDF</h2>
+    <p>Una página A4 por categoría, con presentaciones, especificaciones, fotos, calidad y cadena de valor.</p>
+    <div class="pdfgrid">
+      <a href="./assets/catalogo-langostino.pdf" target="_blank" rel="noopener">Langostino <span>PDF</span></a>
+      <a href="./assets/catalogo-merluza.pdf" target="_blank" rel="noopener">Merluza <span>PDF</span></a>
+      <a href="./assets/catalogo-calamar.pdf" target="_blank" rel="noopener">Calamar <span>PDF</span></a>
+      <a href="./assets/catalogo-variado.pdf" target="_blank" rel="noopener">Variado costero <span>PDF</span></a>
+      <a href="./assets/catalogo-elaborados.pdf" target="_blank" rel="noopener">Elaborados <span>PDF</span></a>
+    </div>
+  </section>
+
+  <footer>
+    <span>Servidor local: localhost:8788/patagonia-seafood/</span>
+    <span>Los PDFs también están enlazados desde el Catálogo.</span>
+  </footer>
+</div>
+</body>
+</html>

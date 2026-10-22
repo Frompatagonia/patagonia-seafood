@@ -1,322 +1,359 @@
 {
-  "nav": {
-    "institucional": "Institutional",
-    "flota": "Fleet",
-    "comercial": "Commercial",
-    "frigorificos": "Cold Storage",
-    "catalogo": "Catalog",
-    "retail": "Retail",
-    "informacion": "Information",
-    "contacto": "Contact"
-  },
-  "informacion": {
-    "title": "Fishing Industry Information",
-    "subtitle": "News, updates and analysis of the Argentine and international fishing industry",
-    "sectionFromPatagonia": "From Patagonia Seafood",
-    "sectionNoticias": "Industry News",
-    "herramientas": [
-      {
-        "titulo": "Port Vessel Arrivals",
-        "descripcion": "Daily schedule of arrivals at Mar del Plata port. Updated by the Naval Prefecture."
-      },
-      {
-        "titulo": "Satellite Monitoring",
-        "descripcion": "Official MAGyP interactive map showing fishing vessel positions reporting in the Argentine EEZ."
-      },
-      {
-        "titulo": "Landings",
-        "descripcion": "Official statistics of marine catches by species, fleet and port. Updated by the Fisheries Secretariat."
-      },
-      {
-        "titulo": "CFP Resolutions",
-        "descripcion": "Resolutions of the Federal Fisheries Council. Updated Argentine fisheries regulations."
-      },
-      {
-        "titulo": "CFP Minutes",
-        "descripcion": "Minutes of Federal Fisheries Council sessions. Decisions and debates of the body."
-      },
-      {
-        "titulo": "CFP News",
-        "descripcion": "Latest news and announcements from the Federal Fisheries Council."
-      }
-    ],
-    "pinned": [
-      {
-        "titulo": "From Patagonia Seafood participated in Seafood Expo Global in Barcelona",
-        "resumen": "Our commercial team presented the full product line at the industry's most important fair, generating new business contacts in Europe and Asia."
-      },
-      {
-        "titulo": "New HACCP certification renewed for our Trelew and Mar del Plata plants",
-        "resumen": "Both plants successfully passed the annual audits, reaffirming our commitment to quality and food safety."
-      },
-      {
-        "titulo": "From Patagonia Seafood expands its presence in the Japanese market",
-        "resumen": "New commercial agreements with buyers in Tokyo and Osaka for the supply of premium Patagonian shrimp and hake fillet."
-      },
-      {
-        "titulo": "2026 shrimp season: positive results in the first weeks",
-        "resumen": "Our tangonero fleet reports good yields in FAO Zone 41 with optimal commercial sizes for international markets."
-      },
-      {
-        "titulo": "Chinese delegation visits our plants in Patagonia",
-        "resumen": "Representatives from Shanghai retail chains toured our Trelew and Mar del Plata facilities to learn about the production process."
-      }
-    ]
-  },
-  "hero": {
-    "title": "From Patagonia",
-    "subtitle": "The essence of the Argentine Sea in every product",
-    "tagline": "Premium exporter of shrimp, hake, squid and coastal varieties with full traceability and international certification",
-    "ctaCatalog": "View Catalog",
-    "ctaContact": "Request Quote",
-    "ctaPdf": "Download PDF Catalogue"
-  },
-  "highlights": {
-    "title": "Our Difference",
-    "subtitle": "Quality born at sea, processed with excellence, delivered worldwide",
-    "fleet": {
-      "title": "Own Fleet",
-      "desc": "7 vessel types operating from 7 Patagonian ports"
-    },
-    "plants": {
-      "title": "Industrial Plants",
-      "desc": "Mar del Plata (7,500 m²) and Trelew (1,500 m²) with state-of-the-art technology"
-    },
-    "certs": {
-      "title": "Global Certifications",
-      "desc": "SENASA, HACCP, EU, FDA, China, Russia, DIPOA Brazil"
-    },
-    "export": {
-      "title": "Worldwide Export",
-      "desc": "Presence in 13 international markets"
-    }
-  },
-  "products": {
-    "title": "Star Species",
-    "subtitle": "Our most internationally demanded products",
-    "langostino": {
-      "name": "Patagonian Shrimp",
-      "sci": "Pleoticus muelleri",
-      "desc": "Frozen on board and on land. Sizes L1, L2, L3, Tails C1, C2, C1L, Peeled and deveined."
-    },
-    "merluza": {
-      "name": "Southern Hake",
-      "sci": "Merluccius hubbsi",
-      "desc": "Whole, HG/HGT, Fillet with and without skin. FAO Zone 41. 7-10 day trips (MDP) and 2-3 days (CR)."
-    },
-    "calamar": {
-      "name": "Argentine Squid",
-      "sci": "Illex argentinus",
-      "desc": "Whole, Tube, Tentacle, Fin, Clean tube, Rings. Caught by specialized jigging fleet."
-    }
-  },
-  "cta": {
-    "title": "Ready to work with the highest quality from the Argentine Sea?",
-    "desc": "World-leading companies trust our experience and traceability. Request your personalized quote.",
-    "btn": "Request Quote"
-  },
-  "footer": {
-    "tagline": "Exporting the richness of the Argentine Sea to the world",
-    "contact": "Contact",
-    "address": "Mar del Plata, Buenos Aires, Argentina",
-    "phone": "+54 223 555-0123",
-    "follow": "Follow Us",
-    "rights": "All rights reserved",
-    "privacy": "Privacy Policy",
-    "terms": "Terms & Conditions",
-    "watermark": "by Sottomarina SA / Guigus SA",
-    "navInformacion": "Industry Information"
-  },
-  "institucional": {
-    "title": "Institutional",
-    "subtitle": "Discover our history, values and commitment to excellence",
-    "history": {
-      "title": "Our History",
-      "subtitle": "The essence of the Argentine Sea",
-      "p1": "At From Patagonia, our essence is the Argentine Sea. We are a family-owned, historic company dedicated to the extraction, processing and export of fish and seafood with decades of experience, integrating the entire value chain: from capture in our cold, crystalline waters to global logistics ensuring the product reaches international markets in absolute freshness conditions.",
-      "p2": "We operate with our own fleet, process in our Mar del Plata and Trelew plants with the highest sanitary standards, and our brand and industry are synonymous with total traceability throughout the entire production circuit. We export the richness of our coasts to the world, with the seriousness and commitment that the most demanding markets require.",
-      "p3": "Well-known Argentine companies in the global market entrust their productions to us because we have extensive experience in this!"
-    },
-    "vision": {
-      "title": "Our Vision",
-      "quote": "To consolidate ourselves as the undisputed benchmark in the export of Argentine Sea products globally, maintaining the excellence in quality, traceability and sustainability that characterizes us."
-    },
-    "values": {
-      "title": "Values that guide us",
-      "items": [
-        {
-          "title": "Total Traceability",
-          "desc": "From sea to table, every step documented"
-        },
-        {
-          "title": "Premium Quality",
-          "desc": "International standards in every process"
-        },
-        {
-          "title": "Sustainability",
-          "desc": "Responsible fishing, preserving the resource for future generations"
-        },
-        {
-          "title": "Family Commitment",
-          "desc": "Decades of experience, honoring our word"
-        }
-      ]
-    },
-    "certs": {
-      "title": "International Certifications",
-      "subtitle": "Endorsing our quality and market access"
-    }
-  },
-  "flota": {
-    "title": "Our Fleet",
-    "subtitle": "7 vessel types operating from 7 Patagonian ports. Own fleet with full traceability.",
-    "congeladores": {
-      "title": "A) FREEZERS",
-      "tangoneros": {
-        "name": "Trawler Tangoneros",
-        "desc": "Main freezer fleet for shrimp with immediate on-board freezing."
-      },
-      "arrastreros": {
-        "name": "Trawlers (Varied Species/Hake)",
-        "desc": "Specialized in merluccius hubbsi and associated species. On-deck processing and freezing."
-      },
-      "poteros": {
-        "name": "Jiggers (Squid)",
-        "desc": "Specialized fleet for Illex squid. Light and jigging system with immediate processing."
-      }
-    },
-    "fresqueros": {
-      "title": "B) FRESH FISH VESSELS",
-      "tangoneros": {
-        "name": "Fresh Fish Tangoneros",
-        "desc": "Daily delivery of fresh shrimp to Trelew plant. Unbroken cold chain."
-      },
-      "monored": {
-        "name": "Single Net Trawlers",
-        "desc": "Fresh catch of hake and associated species for immediate plant processing."
-      },
-      "costeros": {
-        "name": "Trap/Longline (Coastal)",
-        "desc": "Artisanal coastal fleet. Selective catch of high-value species for premium market."
-      }
-    },
-    "gallery": {
-      "title": "Vessel Gallery",
-      "subtitle": "Cinematic carousel synchronized with music. Ken Burns, swipe, hover pause."
-    },
-    "videos": {
-      "title": "Navigation in Extreme Conditions",
-      "subtitle": "Videos of our fleet operating in the Argentine Sea"
-    },
-    "ports": {
-      "title": "Operating Ports"
-    }
-  },
-  "comercial": {
-    "title": "Commercial Area",
-    "subtitle": "Our global logistics network connects Patagonia with the world's main markets.",
-    "tabs": {
-      "puertos": "🇦🇷 Argentina Ports",
-      "mercados": "🌍 World Markets"
-    },
-    "legend": {
-      "puertos": "Operating ports (7)",
-      "plantas": "Processing plants (2)",
-      "hover": "Hover for port details",
-      "origen": "Origin: Mar del Plata",
-      "rutas": "13 animated trade routes",
-      "barco": "Container ship in motion",
-      "mercados": "13 destination markets"
-    }
-  },
-  "frigorificos": {
-    "title": "Industrial Cold Storage",
-    "subtitle": "Two processing plants with cutting-edge technology and 1,250 total tons storage capacity",
-    "specs": {
-      "title": "Technical Specifications",
-      "subtitle": "First-class industrial infrastructure"
-    },
-    "gallery": {
-      "title": "Plant Gallery",
-      "subtitle": "Carousel + videos with audio priority + photo mosaic"
-    },
-    "certs": {
-      "title": "Certifications"
-    }
-  },
-  "catalogo": {
-    "title": "Product Catalog",
-    "subtitle": "Explore our complete range of Argentine Sea species. Full traceability and international certification.",
-    "categories": {
-      "langostinos": "SHRIMP",
-      "merluza": "HAKE",
-      "calamar": "SQUID",
-      "variado": "COASTAL VARIETIES",
-      "elaborados": "ELABORATED PRODUCTS"
-    }
-  },
-  "retail": {
-    "title": "Retail Line",
-    "subtitle": "Shelf-ready and food service products. Consumer-ready presentations with From Patagonia premium quality.",
-    "gallery": {
-      "title": "Retail Products Gallery",
-      "subtitle": "Final packaging for supermarkets and hypermarkets"
-    },
-    "categories": {
-      "filet": "Breaded Hake Fillet",
-      "hamburguesas": "Burgers (Hake, Chicken, Spinach, Ham, Cheese, Spring)",
-      "bastones": "Sticks (Hake, Chicken, Spinach, Ham, Cheese, Spring)",
-      "anillas": "Squid Rings Natural and Breaded",
-      "formas": "Children's and Marine Shapes",
-      "porcionado": "Portioned Hake Fillet"
-    }
-  },
-  "contacto": {
-    "title": "Contact & Audit",
-    "subtitle": "Request your personalized quote. We automatically capture internal audit data.",
-    "form": {
-      "title": "Request Quote",
-      "subtitle": "Complete the form and our commercial team will respond shortly",
-      "fields": {
-        "nombre": "Full Name *",
-        "empresa": "Company *",
-        "cargo": "Position",
-        "telefono": "Phone *",
-        "email": "Email *",
-        "mensaje": "Message *"
-      },
-      "placeholder": "Describe your inquiry, species of interest, estimated volumes, destination markets...",
-      "submit": "Send Quote",
-      "submitting": "Sending...",
-      "success": "Message sent successfully! Our commercial team will contact you shortly.",
-      "error": "Error sending. Please try again or contact us directly.",
-      "disclaimer": "By submitting this form, you accept that we capture your IP, date, time and approximate location for internal audit. Your data is sent directly to gdc1971@hotmail.com via Formspree."
-    },
-    "direct": {
-      "title": "Direct Contact Details",
-      "email": "gdc1971@hotmail.com",
-      "phone": "+54 223 555-0123",
-      "address": "Mar del Plata, Buenos Aires, Argentina"
-    }
-  },
-  "common": {
-    "loading": "Loading...",
-    "error": "Error",
-    "retry": "Retry",
-    "close": "Close",
-    "next": "Next",
-    "prev": "Previous",
-    "play": "Play",
-    "pause": "Pause",
-    "mute": "Mute",
-    "unmute": "Unmute",
-    "fullscreen": "Fullscreen",
-    "gallery": "View full gallery",
-    "certifications": "Certifications",
-    "specifications": "Specifications",
-    "description": "Description",
-    "packing": "Packing",
-    "scientificName": "Scientific name",
-    "allRights": "All rights reserved"
-  }
+    "flota":  {
+                  "gallery":  {
+                                  "title":  "Vessel Gallery",
+                                  "subtitle":  "Cinematic carousel synced with music. Ken Burns, swipe, hover pause."
+                              },
+                  "videos":  {
+                                 "subtitle":  "Videos of our fleet operating in the Argentine Sea",
+                                 "title":  "Sailing in Extreme Conditions"
+                             },
+                  "subtitle":  "7 types of vessels operating in 7 Patagonian ports. Own fleet with full traceability.",
+                  "ports":  {
+                                "title":  "Operating Ports"
+                            },
+                  "video1Desc":  "Conventional vessel at work - Sailing in rough weather",
+                  "video2Desc":  "Ships in a storm - Sailing timelapse",
+                  "fresqueros":  {
+                                     "title":  "B) FRESH-FISH VESSELS",
+                                     "tangoneros":  {
+                                                        "name":  "Fresh-Fish Outrigger Vessels",
+                                                        "desc":  "Daily delivery of fresh shrimp to the Trelew plant. Uninterrupted cold chain."
+                                                    },
+                                     "costeros":  {
+                                                      "name":  "Traps/Longline (Coastal)",
+                                                      "desc":  "Coastal artisanal fleet. Selective catch of high-value species for the premium market."
+                                                  },
+                                     "monored":  {
+                                                     "name":  "Single-Net Trawlers",
+                                                     "desc":  "Fresh catch of hake and associated species for immediate processing."
+                                                 }
+                                 },
+                  "title":  "Our Fleet",
+                  "congeladores":  {
+                                       "tangoneros":  {
+                                                          "name":  "Outrigger Trawlers",
+                                                          "desc":  "Main fleet of freezer vessels for shrimp with immediate on-board freezing."
+                                                      },
+                                       "poteros":  {
+                                                       "name":  "Jiggers (Squid)",
+                                                       "desc":  "Fleet specialized in Illex squid. Light and jig system with immediate processing."
+                                                   },
+                                       "arrastreros":  {
+                                                           "name":  "Trawlers (Mixed Species/Hake)",
+                                                           "desc":  "Specialized in hake (hubbsi) and associated species. On-board processing and freezing."
+                                                       },
+                                       "title":  "A) FREEZER VESSELS"
+                                   }
+              },
+    "frigorificos":  {
+                         "video4Desc":  "Whole corvina processing",
+                         "specs":  {
+                                       "trelewTecnologia":  "Contact plate freezing and static tunnels",
+                                       "mdpName":  "Mar del Plata",
+                                       "thTecnologia":  "Technology",
+                                       "thCapacidad":  "Storage Capacity",
+                                       "mdpCapacidad":  "1,000 tons",
+                                       "thPersonal":  "Staff",
+                                       "mdpPersonal":  "320 people",
+                                       "trelewSuperficie":  "1,200 m²",
+                                       "mdpSuperficie":  "7,500 m²",
+                                       "title":  "Technical Specifications",
+                                       "subtitle":  "Top-tier industrial infrastructure",
+                                       "mdpTecnologia":  "Contact plate freezing, static tunnels and spiral freezer",
+                                       "trelewLocation":  "Industrial Park",
+                                       "thSuperficie":  "Area",
+                                       "thUbicacion":  "Location",
+                                       "trelewName":  "Trelew",
+                                       "mdpLocation":  "Located at the port",
+                                       "trelewCapacidad":  "250 tons",
+                                       "trelewPersonal":  "200 people (shrimp season)"
+                                   },
+                         "certs":  {
+                                       "rusia":  "Rosselkhoznadzor - Federal Veterinary Service",
+                                       "subtitle":  "They endorse our compliance with the most demanding international standards",
+                                       "dipoa":  "Department of Inspection of Products of Animal Origin",
+                                       "title":  "Certifications",
+                                       "haccp":  "Hazard Analysis and Critical Control Points",
+                                       "china":  "GACC - General Administration of Customs",
+                                       "ue":  "EC Regulation 852/2004 and 853/2004",
+                                       "fda":  "Food and Drug Administration - USA",
+                                       "senasa":  "National Service for Agri-Food Health and Quality"
+                                   },
+                         "subtitle":  "Two processing plants with cutting-edge technology and a total storage capacity of 1,250 tons",
+                         "video3Desc":  "Whole shrimp processing",
+                         "videos":  {
+                                        "title":  "Process Videos",
+                                        "subtitle":  "Processing at our plants"
+                                    },
+                         "video1Desc":  "Grading and parasite control in fillets",
+                         "video2Desc":  "Hake fillet packaging",
+                         "gallery":  {
+                                         "title":  "Plant Gallery",
+                                         "subtitle":  "Carousel + videos with audio priority + photo mosaic"
+                                     },
+                         "video5Desc":  "Peeled and deveined shrimp production",
+                         "title":  "Industrial Cold Storage Plants"
+                     },
+    "nav":  {
+                "frigorificos":  "Cold Storage",
+                "catalogo":  "Catalog",
+                "contacto":  "Contact",
+                "comercial":  "Commercial",
+                "informacion":  "Information",
+                "retail":  "Retail",
+                "flota":  "Fleet",
+                "institucional":  "Institutional"
+            },
+    "catalogo":  {
+                     "categories":  {
+                                        "elaborados":  "PROCESSED",
+                                        "merluza":  "HAKE",
+                                        "langostinos":  "SHRIMP",
+                                        "variado":  "COASTAL VARIETY",
+                                        "calamar":  "CALAMAR"
+                                    },
+                     "title":  "Product Catalog",
+                     "subtitle":  "Explore our complete range of species from the Argentine Sea. Full traceability and international certification."
+                 },
+    "highlights":  {
+                       "certs":  {
+                                     "desc":  "SENASA, HACCP, EU, FDA, China, Russia, DIPOA Brazil",
+                                     "title":  "Global Certifications"
+                                 },
+                       "subtitle":  "Quality born at sea, processed with excellence, delivered worldwide",
+                       "fleet":  {
+                                     "title":  "Own Fleet",
+                                     "desc":  "7 vessel types operating from 7 Patagonian ports"
+                                 },
+                       "export":  {
+                                      "desc":  "Presence in 13 international markets",
+                                      "title":  "Worldwide Export"
+                                  },
+                       "plants":  {
+                                      "desc":  "Mar del Plata (7,500 m²) and Trelew (1,500 m²) with state-of-the-art technology",
+                                      "title":  "Industrial Plants"
+                                  },
+                       "title":  "Our Difference"
+                   },
+    "cta":  {
+                "title":  "Ready to work with the highest quality from the Argentine Sea?",
+                "btn":  "Request Quote",
+                "desc":  "World-leading companies trust our experience and traceability. Request your personalized quote."
+            },
+    "products":  {
+                     "title":  "Star Species",
+                     "merluza":  {
+                                     "name":  "Southern Hake",
+                                     "desc":  "Whole, HG/HGT, Fillet with and without skin. FAO Zone 41. 7-10 day trips (MDP) and 2-3 days (CR).",
+                                     "sci":  "Merluccius hubbsi"
+                                 },
+                     "langostino":  {
+                                        "name":  "Patagonian Shrimp",
+                                        "desc":  "Frozen on board and on land. Sizes L1, L2, L3, Tails C1, C2, C1L, Peeled and deveined.",
+                                        "sci":  "Pleoticus muelleri"
+                                    },
+                     "subtitle":  "Our most internationally demanded products",
+                     "calamar":  {
+                                     "name":  "Argentine Squid",
+                                     "desc":  "Whole, Tube, Tentacle, Fin, Clean tube, Rings. Caught by specialized jigging fleet.",
+                                     "sci":  "Illex argentinus"
+                                 }
+                 },
+    "hero":  {
+                 "ctaContact":  "Request Quote",
+                 "ctaCatalog":  "View Catalog",
+                 "subtitle":  "The essence of the Argentine Sea in every product",
+                 "ctaPdf":  "Download PDF Catalogue",
+                 "title":  "From Patagonia",
+                 "tagline":  "Premium exporter of shrimp, hake, squid and coastal varieties with full traceability and international certification"
+             },
+    "footer":  {
+                   "navFrigorificos":  "Cold Storage Plants",
+                   "tagline":  "Exporting the richness of the Argentine Sea to the world",
+                   "watermark":  "by Sottomarina SA / Guigus SA",
+                   "phone":  "+54 223 555-0123",
+                   "navFlota":  "Fleet",
+                   "navInformacion":  "Industry Information",
+                   "contactForm":  "Contact Form",
+                   "navContacto":  "Contact",
+                   "address":  "Mar del Plata, Buenos Aires, Argentina",
+                   "follow":  "Follow Us",
+                   "terms":  "Terms \u0026 Conditions",
+                   "rights":  "All rights reserved",
+                   "contact":  "Contact",
+                   "navCatalogo":  "Product Catalog",
+                   "navComercial":  "Commercial",
+                   "navInstitucional":  "Company",
+                   "privacy":  "Privacy Policy"
+               },
+    "contacto":  {
+                     "direct":  {
+                                    "email":  "gdc1971@hotmail.com",
+                                    "title":  "Direct Contact Details",
+                                    "phone":  "+54 223 555-0123",
+                                    "address":  "Mar del Plata, Buenos Aires, Argentina"
+                                },
+                     "subtitle":  "Request your personalized quote. We automatically capture internal audit data.",
+                     "form":  {
+                                  "submitting":  "Sending...",
+                                  "success":  "Message sent successfully! Our sales team will contact you shortly.",
+                                  "mensaje":  "Message *",
+                                  "cargo":  "Position",
+                                  "telefono":  "Phone *",
+                                  "title":  "Request a Quote",
+                                  "subtitle":  "Fill out the form and our sales team will get back to you shortly",
+                                  "error":  "Sending error. Please try again or contact us directly.",
+                                  "submit":  "Request a Quote",
+                                  "disclaimer":  "By submitting this form, you agree that we capture your IP, date, time and approximate location for internal auditing. Your data is sent directly to gdc1971@hotmail.com via Formspree.",
+                                  "placeholder":  "Describe your inquiry, species of interest, estimated volumes, destination markets...",
+                                  "empresa":  "Company *",
+                                  "email":  "Email *",
+                                  "nombre":  "Full Name *",
+                                  "fields":  {
+                                                 "empresa":  "Company *",
+                                                 "mensaje":  "Message *",
+                                                 "cargo":  "Position",
+                                                 "nombre":  "Full Name *",
+                                                 "telefono":  "Phone *",
+                                                 "email":  "Email *"
+                                             }
+                              },
+                     "title":  "Contact \u0026 Audit"
+                 },
+    "institucional":  {
+                          "certs":  {
+                                        "subtitle":  "They endorse our quality and market access",
+                                        "title":  "International Certifications"
+                                    },
+                          "subtitle":  "Discover our history, values and commitment to excellence",
+                          "vision":  {
+                                         "quote":  "To establish ourselves as the undisputed benchmark in the global export of Argentine Sea products, maintaining the excellence in quality, traceability and sustainability that defines us.",
+                                         "title":  "Our Vision"
+                                     },
+                          "values":  {
+                                         "items":  {
+                                                       "2":  {
+                                                                 "title":  "Sustainability",
+                                                                 "desc":  "Responsible fishing, protecting the resource for future generations"
+                                                             },
+                                                       "3":  {
+                                                                 "title":  "Family Commitment",
+                                                                 "desc":  "Decades of experience, honoring our word"
+                                                             },
+                                                       "1":  {
+                                                                 "desc":  "International standards in every process",
+                                                                 "title":  "Premium Quality"
+                                                             },
+                                                       "0":  {
+                                                                 "title":  "Full Traceability",
+                                                                 "desc":  "From the sea to the table, every step documented"
+                                                             }
+                                                   },
+                                         "title":  "Values that guide us"
+                                     },
+                          "banner":  "See you on October 6 - Monument",
+                          "title":  "Company",
+                          "history":  {
+                                          "p1":  "At From Patagonia, our essence is the Argentine Sea. We are a family-owned, long-established company dedicated to the harvesting, processing and export of fish and seafood, with decades of experience, integrating the entire value chain: from fishing in our cold, crystal-clear waters to the global logistics that ensure the product reaches the international market in absolutely fresh condition.",
+                                          "title":  "Our History",
+                                          "p2":  "We operate with our own fleet and process at our plants in Mar del Plata and Trelew under the highest sanitary standards, and our brand and industry are synonymous with full traceability throughout the production chain. We export the richness of our coasts to the world, with the seriousness and commitment that the most demanding markets require.",
+                                          "subtitle":  "The essence of the Argentine Sea",
+                                          "p3":  "Argentine companies widely known in the global market entrust the responsibility of their production to us, because we have extensive experience in this!"
+                                      }
+                      },
+    "informacion":  {
+                        "herramientas":  {
+                                             "3":  {
+                                                       "descripcion":  "Resolutions of the Federal Fisheries Council. Updated regulations for the Argentine fishing sector.",
+                                                       "titulo":  "CFP Resolutions"
+                                                   },
+                                             "4":  {
+                                                       "descripcion":  "Minutes of the sessions of the Federal Fisheries Council. Decisions and debates of the body.",
+                                                       "titulo":  "CFP Minutes"
+                                                   },
+                                             "2":  {
+                                                       "descripcion":  "Official statistics of maritime catches by species, fleet and port. Data updated by the Fisheries Secretariat.",
+                                                       "titulo":  "Landings"
+                                                   },
+                                             "1":  {
+                                                       "descripcion":  "Official MAGyP interactive map with the position of fishing vessels reporting to the system in the Argentine EEZ.",
+                                                       "titulo":  "Satellite Monitoring"
+                                                   },
+                                             "0":  {
+                                                       "descripcion":  "Daily schedule of planned arrivals at the Port of Mar del Plata. Updated by the Coast Guard.",
+                                                       "titulo":  "Vessel Arrivals at Port"
+                                                   },
+                                             "5":  {
+                                                       "descripcion":  "Latest news and announcements from the Federal Fisheries Council.",
+                                                       "titulo":  "CFP News"
+                                                   }
+                                         },
+                        "sectionNoticias":  "Industry News",
+                        "title":  "Fishing Industry Information",
+                        "sectionFromPatagonia":  "From Patagonia Seafood",
+                        "subtitle":  "News, updates and analysis of the Argentine and international fishing industry"
+                    },
+    "comercial":  {
+                      "statPaises":  "Countries",
+                      "legend":  {
+                                     "mercados":  "13 destination markets",
+                                     "plantas":  "Processing plants (2)",
+                                     "origen":  "Origin: Mar del Plata",
+                                     "rutas":  "13 animated trade routes",
+                                     "puertos":  "Operating ports (7)",
+                                     "hover":  "Hover for details of each port",
+                                     "barco":  "Container ship in motion"
+                                 },
+                      "statContinentes":  "Continents",
+                      "subtitle":  "Our global logistics network connects Patagonia with the world\u0027s leading markets.",
+                      "statMercados":  "Markets",
+                      "sectionTitle":  "Global Commercial Network",
+                      "mapTitle":  "Export Map",
+                      "sectionSubtitle":  "Patagonia connected to the world\u0027s most demanding markets",
+                      "mapSubtitle":  "Trade connections from Patagonia to the world",
+                      "title":  "Commercial Department",
+                      "tabs":  {
+                                   "mercados":  "🌍 World Markets",
+                                   "puertos":  "🇦🇷 Argentine Ports"
+                               }
+                  },
+    "common":  {
+                   "scientificName":  "Scientific name",
+                   "description":  "Description",
+                   "fullscreen":  "Fullscreen",
+                   "loading":  "Loading...",
+                   "retry":  "Retry",
+                   "specifications":  "Specifications",
+                   "play":  "Play",
+                   "next":  "Next",
+                   "mute":  "Mute",
+                   "certifications":  "Certifications",
+                   "close":  "Close",
+                   "unmute":  "Unmute",
+                   "error":  "Error",
+                   "prev":  "Previous",
+                   "allRights":  "All rights reserved",
+                   "pause":  "Pause",
+                   "packing":  "Packing",
+                   "gallery":  "View full gallery"
+               },
+    "retail":  {
+                   "gallery":  {
+                                   "subtitle":  "Final presentations for supermarkets and hypermarkets",
+                                   "title":  "Retail Product Gallery"
+                               },
+                   "text":  "The Retail line is now part of our",
+                   "subtitle":  "Products ready for the shelf and food service. Consumer-ready presentations with From Patagonia quality.",
+                   "title":  "Retail Line",
+                   "categories":  {
+                                      "formas":  "Kids\u0027 and Sea Shapes",
+                                      "filet":  "Breaded Hake Fillet",
+                                      "hamburguesas":  "Burgers (Hake, Chicken, Spinach, Ham, Cheese, Spring)",
+                                      "bastones":  "Sticks (Hake, Chicken, Spinach, Ham, Cheese, Spring)",
+                                      "porcionado":  "Portioned Hake Fillet",
+                                      "anillas":  "Natural and Breaded Squid Rings"
+                                  },
+                   "catalogoLink":  "Product Catalog"
+               }
 }

@@ -1,322 +1,601 @@
 {
-  "nav": {
-    "institucional": "Institucional",
-    "flota": "Flota",
-    "comercial": "Comercial",
-    "frigorificos": "Frigoríficos",
-    "catalogo": "Catálogo",
-    "retail": "Retail",
-    "informacion": "Noticias",
-    "contacto": "Contacto"
-  },
-  "informacion": {
-    "title": "Información del Sector Pesquero",
-    "subtitle": "Noticias, novedades y análisis del mercado pesquero argentino e internacional",
-    "sectionFromPatagonia": "From Patagonia Seafood",
-    "sectionNoticias": "Noticias del Sector",
-    "herramientas": [
-      {
-        "titulo": "Ingreso de Buques a Puerto",
-        "descripcion": "Consulta diaria de arribos programados al puerto de Mar del Plata. Actualizado por Prefectura Naval."
-      },
-      {
-        "titulo": "Monitoreo Satelital",
-        "descripcion": "Mapa interactivo oficial del MAGyP con la posición de buques pesqueros reportando al sistema en ZEE Argentina."
-      },
-      {
-        "titulo": "Desembarques",
-        "descripcion": "Estadísticas oficiales de capturas marítimas por especie, flota y puerto. Datos actualizados por la Secretaría de Pesca."
-      },
-      {
-        "titulo": "Resoluciones CFP",
-        "descripcion": "Resoluciones del Consejo Federal Pesquero. Normativa actualizada del sector pesquero argentino."
-      },
-      {
-        "titulo": "Actas CFP",
-        "descripcion": "Actas de las sesiones del Consejo Federal Pesquero. Decisiones y debates del organismo."
-      },
-      {
-        "titulo": "Novedades CFP",
-        "descripcion": "Últimas novedades y comunicados del Consejo Federal Pesquero."
-      }
-    ],
-    "pinned": [
-      {
-        "titulo": "From Patagonia Seafood participó de la feria Seafood Expo Global en Barcelona",
-        "resumen": "Nuestro equipo comercial presentó la línea completa de productos en la feria más importante del sector, generando nuevos contactos comerciales en Europa y Asia."
-      },
-      {
-        "titulo": "Nueva certificación HACCP renovada para nuestras plantas de Trelew y Mar del Plata",
-        "resumen": "Ambas plantas superaron con éxito las auditorías anuales, reafirmando nuestro compromiso con la calidad y la seguridad alimentaria."
-      },
-      {
-        "titulo": "From Patagonia Seafood expande su presencia en el mercado japonés",
-        "resumen": "Nuevos acuerdos comerciales con compradores de Tokio y Osaka para el suministro de langostino patagónico premium y filet de merluza."
-      },
-      {
-        "titulo": "Campaña de langostino 2026: resultados positivos en las primeras semanas",
-        "resumen": "Nuestra flota tangonera reporta buenos rendimientos en la Zona FAO 41 con calibres comerciales óptimos para los mercados internacionales."
-      },
-      {
-        "titulo": "Delegación china visita nuestras plantas en Patagonia",
-        "resumen": "Representantes de cadenas de retail de Shanghái recorrieron nuestras instalaciones de Trelew y Mar del Plata para conocer el proceso productivo."
-      }
-    ]
-  },
-  "hero": {
-    "title": "From Patagonia",
-    "subtitle": "La esencia del Mar Argentino en cada producto",
-    "tagline": "Exportadora premium de langostinos, merluza, calamar y variado costero con trazabilidad total y certificación internacional",
-    "ctaCatalog": "Ver Catálogo",
-    "ctaContact": "Solicitar Cotización",
-    "ctaPdf": "Descargar Catálogo PDF"
-  },
-  "highlights": {
-    "title": "Nuestra Diferencia",
-    "subtitle": "Calidad que nace en el mar, se procesa con excelencia y llega al mundo",
-    "fleet": {
-      "title": "Flota Propia",
-      "desc": "7 tipos de embarcaciones operando en 7 puertos patagónicos"
-    },
-    "plants": {
-      "title": "Plantas Industriales",
-      "desc": "Mar del Plata (7.500 m²) y Trelew (1.500 m²) con tecnología de punta"
-    },
-    "certs": {
-      "title": "Certificaciones Globales",
-      "desc": "SENASA, HACCP, UE, FDA, China, Rusia, DIPOA Brasil"
-    },
-    "export": {
-      "title": "Exportación Mundial",
-      "desc": "Presencia en 13 mercados internacionales"
-    }
-  },
-  "products": {
-    "title": "Especies Estrella",
-    "subtitle": "Nuestros productos más demandados internacionalmente",
-    "langostino": {
-      "name": "Langostino Patagónico",
-      "sci": "Pleoticus muelleri",
-      "desc": "Congelado a bordo y en tierra. Tallas L1, L2, L3, Colas C1, C2, C1L, Pelado y desvenado."
-    },
-    "merluza": {
-      "name": "Merluza Austral",
-      "sci": "Merluccius hubbsi",
-      "desc": "Entera, HG/HGT, Filet con y sin piel. Zona FAO 41. Mareas 7-10 días (MDP) y 2-3 días (CR)."
-    },
-    "calamar": {
-      "name": "Calamar Argentino",
-      "sci": "Illex argentinus",
-      "desc": "Entero, Vaina, Tentáculo, Aleta, Tubo limpio, Anillas. Captura por flota potera especializada."
-    }
-  },
-  "cta": {
-    "title": "¿Listo para trabajar con la mejor calidad del Mar Argentino?",
-    "desc": "Empresas líderes mundiales confían en nuestra experiencia y trazabilidad. Solicite su cotización personalizada.",
-    "btn": "Solicitar Cotización"
-  },
-  "footer": {
-    "tagline": "Exportamos la riqueza del Mar Argentino al mundo",
-    "contact": "Contacto",
-    "address": "Mar del Plata, Buenos Aires, Argentina",
-    "phone": "+54 223 555-0123",
-    "follow": "Síguenos",
-    "rights": "Todos los derechos reservados",
-    "privacy": "Política de Privacidad",
-    "terms": "Términos y Condiciones",
-    "watermark": "by Sottomarina SA / Guigus SA",
-    "navInformacion": "Noticias del Sector"
-  },
-  "institucional": {
-    "title": "Institucional",
-    "subtitle": "Conozca nuestra historia, valores y compromiso con la excelencia",
-    "history": {
-      "title": "Nuestra Historia",
-      "subtitle": "La esencia del Mar Argentino",
-      "p1": "En From Patagonia, nuestra esencia es el Mar Argentino. Somos una empresa familiar e histórica dedicada a la extracción, elaboración y exportación de pescados y mariscos con décadas de trayectoria, que integra toda la cadena de valor: desde la captura en nuestras aguas frías y cristalinas hasta la logística global que asegura que el producto llegue al mercado internacional en condiciones de frescura absoluta.",
-      "p2": "Operamos con flota propia, procesamos en nuestras plantas de Mar del Plata y Trelew con los más altos estándares sanitarios y nuestra marca e industria es sinónimo de trazabilidad total en todo el circuito productivo. Exportamos al mundo la riqueza de nuestras costas, con la seriedad y el compromiso que los mercados más exigentes demandan.",
-      "p3": "Empresas argentinas ampliamente conocidas en el mercado Mundial dejan la responsabilidad de sus producciones en nuestras manos debido a que tenemos amplia experiencia en esto!!"
-    },
-    "vision": {
-      "title": "Nuestra Visión",
-      "quote": "Consolidarnos como el referente indiscutible en la exportación de productos del Mar Argentino a nivel global, manteniendo la excelencia en calidad, trazabilidad y sostenibilidad que nos caracteriza."
-    },
-    "values": {
-      "title": "Valores que nos guían",
-      "items": [
-        {
-          "title": "Trazabilidad Total",
-          "desc": "Desde el mar hasta la mesa, cada paso documentado"
-        },
-        {
-          "title": "Calidad Premium",
-          "desc": "Estándares internacionales en cada proceso"
-        },
-        {
-          "title": "Sostenibilidad",
-          "desc": "Pesca responsable, cuidando el recurso para futuras generaciones"
-        },
-        {
-          "title": "Compromiso Familiar",
-          "desc": "Décadas de experiencia, honrando nuestra palabra"
-        }
-      ]
-    },
-    "certs": {
-      "title": "Certificaciones Internacionales",
-      "subtitle": "Avalan nuestra calidad y apertura de mercados"
-    }
-  },
-  "flota": {
-    "title": "Nuestra Flota",
-    "subtitle": "7 tipos de embarcaciones operando en 7 puertos patagónicos. Flota propia con trazabilidad total.",
-    "congeladores": {
-      "title": "A) CONGELADORES",
-      "tangoneros": {
-        "name": "Tangoneros Arrastreros",
-        "desc": "Flota principal de congeladores para langostino con congelamiento a bordo inmediato."
-      },
-      "arrastreros": {
-        "name": "Arrastreros (Especies Variadas/Merluza)",
-        "desc": "Especializados en merluza hubbsi y especies asociadas. Procesamiento y congelación en cubierta."
-      },
-      "poteros": {
-        "name": "Poteros (Calamar)",
-        "desc": "Flota especializada en calamar illex. Sistema de luz y poteras con procesamiento inmediato."
-      }
-    },
-    "fresqueros": {
-      "title": "B) FRESQUEROS",
-      "tangoneros": {
-        "name": "Tangoneros Fresqueros",
-        "desc": "Entrega diaria de langostino fresco a planta Trelew. Cadena de frío ininterrumpida."
-      },
-      "monored": {
-        "name": "Arrastreros Mono Red",
-        "desc": "Captura fresca de merluza y especies asociadas para procesamiento inmediato."
-      },
-      "costeros": {
-        "name": "Nasa/Trampa/Palangre (Costeros)",
-        "desc": "Flota artesanal costera. Captura selectiva de especies de alto valor para mercado premium."
-      }
-    },
-    "gallery": {
-      "title": "Galería de Buques",
-      "subtitle": "Carrusel cinematográfico sincronizado con música. Ken Burns, swipe, pausa hover."
-    },
-    "videos": {
-      "title": "Navegación en Condiciones Extremas",
-      "subtitle": "Videos de nuestra flota operando en el Mar Argentino"
-    },
-    "ports": {
-      "title": "Puertos de Operación"
-    }
-  },
-  "comercial": {
-    "title": "Área Comercial",
-    "subtitle": "Nuestra red logística global conecta la Patagonia con los principales mercados mundiales.",
-    "tabs": {
-      "puertos": "🇦🇷 Puertos Argentina",
-      "mercados": "🌍 Mercados Mundiales"
-    },
-    "legend": {
-      "puertos": "Puertos operativos (7)",
-      "plantas": "Plantas de proceso (2)",
-      "hover": "Hover para detalles de cada puerto",
-      "origen": "Origen: Mar del Plata",
-      "rutas": "13 rutas comerciales animadas",
-      "barco": "Buque portacontenedores en movimiento",
-      "mercados": "13 mercados destino"
-    }
-  },
-  "frigorificos": {
-    "title": "Frigoríficos Industriales",
-    "subtitle": "Dos plantas de proceso con tecnología de punta y capacidad total de 1.250 toneladas de almacenamiento",
-    "specs": {
-      "title": "Especificaciones Técnicas",
-      "subtitle": "Infraestructura industrial de primer nivel"
-    },
-    "gallery": {
-      "title": "Galería de Plantas",
-      "subtitle": "Carrusel + videos con prioridad de audio + mosaico fotográfico"
-    },
-    "certs": {
-      "title": "Certificaciones"
-    }
-  },
-  "catalogo": {
-    "title": "Catálogo de Productos",
-    "subtitle": "Explore nuestra completa gama de especies del Mar Argentino. Trazabilidad total y certificación internacional.",
-    "categories": {
-      "langostinos": "LANGOSTINOS",
-      "merluza": "MERLUZA",
-      "calamar": "CALAMAR",
-      "variado": "VARIADO COSTERO",
-      "elaborados": "ELABORADOS"
-    }
-  },
-  "retail": {
-    "title": "Línea Retail",
-    "subtitle": "Productos listos para góndola y food service. Presentaciones consumer-ready con la calidad From Patagonia.",
-    "gallery": {
-      "title": "Galería de Productos Retail",
-      "subtitle": "Presentaciones finales para supermercados e hipermercados"
-    },
-    "categories": {
-      "filet": "Filet de Merluza Rebozado",
-      "hamburguesas": "Hamburguesas (Merluza, Pollo, Espinaca, Jamón, Queso, Primavera)",
-      "bastones": "Bastones (Merluza, Pollo, Espinaca, Jamón, Queso, Primavera)",
-      "anillas": "Anillas de Calamar Natural y Rebozadas",
-      "formas": "Formas Infantiles y Marinas",
-      "porcionado": "Filet de Merluza Porcionado"
-    }
-  },
-  "contacto": {
-    "title": "Contacto y Auditoría",
-    "subtitle": "Solicite su cotización personalizada. Capturamos datos de auditoría interna automáticamente.",
-    "form": {
-      "title": "Solicitar Cotización",
-      "subtitle": "Complete el formulario y nuestro equipo comercial le responderá a la brevedad",
-      "fields": {
-        "nombre": "Nombre y Apellido *",
-        "empresa": "Empresa *",
-        "cargo": "Cargo",
-        "telefono": "Teléfono *",
-        "email": "Email *",
-        "mensaje": "Mensaje *"
-      },
-      "placeholder": "Describa su consulta, especies de interés, volúmenes estimados, mercados destino...",
-      "submit": "Enviar Cotización",
-      "submitting": "Enviando...",
-      "success": "¡Mensaje enviado correctamente! Nuestro equipo comercial le contactará a la brevedad.",
-      "error": "Error al enviar. Por favor intente nuevamente o contáctenos directamente.",
-      "disclaimer": "Al enviar este formulario, acepta que capturemos su IP, fecha, hora y ubicación aproximada para auditoría interna. Sus datos se envían directamente a gdc1971@hotmail.com vía Formspree."
-    },
-    "direct": {
-      "title": "Datos de Contacto Directo",
-      "email": "gdc1971@hotmail.com",
-      "phone": "+54 223 555-0123",
-      "address": "Mar del Plata, Buenos Aires, Argentina"
-    }
-  },
-  "common": {
-    "loading": "Cargando...",
-    "error": "Error",
-    "retry": "Reintentar",
-    "close": "Cerrar",
-    "next": "Siguiente",
-    "prev": "Anterior",
-    "play": "Reproducir",
-    "pause": "Pausar",
-    "mute": "Silenciar",
-    "unmute": "Activar sonido",
-    "fullscreen": "Pantalla completa",
-    "gallery": "Ver galería completa",
-    "certifications": "Certificaciones",
-    "specifications": "Especificaciones",
-    "description": "Descripción",
-    "packing": "Packing",
-    "scientificName": "Nombre científico",
-    "allRights": "Todos los derechos reservados"
-  }
+    "flota":  {
+                  "gallery":  {
+                                  "title":  "Galería de Buques",
+                                  "subtitle":  "Carrusel cinematográfico sincronizado con música. Ken Burns, swipe, pausa hover."
+                              },
+                  "videos":  {
+                                 "title":  "Navegación en Condiciones Extremas",
+                                 "subtitle":  "Videos de nuestra flota operando en el Mar Argentino"
+                             },
+                  "subtitle":  "7 tipos de embarcaciones operando en 7 puertos patagónicos. Flota propia con trazabilidad total.",
+                  "ports":  {
+                                "title":  "Puertos de Operación"
+                            },
+                  "video1Desc":  "Barco convencional trabajando - Navegación en mal tiempo",
+                  "video2Desc":  "Barcos temporal - Timelapse navegación",
+                  "fresqueros":  {
+                                     "title":  "B) FRESQUEROS",
+                                     "tangoneros":  {
+                                                        "name":  "Tangoneros Fresqueros",
+                                                        "desc":  "Entrega diaria de langostino fresco a planta Trelew. Cadena de frío ininterrumpida."
+                                                    },
+                                     "costeros":  {
+                                                      "name":  "Nasa/Trampa/Palangre (Costeros)",
+                                                      "desc":  "Flota artesanal costera. Captura selectiva de especies de alto valor para mercado premium."
+                                                  },
+                                     "monored":  {
+                                                     "name":  "Arrastreros Mono Red",
+                                                     "desc":  "Captura fresca de merluza y especies asociadas para procesamiento inmediato."
+                                                 }
+                                 },
+                  "title":  "Nuestra Flota",
+                  "congeladores":  {
+                                       "tangoneros":  {
+                                                          "name":  "Tangoneros Arrastreros",
+                                                          "desc":  "Flota principal de congeladores para langostino con congelamiento a bordo inmediato."
+                                                      },
+                                       "poteros":  {
+                                                       "name":  "Poteros (Calamar)",
+                                                       "desc":  "Flota especializada en calamar illex. Sistema de luz y poteras con procesamiento inmediato."
+                                                   },
+                                       "arrastreros":  {
+                                                           "name":  "Arrastreros (Especies Variadas/Merluza)",
+                                                           "desc":  "Especializados en merluza hubbsi y especies asociadas. Procesamiento y congelación en cubierta."
+                                                       },
+                                       "title":  "A) CONGELADORES"
+                                   }
+              },
+    "comercial":  {
+                      "statMercados":  "Mercados",
+                      "statContinentes":  "Continentes",
+                      "subtitle":  "Nuestra red logística global conecta la Patagonia con los principales mercados mundiales.",
+                      "sectionSubtitle":  "La Patagonia conectada con los mercados más exigentes del mundo",
+                      "sectionTitle":  "Red Comercial Global",
+                      "title":  "Área Comercial",
+                      "mapTitle":  "Mapa de Exportaciones",
+                      "statPaises":  "Países",
+                      "mapSubtitle":  "Conexiones comerciales desde la Patagonia hacia el mundo",
+                      "legend":  {
+                                     "mercados":  "13 mercados destino",
+                                     "plantas":  "Plantas de proceso (2)",
+                                     "origen":  "Origen: Mar del Plata",
+                                     "rutas":  "13 rutas comerciales animadas",
+                                     "puertos":  "Puertos operativos (7)",
+                                     "hover":  "Hover para detalles de cada puerto",
+                                     "barco":  "Buque portacontenedores en movimiento"
+                                 },
+                      "tabs":  {
+                                   "mercados":  "🌍 Mercados Mundiales",
+                                   "puertos":  "🇦🇷 Puertos Argentina"
+                               }
+                  },
+    "frigorificos":  {
+                         "gallery":  {
+                                         "title":  "Galería de Plantas",
+                                         "subtitle":  "Carrusel + videos con prioridad de audio + mosaico fotográfico"
+                                     },
+                         "specs":  {
+                                       "trelewTecnologia":  "Congelamiento por placa de contacto y túneles estáticos",
+                                       "mdpName":  "Mar del Plata",
+                                       "thTecnologia":  "Tecnología",
+                                       "thCapacidad":  "Capacidad Almacenamiento",
+                                       "mdpCapacidad":  "1.000 toneladas",
+                                       "mdpPersonal":  "320 personas",
+                                       "trelewSuperficie":  "1.200 m²",
+                                       "mdpSuperficie":  "7.500 m²",
+                                       "title":  "Especificaciones Técnicas",
+                                       "thPersonal":  "Personal",
+                                       "mdpTecnologia":  "Congelamiento por placa de contacto, túneles estáticos y giro freezer",
+                                       "trelewLocation":  "Parque Industrial",
+                                       "thSuperficie":  "Superficie",
+                                       "thUbicacion":  "Ubicación",
+                                       "trelewName":  "Trelew",
+                                       "subtitle":  "Infraestructura industrial de primer nivel",
+                                       "mdpLocation":  "Ubicada en el puerto",
+                                       "trelewCapacidad":  "250 toneladas",
+                                       "trelewPersonal":  "200 personas (temporada langostino)"
+                                   },
+                         "certs":  {
+                                       "rusia":  "Rosselkhoznadzor - Servicio Federal Veterinario",
+                                       "fda":  "Food and Drug Administration - USA",
+                                       "subtitle":  "Avalan nuestro cumplimiento con los estándares internacionales más exigentes",
+                                       "dipoa":  "Departamento de Inspección de Productos de Origen Animal",
+                                       "haccp":  "Análisis de Peligros y Puntos Críticos de Control",
+                                       "china":  "GACC - General Administration of Customs",
+                                       "ue":  "Reglamento CE 852/2004 y 853/2004",
+                                       "title":  "Certificaciones",
+                                       "senasa":  "Servicio Nacional de Sanidad y Calidad Agroalimentaria"
+                                   },
+                         "subtitle":  "Dos plantas de proceso con tecnología de punta y capacidad total de 1.250 toneladas de almacenamiento",
+                         "video3Desc":  "Proceso de langostino entero",
+                         "videos":  {
+                                        "title":  "Videos de Proceso",
+                                        "subtitle":  "Procesamiento en nuestras plantas"
+                                    },
+                         "video1Desc":  "Clasificación y control de parásitos en filet",
+                         "video2Desc":  "Envase de filet de merluza",
+                         "video5Desc":  "Producción de langostinos pelado y desvenado",
+                         "title":  "Frigoríficos Industriales",
+                         "video4Desc":  "Proceso de corvina entera"
+                     },
+    "nav":  {
+                "frigorificos":  "Frigoríficos",
+                "catalogo":  "Catálogo",
+                "contacto":  "Contacto",
+                "comercial":  "Comercial",
+                "informacion":  "Noticias",
+                "retail":  "Retail",
+                "flota":  "Flota",
+                "institucional":  "Institucional"
+            },
+    "catalogo":  {
+                     "categories":  {
+                                        "variado":  "VARIADO COSTERO",
+                                        "elaborados":  "ELABORADOS",
+                                        "merluza":  "MERLUZA",
+                                        "langostinos":  "LANGOSTINOS",
+                                        "calamar":  "CALAMAR"
+                                    },
+                     "subtitle":  "Explore nuestra completa gama de especies del Mar Argentino. Trazabilidad total y certificación internacional.",
+                     "title":  "Catálogo de Productos"
+                 },
+    "cta":  {
+                "title":  "¿Listo para trabajar con la mejor calidad del Mar Argentino?",
+                "btn":  "Solicitar Cotización",
+                "desc":  "Empresas líderes mundiales confían en nuestra experiencia y trazabilidad. Solicite su cotización personalizada."
+            },
+    "products":  {
+                     "subtitle":  "Nuestros productos más demandados internacionalmente",
+                     "langostino":  {
+                                        "name":  "Langostino Patagónico",
+                                        "desc":  "Congelado a bordo y en tierra. Tallas L1, L2, L3, Colas C1, C2, C1L, Pelado y desvenado.",
+                                        "sci":  "Pleoticus muelleri"
+                                    },
+                     "title":  "Especies Estrella",
+                     "merluza":  {
+                                     "name":  "Merluza Austral",
+                                     "desc":  "Entera, HG/HGT, Filet con y sin piel. Zona FAO 41. Mareas 7-10 días (MDP) y 2-3 días (CR).",
+                                     "sci":  "Merluccius hubbsi"
+                                 },
+                     "calamar":  {
+                                     "name":  "Calamar Argentino",
+                                     "desc":  "Entero, Vaina, Tentáculo, Aleta, Tubo limpio, Anillas. Captura por flota potera especializada.",
+                                     "sci":  "Illex argentinus"
+                                 }
+                 },
+    "hero":  {
+                 "ctaContact":  "Solicitar Cotización",
+                 "ctaCatalog":  "Ver Catálogo",
+                 "subtitle":  "La esencia del Mar Argentino en cada producto",
+                 "ctaPdf":  "Descargar Catálogo PDF",
+                 "title":  "From Patagonia",
+                 "tagline":  "Exportadora premium de langostinos, merluza, calamar y variado costero con trazabilidad total y certificación internacional"
+             },
+    "footer":  {
+                   "navFrigorificos":  "Frigoríficos",
+                   "contact":  "Contacto",
+                   "watermark":  "by Sottomarina SA / Guigus SA",
+                   "navFlota":  "Flota",
+                   "navInformacion":  "Noticias del Sector",
+                   "contactForm":  "Formulario de contacto",
+                   "navContacto":  "Contacto",
+                   "address":  "Mar del Plata, Buenos Aires, Argentina",
+                   "follow":  "Síguenos",
+                   "terms":  "Términos y Condiciones",
+                   "privacy":  "Política de Privacidad",
+                   "rights":  "Todos los derechos reservados",
+                   "navCatalogo":  "Catálogo de Productos",
+                   "tagline":  "Exportamos la riqueza del Mar Argentino al mundo",
+                   "navComercial":  "Comercial",
+                   "navInstitucional":  "Institucional",
+                   "phone":  "+54 223 555-0123"
+               },
+    "contacto":  {
+                     "direct":  {
+                                    "email":  "gdc1971@hotmail.com",
+                                    "phone":  "+54 223 555-0123",
+                                    "title":  "Datos de Contacto Directo",
+                                    "address":  "Mar del Plata, Buenos Aires, Argentina"
+                                },
+                     "subtitle":  "Solicite su cotización personalizada. Capturamos datos de auditoría interna automáticamente.",
+                     "form":  {
+                                  "submitting":  "Enviando...",
+                                  "success":  "¡Mensaje enviado correctamente! Nuestro equipo comercial le contactará a la brevedad.",
+                                  "mensaje":  "Mensaje *",
+                                  "submit":  "Enviar Cotización",
+                                  "telefono":  "Teléfono *",
+                                  "cargo":  "Cargo",
+                                  "subtitle":  "Complete el formulario y nuestro equipo comercial le responderá a la brevedad",
+                                  "title":  "Solicitar Cotización",
+                                  "error":  "Error al enviar. Por favor intente nuevamente o contáctenos directamente.",
+                                  "disclaimer":  "Al enviar este formulario, acepta que capturemos su IP, fecha, hora y ubicación aproximada para auditoría interna. Sus datos se envían directamente a gdc1971@hotmail.com vía Formspree.",
+                                  "placeholder":  "Describa su consulta, especies de interés, volúmenes estimados, mercados destino...",
+                                  "empresa":  "Empresa *",
+                                  "email":  "Email *",
+                                  "nombre":  "Nombre y Apellido *",
+                                  "fields":  {
+                                                 "empresa":  "Empresa *",
+                                                 "mensaje":  "Mensaje *",
+                                                 "cargo":  "Cargo",
+                                                 "email":  "Email *",
+                                                 "telefono":  "Teléfono *",
+                                                 "nombre":  "Nombre y Apellido *"
+                                             }
+                              },
+                     "title":  "Contacto y Auditoría"
+                 },
+    "institucional":  {
+                          "certs":  {
+                                        "title":  "Certificaciones Internacionales",
+                                        "subtitle":  "Avalan nuestra calidad y apertura de mercados"
+                                    },
+                          "subtitle":  "Conozca nuestra historia, valores y compromiso con la excelencia",
+                          "vision":  {
+                                         "quote":  "Consolidarnos como el referente indiscutible en la exportación de productos del Mar Argentino a nivel global, manteniendo la excelencia en calidad, trazabilidad y sostenibilidad que nos caracteriza.",
+                                         "title":  "Nuestra Visión"
+                                     },
+                          "values":  {
+                                         "items":  {
+                                                       "2":  {
+                                                                 "title":  "Sostenibilidad",
+                                                                 "desc":  "Pesca responsable, cuidando el recurso para futuras generaciones"
+                                                             },
+                                                       "3":  {
+                                                                 "title":  "Compromiso Familiar",
+                                                                 "desc":  "Décadas de experiencia, honrando nuestra palabra"
+                                                             },
+                                                       "1":  {
+                                                                 "title":  "Calidad Premium",
+                                                                 "desc":  "Estándares internacionales en cada proceso"
+                                                             },
+                                                       "0":  {
+                                                                 "title":  "Trazabilidad Total",
+                                                                 "desc":  "Desde el mar hasta la mesa, cada paso documentado"
+                                                             }
+                                                   },
+                                         "title":  "Valores que nos guían"
+                                     },
+                          "banner":  "Nos vemos 6 de Octubre - Monumento",
+                          "title":  "Institucional",
+                          "history":  {
+                                          "p1":  "En From Patagonia, nuestra esencia es el Mar Argentino. Somos una empresa familiar e histórica dedicada a la extracción, elaboración y exportación de pescados y mariscos con décadas de trayectoria, que integra toda la cadena de valor: desde la captura en nuestras aguas frías y cristalinas hasta la logística global que asegura que el producto llegue al mercado internacional en condiciones de frescura absoluta.",
+                                          "subtitle":  "La esencia del Mar Argentino",
+                                          "title":  "Nuestra Historia",
+                                          "p2":  "Operamos con flota propia, procesamos en nuestras plantas de Mar del Plata y Trelew con los más altos estándares sanitarios y nuestra marca e industria es sinónimo de trazabilidad total en todo el circuito productivo. Exportamos al mundo la riqueza de nuestras costas, con la seriedad y el compromiso que los mercados más exigentes demandan.",
+                                          "p3":  "Empresas argentinas ampliamente conocidas en el mercado Mundial dejan la responsabilidad de sus producciones en nuestras manos debido a que tenemos amplia experiencia en esto!!"
+                                      }
+                      },
+    "informacion":  {
+                        "sectionFromPatagonia":  "From Patagonia Seafood",
+                        "herramientas":  {
+                                             "3":  {
+                                                       "descripcion":  "Resoluciones del Consejo Federal Pesquero. Normativa actualizada del sector pesquero argentino.",
+                                                       "titulo":  "Resoluciones CFP"
+                                                   },
+                                             "4":  {
+                                                       "descripcion":  "Actas de las sesiones del Consejo Federal Pesquero. Decisiones y debates del organismo.",
+                                                       "titulo":  "Actas CFP"
+                                                   },
+                                             "2":  {
+                                                       "descripcion":  "Estadísticas oficiales de capturas marítimas por especie, flota y puerto. Datos actualizados por la Secretaría de Pesca.",
+                                                       "titulo":  "Desembarques"
+                                                   },
+                                             "1":  {
+                                                       "descripcion":  "Mapa interactivo oficial del MAGyP con la posición de buques pesqueros reportando al sistema en ZEE Argentina.",
+                                                       "titulo":  "Monitoreo Satelital"
+                                                   },
+                                             "0":  {
+                                                       "descripcion":  "Consulta diaria de arribos programados al puerto de Mar del Plata. Actualizado por Prefectura Naval.",
+                                                       "titulo":  "Ingreso de Buques a Puerto"
+                                                   },
+                                             "5":  {
+                                                       "descripcion":  "Últimas novedades y comunicados del Consejo Federal Pesquero.",
+                                                       "titulo":  "Novedades CFP"
+                                                   }
+                                         },
+                        "noticias":  {
+                                         "11":  {
+                                                    "titulo":  "La denuncia por Malvinas apunta a siete empresas y a funcionarios argentinos",
+                                                    "resumen":  "Los abogados José Lucas Magioncalda y Juan Martín Fazio, de la agrupación Reset Republicano, denunciaron por presunto contrabando a siete grupos pesqueros gallegos ante el Juzgado en lo Penal Económico N° 7. Invocan los artículos 863, 864 y 865 del Código Aduanero."
+                                                },
+                                         "41":  {
+                                                    "titulo":  "Proyectan un segundo parque submarino frente a Mar del Plata y prevén hundir el BP Scombrus II",
+                                                    "resumen":  "El Ministerio de Ambiente bonaerense abrió la consulta pública para evaluar la creación del Parque Submarino “Kyokko Rua”, en un área más alejada de la costa que el histórico Cristo Rey. La iniciativa contempla incorporar como arrecife artificial al BP Scombrus II, actualmente fuera de servicio en el Puerto de Mar del Plata."
+                                                },
+                                         "45":  {
+                                                    "titulo":  "Raúl Durdos fue absuelto en el juicio por la denuncia de una exdirigente del SOMU",
+                                                    "resumen":  "Los fundamentos de la sentencia se conocerán el 14 de septiembre. El sindicato comunicó el resultado del proceso."
+                                                },
+                                         "42":  {
+                                                    "titulo":  "Conarpesa construye su parque solar para reducir costos en su planta pesquera",
+                                                    "resumen":  "La instalación de Puerto Madryn tendrá 2.832 paneles. La inversión se complementa con dos plantas de tratamiento de agua para aumentar el abastecimiento propio."
+                                                },
+                                         "3":  {
+                                                   "titulo":  "El apetito de saber: la pesca lleva la escuela a bordo y en tierra",
+                                                   "resumen":  "Iberconsa, San Isidro, Estrella Patagónica y Argenova sostienen un programa que les permite a sus trabajadores terminar la primaria y la secundaria. No hablan de filantropía sino de vocación de aprendizaje, de realización más allá de lo material y de poder discutir de igual a igual."
+                                               },
+                                         "20":  {
+                                                    "titulo":  "Merluza hubbsi: la principal especie de descarga en Comodoro Rivadavia",
+                                                    "resumen":  "Es la ciudad de Chubut con mayor cantidad de plantas dedicadas a su procesamiento. Se abastecen con materia prima del Golfo San Jorge y de aguas nacionales. En 2025 se desembarcaron 21.984 toneladas y en 2026 se llevan contabilizan 14.729 toneladas."
+                                                },
+                                         "12":  {
+                                                    "titulo":  "Catesur apuesta a la anchoíta pero no ayuda la abundancia ni su tamaño",
+                                                    "resumen":  "El establecimiento es el único que procesa la anchoíta bonaerense que capturan dos fresqueros, “Padre Pío” y “Belvedere”, que son parte del mismo grupo empresario Ritorno, Sallustio y Cicciotti. En el inicio de zafra la mayoría es calibre D."
+                                                },
+                                         "31":  {
+                                                    "titulo":  "Industria Naval: un día sin nada que celebrar",
+                                                    "resumen":  "El 12 de septiembre se celebra el día del sector bajo un panorama de amplia incertidumbre. Referentes de ese ámbito analizan la coyuntura. Detenido el proceso de reconversión de flota pesquera, queda sostener el empleo con reparaciones y transformaciones mientras critican que ingresen barcos usados al caladero."
+                                                },
+                                         "17":  {
+                                                    "titulo":  "El Gobierno reactiva la base naval de Ushuaia con un muelle para grandes buques",
+                                                    "resumen":  "La primera habilitación contempla 240 metros de atraque. El programa busca reunir abastecimiento y mantenimiento naval con instalaciones para las campañas antárticas; su continuidad requiere fondos del Presupuesto 2027."
+                                                },
+                                         "51":  {
+                                                    "titulo":  "Buques Operando en ZEE Argentina",
+                                                    "resumen":  "Mapa interactivo de buques reportando al sistema. Áreas: Zona común de pesca / Zona de Veda Permanente de Merluza."
+                                                },
+                                         "44":  {
+                                                    "titulo":  "Pesca Nación prevé cerrar la temporada de langostino en aguas nacionales el 13 de septiembre",
+                                                    "resumen":  "El cierre comprendería las subáreas 4 y 5 y los sectores exteriores a la ZVPJM. La especie quedaría limitada a capturas incidentales en operaciones dirigidas a otros recursos."
+                                                },
+                                         "8":  {
+                                                   "titulo":  "Malvinas: denuncian por contrabando a siete pesqueras",
+                                                   "resumen":  "La presentación pide reconstruir el destino comercial de las capturas e investigar conexiones empresariales en Argentina. Esos vínculos pueden tener consecuencias sobre los permisos nacionales si se comprueban las infracciones previstas en la ley pesquera."
+                                               },
+                                         "13":  {
+                                                    "titulo":  "Mirabella cerró Nación con buen balance y apuesta a trabajar hasta once meses al año",
+                                                    "resumen":  "Carlos Martín Rocca, propietario de la pesquera madrynense, destacó el buen nivel de capturas en la última temporada, aunque advirtió por la calidad dispar de la materia prima. De cara a los próximos meses, anticipó que la empresa comenzará a procesar merluza."
+                                                },
+                                         "27":  {
+                                                    "titulo":  "El Puerto de Mar del Plata presentó el proyecto de Puerto Azul con criterios de la FAO",
+                                                    "resumen":  "Un diagnóstico integral permitirá definir prioridades y metas, con participación empresaria, gremial, académica y social."
+                                                },
+                                         "30":  {
+                                                    "titulo":  "La temporada de langostino en aguas nacionales duró cinco meses",
+                                                    "resumen":  "Inició el 16 de abril y cierra oficialmente el 13 de septiembre. Con más de 130 mil toneladas capturadas ha sido una zafra estable comparativamente con los últimos años de la pesquería. El recurso en términos biológicos volvió a responder con solidez."
+                                                },
+                                         "10":  {
+                                                    "titulo":  "Sonapescal vincula la expansión de la flota artesanal con la caída del precio de la pota",
+                                                    "resumen":  "El gremio peruano estima más de 9.000 embarcaciones participantes y reclama un padrón específico. El valor informado en planta se ubica 80,9% por debajo del máximo de 2025."
+                                                },
+                                         "18":  {
+                                                    "titulo":  "Nueva denuncia contra la Junta Electoral del SOIP a días de los comicios",
+                                                    "resumen":  "Los apoderados de la Lista Verde y Azul presentaron un escrito en el que advierten que una persona ajena a la Junta difunde por redes documentación privada de la lista. Piden que se corte la circulación y que se investigue cómo salió del cuerpo que administra los comicios."
+                                                },
+                                         "36":  {
+                                                    "titulo":  "La actividad pesquera creció en julio y elevó al 57,2% la mejora acumulada",
+                                                    "resumen":  "Los crustáceos concentraron el impulso productivo. El contraste con la actividad afectada por el conflicto gremial de 2025 amplifica las subas interanuales. Son datos oficiales."
+                                                },
+                                         "29":  {
+                                                    "titulo":  "Malvinas: el Gobierno podría reforzar el único filtro sobre la pesca",
+                                                    "resumen":  "El Ejecutivo enviará al Congreso un proyecto que endurece las sanciones a las empresas argentinas vinculadas a operaciones en el archipiélago. Hoy el control depende de una declaración jurada que el propio Estado no está en condiciones de verificar."
+                                                },
+                                         "56":  {
+                                                    "titulo":  "From Patagonia Seafood consolida su presencia en el mercado asiático",
+                                                    "resumen":  "La empresa argentina From Patagonia Seafood continúa expandiendo su presencia en mercados asiáticos, con nuevos acuerdos comerciales en Japón, China y Corea del Sur para la exportación de langostino y merluza de alta calidad."
+                                                },
+                                         "5":  {
+                                                   "titulo":  "No logró consenso el cambio de reglas para la merluza en el Golfo San Jorge",
+                                                   "resumen":  "Desde Caleta Olivia y también desde Comodoro Rivadavia desestimaron la propuesta para que la flota amarilla opere sobre la especie merluza en ambas jurisdicciones provinciales. Los barcos de Santa Cruz y Chubut seguirán pescando, cada uno, en su lado del golfo."
+                                               },
+                                         "19":  {
+                                                    "titulo":  "En Mar del Plata los estibadores cargan sus bolsas de alimentos no perecederos",
+                                                    "resumen":  "Ante la falta de trabajo por la caída en los desembarques y la falta de portacontenedores, el SUPA comenzó a entregar bolsones para eventuales y asociados a algunas cooperativas. “La mitad de los compañeros está sin trabajo”, dijo Carlos Mezzamico."
+                                                },
+                                         "1":  {
+                                                   "titulo":  "El CFP convoca hasta cuatro buques para investigar la sardina fueguina",
+                                                   "resumen":  "Los proyectos podrán presentarse hasta el 22 de septiembre. La experiencia permitirá evaluar el recurso y las condiciones para desarrollar una nueva pesquería austral."
+                                               },
+                                         "47":  {
+                                                    "titulo":  "El INIDEP confirmó la sobreexplotación del gatuzo y pidió coordinar su recuperación",
+                                                    "resumen":  "La evaluación regional de 2026 vinculó el estado del recurso con las capturas históricas. La administración binacional fijó un máximo anual de 1.500 toneladas."
+                                                },
+                                         "53":  {
+                                                    "titulo":  "Desembarques de Capturas Marítimas (2026)",
+                                                    "resumen":  "Estadísticas oficiales de desembarques por especie, flota y puerto. Datos disponibles: 2026, 2025, 2024, 2023, 2022, 2021, 2020."
+                                                },
+                                         "49":  {
+                                                    "titulo":  "From Patagonia Seafood participó de la feria Seafood Expo Global en Barcelona",
+                                                    "resumen":  "Nuestro equipo comercial presentó la línea completa de productos en la feria más importante del sector, generando nuevos contactos comerciales en Europa y Asia."
+                                                },
+                                         "54":  {
+                                                    "titulo":  "Merluza común: los desembarques de 2026 suben 12% y superan los registros de 2024 y 2025",
+                                                    "resumen":  "El acumulado de 2026 alcanzó 171.247 toneladas. Aplicado el mismo corte de 21 días sobre julio de 2024 y 2025, el volumen actual supera ambas referencias; los fresqueros de altura aportan 63% de la descarga y Mar del Plata conserva el mayor aporte portuario."
+                                                },
+                                         "52":  {
+                                                    "titulo":  "Monitoreo Satelital de Buques Pesqueros",
+                                                    "resumen":  "Monitoreo oficial de buques reportando al sistema. Áreas: Zona Rinc\u0026amp;oacute;n (Res. CFP N\u0026amp;ordm; 27/2009 y posteriores)."
+                                                },
+                                         "23":  {
+                                                    "titulo":  "Malvinas: Londres respalda la explotación petrolera frente a las medidas argentinas",
+                                                    "resumen":  "La respuesta británica vincula soberanía y recursos naturales. Sea Lion lleva la controversia al terreno empresarial y devuelve al Atlántico Sur un lugar en la agenda nacional."
+                                                },
+                                         "40":  {
+                                                    "titulo":  "Mar del Plata: la caída de las cargas deja sin trabajo a la mitad de los estibadores, advierte el SUPA",
+                                                    "resumen":  "La caída de las descargas y la pérdida de líneas navieras recortan los jornales en Mar del Plata. Según el SUPA, solo 400 de sus 800 estibadores consiguen trabajar."
+                                                },
+                                         "58":  {
+                                                    "titulo":  "Campaña de langostino 2026: resultados positivos en las primeras semanas",
+                                                    "resumen":  "Nuestra flota tangonera reporta buenos rendimientos en la Zona FAO 41 con calibres comerciales óptimos para los mercados internacionales."
+                                                },
+                                         "59":  {
+                                                    "titulo":  "Delegación china visita nuestras plantas en Patagonia",
+                                                    "resumen":  "Representantes de cadenas de retail de Shanghái recorrieron nuestras instalaciones de Trelew y Mar del Plata para conocer el proceso productivo."
+                                                },
+                                         "26":  {
+                                                    "titulo":  "Malvinas y pesca ilegal: un proyecto en Diputados apunta al recorrido comercial de las capturas",
+                                                    "resumen":  "El proyecto pone el foco en la trazabilidad. Su aplicación exige distinguir las competencias pesqueras de las limitaciones que impone la disputa de soberanía."
+                                                },
+                                         "39":  {
+                                                    "titulo":  "Prefectura aeroevacuó un tripulante del pesquero portugués Novo Virgem Da Barca a 25 millas de Mar del Plata",
+                                                    "resumen":  "El operativo se realizó sobre el buque de bandera portuguesa Novo Virgem Da Barca, que navegaba fuera de la Zona Económica Exclusiva Argentina. Un tripulante de 57 años presentaba síntomas compatibles con un accidente cerebrovascular y debió ser trasladado de urgencia a tierra."
+                                                },
+                                         "14":  {
+                                                    "titulo":  "Río Negro transita uno de los años con menor volumen pesquero de la última década",
+                                                    "resumen":  "La situación de la actividad pesquera en esa provincia patagónica sigue siendo crítica. En lo que va de 2026 apenas se desembarcaron 3.365 toneladas de productos pesqueros. La tendencia decreciente iniciada en 2023 parece no tener piso. Río Negro redireccionó su matriz productiva hacia el desarrollo energético."
+                                                },
+                                         "37":  {
+                                                    "titulo":  "Trelew inicia obras en la Zona Franca para recibir dos pesqueras",
+                                                    "resumen":  "Buenos Aires Pesca proyecta una inversión de USD 15 millones y 400 empleos directos. La infraestructura provincial acompañará su instalación y la de Pesquera Mediterráneo del Sur."
+                                                },
+                                         "22":  {
+                                                    "titulo":  "SPI inicia una lancha para apoyar la salida exportadora de Vaca Muerta",
+                                                    "resumen":  "La C81 se sumará a la flota de Antares Naviera. Su entrada en servicio está prevista para el segundo trimestre de 2027."
+                                                },
+                                         "28":  {
+                                                    "titulo":  "El INIDEP profundizó los estudios sobre la caballa en El Rincón con una nueva campaña",
+                                                    "resumen":  "Durante cuatro jornadas a bordo del BIP Mar Argentino, investigadores analizaron las concentraciones del stock sureño mediante tecnología hidroacústica, registros de video y muestreos biológicos."
+                                                },
+                                         "4":  {
+                                                   "titulo":  "CONARPESA compró un potero en Taiwán y lo alista en China",
+                                                   "resumen":  "Álvarez Castellano confirmó la adquisición. Se trata de un barco de doce años de antigüedad y capacidad para congelar 120 toneladas diarias. Fue uno de los dieciocho proyectos aprobados por el CFP. Llegará a mediados de noviembre y se llamará “Puerto Madryn 1995”. El empresario negó tener vínculos con Malvinas."
+                                               },
+                                         "25":  {
+                                                    "titulo":  "Pesca Nación confirma el cierre de la temporada de langostino y ordena el regreso a puerto",
+                                                    "resumen":  "La temporada en aguas nacionales finalizará el domingo 13 de septiembre. La comunicación oficial ratifica la fecha anticipada por PESCARE."
+                                                },
+                                         "9":  {
+                                                   "titulo":  "Langostino 2026 cerraría por encima de las 130 mil toneladas en aguas nacionales",
+                                                   "resumen":  "La pesca en aguas nacionales dejó hasta el 9 de septiembre 126.163 toneladas declaradas, un 42% más que las 88.850 toneladas de toda la temporada 2025. El balance todavía es provisorio porque restan computarse las últimas descargas de los buques que regresaron a puerto tras el cierre."
+                                               },
+                                         "33":  {
+                                                    "titulo":  "El Foro del Mar Patagónico prepara una agenda hacia 2036 para fortalecer la conservación regional",
+                                                    "resumen":  "Representantes de 30 organizaciones de Argentina, Chile, Brasil y Uruguay analizaron los desafíos que enfrentará la región durante la próxima década."
+                                                },
+                                         "15":  {
+                                                    "titulo":  "AIS apagado: una práctica que pone en riesgo la seguridad durante la navegación",
+                                                    "resumen":  "La desconexión durante la marea, incluso en operaciones de pesca, retira información de seguridad a los demás navegantes. Las normas establecen la continuidad del servicio y delimitan las excepciones."
+                                                },
+                                         "34":  {
+                                                    "titulo":  "Falleció un oficial de cubierta del BP Argenova IV",
+                                                    "resumen":  "El trabajador tenía 36 años y era oriundo de Goya, Corrientes. Se investigan las circunstancias de su muerte durante la navegación. Intervino Prefectura Naval Argentina."
+                                                },
+                                         "21":  {
+                                                    "titulo":  "Día de la Industria Naval: los astilleros argentinos se adaptan a nuevas demandas",
+                                                    "resumen":  "Momentos de transición en la demanda y nuevo orden político económico ordenan una actividad que ya comienza a tener capacidad ociosa."
+                                                },
+                                         "57":  {
+                                                    "titulo":  "From Patagonia Seafood expande su presencia en el mercado japonés",
+                                                    "resumen":  "Nuevos acuerdos comerciales con compradores de Tokio y Osaka para el suministro de langostino patagónico premium y filet de merluza."
+                                                },
+                                         "24":  {
+                                                    "titulo":  "Nación proyecta un nuevo régimen de evaluación ambiental para puertos y vías navegables",
+                                                    "resumen":  "La Agencia Nacional de Puertos y Navegación abrió una instancia participativa para definir un procedimiento que clasificará las obras según su incidencia ambiental y establecerá diferentes exigencias para su evaluación."
+                                                },
+                                         "46":  {
+                                                    "titulo":  "SIMAPE y las cámaras acordaron salarios por IPC y extendieron el régimen de crisis hasta diciembre",
+                                                    "resumen":  "El convenio alcanza al personal del CCT 586/10. Las empresas deberán ratificar su adhesión y asumir compromisos sobre empleo y remuneraciones para aplicar el esquema excepcional."
+                                                },
+                                         "16":  {
+                                                    "titulo":  "Santa Cruz impulsa un acuerdo con Chubut para ampliar el acceso a la merluza",
+                                                    "resumen":  "La propuesta permitiría a un padrón de barcos amarillos pescar en ambas jurisdicciones del Golfo San Jorge. Su instrumentación requiere consenso sectorial y reglas de manejo sobre un área de cría del recurso."
+                                                },
+                                         "35":  {
+                                                    "titulo":  "Malvinas: la ley alcanza a las empresas vinculadas con pesca sin permiso",
+                                                    "resumen":  "El anuncio sobre el petróleo reabrió el debate pesquero. La normativa vigente contempla relaciones económicas y comerciales, con consecuencias sobre las autorizaciones para operar en el país."
+                                                },
+                                         "32":  {
+                                                    "titulo":  "Chubut y Buenos Aires mantienen una ajustada disputa por el liderazgo de los desembarques pesqueros",
+                                                    "resumen":  "La provincia patagónica llegó a encabezar el acumulado nacional al comenzar septiembre. Con datos actualizados al 9 de septiembre, Buenos Aires volvió al primer lugar con 265.441,5 toneladas, frente a las 260.499,6 de Chubut, en un escenario todavía abierto para lo que resta de 2026."
+                                                },
+                                         "7":  {
+                                                   "titulo":  "Resolución CTMFM Nro. 8/2026: se fijó en 2.750 toneladas la captura permisible de rayas de altura para 2027",
+                                                   "resumen":  "La medida regirá en la Zona Común de Pesca y contempla 2.450 toneladas inicialmente habilitadas y una reserva administrativa de 300 toneladas. La Comisión aplicó un criterio precautorio a partir de la evaluación del recurso."
+                                               },
+                                         "0":  {
+                                                   "titulo":  "PRUEBA: ¡Sitio renovado! Catálogo en PDF y nueva web en línea",
+                                                   "resumen":  "Publicación de prueba del sistema automatizado: la web quedó actualizada con el nuevo diseño, catálogo descargable en PDF y la sección de frigoríficos. El sitio ya está en línea."
+                                               },
+                                         "43":  {
+                                                    "titulo":  "Langostino 2026: Pesca cierra las últimas subáreas y pone fecha al último despacho",
+                                                    "resumen":  "El deterioro de los rendimientos adelantó la decisión. La flota tendrá hasta el miércoles para realizar el último despacho a aguas nacionales."
+                                                },
+                                         "48":  {
+                                                    "titulo":  "Prefectura llevó a GALAPEX IV 2026 su experiencia en el control de la pesca ilegal y las flotas extranjeras",
+                                                    "resumen":  "La Autoridad Marítima argentina participó en Ecuador del ejercicio multinacional enfocado en vigilancia y seguridad marítima. Compartió procedimientos desarrollados para detectar y controlar la pesca INDNR, con especial énfasis en el seguimiento de buques que operan próximos al límite exterior de la ZEEA."
+                                                },
+                                         "2":  {
+                                                   "titulo":  "La Comisión de Intereses Marítimos reunió al sector para debatir trazabilidad y transparencia en la pesca",
+                                                   "resumen":  "Diputados retomó el debate con la participación de organizaciones ambientales, cámaras empresarias, sindicatos y especialistas. Hubo coincidencias sobre la importancia de la trazabilidad, pero diferencias respecto de crear un nuevo sistema nacional o integrar y transparentar los mecanismos que ya funcionan."
+                                               },
+                                         "38":  {
+                                                    "titulo":  "Cabo Vírgenes refuerza su estructura industrial en Chubut con inversión millonaria",
+                                                    "resumen":  "La compañía inició un proceso de refuncionalización que incorporará tecnología, ampliará la capacidad operativa y renovará sectores destinados al personal."
+                                                },
+                                         "55":  {
+                                                    "titulo":  "Nueva certificación HACCP renovada para nuestras plantas de Trelew y Mar del Plata",
+                                                    "resumen":  "Ambas plantas superaron con éxito las auditorías anuales, reafirmando nuestro compromiso con la calidad y la seguridad alimentaria."
+                                                },
+                                         "50":  {
+                                                    "titulo":  "Ingreso de Buques a Puerto de Mar del Plata",
+                                                    "resumen":  "Buques programados: BP INSOLITO - 18:00. Actualización: 29.JUL.2026 13:50HS."
+                                                },
+                                         "6":  {
+                                                   "titulo":  "EPSA reduce personal para preservar el empleo de temporada",
+                                                   "resumen":  "La compañía argumentó “cuestiones operativas y de imposibilidad económica”. Sostuvo que busca preservar la continuidad de la compañía y el empleo durante las temporadas de langostino, cuando puede llegar a ocupar a unos 600 operarios. Trabajo exhortó a retrotraer el conflicto y convocó a una primera audiencia."
+                                               }
+                                     },
+                        "sectionNoticias":  "Noticias del Sector",
+                        "subtitle":  "Noticias, novedades y análisis del mercado pesquero argentino e internacional",
+                        "title":  "Información del Sector Pesquero"
+                    },
+    "highlights":  {
+                       "certs":  {
+                                     "title":  "Certificaciones Globales",
+                                     "desc":  "SENASA, HACCP, UE, FDA, China, Rusia, DIPOA Brasil"
+                                 },
+                       "subtitle":  "Calidad que nace en el mar, se procesa con excelencia y llega al mundo",
+                       "fleet":  {
+                                     "title":  "Flota Propia",
+                                     "desc":  "7 tipos de embarcaciones operando en 7 puertos patagónicos"
+                                 },
+                       "export":  {
+                                      "title":  "Exportación Mundial",
+                                      "desc":  "Presencia en 13 mercados internacionales"
+                                  },
+                       "plants":  {
+                                      "title":  "Plantas Industriales",
+                                      "desc":  "Mar del Plata (7.500 m²) y Trelew (1.500 m²) con tecnología de punta"
+                                  },
+                       "title":  "Nuestra Diferencia"
+                   },
+    "common":  {
+                   "description":  "Descripción",
+                   "fullscreen":  "Pantalla completa",
+                   "retry":  "Reintentar",
+                   "loading":  "Cargando...",
+                   "gallery":  "Ver galería completa",
+                   "scientificName":  "Nombre científico",
+                   "specifications":  "Especificaciones",
+                   "play":  "Reproducir",
+                   "next":  "Siguiente",
+                   "mute":  "Silenciar",
+                   "certifications":  "Certificaciones",
+                   "close":  "Cerrar",
+                   "unmute":  "Activar sonido",
+                   "error":  "Error",
+                   "packing":  "Packing",
+                   "allRights":  "Todos los derechos reservados",
+                   "pause":  "Pausar",
+                   "prev":  "Anterior"
+               },
+    "retail":  {
+                   "gallery":  {
+                                   "title":  "Galería de Productos Retail",
+                                   "subtitle":  "Presentaciones finales para supermercados e hipermercados"
+                               },
+                   "text":  "La línea Retail ahora forma parte de nuestro",
+                   "subtitle":  "Productos listos para góndola y food service. Presentaciones consumer-ready con la calidad From Patagonia.",
+                   "title":  "Línea Retail",
+                   "categories":  {
+                                      "porcionado":  "Filet de Merluza Porcionado",
+                                      "formas":  "Formas Infantiles y Marinas",
+                                      "filet":  "Filet de Merluza Rebozado",
+                                      "hamburguesas":  "Hamburguesas (Merluza, Pollo, Espinaca, Jamón, Queso, Primavera)",
+                                      "bastones":  "Bastones (Merluza, Pollo, Espinaca, Jamón, Queso, Primavera)",
+                                      "anillas":  "Anillas de Calamar Natural y Rebozadas"
+                                  },
+                   "catalogoLink":  "Catálogo de Productos"
+               }
 }

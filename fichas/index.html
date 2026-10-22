@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Fichas T&eacute;cnicas | From Patagonia Seafood</title>
+<style>
+  :root{--navy:#1B3A5C;--navy-dark:#12293f;--red:#C1272D;--line:#dfe6ee;--muted:#5b6b7d}
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{font-family:'Inter',Arial,Helvetica,sans-serif;color:#1d2b3a;background:#eef1f5;line-height:1.35}
+  a{color:inherit;text-decoration:none}
+  .band{background:var(--navy);color:#fff;border-bottom:4px solid var(--red)}
+  .band .wrap{max-width:1180px;margin:0 auto;padding:14px 22px;display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap}
+  .brand{display:flex;align-items:center;gap:12px}
+  .brand img{height:46px;width:auto}
+  .brand b{font-size:20px;letter-spacing:.3px}
+  .brand span{display:block;font-size:10px;letter-spacing:4px;color:#ff6a6f;font-weight:700}
+  .band a.back{font-size:13px;font-weight:600;border:1px solid rgba(255,255,255,.5);border-radius:6px;padding:7px 14px;color:#fff}
+  .band a.back:hover{background:rgba(255,255,255,.12)}
+  .head{max-width:1180px;margin:0 auto;padding:30px 22px 6px}
+  .head h1{font-size:27px;color:var(--navy)}
+  .head h1 small{display:block;font-size:13px;color:var(--muted);font-weight:400;letter-spacing:1px;margin-top:4px}
+  .head p{margin-top:10px;color:var(--muted);font-size:14px;max-width:760px}
+  .grid{max-width:1180px;margin:0 auto;padding:22px;display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:20px}
+  .card{background:#fff;border:1px solid var(--line);border-radius:12px;overflow:hidden;box-shadow:0 4px 16px rgba(18,41,63,.08);display:flex;flex-direction:column;transition:.15s}
+  .card:hover{transform:translateY(-3px);box-shadow:0 10px 26px rgba(18,41,63,.16)}
+  .card .ph{height:150px;display:flex;align-items:center;justify-content:center;background:linear-gradient(180deg,#f6f8fb,#eaeef4);padding:10px}
+  .card .ph img{max-height:100%;max-width:100%;object-fit:contain;filter:drop-shadow(0 3px 5px rgba(18,41,63,.22))}
+  .card .bd{padding:14px 16px 16px;display:flex;flex-direction:column;flex:1}
+  .card h3{font-size:16px;color:var(--navy)}
+  .card .en{font-size:12px;color:var(--red);font-weight:600;margin-top:2px}
+  .card .sci{font-size:12.5px;font-style:italic;color:var(--muted);margin:6px 0 12px}
+  .card .acts{margin-top:auto;display:flex;gap:8px}
+  .btn{flex:1;text-align:center;padding:9px 10px;border-radius:7px;font-size:13px;font-weight:600;border:1px solid transparent;cursor:pointer}
+  .btn.view{background:var(--navy);color:#fff}
+  .btn.pdf{background:#fff;color:var(--navy);border-color:var(--navy)}
+  .btn:hover{opacity:.9}
+  .foot{max-width:1180px;margin:10px auto 40px;padding:0 22px;color:var(--muted);font-size:12px;text-align:center}
+</style>
+</head>
+<body>
+
+<div class="band">
+  <div class="wrap">
+    <div class="brand">
+      <img src="../logo.png" alt="From Patagonia Seafood">
+      <div><b>From Patagonia</b><span>SEAFOOD</span></div>
+    </div>
+    <a class="back" href="../catalogo/">&larr; Volver al cat&aacute;logo / Back to catalog</a>
+  </div>
+</div>
+
+<div class="head">
+  <h1>Fichas T&eacute;cnicas <small>Technical Data Sheets</small></h1>
+  <p>Informaci&oacute;n t&eacute;cnica biling&uuml;e (ES/EN) por especie: identificaci&oacute;n, zona de pesca, biolog&iacute;a, presentaciones y composici&oacute;n nutricional. Cada ficha se puede ver en l&iacute;nea o descargar en PDF (una p&aacute;gina A4).</p>
+</div>
+
+<div class="grid" id="grid"></div>
+
+<div class="foot">
+  From Patagonia Seafood &middot; Patagonia, Argentina &middot; Fuente / Source: INIDEP &middot; FishBase &middot; FAO<br>
+  By Sottomarina SA / Guigus SA
+</div>
+
+<script>
+const FICHAS = [
+  {id:"merluza",   es:"Merluza Argentina", en:"Argentine Hake",         sci:"Merluccius hubbsi"},
+  {id:"langostino",es:"Langostino",         en:"Patagonian Red Shrimp",  sci:"Pleoticus muelleri"},
+  {id:"calamar",   es:"Calamar",            en:"Argentine Shortfin Squid", sci:"Illex argentinus"},
+  {id:"besugo",    es:"Besugo",             en:"Red Porgy",              sci:"Pagrus pagrus"},
+  {id:"corvina",   es:"Corvina Rubia",      en:"Whitemouth Croaker",     sci:"Micropogonias furnieri"},
+  {id:"pescadilla",es:"Pescadilla de Red",  en:"Striped Weakfish",       sci:"Cynoscion guatucupa"},
+  {id:"pezpalo",   es:"Pez Palo",           en:"Brazilian Flathead",     sci:"Percophis brasiliensis"},
+  {id:"caballa",   es:"Caballa",            en:"Atlantic Chub Mackerel", sci:"Scomber colias"},
+  {id:"mero",      es:"Mero",               en:"Patagonian Grouper",      sci:"Acanthistius patachonicus"}
+];
+document.getElementById("grid").innerHTML = FICHAS.map(f => `
+  <div class="card">
+    <div class="ph"><img src="${f.id}-entera.png" alt="${f.es}"></div>
+    <div class="bd">
+      <h3>${f.es}</h3>
+      <div class="en">${f.en}</div>
+      <div class="sci">${f.sci}</div>
+      <div class="acts">
+        <a class="btn view" href="${f.id}.html">Ver ficha</a>
+        <a class="btn pdf" href="${f.id}.pdf" target="_blank" rel="noopener">PDF</a>
+      </div>
+    </div>
+  </div>`).join("");
+</script>
+
+</body>
+</html>

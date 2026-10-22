@@ -1,150 +1,359 @@
 {
-  "nav": {
-    "institucional": "機関",
-    "flota": "船団",
-    "comercial": "商業",
-    "frigorificos": "冷凍工場",
-    "catalogo": "カタログ",
-    "retail": "小売",
-    "informacion": "情報",
-    "contacto": "お問い合わせ"
-  },
-  "hero": {
-    "title": "From Patagonia",
-    "subtitle": "アルゼンチン海のエッセンスをすべての製品に",
-    "tagline": "エビ、メルルーサ、イカ、沿岸魚のプレミアム輸出業者。完全なトレーサビリティと国際認証を保有。",
-    "ctaCatalog": "カタログを見る",
-    "ctaContact": "見積もり依頼",
-    "ctaPdf": "カタログPDFをダウンロード"
-  },
-  "highlights": {
-    "title": "私たちの違い",
-    "subtitle": "海で生まれ、卓越した技術で加工され、世界へ届けられる品質",
-    "fleet": {
-      "title": "自社船団",
-      "desc": "7種類の船舶が7つのパタゴニア港で運航"
-    },
-    "plants": {
-      "title": "工業プラント",
-      "desc": "マル・デル・プラタ(7,500㎡)とトレルウ(1,500㎡)に最新技術を導入"
-    },
-    "certs": {
-      "title": "グローバル認証",
-      "desc": "SENASA, HACCP, EU, FDA, 中国, ロシア, DIPOAブラジル"
-    },
-    "export": {
-      "title": "世界輸出",
-      "desc": "13の国際市場に展開"
-    }
-  },
-  "products": {
-    "title": "主力商品",
-    "subtitle": "国際的に最も需要の高い製品",
-    "langostino": {
-      "name": "パタゴニアエビ",
-      "sci": "Pleoticus muelleri",
-      "desc": "船上冷凍と陸上冷凍。サイズL1, L2, L3, テールC1, C2, C1L, 剥き身・背ワタ取り。"
-    },
-    "merluza": {
-      "name": "南極メルルーサ",
-      "sci": "Merluccius hubbsi",
-      "desc": "丸ごと、HG/HGT、皮付き/皮なしフィレ。FAO 41区。漁期7-10日(マルデルプラタ)と2-3日(コモドロリバダビア)。"
-    },
-    "calamar": {
-      "name": "アルゼンチンイカ",
-      "sci": "Illex argentinus",
-      "desc": "丸ごと、チューブ、触手、ひれ、皮なしチューブ、リング。専門イカ釣り船団による捕獲。"
-    }
-  },
-  "cta": {
-    "title": "アルゼンチン海の最高品質と仕事をする準備はできていますか？",
-    "desc": "世界的リーディング企業が私たちの経験とトレーサビリティを信頼しています。パーソナライズされた見積もりをご請求ください。",
-    "btn": "見積もり依頼"
-  },
-  "informacion": {
-    "title": "水産業界情報",
-    "subtitle": "アルゼンチンおよび国際的な水産業のニュースと分析",
-    "sectionFromPatagonia": "From Patagonia Seafood",
-    "sectionNoticias": "業界ニュース",
-    "herramientas": [
-      {
-        "titulo": "船舶入港情報",
-        "descripcion": "マルデルプラタ港への入港予定情報。海上保安局による更新。"
-      },
-      {
-        "titulo": "衛星モニタリング",
-        "descripcion": "アルゼンチンEEZ内の漁船位置を示すMAGyP公式インタラクティブマップ。"
-      },
-      {
-        "titulo": "水揚げ統計",
-        "descripcion": "魚種、船団、港別の公式水揚げ統計。水産局による更新。"
-      },
-      {
-        "titulo": "CFP決議",
-        "descripcion": "連邦水産審議会の決議。アルゼンチン水産業の最新規制。"
-      },
-      {
-        "titulo": "CFP議事録",
-        "descripcion": "連邦水産審議会の議事録。決定と討議内容。"
-      },
-      {
-        "titulo": "CFPニュース",
-        "descripcion": "連邦水産審議会の最新ニュースとお知らせ。"
-      }
-    ],
-    "pinned": [
-      {
-        "titulo": "From Patagonia SeafoodがバルセロナのSeafood Expo Globalに出展",
-        "resumen": "営業チームが主要見本市で全製品ラインを紹介し、欧州・アジアで新たな取引先を開拓。"
-      },
-      {
-        "titulo": "トレレウ工場とマルデルプラタ工場でHACCP認証を更新",
-        "resumen": "両工場が年次監査に合格、品質と食品安全への取り組みを再確認。"
-      },
-      {
-        "titulo": "From Patagonia Seafoodが日本市場でのプレゼンスを拡大",
-        "resumen": "東京・大阪のバイヤーとの間でプレミアムパタゴニア産エビの供給契約を締結。"
-      },
-      {
-        "titulo": "2026年エビ漁期：初週で好調な結果",
-        "resumen": "タンゴネロ船団がFAO海域41で好漁獲を報告、国際市場向け最適サイズ。"
-      },
-      {
-        "titulo": "中国代表団がパタゴニアの工場を訪問",
-        "resumen": "上海の小売チェーン代表が生産工程を視察するため工場を訪問。"
-      }
-    ]
-  },
-  "footer": {
-    "tagline": "アルゼンチン海の豊かさを世界へ輸出",
-    "contact": "お問い合わせ",
-    "address": "マルデルプラタ, ブエノスアイレス, アルゼンチン",
-    "phone": "+54 223 555-0123",
-    "follow": "フォロー",
-    "rights": "全著作権所有",
-    "privacy": "プライバシーポリシー",
-    "terms": "利用規約",
-    "watermark": "by Sottomarina SA / Guigus SA",
-    "navInformacion": "セクター情報"
-  },
-  "common": {
-    "loading": "読み込み中...",
-    "error": "エラー",
-    "retry": "再試行",
-    "close": "閉じる",
-    "next": "次へ",
-    "prev": "前へ",
-    "play": "再生",
-    "pause": "一時停止",
-    "mute": "ミュート",
-    "unmute": "音声オン",
-    "fullscreen": "全画面",
-    "gallery": "完全なギャラリーを見る",
-    "certifications": "認証",
-    "specifications": "仕様",
-    "description": "説明",
-    "packing": "梱包",
-    "scientificName": "学名",
-    "allRights": "全著作権所有"
-  }
+    "flota":  {
+                  "gallery":  {
+                                  "title":  "船舶ギャラリー",
+                                  "subtitle":  "音楽に同期したシネマティックなカルーセル。ケン・バーンズ、スワイプ、ホバーで一時停止。"
+                              },
+                  "videos":  {
+                                 "subtitle":  "アルゼンチン海で稼働する当社船団の動画",
+                                 "title":  "過酷な条件での航行"
+                             },
+                  "subtitle":  "7つのパタゴニア港で稼働する7種の船舶。完全なトレーサビリティを備えた自社船団。",
+                  "ports":  {
+                                "title":  "運航港"
+                            },
+                  "video1Desc":  "従来型船の作業風景 - 荒天航行",
+                  "video2Desc":  "時化の船団 - 航行のタイムラプス",
+                  "fresqueros":  {
+                                     "title":  "B) 鮮魚船",
+                                     "tangoneros":  {
+                                                        "name":  "アウトリガー式鮮魚船",
+                                                        "desc":  "トレレウ工場へ新鮮なエビを毎日配送。途切れないコールドチェーン。"
+                                                    },
+                                     "costeros":  {
+                                                      "name":  "かご・はえ縄（沿岸）",
+                                                      "desc":  "沿岸の零細漁船団。プレミアム市場向けの高付加価値魚種を選択的に漁獲。"
+                                                  },
+                                     "monored":  {
+                                                     "name":  "シングルネットトロール船",
+                                                     "desc":  "ヘイクおよび関連魚種を鮮魚で漁獲し、即時加工。"
+                                                 }
+                                 },
+                  "title":  "当社の船団",
+                  "congeladores":  {
+                                       "tangoneros":  {
+                                                          "name":  "アウトリガー式トロール船",
+                                                          "desc":  "エビ用冷凍船の主力船団。船上で即時冷凍。"
+                                                      },
+                                       "poteros":  {
+                                                       "name":  "イカ釣り船（イカ）",
+                                                       "desc":  "イレックスイカを専門とする船団。集魚灯とイカ釣り機による即時加工。"
+                                                   },
+                                       "arrastreros":  {
+                                                           "name":  "トロール船（各種・ヘイク）",
+                                                           "desc":  "ヘイク（hubbsi）および関連魚種を専門とします。船上での加工と冷凍。"
+                                                       },
+                                       "title":  "A) 冷凍船"
+                                   }
+              },
+    "frigorificos":  {
+                         "video4Desc":  "コルビナの丸加工",
+                         "specs":  {
+                                       "trelewTecnologia":  "接触式プレート凍結と静的トンネル",
+                                       "mdpName":  "マル・デル・プラタ",
+                                       "thTecnologia":  "技術",
+                                       "thCapacidad":  "貯蔵容量",
+                                       "mdpCapacidad":  "1,000トン",
+                                       "thPersonal":  "従業員",
+                                       "mdpPersonal":  "320名",
+                                       "trelewSuperficie":  "1,200 m²",
+                                       "mdpSuperficie":  "7,500 m²",
+                                       "title":  "技術仕様",
+                                       "subtitle":  "一流の産業インフラ",
+                                       "mdpTecnologia":  "接触式プレート凍結、静的トンネル、スパイラルフリーザー",
+                                       "trelewLocation":  "工業団地",
+                                       "thSuperficie":  "面積",
+                                       "thUbicacion":  "所在地",
+                                       "trelewName":  "トレレウ",
+                                       "mdpLocation":  "港内に立地",
+                                       "trelewCapacidad":  "250トン",
+                                       "trelewPersonal":  "200名（エビ漁期）"
+                                   },
+                         "certs":  {
+                                       "rusia":  "ロスセリホズナドゾル - 連邦獣医局",
+                                       "subtitle":  "世界で最も厳しい国際基準への適合を証明しています",
+                                       "dipoa":  "動物性製品検査局",
+                                       "title":  "認証",
+                                       "haccp":  "危害分析・重要管理点",
+                                       "china":  "GACC - General Administration of Customs",
+                                       "ue":  "EC規則 852/2004 および 853/2004",
+                                       "fda":  "Food and Drug Administration - USA",
+                                       "senasa":  "国家農産食品衛生品質局"
+                                   },
+                         "subtitle":  "最先端技術を備えた2つの加工工場、総貯蔵能力1,250トン",
+                         "video3Desc":  "丸エビの加工",
+                         "videos":  {
+                                        "title":  "工程動画",
+                                        "subtitle":  "当社工場での加工"
+                                    },
+                         "video1Desc":  "フィレットの選別と寄生虫管理",
+                         "video2Desc":  "ヘイクフィレットの梱包",
+                         "gallery":  {
+                                         "title":  "工場ギャラリー",
+                                         "subtitle":  "カルーセル＋音声優先の動画＋フォトモザイク"
+                                     },
+                         "video5Desc":  "むきエビ・背わた除去加工の生産",
+                         "title":  "産業用冷凍工場"
+                     },
+    "catalogo":  {
+                     "categories":  {
+                                        "elaborados":  "加工品",
+                                        "merluza":  "メルルーサ",
+                                        "calamar":  "イカ",
+                                        "langostinos":  "エビ",
+                                        "variado":  "沿岸魚類各種"
+                                    },
+                     "title":  "製品カタログ",
+                     "subtitle":  "アルゼンチン海のあらゆる魚種をご覧ください。完全なトレーサビリティと国際認証を備えています。"
+                 },
+    "highlights":  {
+                       "certs":  {
+                                     "desc":  "SENASA, HACCP, EU, FDA, 中国, ロシア, DIPOAブラジル",
+                                     "title":  "グローバル認証"
+                                 },
+                       "subtitle":  "海で生まれ、卓越した技術で加工され、世界へ届けられる品質",
+                       "fleet":  {
+                                     "title":  "自社船団",
+                                     "desc":  "7種類の船舶が7つのパタゴニア港で運航"
+                                 },
+                       "export":  {
+                                      "desc":  "13の国際市場に展開",
+                                      "title":  "世界輸出"
+                                  },
+                       "plants":  {
+                                      "desc":  "マル・デル・プラタ(7,500㎡)とトレルウ(1,500㎡)に最新技術を導入",
+                                      "title":  "工業プラント"
+                                  },
+                       "title":  "私たちの違い"
+                   },
+    "cta":  {
+                "title":  "アルゼンチン海の最高品質と仕事をする準備はできていますか？",
+                "btn":  "見積もり依頼",
+                "desc":  "世界的リーディング企業が私たちの経験とトレーサビリティを信頼しています。パーソナライズされた見積もりをご請求ください。"
+            },
+    "products":  {
+                     "title":  "主力商品",
+                     "merluza":  {
+                                     "name":  "南極メルルーサ",
+                                     "desc":  "丸ごと、HG/HGT、皮付き/皮なしフィレ。FAO 41区。漁期7-10日(マルデルプラタ)と2-3日(コモドロリバダビア)。",
+                                     "sci":  "Merluccius hubbsi"
+                                 },
+                     "langostino":  {
+                                        "name":  "パタゴニアエビ",
+                                        "desc":  "船上冷凍と陸上冷凍。サイズL1, L2, L3, テールC1, C2, C1L, 剥き身・背ワタ取り。",
+                                        "sci":  "Pleoticus muelleri"
+                                    },
+                     "subtitle":  "国際的に最も需要の高い製品",
+                     "calamar":  {
+                                     "name":  "アルゼンチンイカ",
+                                     "desc":  "丸ごと、チューブ、触手、ひれ、皮なしチューブ、リング。専門イカ釣り船団による捕獲。",
+                                     "sci":  "Illex argentinus"
+                                 }
+                 },
+    "hero":  {
+                 "ctaContact":  "見積もり依頼",
+                 "ctaCatalog":  "カタログを見る",
+                 "subtitle":  "アルゼンチン海のエッセンスをすべての製品に",
+                 "ctaPdf":  "カタログPDFをダウンロード",
+                 "title":  "From Patagonia",
+                 "tagline":  "エビ、メルルーサ、イカ、沿岸魚のプレミアム輸出業者。完全なトレーサビリティと国際認証を保有。"
+             },
+    "footer":  {
+                   "navFrigorificos":  "冷凍工場",
+                   "contact":  "お問い合わせ",
+                   "watermark":  "by Sottomarina SA / Guigus SA",
+                   "phone":  "+54 223 555-0123",
+                   "navFlota":  "船団",
+                   "navInformacion":  "セクター情報",
+                   "contactForm":  "お問い合わせフォーム",
+                   "navContacto":  "お問い合わせ",
+                   "address":  "マルデルプラタ, ブエノスアイレス, アルゼンチン",
+                   "follow":  "フォロー",
+                   "terms":  "利用規約",
+                   "rights":  "全著作権所有",
+                   "navCatalogo":  "製品カタログ",
+                   "tagline":  "アルゼンチン海の豊かさを世界へ輸出",
+                   "navComercial":  "商業",
+                   "navInstitucional":  "会社情報",
+                   "privacy":  "プライバシーポリシー"
+               },
+    "nav":  {
+                "frigorificos":  "冷凍工場",
+                "catalogo":  "カタログ",
+                "contacto":  "お問い合わせ",
+                "comercial":  "商業",
+                "informacion":  "情報",
+                "retail":  "小売",
+                "flota":  "船団",
+                "institucional":  "機関"
+            },
+    "institucional":  {
+                          "certs":  {
+                                        "subtitle":  "当社の品質と市場開放を証明しています",
+                                        "title":  "国際認証"
+                                    },
+                          "subtitle":  "私たちの歩み、価値観、卓越性への取り組みをご覧ください",
+                          "vision":  {
+                                         "quote":  "品質・トレーサビリティ・持続可能性における卓越性を保ちながら、アルゼンチン海産物の輸出における揺るぎないリーダーとしての地位を確立すること。",
+                                         "title":  "私たちのビジョン"
+                                     },
+                          "values":  {
+                                         "items":  {
+                                                       "2":  {
+                                                                 "title":  "持続可能性",
+                                                                 "desc":  "責任ある漁業で、未来の世代のために資源を守ります"
+                                                             },
+                                                       "3":  {
+                                                                 "title":  "家族のこだわり",
+                                                                 "desc":  "数十年の経験、約束を守る姿勢"
+                                                             },
+                                                       "1":  {
+                                                                 "desc":  "すべての工程で国際基準",
+                                                                 "title":  "プレミアム品質"
+                                                             },
+                                                       "0":  {
+                                                                 "title":  "完全なトレーサビリティ",
+                                                                 "desc":  "海から食卓まで、すべての工程を記録"
+                                                             }
+                                                   },
+                                         "title":  "私たちを導く価値観"
+                                     },
+                          "banner":  "10月6日にお会いしましょう - モニュメント",
+                          "title":  "会社情報",
+                          "history":  {
+                                          "p1":  "From Patagoniaにとって、その本質はアルゼンチン海です。当社は、数十年の実績を持つ家族経営の老舗企業として、魚介類の漁獲・加工・輸出に携わり、バリューチェーン全体を統合しています。冷たく澄んだ自社海域での漁獲から、製品を絶対的な鮮度で国際市場へ届けるグローバル物流までを一貫して担っています。",
+                                          "title":  "私たちの歩み",
+                                          "p2":  "当社は自社船団で操業し、マル・デル・プラタとトレレウの自社工場で最高水準の衛生基準のもと加工しています。当社のブランドと産業は、生産サイクル全体を通じた完全なトレーサビリティの代名詞です。最も厳しい市場が求める真摯さと責任をもって、沿岸の豊かさを世界へ輸出しています。",
+                                          "subtitle":  "アルゼンチン海の本質",
+                                          "p3":  "世界市場で広く知られるアルゼンチンの企業が、その生産の責任を当社に委ねています。当社にはこの分野での豊富な経験があるからです！"
+                                      }
+                      },
+    "informacion":  {
+                        "herramientas":  {
+                                             "3":  {
+                                                       "descripcion":  "連邦漁業評議会の決議。アルゼンチン漁業部門の最新規則。",
+                                                       "titulo":  "CFP決議"
+                                                   },
+                                             "4":  {
+                                                       "descripcion":  "連邦漁業評議会の会議議事録。同機関の決定と審議。",
+                                                       "titulo":  "CFP議事録"
+                                                   },
+                                             "2":  {
+                                                       "descripcion":  "魚種・船団・港別の公式な水揚げ統計。漁業局が更新。",
+                                                       "titulo":  "水揚げ"
+                                                   },
+                                             "1":  {
+                                                       "descripcion":  "MAGyP公式のインタラクティブマップ。アルゼンチンEEZ内で報告する漁船の位置。",
+                                                       "titulo":  "衛星モニタリング"
+                                                   },
+                                             "0":  {
+                                                       "descripcion":  "マル・デル・プラタ港への入港予定の日次情報。海軍警備隊が更新。",
+                                                       "titulo":  "港への船舶入港"
+                                                   },
+                                             "5":  {
+                                                       "descripcion":  "連邦漁業評議会の最新ニュースとお知らせ。",
+                                                       "titulo":  "CFPニュース"
+                                                   }
+                                         },
+                        "sectionNoticias":  "業界ニュース",
+                        "title":  "水産業界情報",
+                        "sectionFromPatagonia":  "From Patagonia Seafood",
+                        "subtitle":  "アルゼンチンおよび国際的な水産業のニュースと分析"
+                    },
+    "contacto":  {
+                     "direct":  {
+                                    "email":  "gdc1971@hotmail.com",
+                                    "title":  "直接連絡先",
+                                    "phone":  "+54 223 555-0123",
+                                    "address":  "マル・デル・プラタ、ブエノスアイレス、アルゼンチン"
+                                },
+                     "subtitle":  "カスタマイズされたお見積りをご依頼ください。内部監査データは自動的に取得されます。",
+                     "form":  {
+                                  "submitting":  "送信中...",
+                                  "success":  "メッセージを送信しました。営業チームより折り返しご連絡いたします。",
+                                  "mensaje":  "メッセージ *",
+                                  "submit":  "見積もりを依頼",
+                                  "telefono":  "電話番号 *",
+                                  "cargo":  "役職",
+                                  "subtitle":  "フォームにご記入ください。営業チームより折り返しご連絡いたします。",
+                                  "title":  "見積もりの依頼",
+                                  "error":  "送信エラー。もう一度お試しいただくか、直接お問い合わせください。",
+                                  "disclaimer":  "このフォームを送信すると、内部監査のためにIPアドレス、日時、おおよその位置情報を取得することに同意したものとみなされます。データはFormspreeを通じてgdc1971@hotmail.comに直接送信されます。",
+                                  "placeholder":  "お問い合わせ内容、ご希望の魚種、推定数量、仕向け市場をご記入ください...",
+                                  "empresa":  "会社名 *",
+                                  "email":  "メール *",
+                                  "nombre":  "氏名 *",
+                                  "fields":  {
+                                                 "empresa":  "会社名 *",
+                                                 "mensaje":  "メッセージ *",
+                                                 "cargo":  "役職",
+                                                 "nombre":  "氏名 *",
+                                                 "telefono":  "電話番号 *",
+                                                 "email":  "メール *"
+                                             }
+                              },
+                     "title":  "お問い合わせと監査"
+                 },
+    "comercial":  {
+                      "statPaises":  "国",
+                      "legend":  {
+                                     "mercados":  "13の輸出先市場",
+                                     "plantas":  "加工工場（2）",
+                                     "origen":  "原産地：マル・デル・プラタ",
+                                     "rutas":  "13のアニメーション貿易ルート",
+                                     "puertos":  "稼働港（7）",
+                                     "hover":  "各港の詳細はカーソルを合わせてください",
+                                     "barco":  "航行中のコンテナ船"
+                                 },
+                      "statContinentes":  "大陸",
+                      "subtitle":  "当社のグローバル物流ネットワークはパタゴニアと世界の主要市場をつなぎます。",
+                      "statMercados":  "市場",
+                      "sectionTitle":  "グローバル商業ネットワーク",
+                      "mapTitle":  "輸出マップ",
+                      "sectionSubtitle":  "世界で最も厳しい市場とつながるパタゴニア",
+                      "mapSubtitle":  "パタゴニアから世界への商業ネットワーク",
+                      "title":  "商業部門",
+                      "tabs":  {
+                                   "mercados":  "🌍 世界の市場",
+                                   "puertos":  "🇦🇷 アルゼンチンの港"
+                               }
+                  },
+    "common":  {
+                   "scientificName":  "学名",
+                   "description":  "説明",
+                   "fullscreen":  "全画面",
+                   "loading":  "読み込み中...",
+                   "retry":  "再試行",
+                   "specifications":  "仕様",
+                   "play":  "再生",
+                   "next":  "次へ",
+                   "mute":  "ミュート",
+                   "certifications":  "認証",
+                   "close":  "閉じる",
+                   "unmute":  "音声オン",
+                   "error":  "エラー",
+                   "prev":  "前へ",
+                   "allRights":  "全著作権所有",
+                   "pause":  "一時停止",
+                   "packing":  "梱包",
+                   "gallery":  "完全なギャラリーを見る"
+               },
+    "retail":  {
+                   "gallery":  {
+                                   "subtitle":  "スーパー・ハイパーマーケット向けの最終パッケージ",
+                                   "title":  "リテール製品ギャラリー"
+                               },
+                   "text":  "リテールラインは現在、当社の一部です",
+                   "subtitle":  "店頭・フードサービス向けの製品。From Patagoniaの品質を備えた消費者向けパッケージ。",
+                   "title":  "リテールライン",
+                   "categories":  {
+                                      "porcionado":  "ヘイクフィレ（小分け）",
+                                      "formas":  "子ども向け・海の生き物型",
+                                      "filet":  "ヘイクフィレの衣揚げ",
+                                      "hamburguesas":  "ハンバーグ（ヘイク、チキン、ほうれん草、ハム、チーズ、スプリング）",
+                                      "bastones":  "スティック（ヘイク、チキン、ほうれん草、ハム、チーズ、スプリング）",
+                                      "anillas":  "イカリング（ナチュラル・衣付き）"
+                                  },
+                   "catalogoLink":  "製品カタログ"
+               }
 }
