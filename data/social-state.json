@@ -12,10 +12,23 @@
         "id": "18124977128315404",
         "at": "2026-10-21T21:05:41.521Z"
       }
+    },
+    "https://pescare.com.ar/buques-operando/": {
+      "title": "Buques Operando en ZEE Argentina",
+      "date": "2026-10-21",
+      "url": "https://pescare.com.ar/buques-operando/",
+      "facebook": {
+        "id": "1208224315713852_122128698567420852",
+        "at": "2026-10-23T12:27:34.773Z"
+      },
+      "instagram": {
+        "id": "18136606606635415",
+        "at": "2026-10-23T12:27:48.217Z"
+      }
     }
   },
-  "lastNewsPostDate": "2026-10-21T21:05:41.521Z",
+  "lastNewsPostDate": "2026-10-23T12:27:48.217Z",
   "lastProductPostDate": "2026-10-22T22:59:55.841Z",
   "lastProductKey": "variado",
-  "updatedAt": "2026-10-22T22:59:55.902Z"
+  "updatedAt": "2026-10-23T12:27:48.217Z"
 }
