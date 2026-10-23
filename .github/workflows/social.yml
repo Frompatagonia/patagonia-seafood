@@ -1,0 +1,61 @@
+name: Social Publisher
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Qué publicar'
+        required: true
+        default: auto
+        type: choice
+        options:
+          - auto
+          - news
+          - product
+          - test
+      force:
+        description: 'Forzar publicación'
+        required: false
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+
+concurrency:
+  group: social-publisher
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Publicar
+        run: node scripts/social-publish.cjs --${{ github.event.inputs.mode || 'auto' }} ${{ github.event.inputs.force == 'true' && '--force' || '' }}
+        env:
+          META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
+          META_TOKEN: ${{ secrets.META_TOKEN }}
+          PAGE_ID: '1208224315713852'
+          IG_ID: '17841422750623274'
+          SITE_URL: 'https://frompatagonia.github.io/patagonia-seafood/'
+          NEWS_MIN_INTERVAL_HOURS: '8'
+
+      - name: Guardar estado
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/social-state.json
+          git diff --staged --quiet || git commit -m "chore: update social state"
+          BRANCH="${GITHUB_REF_NAME:-main}"
+          git pull --rebase origin "$BRANCH"
+          git push origin "HEAD:$BRANCH"

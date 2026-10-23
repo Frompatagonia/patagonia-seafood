@@ -1,127 +1,55 @@
 {
-  "schema_version": 1,
-  "updated_at": "2026-10-22T20:06:49.319Z",
-  "last_checked": "2026-10-22",
+  "schema_version": 2,
+  "updated_at": "2026-10-23T16:47:23.560Z",
+  "last_checked": "2026-10-23",
+  "window_days": 60,
   "title": "Informe Global de Precios",
-  "subtitle": "Merluza Hubbsi, langostino Pleoticus muelleri y calamar Illex en ocho plazas mayoristas del mundo.",
-  "coverage_note": "Sólo se publica una cotización cuando la plaza informa la presentación comercial exacta. Las referencias genéricas se muestran aparte y no se suman a la cobertura.",
+  "subtitle": "Merluza Hubbsi, langostino Pleoticus muelleri y calamar Illex. Referencias mayoristas trazables y conversión ECB; sin mezclar presentaciones no homologadas.",
+  "coverage_note": "Las filas son referencias de mercado de la especie. No se presentan como cotización exacta si la fuente no publica la presentación comercial completa. No se usan sustitutos para completar la tabla.",
+  "methodology": [
+    "Promedio simple de las cotizaciones publicadas en los últimos 60 días para cada plaza y producto.",
+    "La fecha de la fila es la última cotización disponible dentro de esa ventana.",
+    "Conversión a USD con el tipo de cambio de referencia del BCE; no se aplican márgenes, fletes ni impuestos.",
+    "El minorista sólo se publica cuando existe una presentación homóloga. Si no existe, queda sin dato.",
+    "Las referencias de especie no se suman a una cobertura de presentaciones exactas."
+  ],
   "legend": {
-    "wholesale": "MAYORISTA NACIONALIZADO",
-    "retail": "MINORISTA",
-    "price_note": "Precios nacionalizados sin IVA · Min-Max-Prom · por kg"
+    "wholesale": "Mayorista en moneda de origen y USD",
+    "retail": "Minorista homólogo, cuando existe",
+    "match": "Referencia de especie"
   },
   "products": [
     {
-      "id": "merluza_filete_120_170",
+      "id": "merluza_filete",
       "group": "Merluza",
-      "species": "Merluza Hubbsi",
-      "label": "Filete S/P S/E IQF 120/170",
-      "short": "Filete IQF 120/170",
-      "detail": "Sin piel, sin espinas, congelado IQF"
+      "species": "Merluccius hubbsi",
+      "label": "Filete sin piel, interfoliado, congelado 60-200 g",
+      "short": "Filete 60-200 g",
+      "detail": "Filete sin piel, interfoliado, congelado, calibre 60-200 g."
     },
     {
-      "id": "merluza_filete_170_220",
-      "group": "Merluza",
-      "species": "Merluza Hubbsi",
-      "label": "Filete S/P S/E IQF 170/220",
-      "short": "Filete IQF 170/220",
-      "detail": "Sin piel, sin espinas, congelado IQF"
-    },
-    {
-      "id": "merluza_block_6_5_7",
-      "group": "Merluza",
-      "species": "Merluza Hubbsi",
-      "label": "Block 6,5/7 kg",
-      "short": "Block 6,5/7 kg",
-      "detail": "Bloque congelado de 6,5 a 7 kg"
-    },
-    {
-      "id": "merluza_hgt_200_300",
-      "group": "Merluza",
-      "species": "Merluza Hubbsi",
-      "label": "HGT 200/300",
-      "short": "HGT 200/300",
-      "detail": "Descabezado y eviscerado, calibre 200/300"
-    },
-    {
-      "id": "merluza_hgt_300_500",
-      "group": "Merluza",
-      "species": "Merluza Hubbsi",
-      "label": "HGT 300/500",
-      "short": "HGT 300/500",
-      "detail": "Descabezado y eviscerado, calibre 300/500"
-    },
-    {
-      "id": "langostino_entero_fas_l1_10_20",
-      "group": "Langostino",
-      "species": "Langostino Pleoticus muelleri",
-      "label": "Entero FAS L1 10/20",
-      "short": "Entero FAS L1",
-      "detail": "Entero, congelado a bordo, calibre L1 10/20"
-    },
-    {
-      "id": "langostino_entero_fal_l1_10_20",
-      "group": "Langostino",
-      "species": "Langostino Pleoticus muelleri",
-      "label": "Entero FAL L1 10/20",
-      "short": "Entero FAL L1",
-      "detail": "Entero, congelado a bordo en tierra, calibre L1 10/20"
-    },
-    {
-      "id": "langostino_pud",
-      "group": "Langostino",
-      "species": "Langostino Pleoticus muelleri",
-      "label": "PUD",
-      "short": "PUD",
-      "detail": "Pelado y desvenado"
-    },
-    {
-      "id": "langostino_pyd",
-      "group": "Langostino",
-      "species": "Langostino Pleoticus muelleri",
-      "label": "P&D",
-      "short": "P&D",
-      "detail": "Pelado y desvenado, presentación comercial P&D"
-    },
-    {
-      "id": "langostino_carne_quebrada",
-      "group": "Langostino",
-      "species": "Langostino Pleoticus muelleri",
-      "label": "Carne quebrada",
-      "short": "Carne quebrada",
-      "detail": "Carne de langostino quebrada"
-    },
-    {
-      "id": "calamar_entero_fas_200_300",
+      "id": "calamar_entero",
       "group": "Calamar",
-      "species": "Calamar Illex",
-      "label": "Entero FAS 200/300",
-      "short": "Entero FAS 200/300",
-      "detail": "Entero, congelado a bordo, calibre 200/300"
+      "species": "Illex argentinus",
+      "label": "Calamar entero, sin gramaje",
+      "short": "Calamar entero",
+      "detail": "Calamar entero congelado, sin calibre comercial declarado."
     },
     {
-      "id": "calamar_tubo_vaina",
-      "group": "Calamar",
-      "species": "Calamar Illex",
-      "label": "Tubo / vaina",
-      "short": "Tubo / vaina",
-      "detail": "Tubo o vaina de calamar"
+      "id": "langostino_entero",
+      "group": "Langostino",
+      "species": "Pleoticus muelleri",
+      "label": "Langostino entero L1 10/20",
+      "short": "Entero L1 10/20",
+      "detail": "Langostino entero congelado, calibre L1 10/20."
     },
     {
-      "id": "calamar_anillas",
-      "group": "Calamar",
-      "species": "Calamar Illex",
-      "label": "Anillas",
-      "short": "Anillas",
-      "detail": "Anillas de tubo de calamar"
-    },
-    {
-      "id": "calamar_tentaculos",
-      "group": "Calamar",
-      "species": "Calamar Illex",
-      "label": "Tentáculos",
-      "short": "Tentáculos",
-      "detail": "Tentáculos de calamar"
+      "id": "langostino_cola",
+      "group": "Langostino",
+      "species": "Pleoticus muelleri",
+      "label": "Cola sin cabeza, NO PUD",
+      "short": "Cola sin cabeza",
+      "detail": "Cola sin cabeza congelada. No se acepta PUD como equivalente."
     }
   ],
   "markets": [
@@ -132,11 +60,10 @@
       "country": "España",
       "region": "Europa",
       "currency": "EUR",
-      "source_name": "Mercamadrid · Datos Abiertos Madrid",
-      "source_url": "https://datos.madrid.es/dataset/300357-0-mercamadrid-volumen-precio",
-      "source_date": "2026-09-30",
-      "source_status": "Datos abiertos trimestrales",
-      "price_publication": "Agregada"
+      "source_name": "Mercasa vía Observatorio de Precios",
+      "source_url": "https://observatorioprecios.es/mercados-alimentos-pescado-congelado/merluza",
+      "source_status": "Serie semanal",
+      "price_publication": "Mayorista"
     },
     {
       "id": "mercabarna",
@@ -145,24 +72,22 @@
       "country": "España",
       "region": "Europa",
       "currency": "EUR",
-      "source_name": "Mercabarna · Estadísticas diarias",
-      "source_url": "https://www.mercabarna.es/serveis/es_estadistiques-diaries/",
-      "source_date": null,
-      "source_status": "Estadísticas diarias",
-      "price_publication": "Previa consulta"
+      "source_name": "Mercasa vía Observatorio de Precios",
+      "source_url": "https://observatorioprecios.es/mercados-alimentos-pescado-congelado/merluza",
+      "source_status": "Serie semanal",
+      "price_publication": "Mayorista"
     },
     {
-      "id": "mercavalencia",
-      "name": "Mercavalencia",
-      "city": "Valencia",
+      "id": "mercasevilla",
+      "name": "Mercasevilla",
+      "city": "Sevilla",
       "country": "España",
       "region": "Europa",
       "currency": "EUR",
-      "source_name": "Mercavalencia · Mercado del pescado",
-      "source_url": "https://www.mercavalencia.es/es/sectores-actividad/pescados-y-mariscos/",
-      "source_date": null,
-      "source_status": "Acceso profesional",
-      "price_publication": "No pública"
+      "source_name": "Mercasa vía Observatorio de Precios",
+      "source_url": "https://observatorioprecios.es/mercados-alimentos-pescado-congelado/merluza",
+      "source_status": "Serie semanal",
+      "price_publication": "Mayorista"
     },
     {
       "id": "rungis",
@@ -171,24 +96,10 @@
       "country": "Francia",
       "region": "Europa",
       "currency": "EUR",
-      "source_name": "RNM · FranceAgriMer · MIN de Rungis",
+      "source_name": "FranceAgriMer · RNM · MIN de Rungis",
       "source_url": "https://rnm.franceagrimer.fr/prix?M0121%3AMARCHE",
-      "source_date": "2026-10-22",
       "source_status": "Mercuriale diaria",
       "price_publication": "Mayorista"
-    },
-    {
-      "id": "billingsgate",
-      "name": "Billingsgate",
-      "city": "Londres",
-      "country": "Reino Unido",
-      "region": "Europa",
-      "currency": "GBP",
-      "source_name": "City of London · Billingsgate Market",
-      "source_url": "https://www.cityoflondon.gov.uk/supporting-businesses/wholesale-markets/billingsgate-market",
-      "source_date": null,
-      "source_status": "Sin lista oficial",
-      "price_publication": "No pública"
     },
     {
       "id": "ceagesp",
@@ -197,10 +108,21 @@
       "country": "Brasil",
       "region": "América del Sur",
       "currency": "BRL",
-      "source_name": "CEAGESP · Cotações",
+      "source_name": "CEAGESP · Cotaciones",
       "source_url": "https://ceagesp.gov.br/cotacoes/",
-      "source_date": null,
-      "source_status": "Consulta interactiva",
+      "source_status": "Sin dato homólogo automatizado",
+      "price_publication": "Mayorista"
+    },
+    {
+      "id": "sogemi",
+      "name": "SOGEMI",
+      "city": "Milán",
+      "country": "Italia",
+      "region": "Europa",
+      "currency": "EUR",
+      "source_name": "SOGEMI · Bollettini prezzi",
+      "source_url": "https://sogemispa.it/bollettini-report-prezzi/",
+      "source_status": "Sin dato homólogo automatizado",
       "price_publication": "Mayorista"
     },
     {
@@ -212,267 +134,466 @@
       "currency": "JPY",
       "source_name": "Mercado Mayorista de Tokio · Toyosu",
       "source_url": "https://www.shijou.metro.tokyo.lg.jp/",
-      "source_date": null,
-      "source_status": "Mercado mayorista",
+      "source_status": "Sin dato homólogo automatizado",
       "price_publication": "Subasta"
     },
     {
-      "id": "fulton",
-      "name": "Fulton",
-      "city": "Nueva York",
-      "country": "Estados Unidos",
-      "region": "Norteamérica",
-      "currency": "USD",
-      "source_name": "Fulton Fish Market",
-      "source_url": "https://fultonfishmarket.com/",
-      "source_date": null,
-      "source_status": "Sitio oficial",
-      "price_publication": "No pública"
+      "id": "jingshen",
+      "name": "Jingshen / Tridge",
+      "city": "Shanghái",
+      "country": "China",
+      "region": "Asia",
+      "currency": "CNY",
+      "source_name": "Tridge · referencia China",
+      "source_url": "https://www.tridge.com/market-overview/frozen-argentine-shortfin-squid/CN",
+      "source_status": "Sin dato homólogo automatizado",
+      "price_publication": "Referencia"
     }
   ],
-  "quotes": [],
-  "benchmarks": [
+  "exchange": {
+    "date": "2026-10-23",
+    "source": "Banco Central Europeo",
+    "source_url": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml",
+    "base": "EUR",
+    "rates": {
+      "USD": 1.1193,
+      "BRL": 5.6485,
+      "JPY": 175.51,
+      "CNY": 7.466
+    }
+  },
+  "quotes": [
     {
-      "id": "mercamadrid-merluza",
+      "id": "mercamadrid-merluza_filete",
       "market_id": "mercamadrid",
-      "species": "Merluza",
-      "description": "Merluza fresca, categoría agregada del mercado",
-      "avg": 8.9,
-      "min": null,
-      "max": null,
+      "product_id": "merluza_filete",
+      "match": "reference",
+      "source_id": "observatorio-merluza_filete",
+      "source_name": "Mercasa vía Observatorio de Precios",
+      "source_url": "https://observatorioprecios.es/mercados-alimentos-pescado-congelado/merluza",
+      "source_type": "auto",
+      "checked_at": "2026-10-23",
+      "date": "2026-10-23",
+      "period_start": "2026-08-24",
+      "period_end": "2026-10-23",
+      "samples": 18,
       "currency": "EUR",
       "unit": "kg",
-      "date": "2026-10-20",
-      "source_name": "Mercasa · Mercamadrid",
-      "source_url": "https://www.mercasa.es/precios-y-mercados-mayoristas/"
+      "wholesale": {
+        "avg": 6.9,
+        "min": 6.9,
+        "max": 6.9,
+        "currency": "EUR",
+        "unit": "kg",
+        "note": "Merluza congelada agregada. La fuente no informa filete interfoliado ni calibre 60-200 g.",
+        "usd": {
+          "avg": 7.72,
+          "min": 7.72,
+          "max": 7.72
+        }
+      },
+      "retail": null
     },
     {
-      "id": "mercamadrid-calamar",
+      "id": "mercabarna-merluza_filete",
+      "market_id": "mercabarna",
+      "product_id": "merluza_filete",
+      "match": "reference",
+      "source_id": "observatorio-merluza_filete",
+      "source_name": "Mercasa vía Observatorio de Precios",
+      "source_url": "https://observatorioprecios.es/mercados-alimentos-pescado-congelado/merluza",
+      "source_type": "auto",
+      "checked_at": "2026-10-23",
+      "date": "2026-10-23",
+      "period_start": "2026-08-24",
+      "period_end": "2026-10-23",
+      "samples": 18,
+      "currency": "EUR",
+      "unit": "kg",
+      "wholesale": {
+        "avg": 6.53,
+        "min": 5.5,
+        "max": 7.5,
+        "currency": "EUR",
+        "unit": "kg",
+        "note": "Merluza congelada agregada. La fuente no informa filete interfoliado ni calibre 60-200 g.",
+        "usd": {
+          "avg": 7.31,
+          "min": 6.16,
+          "max": 8.39
+        }
+      },
+      "retail": null
+    },
+    {
+      "id": "mercasevilla-merluza_filete",
+      "market_id": "mercasevilla",
+      "product_id": "merluza_filete",
+      "match": "reference",
+      "source_id": "observatorio-merluza_filete",
+      "source_name": "Mercasa vía Observatorio de Precios",
+      "source_url": "https://observatorioprecios.es/mercados-alimentos-pescado-congelado/merluza",
+      "source_type": "auto",
+      "checked_at": "2026-10-23",
+      "date": "2026-10-23",
+      "period_start": "2026-08-24",
+      "period_end": "2026-10-23",
+      "samples": 17,
+      "currency": "EUR",
+      "unit": "kg",
+      "wholesale": {
+        "avg": 6.54,
+        "min": 5,
+        "max": 13.5,
+        "currency": "EUR",
+        "unit": "kg",
+        "note": "Merluza congelada agregada. La fuente no informa filete interfoliado ni calibre 60-200 g.",
+        "usd": {
+          "avg": 7.32,
+          "min": 5.6,
+          "max": 15.11
+        }
+      },
+      "retail": null
+    },
+    {
+      "id": "rungis-merluza_filete",
+      "market_id": "rungis",
+      "product_id": "merluza_filete",
+      "match": "reference",
+      "source_id": "rungis",
+      "source_name": "FranceAgriMer · RNM · MIN de Rungis",
+      "source_url": "https://rnm.franceagrimer.fr/prix?M0121%3AMARCHE",
+      "source_type": "auto",
+      "checked_at": "2026-10-23",
+      "date": "2026-10-23",
+      "period_start": "2026-08-24",
+      "period_end": "2026-10-23",
+      "samples": 43,
+      "currency": "EUR",
+      "unit": "kg",
+      "wholesale": {
+        "avg": 6.93,
+        "min": 6.5,
+        "max": 7.9,
+        "currency": "EUR",
+        "unit": "kg",
+        "note": "Merluza entera fresca de 1-2 kg. No es filete interfoliado.",
+        "usd": {
+          "avg": 7.76,
+          "min": 7.28,
+          "max": 8.84
+        }
+      },
+      "retail": null
+    },
+    {
+      "id": "mercamadrid-calamar_entero",
       "market_id": "mercamadrid",
-      "species": "Calamar",
-      "description": "Calamar congelado, categoría agregada del mercado",
-      "avg": 6.25,
-      "min": null,
-      "max": null,
+      "product_id": "calamar_entero",
+      "match": "reference",
+      "source_id": "observatorio-calamar_entero",
+      "source_name": "Mercasa vía Observatorio de Precios",
+      "source_url": "https://observatorioprecios.es/mercados-alimentos-pescado-congelado/calamar",
+      "source_type": "auto",
+      "checked_at": "2026-10-23",
+      "date": "2026-10-23",
+      "period_start": "2026-08-24",
+      "period_end": "2026-10-23",
+      "samples": 18,
       "currency": "EUR",
       "unit": "kg",
-      "date": "2026-10-20",
-      "source_name": "Mercasa · Mercamadrid",
-      "source_url": "https://www.mercasa.es/precios-y-mercados-mayoristas/"
+      "wholesale": {
+        "avg": 6.25,
+        "min": 6,
+        "max": 6.75,
+        "currency": "EUR",
+        "unit": "kg",
+        "note": "Calamar congelado agregado. La fuente no confirma especie Illex ni gramaje.",
+        "usd": {
+          "avg": 7,
+          "min": 6.72,
+          "max": 7.56
+        }
+      },
+      "retail": null
     },
     {
-      "id": "mercamadrid-langostino",
+      "id": "mercabarna-calamar_entero",
+      "market_id": "mercabarna",
+      "product_id": "calamar_entero",
+      "match": "reference",
+      "source_id": "observatorio-calamar_entero",
+      "source_name": "Mercasa vía Observatorio de Precios",
+      "source_url": "https://observatorioprecios.es/mercados-alimentos-pescado-congelado/calamar",
+      "source_type": "auto",
+      "checked_at": "2026-10-23",
+      "date": "2026-10-23",
+      "period_start": "2026-08-24",
+      "period_end": "2026-10-23",
+      "samples": 18,
+      "currency": "EUR",
+      "unit": "kg",
+      "wholesale": {
+        "avg": 6.39,
+        "min": 6.25,
+        "max": 6.5,
+        "currency": "EUR",
+        "unit": "kg",
+        "note": "Calamar congelado agregado. La fuente no confirma especie Illex ni gramaje.",
+        "usd": {
+          "avg": 7.15,
+          "min": 7,
+          "max": 7.28
+        }
+      },
+      "retail": null
+    },
+    {
+      "id": "mercasevilla-calamar_entero",
+      "market_id": "mercasevilla",
+      "product_id": "calamar_entero",
+      "match": "reference",
+      "source_id": "observatorio-calamar_entero",
+      "source_name": "Mercasa vía Observatorio de Precios",
+      "source_url": "https://observatorioprecios.es/mercados-alimentos-pescado-congelado/calamar",
+      "source_type": "auto",
+      "checked_at": "2026-10-23",
+      "date": "2026-10-23",
+      "period_start": "2026-08-24",
+      "period_end": "2026-10-23",
+      "samples": 7,
+      "currency": "EUR",
+      "unit": "kg",
+      "wholesale": {
+        "avg": 14.84,
+        "min": 14.5,
+        "max": 15,
+        "currency": "EUR",
+        "unit": "kg",
+        "note": "Calamar congelado agregado. La fuente no confirma especie Illex ni gramaje.",
+        "usd": {
+          "avg": 16.61,
+          "min": 16.23,
+          "max": 16.79
+        }
+      },
+      "retail": null
+    },
+    {
+      "id": "rungis-calamar_entero",
+      "market_id": "rungis",
+      "product_id": "calamar_entero",
+      "match": "reference",
+      "source_id": "rungis",
+      "source_name": "FranceAgriMer · RNM · MIN de Rungis",
+      "source_url": "https://rnm.franceagrimer.fr/prix?M0121%3AMARCHE",
+      "source_type": "auto",
+      "checked_at": "2026-10-23",
+      "date": "2026-10-23",
+      "period_start": "2026-08-24",
+      "period_end": "2026-10-23",
+      "samples": 43,
+      "currency": "EUR",
+      "unit": "kg",
+      "wholesale": {
+        "avg": 20.9,
+        "min": 19,
+        "max": 23,
+        "currency": "EUR",
+        "unit": "kg",
+        "note": "Calamar entero fresco. La fuente no confirma especie Illex.",
+        "usd": {
+          "avg": 23.39,
+          "min": 21.27,
+          "max": 25.74
+        }
+      },
+      "retail": null
+    },
+    {
+      "id": "mercamadrid-langostino_entero",
       "market_id": "mercamadrid",
-      "species": "Langostino",
-      "description": "Langostino congelado, categoría agregada del mercado",
-      "avg": 28,
-      "min": null,
-      "max": null,
+      "product_id": "langostino_entero",
+      "match": "reference",
+      "source_id": "observatorio-langostino_entero",
+      "source_name": "Mercasa vía Observatorio de Precios",
+      "source_url": "https://observatorioprecios.es/mercados-alimentos-pescado-congelado/langostino",
+      "source_type": "auto",
+      "checked_at": "2026-10-23",
+      "date": "2026-10-23",
+      "period_start": "2026-08-24",
+      "period_end": "2026-10-23",
+      "samples": 16,
       "currency": "EUR",
       "unit": "kg",
-      "date": "2026-10-20",
-      "source_name": "Mercasa · Mercamadrid",
-      "source_url": "https://www.mercasa.es/precios-y-mercados-mayoristas/"
+      "wholesale": {
+        "avg": 28,
+        "min": 28,
+        "max": 28,
+        "currency": "EUR",
+        "unit": "kg",
+        "note": "Langostino congelado agregado. La fuente no confirma calibre L1 10/20.",
+        "usd": {
+          "avg": 31.34,
+          "min": 31.34,
+          "max": 31.34
+        }
+      },
+      "retail": null
     },
     {
-      "id": "mercabarna-merluza",
+      "id": "mercabarna-langostino_entero",
       "market_id": "mercabarna",
-      "species": "Merluza",
-      "description": "Merluza fresca, categoría agregada del mercado",
-      "avg": 10,
-      "min": null,
-      "max": null,
+      "product_id": "langostino_entero",
+      "match": "reference",
+      "source_id": "observatorio-langostino_entero",
+      "source_name": "Mercasa vía Observatorio de Precios",
+      "source_url": "https://observatorioprecios.es/mercados-alimentos-pescado-congelado/langostino",
+      "source_type": "auto",
+      "checked_at": "2026-10-23",
+      "date": "2026-10-23",
+      "period_start": "2026-08-24",
+      "period_end": "2026-10-23",
+      "samples": 18,
       "currency": "EUR",
       "unit": "kg",
-      "date": "2026-10-20",
-      "source_name": "Mercasa · Mercabarna",
-      "source_url": "https://www.mercasa.es/precios-y-mercados-mayoristas/"
+      "wholesale": {
+        "avg": 25.96,
+        "min": 25,
+        "max": 30,
+        "currency": "EUR",
+        "unit": "kg",
+        "note": "Langostino congelado agregado. La fuente no confirma calibre L1 10/20.",
+        "usd": {
+          "avg": 29.06,
+          "min": 27.98,
+          "max": 33.58
+        }
+      },
+      "retail": null
     },
     {
-      "id": "mercabarna-calamar",
-      "market_id": "mercabarna",
-      "species": "Calamar",
-      "description": "Calamar congelado, categoría agregada del mercado",
-      "avg": 6.4,
-      "min": null,
-      "max": null,
-      "currency": "EUR",
-      "unit": "kg",
-      "date": "2026-10-20",
-      "source_name": "Mercasa · Mercabarna",
-      "source_url": "https://www.mercasa.es/precios-y-mercados-mayoristas/"
-    },
-    {
-      "id": "mercabarna-langostino",
-      "market_id": "mercabarna",
-      "species": "Langostino",
-      "description": "Langostino congelado, categoría agregada del mercado",
-      "avg": 29,
-      "min": null,
-      "max": null,
-      "currency": "EUR",
-      "unit": "kg",
-      "date": "2026-10-20",
-      "source_name": "Mercasa · Mercabarna",
-      "source_url": "https://www.mercasa.es/precios-y-mercados-mayoristas/"
-    },
-    {
-      "id": "mercavalencia-merluza",
-      "market_id": "mercavalencia",
-      "species": "Merluza",
-      "description": "Merluza fresca, categoría agregada del mercado",
-      "avg": 12.5,
-      "min": null,
-      "max": null,
-      "currency": "EUR",
-      "unit": "kg",
-      "date": "2026-10-20",
-      "source_name": "Mercasa · Mercavalencia",
-      "source_url": "https://www.mercasa.es/precios-y-mercados-mayoristas/"
-    },
-    {
-      "id": "mercavalencia-calamar",
-      "market_id": "mercavalencia",
-      "species": "Calamar",
-      "description": "Calamar congelado, categoría agregada del mercado",
-      "avg": 6.9,
-      "min": null,
-      "max": null,
-      "currency": "EUR",
-      "unit": "kg",
-      "date": "2026-10-20",
-      "source_name": "Mercasa · Mercavalencia",
-      "source_url": "https://www.mercasa.es/precios-y-mercados-mayoristas/"
-    },
-    {
-      "id": "rungis-merlu-1-2",
+      "id": "rungis-langostino_entero",
       "market_id": "rungis",
-      "species": "Merluza",
-      "description": "Merlu entero 1-2 kg, origen Francia",
-      "avg": 8.4,
-      "min": 7.9,
-      "max": 8.9,
+      "product_id": "langostino_entero",
+      "match": "reference",
+      "source_id": "rungis",
+      "source_name": "FranceAgriMer · RNM · MIN de Rungis",
+      "source_url": "https://rnm.franceagrimer.fr/prix?M0121%3AMARCHE",
+      "source_type": "auto",
+      "checked_at": "2026-10-23",
+      "date": "2026-10-23",
+      "period_start": "2026-08-24",
+      "period_end": "2026-10-23",
+      "samples": 43,
       "currency": "EUR",
       "unit": "kg",
-      "date": "2026-10-22",
-      "source_name": "RNM · FranceAgriMer · MIN de Rungis",
-      "source_url": "https://rnm.franceagrimer.fr/prix?M0121%3AMARCHE"
-    },
-    {
-      "id": "rungis-merlu-2-3",
-      "market_id": "rungis",
-      "species": "Merluza",
-      "description": "Merlu entero 2-3 kg, origen Francia",
-      "avg": 9.4,
-      "min": 8.9,
-      "max": 9.9,
-      "currency": "EUR",
-      "unit": "kg",
-      "date": "2026-10-22",
-      "source_name": "RNM · FranceAgriMer · MIN de Rungis",
-      "source_url": "https://rnm.franceagrimer.fr/prix?M0121%3AMARCHE"
-    },
-    {
-      "id": "rungis-langoustine",
-      "market_id": "rungis",
-      "species": "Langostino",
-      "description": "Langoustine fraîche rangée 5-16 piezas/kg, importación",
-      "avg": 25,
-      "min": 19,
-      "max": 32,
-      "currency": "EUR",
-      "unit": "kg",
-      "date": "2026-10-22",
-      "source_name": "RNM · FranceAgriMer · MIN de Rungis",
-      "source_url": "https://rnm.franceagrimer.fr/prix?M0121%3AMARCHE"
-    },
-    {
-      "id": "rungis-encornet",
-      "market_id": "rungis",
-      "species": "Calamar",
-      "description": "Encornet fresco entero mediano, Unión Europea",
-      "avg": 20.5,
-      "min": 19,
-      "max": 23,
-      "currency": "EUR",
-      "unit": "kg",
-      "date": "2026-10-22",
-      "source_name": "RNM · FranceAgriMer · MIN de Rungis",
-      "source_url": "https://rnm.franceagrimer.fr/prix?M0121%3AMARCHE"
+      "wholesale": {
+        "avg": 21.42,
+        "min": 18,
+        "max": 32,
+        "currency": "EUR",
+        "unit": "kg",
+        "note": "Langoustine (Nephrops norvegicus), no langostino Pleoticus muelleri.",
+        "usd": {
+          "avg": 23.98,
+          "min": 20.15,
+          "max": 35.82
+        }
+      },
+      "retail": null
     }
   ],
   "source_checks": [
     {
       "market_id": "mercamadrid",
-      "checked_at": "2026-10-22",
+      "checked_at": "2026-10-23",
       "status": 200,
       "ok": true,
-      "final_url": "https://datos.madrid.es/dataset/300357-0-mercamadrid-volumen-precio",
-      "elapsed_ms": 2929,
+      "final_url": "https://observatorioprecios.es/mercados-alimentos-pescado-congelado/merluza",
+      "elapsed_ms": 261,
       "error": null
     },
     {
       "market_id": "mercabarna",
-      "checked_at": "2026-10-22",
+      "checked_at": "2026-10-23",
       "status": 200,
       "ok": true,
-      "final_url": "https://www.mercabarna.es/serveis/es_estadistiques-diaries/",
-      "elapsed_ms": 1332,
+      "final_url": "https://observatorioprecios.es/mercados-alimentos-pescado-congelado/merluza",
+      "elapsed_ms": 721,
       "error": null
     },
     {
-      "market_id": "mercavalencia",
-      "checked_at": "2026-10-22",
+      "market_id": "mercasevilla",
+      "checked_at": "2026-10-23",
       "status": 200,
       "ok": true,
-      "final_url": "https://www.mercavalencia.es/es/sectores-actividad/pescados-y-mariscos/",
-      "elapsed_ms": 3480,
+      "final_url": "https://observatorioprecios.es/mercados-alimentos-pescado-congelado/merluza",
+      "elapsed_ms": 753,
       "error": null
     },
     {
       "market_id": "rungis",
-      "checked_at": "2026-10-22",
+      "checked_at": "2026-10-23",
       "status": 200,
       "ok": true,
       "final_url": "https://rnm.franceagrimer.fr/prix?M0121%3AMARCHE",
-      "elapsed_ms": 1482,
-      "error": null
-    },
-    {
-      "market_id": "billingsgate",
-      "checked_at": "2026-10-22",
-      "status": 200,
-      "ok": true,
-      "final_url": "https://www.cityoflondon.gov.uk/supporting-businesses/wholesale-markets/billingsgate-market",
-      "elapsed_ms": 1752,
+      "elapsed_ms": 386,
       "error": null
     },
     {
       "market_id": "ceagesp",
-      "checked_at": "2026-10-22",
+      "checked_at": "2026-10-23",
       "status": 200,
       "ok": true,
       "final_url": "https://ceagesp.gov.br/cotacoes/",
-      "elapsed_ms": 1353,
+      "elapsed_ms": 1239,
+      "error": null
+    },
+    {
+      "market_id": "sogemi",
+      "checked_at": "2026-10-23",
+      "status": 200,
+      "ok": true,
+      "final_url": "https://sogemispa.it/bollettini-report-prezzi",
+      "elapsed_ms": 4321,
       "error": null
     },
     {
       "market_id": "toyosu",
-      "checked_at": "2026-10-22",
+      "checked_at": "2026-10-23",
       "status": 200,
       "ok": true,
       "final_url": "https://www.shijou.metro.tokyo.lg.jp/",
-      "elapsed_ms": 2519,
+      "elapsed_ms": 1521,
       "error": null
     },
     {
-      "market_id": "fulton",
-      "checked_at": "2026-10-22",
+      "market_id": "jingshen",
+      "checked_at": "2026-10-23",
       "status": 200,
       "ok": true,
-      "final_url": "https://fultonfishmarket.com/",
-      "elapsed_ms": 1582,
+      "final_url": "https://www.tridge.com/market-overview/frozen-argentine-shortfin-squid/CN",
+      "elapsed_ms": 3097,
       "error": null
     }
+  ],
+  "summary": {
+    "quotes": 11,
+    "markets_with_data": 4,
+    "products_with_data": 3,
+    "retail_quotes": 0,
+    "exact_quotes": 0,
+    "reference_quotes": 11,
+    "stale_quotes": 0,
+    "sources_ok": 8,
+    "sources_total": 8
+  },
+  "notices": [
+    "Mercasevilla no publica langostino congelado en la serie consultada.",
+    "Ninguna fuente consultada publica cola sin cabeza homóloga; no se usa PUD como equivalente.",
+    "Rungis publica langoustine (Nephrops), no langostino Pleoticus muelleri; se muestra como referencia y se identifica en la nota.",
+    "No se publican precios minoristas sin presentación homóloga."
   ]
 }

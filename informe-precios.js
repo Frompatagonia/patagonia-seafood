@@ -3,14 +3,10 @@ const root = document.getElementById('informe-precios-frompatagonia');
 if (root) {
   const state = {
     data: null,
-    marketId: null,
-    group: 'Merluza',
-    focus: null,
+    productId: 'all',
   };
 
   const app = document.getElementById('ip-app');
-  const benchmarksHost = document.getElementById('ip-benchmarks-host');
-  const sourcesHost = document.getElementById('ip-sources-host');
   const coverageNodes = document.querySelectorAll('[data-ip-coverage]');
   const updatedNodes = document.querySelectorAll('[data-ip-updated]');
   const checkedNodes = document.querySelectorAll('[data-ip-checked]');
@@ -24,7 +20,7 @@ if (root) {
       "'": '&#039;',
     }[char]));
 
-  const money = (value, currency) => {
+  const formatMoney = (value, currency) => {
     const number = Number(value);
     if (!Number.isFinite(number)) return '';
     try {
@@ -35,7 +31,7 @@ if (root) {
         maximumFractionDigits: 2,
       }).format(number);
     } catch {
-      return `${escapeHtml(currency)} ${number.toFixed(2)}`;
+      return `${currency} ${number.toFixed(2)}`;
     }
   };
 
@@ -51,260 +47,232 @@ if (root) {
     }).format(date);
   };
 
-  const sideHasValue = (side) =>
-    Boolean(side) && [side.min, side.max, side.avg].some((value) => Number.isFinite(Number(value)) && value !== null);
-
-  const findQuote = (marketId, productId) =>
-    (state.data.quotes || []).find(
-      (quote) => quote.market_id === marketId && quote.product_id === productId,
-    ) || null;
-
-  const findBenchmarks = (marketId) =>
-    (state.data.benchmarks || []).filter((item) => item.market_id === marketId);
-
-  const getMarket = (marketId) =>
-    state.data.markets.find((market) => market.id === marketId) || state.data.markets[0];
-
-  const getProducts = () =>
-    state.data.products.filter(
-      (product) => state.group === 'Todos' || product.group === state.group,
-    );
-
-  const coverage = () => {
-    const total = state.data.markets.length * state.data.products.length * 2;
-    const filled = (state.data.quotes || []).reduce((sum, quote) => {
-      return sum + (sideHasValue(quote.wholesale) ? 1 : 0) + (sideHasValue(quote.retail) ? 1 : 0);
-    }, 0);
-    return { total, filled, percent: total ? Math.round((filled / total) * 100) : 0 };
+  const formatRange = (side) => {
+    if (!side) return '';
+    const currency = side.currency || 'EUR';
+    const avg = formatMoney(side.avg, currency);
+    const min = formatMoney(side.min, currency);
+    const max = formatMoney(side.max, currency);
+    return { avg, min, max };
   };
 
-  const renderPriceSide = (side, kind) => {
-    if (!sideHasValue(side)) {
-      return `
-        <div class="ip-price">
-          <span class="ip-missing">DATO NO DISPONIBLE HOY</span>
-          <small>Sin presentación homóloga publicada</small>
-        </div>`;
+  const getProduct = (id) => state.data.products.find((product) => product.id === id);
+  const getMarket = (id) => state.data.markets.find((market) => market.id === id);
+  const matchLabel = (match) => match === 'exact' ? 'Exacta' : match === 'equivalent' ? 'Equivalente' : 'Referencia';
+  const domain = (url) => {
+    try {
+      return new URL(url).hostname.replace(/^www\./, '');
+    } catch {
+      return 'Fuente';
     }
-
-    const currency = side.currency || getMarket(state.marketId).currency;
-    const min = side.min;
-    const max = side.max;
-    const avg = side.avg;
-    let main = '';
-    let secondary = '';
-
-    if (min !== null && min !== undefined && max !== null && max !== undefined) {
-      main = `${money(min, currency)} – ${money(max, currency)}`;
-      secondary = avg !== null && avg !== undefined
-        ? `Prom. ${money(avg, currency)}`
-        : 'Rango publicado';
-    } else if (avg !== null && avg !== undefined) {
-      main = `Prom. ${money(avg, currency)}`;
-      secondary = side.note || 'Precio promedio publicado';
-    } else if (min !== null && min !== undefined) {
-      main = `Mín. ${money(min, currency)}`;
-      secondary = side.note || 'Precio mínimo publicado';
-    } else {
-      main = `Máx. ${money(max, currency)}`;
-      secondary = side.note || 'Precio máximo publicado';
-    }
-
-    const matchLabel = side.match === 'exact'
-      ? 'Presentación exacta'
-      : side.match === 'equivalent'
-        ? 'Equivalente comercial'
-        : '';
-
-    return `
-      <div class="ip-price">
-        <strong>${main}</strong>
-        <small>${escapeHtml(secondary)}${matchLabel ? ` · ${escapeHtml(matchLabel)}` : ''}</small>
-      </div>`;
   };
 
-  const renderProduct = (product) => {
-    const quote = findQuote(state.marketId, product.id);
-    const wholesale = quote ? quote.wholesale : null;
-    const retail = quote ? quote.retail : null;
-
-    return `
-      <article class="ip-product">
-        <div class="ip-product-head">
-          <div>
-            <h4 class="ip-product-name">${escapeHtml(product.label)}</h4>
-            <p class="ip-product-detail">${escapeHtml(product.species)} · ${escapeHtml(product.detail)}</p>
-          </div>
-          <span class="ip-product-group">${escapeHtml(product.group)}</span>
-        </div>
-        <div class="ip-rows">
-          <div class="ip-row ip-row--wholesale">
-            <span class="ip-row-label">MAYORISTA NACIONALIZADO <span class="ip-match">sin IVA</span></span>
-            ${renderPriceSide(wholesale, 'wholesale')}
-          </div>
-          <div class="ip-row ip-row--retail">
-            <span class="ip-row-label">MINORISTA <span class="ip-match">sin IVA</span></span>
-            ${renderPriceSide(retail, 'retail')}
-          </div>
-        </div>
-      </article>`;
-  };
-
-  const renderMarketTabs = () => `
-    <div class="ip-markets" role="tablist" aria-label="Seleccionar plaza mayorista">
-      ${state.data.markets.map((market) => `
-        <button
-          type="button"
-          class="ip-market"
-          role="tab"
-          data-ip-market="${escapeHtml(market.id)}"
-          aria-selected="${market.id === state.marketId}"
-          aria-controls="ip-panel"
-          tabindex="${market.id === state.marketId ? '0' : '-1'}"
-        >
-          <span class="ip-market-name">${escapeHtml(market.name)}</span>
-          <span class="ip-market-city">${escapeHtml(market.city)}, ${escapeHtml(market.country)}</span>
-        </button>`).join('')}
+  const renderProductCell = (product, quote) => `
+    <div class="ip-product-cell">
+      <strong>${escapeHtml(product?.label || quote.product_id)}</strong>
+      <span>${escapeHtml(product?.species || '')}</span>
+      <span class="ip-match ip-match--${escapeHtml(quote.match || 'reference')}">${escapeHtml(matchLabel(quote.match))}</span>
     </div>`;
 
-  const renderGroupTabs = () => {
-    const groups = ['Merluza', 'Langostino', 'Calamar', 'Todos'];
+  const renderMarketCell = (market) => `
+    <div class="ip-market-cell">
+      <strong>${escapeHtml(market?.name || '')}</strong>
+      <span>${escapeHtml(market?.city || '')}</span>
+    </div>`;
+
+  const renderWholesale = (quote) => {
+    if (!quote.wholesale) return '<span class="ip-empty">Sin dato</span>';
+    const range = formatRange(quote.wholesale);
     return `
-      <div class="ip-tabs" role="tablist" aria-label="Filtrar por especie">
-        ${groups.map((group) => `
-          <button
-            type="button"
-            class="ip-tab"
-            role="tab"
-            data-ip-group="${group}"
-            aria-selected="${state.group === group}"
-            tabindex="${state.group === group ? '0' : '-1'}"
-          >${group === 'Todos' ? 'Todas las presentaciones' : group}</button>`).join('')}
+      <div class="ip-value">
+        <strong>${escapeHtml(range.avg)}</strong>
+        <span>${escapeHtml(quote.currency)} / kg</span>
+        <small>${escapeHtml(range.min)} - ${escapeHtml(range.max)} · ${escapeHtml(quote.samples)} datos</small>
       </div>`;
   };
 
-  const renderPanel = () => {
-    const market = getMarket(state.marketId);
-    const products = getProducts();
-    const marketCoverage = products.reduce((sum, product) => {
-      const quote = findQuote(market.id, product.id);
-      if (!quote) return sum;
-      return sum
-        + (sideHasValue(quote.wholesale) ? 1 : 0)
-        + (sideHasValue(quote.retail) ? 1 : 0);
-    }, 0);
-    const expected = products.length * 2;
-    const sourceDate = market.source_date ? `Datos al ${formatDate(market.source_date)}` : 'Fecha de datos no publicada';
-    const benchmarkCount = findBenchmarks(market.id).length;
-
+  const renderUsd = (side) => {
+    if (!side?.usd) return '<span class="ip-empty">Sin tipo ECB</span>';
     return `
-      <section class="ip-panel" id="ip-panel" role="tabpanel" aria-label="${escapeHtml(market.name)}">
-        <div class="ip-panel-head">
-          <div>
-            <h3 class="ip-panel-title">${escapeHtml(market.name)} <small>${escapeHtml(market.city)}, ${escapeHtml(market.country)}</small></h3>
-            <p class="ip-source-line">
-              <span class="ip-pill ${market.source_status.includes('diaria') ? 'ip-pill--live' : ''}">${escapeHtml(market.source_status)}</span>
-              <span>${escapeHtml(sourceDate)}</span>
-              <span>Moneda ${escapeHtml(market.currency)}</span>
-              <a href="${escapeHtml(market.source_url)}" target="_blank" rel="noopener noreferrer">Abrir fuente oficial</a>
-            </p>
-          </div>
-          <div class="ip-panel-actions">
-            <button type="button" class="ip-button ip-button--ghost" data-ip-print>Imprimir / PDF</button>
-            <a class="ip-button" href="#ip-fuentes">Ver fuentes</a>
-          </div>
-        </div>
-        <div class="ip-table-head" aria-hidden="true">
-          <span>Presentación comercial</span>
-          <span>Precio por kg</span>
-        </div>
-        <div>
-          ${products.map(renderProduct).join('')}
-        </div>
-        <div class="ip-panel-foot">
-          <p>${escapeHtml(state.data.coverage_note)}</p>
-          <span class="ip-coverage">${marketCoverage} de ${expected} filas con dato en esta vista</span>
-        </div>
-      </section>
-      ${benchmarkCount ? `<p class="ip-context-note">Esta plaza tiene ${benchmarkCount} referencia(s) oficial(es) de contexto en el bloque inferior. No se computan como cotización homóloga.</p>` : ''}`;
+      <div class="ip-value ip-value--usd">
+        <strong>${escapeHtml(formatMoney(side.usd.avg, 'USD'))}</strong>
+        <span>USD / kg</span>
+      </div>`;
   };
+
+  const renderRetail = (quote) => {
+    if (!quote.retail) {
+      return `
+        <div class="ip-empty-block">
+          <strong>Sin dato homólogo</strong>
+          <small>No se usa un sustituto</small>
+        </div>`;
+    }
+    const range = formatRange(quote.retail);
+    return `
+      <div class="ip-value">
+        <strong>${escapeHtml(range.avg)}</strong>
+        <span>${escapeHtml(quote.retail.currency)} / kg</span>
+      </div>`;
+  };
+
+  const renderRow = (quote) => {
+    const product = getProduct(quote.product_id);
+    const market = getMarket(quote.market_id);
+    return `
+      <tr>
+        <td data-label="País">
+          <div class="ip-country-cell">
+            <strong>${escapeHtml(market?.country || '')}</strong>
+            <span>${escapeHtml(market?.region || '')}</span>
+          </div>
+        </td>
+        <td data-label="Producto">${renderProductCell(product, quote)}</td>
+        <td data-label="Plaza">${renderMarketCell(market)}</td>
+        <td data-label="Mayorista origen">${renderWholesale(quote)}</td>
+        <td data-label="Mayorista USD">${renderUsd(quote.wholesale)}</td>
+        <td data-label="Minorista origen">${renderRetail(quote)}</td>
+        <td data-label="Minorista USD">${quote.retail ? renderUsd(quote.retail) : '<span class="ip-empty">Sin dato</span>'}</td>
+        <td data-label="Fuente">
+          <div class="ip-source-cell">
+            <a href="${escapeHtml(quote.source_url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(domain(quote.source_url))}</a>
+            <span>${escapeHtml(quote.source_name)}</span>
+            ${quote.stale ? '<span class="ip-stale">Último disponible</span>' : ''}
+          </div>
+        </td>
+        <td data-label="Fecha">
+          <div class="ip-date-cell">
+            <strong>${escapeHtml(formatDate(quote.date))}</strong>
+            <span>${escapeHtml(quote.period_start ? `Ventana desde ${formatDate(quote.period_start)}` : '')}</span>
+          </div>
+        </td>
+      </tr>`;
+  };
+
+  const renderFilters = () => `
+    <div class="ip-filters" role="tablist" aria-label="Filtrar por producto">
+      <button type="button" class="ip-filter${state.productId === 'all' ? ' is-active' : ''}" data-ip-product="all" role="tab" aria-selected="${state.productId === 'all'}">Todos</button>
+      ${state.data.products.map((product) => `
+        <button type="button" class="ip-filter${state.productId === product.id ? ' is-active' : ''}" data-ip-product="${escapeHtml(product.id)}" role="tab" aria-selected="${state.productId === product.id}">${escapeHtml(product.short)}</button>`).join('')}
+    </div>`;
+
+  const renderStats = () => {
+    const summary = state.data.summary || {};
+    return `
+      <div class="ip-stats">
+        <article>
+          <span>Referencias publicadas</span>
+          <strong>${escapeHtml(summary.quotes || 0)}</strong>
+          <small>${escapeHtml(summary.markets_with_data || 0)} plazas con dato</small>
+        </article>
+        <article>
+          <span>Ventana de cálculo</span>
+          <strong>${escapeHtml(state.data.window_days || 60)} días</strong>
+          <small>Promedio simple por plaza</small>
+        </article>
+        <article>
+          <span>Tipo de cambio</span>
+          <strong>${escapeHtml(formatDate(state.data.exchange?.date))}</strong>
+          <small>BCE · 1 EUR = ${escapeHtml(Number(state.data.exchange?.rates?.USD || 0).toFixed(4))} USD</small>
+        </article>
+        <article>
+          <span>Minorista homólogo</span>
+          <strong>${escapeHtml(summary.retail_quotes || 0)}</strong>
+          <small>Sin sustitutos de especie</small>
+        </article>
+      </div>`;
+  };
+
+  const renderTable = () => {
+    const quotes = state.data.quotes.filter((quote) => state.productId === 'all' || quote.product_id === state.productId);
+    if (!quotes.length) {
+      return `
+        <div class="ip-empty-state">
+          <strong>No hay una referencia automatizada para este filtro.</strong>
+          <p>No se completa con PUD, HGT, otro calibre ni otra especie. La plaza queda sin dato hasta que publique una presentación comparable.</p>
+        </div>`;
+    }
+    return `
+      <div class="ip-table-wrap">
+        <table class="ip-table">
+          <thead>
+            <tr>
+              <th scope="col">País</th>
+              <th scope="col">Producto</th>
+              <th scope="col">Plaza</th>
+              <th scope="col">Mayorista origen</th>
+              <th scope="col">Mayorista USD</th>
+              <th scope="col">Minorista origen</th>
+              <th scope="col">Minorista USD</th>
+              <th scope="col">Fuente</th>
+              <th scope="col">Fecha</th>
+            </tr>
+          </thead>
+          <tbody>${quotes.map(renderRow).join('')}</tbody>
+        </table>
+      </div>
+      <p class="ip-table-note">${escapeHtml(state.data.coverage_note)}</p>`;
+  };
+
+  const renderCoverage = () => `
+    <section class="ip-coverage" aria-labelledby="ip-coverage-title">
+      <div class="ip-section-head">
+        <div>
+          <span class="ip-kicker">Trazabilidad</span>
+          <h3 id="ip-coverage-title">Cobertura por plaza</h3>
+        </div>
+        <p>${escapeHtml(state.data.summary?.sources_ok || 0)} de ${escapeHtml(state.data.summary?.sources_total || 0)} fuentes respondieron en la última verificación.</p>
+      </div>
+      <div class="ip-market-grid">
+        ${state.data.markets.map((market) => {
+          const count = state.data.quotes.filter((quote) => quote.market_id === market.id).length;
+          const check = (state.data.source_checks || []).find((item) => item.market_id === market.id);
+          return `
+            <article class="ip-market-card${count ? ' is-active' : ''}">
+              <div class="ip-market-card-top">
+                <strong>${escapeHtml(market.name)}</strong>
+                <span class="ip-market-status ${check?.ok ? 'is-ok' : 'is-off'}">${check?.ok ? 'Fuente activa' : 'Sin respuesta'}</span>
+              </div>
+              <p>${escapeHtml(market.city)}, ${escapeHtml(market.country)}</p>
+              <p class="ip-market-coverage">${count ? `${count} referencia${count === 1 ? '' : 's'} publicada${count === 1 ? '' : 's'}` : 'Sin dato automatizado'}</p>
+              <a href="${escapeHtml(market.source_url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(market.source_name)}</a>
+            </article>`;
+        }).join('')}
+      </div>
+    </section>`;
+
+  const renderMethod = () => `
+    <details class="ip-method">
+      <summary>Metodología, límites y conversión</summary>
+      <div class="ip-method-body">
+        <ul>
+          ${(state.data.methodology || []).map((item) => `<li>${escapeHtml(item)}</li>`).join('')}
+        </ul>
+        <div class="ip-notices">
+          ${(state.data.notices || []).map((item) => `<p>${escapeHtml(item)}</p>`).join('')}
+        </div>
+        <p class="ip-method-source">Tipo de cambio: <a href="${escapeHtml(state.data.exchange?.source_url || '')}" target="_blank" rel="noopener noreferrer">${escapeHtml(state.data.exchange?.source || 'BCE')}</a> · ${escapeHtml(formatDate(state.data.exchange?.date))}. Monedas disponibles: EUR, USD, BRL, JPY y CNY.</p>
+      </div>
+    </details>`;
 
   const render = () => {
     app.innerHTML = `
       <div class="ip-toolbar">
-        ${renderGroupTabs()}
-        <p class="ip-toolbar-note">Seleccioná una plaza y una especie. Cada presentación muestra la fila mayorista nacionalizada y la fila minorista.</p>
-      </div>
-      ${renderMarketTabs()}
-      ${renderPanel()}`;
-
-    if (state.focus) {
-      const selector = state.focus.startsWith('market:')
-        ? `[data-ip-market="${state.focus.slice(7)}"]`
-        : `[data-ip-group="${state.focus.slice(6)}"]`;
-      const target = app.querySelector(selector);
-      if (target) target.focus();
-      state.focus = null;
-    }
-  };
-
-  const renderBenchmarks = () => {
-    const items = state.data.benchmarks || [];
-    benchmarksHost.innerHTML = `
-      <div class="ip-section-title">
-        <h3>Referencias oficiales de contexto</h3>
-        <p>Sirven para leer el nivel del mercado. No son cotizaciones de la presentación exacta.</p>
-      </div>
-      <details class="ip-benchmarks" open>
-        <summary>Ver ${items.length} referencias publicadas por fuentes oficiales</summary>
-        <div class="ip-benchmark-grid">
-          ${items.map((item) => {
-            const market = getMarket(item.market_id);
-            const avg = item.avg !== null && item.avg !== undefined
-              ? `${money(item.avg, item.currency)} <span class="ip-unit">/ ${escapeHtml(item.unit || 'kg')}</span>`
-              : 'Sin promedio';
-            const range = item.min !== null && item.max !== null && item.min !== undefined && item.max !== undefined
-              ? `Min ${money(item.min, item.currency)} · Max ${money(item.max, item.currency)}`
-              : 'Categoría agregada';
-            return `
-              <article class="ip-benchmark">
-                <div class="ip-benchmark-top">
-                  <span class="ip-benchmark-market">${escapeHtml(market.name)}</span>
-                  <span class="ip-benchmark-species">${escapeHtml(item.species)}</span>
-                </div>
-                <p class="ip-benchmark-value">${avg}</p>
-                <p class="ip-benchmark-desc">${escapeHtml(item.description)}</p>
-                <div class="ip-benchmark-meta">
-                  <span>${escapeHtml(formatDate(item.date))}</span>
-                  <span>${escapeHtml(range)}</span>
-                  <a href="${escapeHtml(item.source_url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(item.source_name)}</a>
-                </div>
-              </article>`;
-          }).join('')}
+        ${renderFilters()}
+        <div class="ip-toolbar-actions">
+          <span class="ip-toolbar-count">${escapeHtml(state.data.quotes.length)} filas trazables</span>
+          <button type="button" class="ip-button ip-button--ghost" data-ip-print>Imprimir / PDF</button>
         </div>
-      </details>`;
-  };
-
-  const renderSources = () => {
-    sourcesHost.innerHTML = `
-      <div class="ip-section-title" id="ip-fuentes">
-        <h3>Fuentes y cobertura</h3>
-        <p>Ocho plazas, una regla común: publicación exacta o dato no disponible.</p>
       </div>
-      <div class="ip-sources">
-        ${state.data.markets.map((market) => `
-          <article class="ip-source">
-            <p class="ip-source-name">${escapeHtml(market.name)}</p>
-            <p class="ip-source-meta">${escapeHtml(market.city)}, ${escapeHtml(market.country)} · ${escapeHtml(market.price_publication)}${market.source_date ? ` · ${escapeHtml(formatDate(market.source_date))}` : ''}</p>
-            <a href="${escapeHtml(market.source_url)}" target="_blank" rel="noopener noreferrer">Abrir fuente oficial</a>
-          </article>`).join('')}
-      </div>`;
+      ${renderStats()}
+      ${renderTable()}
+      ${renderCoverage()}
+      ${renderMethod()}`;
   };
 
   const setMeta = () => {
-    const statistics = coverage();
     coverageNodes.forEach((node) => {
-      node.textContent = `${statistics.filled} de ${statistics.total} precios homologados (${statistics.percent}%)`;
+      node.textContent = `${state.data.summary?.quotes || 0} referencias en ${state.data.summary?.markets_with_data || 0} plazas`;
     });
     updatedNodes.forEach((node) => {
       node.textContent = formatDate(state.data.last_checked || state.data.updated_at);
@@ -315,46 +283,22 @@ if (root) {
   };
 
   app.addEventListener('click', (event) => {
-    const marketButton = event.target.closest('[data-ip-market]');
-    if (marketButton) {
-      state.marketId = marketButton.dataset.ipMarket;
-      state.focus = `market:${state.marketId}`;
+    const filter = event.target.closest('[data-ip-product]');
+    if (filter) {
+      state.productId = filter.dataset.ipProduct;
       render();
       return;
     }
-
-    const groupButton = event.target.closest('[data-ip-group]');
-    if (groupButton) {
-      state.group = groupButton.dataset.ipGroup;
-      state.focus = `group:${state.group}`;
-      render();
-      return;
-    }
-
     if (event.target.closest('[data-ip-print]')) {
       window.print();
     }
-  });
-
-  app.addEventListener('keydown', (event) => {
-    if (!['ArrowLeft', 'ArrowRight', 'ArrowUp', 'ArrowDown'].includes(event.key)) return;
-    const current = event.target.closest('[role="tab"]');
-    if (!current) return;
-    const tabs = [...current.parentElement.querySelectorAll('[role="tab"]')];
-    const currentIndex = tabs.indexOf(current);
-    if (currentIndex === -1) return;
-    const direction = event.key === 'ArrowRight' || event.key === 'ArrowDown' ? 1 : -1;
-    const nextIndex = (currentIndex + direction + tabs.length) % tabs.length;
-    event.preventDefault();
-    tabs[nextIndex].focus();
-    tabs[nextIndex].click();
   });
 
   const fail = (message) => {
     app.innerHTML = `
       <div class="ip-error">
         <strong>No se pudo cargar el informe.</strong>
-        ${escapeHtml(message)}
+        <p>${escapeHtml(message)}</p>
       </div>`;
   };
 
@@ -367,14 +311,11 @@ if (root) {
     })
     .then((data) => {
       if (!data.markets?.length || !data.products?.length) {
-        throw new Error('El JSON no contiene plazas o presentaciones.');
+        throw new Error('El JSON no contiene plazas o productos.');
       }
       state.data = data;
-      state.marketId = data.markets[0].id;
       setMeta();
       render();
-      renderBenchmarks();
-      renderSources();
     })
     .catch((error) => {
       fail(error.message || 'Error desconocido.');

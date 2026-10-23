@@ -1,3 +1,15 @@
+.hero-cta .btn-primary {
+  background: #00AEEF;
+  border-color: #00AEEF;
+  color: #FFFFFF;
+}
+
+.hero-cta .btn-primary:hover {
+  background: #0096CC;
+  border-color: #0096CC;
+  color: #FFFFFF;
+}
+
 html,
 body {
   max-width: 100%;
