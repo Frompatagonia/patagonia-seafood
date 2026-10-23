@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-10-23T16:47:23.560Z",
+  "updated_at": "2026-10-23T20:07:48.842Z",
   "last_checked": "2026-10-23",
   "window_days": 60,
   "title": "Informe Global de Precios",
@@ -11,6 +11,7 @@
     "La fecha de la fila es la última cotización disponible dentro de esa ventana.",
     "Conversión a USD con el tipo de cambio de referencia del BCE; no se aplican márgenes, fletes ni impuestos.",
     "El minorista sólo se publica cuando existe una presentación homóloga. Si no existe, queda sin dato.",
+    "El minorista en origen no se publica porque no hay una fuente pública homóloga; no se estima ni se completa con retail de otro país o de otra presentación.",
     "Las referencias de especie no se suman a una cobertura de presentaciones exactas."
   ],
   "legend": {
@@ -47,9 +48,9 @@
       "id": "langostino_cola",
       "group": "Langostino",
       "species": "Pleoticus muelleri",
-      "label": "Cola sin cabeza, NO PUD",
-      "short": "Cola sin cabeza",
-      "detail": "Cola sin cabeza congelada. No se acepta PUD como equivalente."
+      "label": "Langostino sin cabeza (colas C1 / tails), NO PUD",
+      "short": "Sin cabeza C1 / tails",
+      "detail": "Langostino sin cabeza congelado, colas C1 (HLSO/tails), con cáscara; no se acepta PUD como equivalente."
     }
   ],
   "markets": [
@@ -512,7 +513,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://observatorioprecios.es/mercados-alimentos-pescado-congelado/merluza",
-      "elapsed_ms": 261,
+      "elapsed_ms": 265,
       "error": null
     },
     {
@@ -521,7 +522,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://observatorioprecios.es/mercados-alimentos-pescado-congelado/merluza",
-      "elapsed_ms": 721,
+      "elapsed_ms": 762,
       "error": null
     },
     {
@@ -530,7 +531,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://observatorioprecios.es/mercados-alimentos-pescado-congelado/merluza",
-      "elapsed_ms": 753,
+      "elapsed_ms": 761,
       "error": null
     },
     {
@@ -539,7 +540,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://rnm.franceagrimer.fr/prix?M0121%3AMARCHE",
-      "elapsed_ms": 386,
+      "elapsed_ms": 401,
       "error": null
     },
     {
@@ -548,7 +549,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://ceagesp.gov.br/cotacoes/",
-      "elapsed_ms": 1239,
+      "elapsed_ms": 1717,
       "error": null
     },
     {
@@ -557,7 +558,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://sogemispa.it/bollettini-report-prezzi",
-      "elapsed_ms": 4321,
+      "elapsed_ms": 4689,
       "error": null
     },
     {
@@ -566,7 +567,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://www.shijou.metro.tokyo.lg.jp/",
-      "elapsed_ms": 1521,
+      "elapsed_ms": 1455,
       "error": null
     },
     {
@@ -575,7 +576,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://www.tridge.com/market-overview/frozen-argentine-shortfin-squid/CN",
-      "elapsed_ms": 3097,
+      "elapsed_ms": 2000,
       "error": null
     }
   ],
@@ -592,7 +593,7 @@
   },
   "notices": [
     "Mercasevilla no publica langostino congelado en la serie consultada.",
-    "Ninguna fuente consultada publica cola sin cabeza homóloga; no se usa PUD como equivalente.",
+    "Ninguna fuente consultada publica langostino sin cabeza (colas C1 / tails) homólogo; no se usa PUD como equivalente.",
     "Rungis publica langoustine (Nephrops), no langostino Pleoticus muelleri; se muestra como referencia y se identifica en la nota.",
     "No se publican precios minoristas sin presentación homóloga."
   ]

@@ -86,9 +86,9 @@ const PRODUCTS = [
     id: 'langostino_cola',
     group: 'Langostino',
     species: 'Pleoticus muelleri',
-    label: 'Cola sin cabeza, NO PUD',
-    short: 'Cola sin cabeza',
-    detail: 'Cola sin cabeza congelada. No se acepta PUD como equivalente.',
+    label: 'Langostino sin cabeza (colas C1 / tails), NO PUD',
+    short: 'Sin cabeza C1 / tails',
+    detail: 'Langostino sin cabeza congelado, colas C1 (HLSO/tails), con cáscara; no se acepta PUD como equivalente.',
   },
 ];
 
@@ -514,6 +514,7 @@ async function main() {
       'La fecha de la fila es la última cotización disponible dentro de esa ventana.',
       'Conversión a USD con el tipo de cambio de referencia del BCE; no se aplican márgenes, fletes ni impuestos.',
       'El minorista sólo se publica cuando existe una presentación homóloga. Si no existe, queda sin dato.',
+      'El minorista en origen no se publica porque no hay una fuente pública homóloga; no se estima ni se completa con retail de otro país o de otra presentación.',
       'Las referencias de especie no se suman a una cobertura de presentaciones exactas.',
     ],
     legend: {
@@ -550,7 +551,7 @@ async function main() {
     },
     notices: [
       'Mercasevilla no publica langostino congelado en la serie consultada.',
-      'Ninguna fuente consultada publica cola sin cabeza homóloga; no se usa PUD como equivalente.',
+      'Ninguna fuente consultada publica langostino sin cabeza (colas C1 / tails) homólogo; no se usa PUD como equivalente.',
       'Rungis publica langoustine (Nephrops), no langostino Pleoticus muelleri; se muestra como referencia y se identifica en la nota.',
       'No se publican precios minoristas sin presentación homóloga.',
     ],

@@ -189,7 +189,7 @@ if (root) {
       return `
         <div class="ip-empty-state">
           <strong>No hay una referencia automatizada para este filtro.</strong>
-          <p>No se completa con PUD, HGT, otro calibre ni otra especie. La plaza queda sin dato hasta que publique una presentación comparable.</p>
+          <p>No se completa con PUD, colas C2/CR, otro calibre ni otra especie. La plaza queda sin dato hasta que publique una presentación comparable.</p>
         </div>`;
     }
     return `
