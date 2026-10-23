@@ -1,0 +1,43 @@
+name: Test nube
+
+on:
+  push:
+    branches:
+      - deepseek-fix-v6
+    paths:
+      - '.github/workflows/test-nube.yml'
+      - '.github/workflows/precios.yml'
+      - 'scripts/actualizar-precios.mjs'
+      - 'data/precios-mercado.json'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Validar sintaxis
+        run: |
+          node --check scripts/actualizar-precios.mjs
+          node --check scripts/social-publish.cjs
+          node --check informe-precios.js
+
+      - name: Validar JSON
+        run: node -e "JSON.parse(require('fs').readFileSync('data/precios-mercado.json','utf8')); JSON.parse(require('fs').readFileSync('data/noticias.json','utf8')); console.log('JSON OK')"
+
+      - name: Probar fuentes y cálculo
+        run: node scripts/actualizar-precios.mjs
+
+      - name: Probar publicador social en seco
+        run: node scripts/social-publish.cjs --auto --dry-run
