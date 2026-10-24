@@ -18,7 +18,7 @@
     "titulo": "Ingreso de Buques a Puerto de Mar del Plata",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/ingreso-de-buques-a-puerto/",
-    "resumen": "Buques programados: BP EL MARISCO I - 23:00 | BP BEAGLE I - 23:30 | BP JOSE MARCELO - 23:40. Actualización: 23.OCT.2026 22:00 HS."
+    "resumen": "Buques programados: BP CIUDAD FELIZ - 08:00 | BP CANAL DE BEAGLE - 09:00 | BP PORTOBELO I - 14:00 | BP TIFON - 15:00 | BP DON CARMELO - 15:00 | BP SALVADOR R - 15:30 | BP GRACIELA I - 16:00 | BP TOZUDO - 16:30 | BP YANI G - 21:00 | BP DON CAYETANO - 22:00. Actualización: 24.OCT.2026 05:00 HS."
   },
   {
     "fecha": "2026-10-24",
@@ -26,6 +26,27 @@
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/buques-operando/",
     "resumen": "Mapa interactivo de buques reportando al sistema. Áreas: Zona Común de Pesca (ARG-URU) / Zona de Veda Permanente de Juveniles de Merluza."
+  },
+  {
+    "fecha": "2026-10-24",
+    "titulo": "Conarpesa ratificó que no moverá sus barcos hasta resolver el conflicto con maquinistas por liquidación del SAC",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/conarpesa-ratifico-que-no-movera-sus-barcos-hasta-resolver-el-conflicto-con-maquinistas-por-liquidacion-del-sac/",
+    "resumen": "Fernando Álvarez Castellano condicionó la salida de los buques a un acuerdo con SICONARA sobre la liquidación del Sueldo Anual Complementario. La controversia, que según el sindicato lleva más de 15 años, acumula reclamos judiciales y vuelve a cobrar relevancia ante el inicio de la temporada de langostino."
+  },
+  {
+    "fecha": "2026-10-24",
+    "titulo": "Estados Unidos refuerza el control pesquero y pone el foco en importaciones",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/estados-unidos-refuerza-el-control-pesquero-y-pone-el-foco-en-importaciones/",
+    "resumen": "La administración Trump en su nueva estrategia pesquera, que refuerza los controles sobre las importaciones y promueve el desarrollo industrial estadounidense."
+  },
+  {
+    "fecha": "2026-10-24",
+    "titulo": "Santa Cruz adjudicó por casi $13.000 millones la reconstrucción del muelle de Puerto Deseado",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/santa-cruz-adjudico-por-casi-13-000-millones-la-reconstruccion-del-muelle-de-puerto-deseado/",
+    "resumen": "El Gobierno de Santa Cruz formalizó la adjudicación de la primera etapa de reconstrucción del muelle de Puerto Deseado por $12.987.099.330,20, una inversión destinada a recuperar un sector de la infraestructura portuaria que lleva años fuera de operación normal y cuya rehabilitación resulta relevante para el funcionamiento de la flota pesquera. La decisión quedó establecida [...]"
   },
   {
     "fecha": "2026-10-23",
@@ -364,6 +385,13 @@
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRXNOY2ZocEI0aHROT08zeGZFa0lEZ3JiRFdVQi0tT2JsMU9CT2hWeDBfTlBlN2JtcnVDejBrdTZTMUM1eXRXMEJoWE1GdzdWYVJrVW5rSEVwWTdMUk1keXV3ZlVTRnpKdnhoLUtka2dQZW45ak1QaFFiMGl2UWZEU0d0MFZpNHU0eFdFZGRFZmRnczFuREdWRV91eGxkLVQ0Z1lxRHZYd1F1QkE0d1ZYdjdmMEhpQTdOOEVz?oc=5\" target=\"_blank\">Pricing Analysis: Record diesel prices continue to profoundly affect global seafood sector</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
+    "fecha": "2026-10-21",
+    "titulo": "DNV secures majority stake in Chilean aquaculture consultancy Aquabench",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUW9tanc2T25jQnFHRHZfMEJZRmtiZk91MUlzbmgtQ1ZKcXBVSlFlbWMwT09pdU9UaEFQTjJrVnZrUTlaQjhHLUNsQjZ5Y0MxU0pMLWZ2dWljTDRuZF9EV0xXbzlVN0VxZmNjRmwzb3FRQTgtaEMyRFlHY3d4TDMtTVNsb1N4SFZnY1BwZWFYMzVjTXdfQWdNUmZQOEY1aV9Pd0JlUEQtbWp1QQ?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUW9tanc2T25jQnFHRHZfMEJZRmtiZk91MUlzbmgtQ1ZKcXBVSlFlbWMwT09pdU9UaEFQTjJrVnZrUTlaQjhHLUNsQjZ5Y0MxU0pMLWZ2dWljTDRuZF9EV0xXbzlVN0VxZmNjRmwzb3FRQTgtaEMyRFlHY3d4TDMtTVNsb1N4SFZnY1BwZWFYMzVjTXdfQWdNUmZQOEY1aV9Pd0JlUEQtbWp1QQ?oc=5\" target=\"_blank\">DNV secures majority stake in Chilean aquaculture consultancy Aquabench</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
     "fecha": "2026-10-20",
     "titulo": "El Crucero MS Seaventure ingresó a Mar del Plata rumbo a la Antártida",
     "fuente": "Pescare",
@@ -694,27 +722,6 @@
   },
   {
     "fecha": "2026-10-14",
-    "titulo": "La merluza gana demanda externa y abre oportunidades para la industria marplatense",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/la-merluza-gana-demanda-externa-y-abre-oportunidades-para-la-industria-marplatense/",
-    "resumen": "Los pedidos europeos favorecen la comercialización del filete, mientras el encarecimiento de la materia prima exige más financiamiento a las plantas. La disponibilidad del stock sur permite acortar las mareas, con una operatoria condicionada por el mal tiempo."
-  },
-  {
-    "fecha": "2026-10-14",
-    "titulo": "Prefectura explicó en Diputados cómo la prueba electrónica permite sancionar la pesca ilegal",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/prefectura-explico-en-diputados-como-la-prueba-electronica-permite-sancionar-la-pesca-ilegal/",
-    "resumen": "Ante Diputados, Néstor Kiferling explicó cómo trabaja el equipo de Tráfico Marítimo para documentar infracciones de buques extranjeros. La exposición también advirtió sobre el crecimiento de los arrastreros que operan durante todo el año cerca de las 200 millas."
-  },
-  {
-    "fecha": "2026-10-14",
-    "titulo": "Chubut capacitó a 31 observadores a bordo para fortalecer el monitoreo del langostino",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/chubut-capacito-a-31-observadores-a-bordo-para-fortalecer-el-monitoreo-del-langostino/",
-    "resumen": "La formación en Rawson abordó el registro de capturas y las interacciones con el ambiente marino. Integra el plan de mejoras comprometido para mantener la certificación de sostenibilidad de la pesquería onshore."
-  },
-  {
-    "fecha": "2026-10-14",
     "titulo": "Cuando el trabajo escasea, 3600 personas golpean la misma puerta",
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/10/cuando-el-trabajo-escasea-3600-personas-golpean-la-misma-puerta/",
@@ -775,13 +782,6 @@
     "fuente": "SeafoodSource News",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaF9Nem9WbzFyU3hNa09vUGo3c0JRYmVDem1JN1daajJOZTVvVl91ak5zVXBDMUNzZk9qZWdTY1hmcHJyWU92LWNXa3YtTGhjdUxkTkNzWkh0NXJaNHZCSUE1VVU1UjlfUUpxeV9hc05WWlFXV1Ixd2NxR3RUTzVsU1RXaE1jWnBKVm1QXy1GQVRJNENEUVlnTEszOEItMGR1YVNLdWtsUU1fejh0bVVv?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOaF9Nem9WbzFyU3hNa09vUGo3c0JRYmVDem1JN1daajJOZTVvVl91ak5zVXBDMUNzZk9qZWdTY1hmcHJyWU92LWNXa3YtTGhjdUxkTkNzWkh0NXJaNHZCSUE1VVU1UjlfUUpxeV9hc05WWlFXV1Ixd2NxR3RUTzVsU1RXaE1jWnBKVm1QXy1GQVRJNENEUVlnTEszOEItMGR1YVNLdWtsUU1fejh0bVVv?oc=5\" target=\"_blank\">Restaurants, DTC suppliers highlight Maine lobster during Maine Lobster Week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-09-25",
-    "titulo": "US Senator Ed Markey blocks quick passage of Bycatch Reduction Act",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOODBYZEY2Q0FiUDBSNnhycDdPa29BMzFYYnRkN1k2S0RkS3VWZ3FOSzFHalZCN05PWnUzbkFwazBsSjRDQm8tQ0xZdWZ1c0E4SzltTU9sYVc1YUpQazhRV09NQzdySWxCdGJOYlVSRDNpVkVJQjRJajdiVkVQVzh2bWVTMTc0cGJqd3R3NUtpcmI3amF4MlJWa1VlSQ?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOODBYZEY2Q0FiUDBSNnhycDdPa29BMzFYYnRkN1k2S0RkS3VWZ3FOSzFHalZCN05PWnUzbkFwazBsSjRDQm8tQ0xZdWZ1c0E4SzltTU9sYVc1YUpQazhRV09NQzdySWxCdGJOYlVSRDNpVkVJQjRJajdiVkVQVzh2bWVTMTc0cGJqd3R3NUtpcmI3amF4MlJWa1VlSQ?oc=5\" target=\"_blank\">US Senator Ed Markey blocks quick passage of Bycatch Reduction Act</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
     "fecha": "2026-09-24",
