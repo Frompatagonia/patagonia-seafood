@@ -38,10 +38,23 @@
         "id": "18020319185736184",
         "at": "2026-10-24T02:35:10.707Z"
       }
+    },
+    "https://www.magyp.gob.ar/sitio/areas/pesca_maritima/desembarques/": {
+      "title": "Desembarques de Capturas Marítimas (2026)",
+      "date": "2026-10-24",
+      "url": "https://www.magyp.gob.ar/sitio/areas/pesca_maritima/desembarques/",
+      "facebook": {
+        "id": "1208224315713852_122129011335420852",
+        "at": "2026-10-24T15:05:08.051Z"
+      },
+      "instagram": {
+        "id": "18033219122856573",
+        "at": "2026-10-24T15:05:22.816Z"
+      }
     }
   },
-  "lastNewsPostDate": "2026-10-24T02:35:10.707Z",
+  "lastNewsPostDate": "2026-10-24T15:05:22.816Z",
   "lastProductPostDate": "2026-10-22T22:59:55.841Z",
   "lastProductKey": "variado",
-  "updatedAt": "2026-10-24T02:35:10.707Z"
+  "updatedAt": "2026-10-24T15:05:22.816Z"
 }
