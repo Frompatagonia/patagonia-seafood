@@ -18,7 +18,7 @@
     "titulo": "Ingreso de Buques a Puerto de Mar del Plata",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/ingreso-de-buques-a-puerto/",
-    "resumen": "Buques programados: BP YANI G - 21:00 | BP DON CAYETANO - 22:00. Actualización: 24.OCT.2026 20:40 HS."
+    "resumen": "Buques programados: BP ACRUX - 07:30 | BP MAR DEL CHUBUT - 12:30 | BP DON GAETANO - 12:30 | BP UCHI - 14:00 | BP ROCIO DEL MAR - 15:00 | BP PAOLA S - 16:00 | BP VERAZ - 16:00 | BP GURISES - 19:00 | BP JOSE LUCIANO - 19:00 | BP 7 DE DICIEMBRE - 23:00. Actualización: 25.OCT.2026 06:40 HS."
   },
   {
     "fecha": "2026-10-25",
@@ -497,6 +497,13 @@
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQVTUtdldld1RNODhrNjIwaGc1MlU5M2d0VVF2SmNNT1VMRFNPZDk4ZkJLVGlzQ3p0YUNjaDdBclNqVTVPYmwxTEF6bVp5RmZUSmRqYml5em5mRGpYVmVMZDEyWFlTUk5HeGthcmdOSEozU3NxLWhzT0JxQ0J4enk3MTU1X2RIckpMeEpra2pPaTRPcnJpc1l6akJQTmV2SXVwcmxsd2taUlNqRUVVYVA1MzRR?oc=5\" target=\"_blank\">Red Lobster rolls out October value promotions, makes two C-suite appointments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
+    "fecha": "2026-10-20",
+    "titulo": "BioMar announces launch of new feed formulation product BioRetain",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYUNmX1ZmZkdVbjdWYWd0Rl92TWRHN2V6cVhhb1ZCWGNBalNOSGRBTE5fWV9SbldPcTJwem9mWW4tSEozaFBMb19RWVg3bFpMa3NWcjlvUEc2TmQtZW1QcWxXYnE3VUlza2k4RnViWkNpc3c2WEd0R3lyazR1cWZuT014T25jVEZEbHVVRDRIeVRJMzVlSzk5a0IwUC1CRHkyVng1SWhCUl9KN00?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYUNmX1ZmZkdVbjdWYWd0Rl92TWRHN2V6cVhhb1ZCWGNBalNOSGRBTE5fWV9SbldPcTJwem9mWW4tSEozaFBMb19RWVg3bFpMa3NWcjlvUEc2TmQtZW1QcWxXYnE3VUlza2k4RnViWkNpc3c2WEd0R3lyazR1cWZuT014T25jVEZEbHVVRDRIeVRJMzVlSzk5a0IwUC1CRHkyVng1SWhCUl9KN00?oc=5\" target=\"_blank\">BioMar announces launch of new feed formulation product BioRetain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
     "fecha": "2026-10-19",
     "titulo": "Chubut veda la extracción de moluscos en el norte del Golfo San Jorge por marea roja",
     "fuente": "Pescare",
@@ -775,13 +782,6 @@
     "fuente": "SeafoodSource News",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMHQzOVhWMG53YzFiVEhoc0tSOHQ3ZTltaEpZZFhaUU1kU2dlUWE3VkIzZF9yVUcwbVFzZ00wQ29YcEg3RXVQUE9tcjRZTXZ6U3pzVTNSc3RiSVdHdDFzWGJpYWxQbnFMNW0tOU9fbEstOHRKMUFuV1E3M1JkQk9LV2pQSXVSX29pQmlKUnZOVjRKczJUSzh4SXE2U3Z4cjhnRWc?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNMHQzOVhWMG53YzFiVEhoc0tSOHQ3ZTltaEpZZFhaUU1kU2dlUWE3VkIzZF9yVUcwbVFzZ00wQ29YcEg3RXVQUE9tcjRZTXZ6U3pzVTNSc3RiSVdHdDFzWGJpYWxQbnFMNW0tOU9fbEstOHRKMUFuV1E3M1JkQk9LV2pQSXVSX29pQmlKUnZOVjRKczJUSzh4SXE2U3Z4cjhnRWc?oc=5\" target=\"_blank\">California governor signs Dungeness crab fishing reforms into law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-09-25",
-    "titulo": "Restaurants, DTC suppliers highlight Maine lobster during Maine Lobster Week",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaF9Nem9WbzFyU3hNa09vUGo3c0JRYmVDem1JN1daajJOZTVvVl91ak5zVXBDMUNzZk9qZWdTY1hmcHJyWU92LWNXa3YtTGhjdUxkTkNzWkh0NXJaNHZCSUE1VVU1UjlfUUpxeV9hc05WWlFXV1Ixd2NxR3RUTzVsU1RXaE1jWnBKVm1QXy1GQVRJNENEUVlnTEszOEItMGR1YVNLdWtsUU1fejh0bVVv?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxOaF9Nem9WbzFyU3hNa09vUGo3c0JRYmVDem1JN1daajJOZTVvVl91ak5zVXBDMUNzZk9qZWdTY1hmcHJyWU92LWNXa3YtTGhjdUxkTkNzWkh0NXJaNHZCSUE1VVU1UjlfUUpxeV9hc05WWlFXV1Ixd2NxR3RUTzVsU1RXaE1jWnBKVm1QXy1GQVRJNENEUVlnTEszOEItMGR1YVNLdWtsUU1fejh0bVVv?oc=5\" target=\"_blank\">Restaurants, DTC suppliers highlight Maine lobster during Maine Lobster Week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
     "fecha": "2026-09-24",
