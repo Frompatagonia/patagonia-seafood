@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-10-25T15:26:02.923Z",
+  "updated_at": "2026-10-25T20:18:01.300Z",
   "last_checked": "2026-10-25",
   "window_days": 60,
   "title": "Informe Global de Precios",
@@ -513,7 +513,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://observatorioprecios.es/mercados-alimentos-pescado-congelado/merluza",
-      "elapsed_ms": 99,
+      "elapsed_ms": 159,
       "error": null
     },
     {
@@ -522,7 +522,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://observatorioprecios.es/mercados-alimentos-pescado-congelado/merluza",
-      "elapsed_ms": 374,
+      "elapsed_ms": 637,
       "error": null
     },
     {
@@ -531,7 +531,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://observatorioprecios.es/mercados-alimentos-pescado-congelado/merluza",
-      "elapsed_ms": 372,
+      "elapsed_ms": 631,
       "error": null
     },
     {
@@ -540,7 +540,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://rnm.franceagrimer.fr/prix?M0121%3AMARCHE",
-      "elapsed_ms": 243,
+      "elapsed_ms": 304,
       "error": null
     },
     {
@@ -549,7 +549,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://ceagesp.gov.br/cotacoes/",
-      "elapsed_ms": 1557,
+      "elapsed_ms": 1603,
       "error": null
     },
     {
@@ -558,7 +558,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://sogemispa.it/bollettini-report-prezzi",
-      "elapsed_ms": 1246,
+      "elapsed_ms": 1940,
       "error": null
     },
     {
@@ -567,16 +567,16 @@
       "status": 200,
       "ok": true,
       "final_url": "https://www.shijou.metro.tokyo.lg.jp/",
-      "elapsed_ms": 988,
+      "elapsed_ms": 904,
       "error": null
     },
     {
       "market_id": "jingshen",
       "checked_at": "2026-10-25",
-      "status": 200,
-      "ok": true,
+      "status": 503,
+      "ok": false,
       "final_url": "https://www.tridge.com/market-overview/frozen-argentine-shortfin-squid/CN",
-      "elapsed_ms": 1890,
+      "elapsed_ms": 5702,
       "error": null
     }
   ],
@@ -588,7 +588,7 @@
     "exact_quotes": 0,
     "reference_quotes": 11,
     "stale_quotes": 0,
-    "sources_ok": 8,
+    "sources_ok": 7,
     "sources_total": 8
   },
   "notices": [
