@@ -18,7 +18,7 @@
     "titulo": "Ingreso de Buques a Puerto de Mar del Plata",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/ingreso-de-buques-a-puerto/",
-    "resumen": "Buques programados: BP SAN MATIAS - 23:30. Actualización: 25.OCT.2026 22:50 HS."
+    "resumen": "Buques programados: BP KARINA - 23:30. Actualización: 26.OCT.2026 10:10 HS."
   },
   {
     "fecha": "2026-10-26",
@@ -50,6 +50,13 @@
   },
   {
     "fecha": "2026-10-26",
+    "titulo": "Chubut pone a prueba el langostino antes de abrir la temporada 2026-2027",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/chubut-pone-a-prueba-el-langostino-antes-de-abrir-la-temporada-2026-2027/",
+    "resumen": "La Comisión de Seguimiento evaluó los avances del proceso de certificación y definió las prioridades del nuevo ciclo pesquero. En paralelo, comenzó la prospección provincial con 20 embarcaciones y cuatro jornadas efectivas de trabajo, cuyos resultados determinarán las condiciones para la apertura comercial."
+  },
+  {
+    "fecha": "2026-10-26",
     "titulo": "La prospección comenzó al sur de Rawson entre los paralelos 44° S y 44°56’ S",
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/10/la-prospeccion-comenzo-al-sur-de-rawson-entre-los-paralelos-44-s-y-4456-s/",
@@ -75,6 +82,41 @@
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/10/la-acuicultura-reunira-en-madryn-a-cientificos-empresarios-y-funcionarios/",
     "resumen": "La Jornada Nacional de Acuicultura se realizará en noviembre en el CENPAT, con exposiciones sobre el cultivo de wakame, pez limón y mejillones, desarrollos biotecnológicos y experiencias empresariales. También habrá una mesa con representantes de Chubut, Neuquén, Río Negro y Tierra del Fuego para analizar políticas públicas."
+  },
+  {
+    "fecha": "2026-10-26",
+    "titulo": "Portuguese startup turning pineapple waste into high-value fish feed ingredient",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZFM4UEJWNUYzUGZIOUg0SXBOQW1FOVJ3WUpoR3pVbDNkdXVKZ2hoSjNxSjN3M2tTcXZKakhoVUVKSVR0Yk5ILWpnb3REb1RDalZoU2FUNGM3REpCN2NLdFp4RmFRd0hrSERMZFNRZTlQc2ZXN3Z6dGU0YVhpWVNLVFduYjNYbEpUZ1ZaNGJXRlNjd2JrajYzUW5vZlMtZ0NXcFpXd0NUbU5GSTktUzRfRUZBQ0U?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNZFM4UEJWNUYzUGZIOUg0SXBOQW1FOVJ3WUpoR3pVbDNkdXVKZ2hoSjNxSjN3M2tTcXZKakhoVUVKSVR0Yk5ILWpnb3REb1RDalZoU2FUNGM3REpCN2NLdFp4RmFRd0hrSERMZFNRZTlQc2ZXN3Z6dGU0YVhpWVNLVFduYjNYbEpUZ1ZaNGJXRlNjd2JrajYzUW5vZlMtZ0NXcFpXd0NUbU5GSTktUzRfRUZBQ0U?oc=5\" target=\"_blank\">Portuguese startup turning pineapple waste into high-value fish feed ingredient</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-10-26",
+    "titulo": "Russia and China planning to expand bilateral seafood trade",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMWNRS0xvNklUS0MxeU5MREZCLVRkYUtuSjdCZ3V6aWx4Z2NIVE1IMUx0MjVfQVhLbnpwTlBMdGJyaktjbmdJUXRYZmpiVmw0aUhYSVA1Z0FuMW41S3RZWnc2dGpmVVZmZTY3TlI5bG9TRW8yaW80S0lvdFJnVlNiT0lXMlo1bHJ0TjRCODZlTl9vMWZrRldkRDNB?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNMWNRS0xvNklUS0MxeU5MREZCLVRkYUtuSjdCZ3V6aWx4Z2NIVE1IMUx0MjVfQVhLbnpwTlBMdGJyaktjbmdJUXRYZmpiVmw0aUhYSVA1Z0FuMW41S3RZWnc2dGpmVVZmZTY3TlI5bG9TRW8yaW80S0lvdFJnVlNiT0lXMlo1bHJ0TjRCODZlTl9vMWZrRldkRDNB?oc=5\" target=\"_blank\">Russia and China planning to expand bilateral seafood trade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-10-26",
+    "titulo": "India developing plan for inland small-scale fisheries",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMGFRVGs5Ul9Zc0ZaMklQOHNTZ25jTXpMNFdJWmd2aVh2ZE5rdDJZYmV4eC1qbDFqMlI2eVB0cTNzR1FBMXpXa2lja2FwYjBqTTg3MW9IWW82M3ZTbDlUVjdpN3d6c2d6U1pJaEJiU2NkNGhwREE3Z1dXVVVHOGlfLUMtWGRCOGZQQWNxcXM3TFdmY28?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNMGFRVGs5Ul9Zc0ZaMklQOHNTZ25jTXpMNFdJWmd2aVh2ZE5rdDJZYmV4eC1qbDFqMlI2eVB0cTNzR1FBMXpXa2lja2FwYjBqTTg3MW9IWW82M3ZTbDlUVjdpN3d6c2d6U1pJaEJiU2NkNGhwREE3Z1dXVVVHOGlfLUMtWGRCOGZQQWNxcXM3TFdmY28?oc=5\" target=\"_blank\">India developing plan for inland small-scale fisheries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-10-26",
+    "titulo": "US announces USD 15.8 million in financial relief for fishery disasters",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcUpsZjVCTDJLOXVVM2ZCWi1IZmFicllnWmlzWDhVT1RCNWNjaGZLNW1pXy02T05iWGxWS0lLWlhwSmV1eng3WWJDOVZRNUFCcVUzT0pyd1piR21xRXAwRFlKVy1kbktXU0xFOHhjdVo1Y1Z6SUpjNGE1eFVCbmtyLTd1S2x6dTVZbFRGOG85cWJSc2MxaTQzb3I1ajhWR3ZrTGRndXdOOEgzZw?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcUpsZjVCTDJLOXVVM2ZCWi1IZmFicllnWmlzWDhVT1RCNWNjaGZLNW1pXy02T05iWGxWS0lLWlhwSmV1eng3WWJDOVZRNUFCcVUzT0pyd1piR21xRXAwRFlKVy1kbktXU0xFOHhjdVo1Y1Z6SUpjNGE1eFVCbmtyLTd1S2x6dTVZbFRGOG85cWJSc2MxaTQzb3I1ajhWR3ZrTGRndXdOOEgzZw?oc=5\" target=\"_blank\">US announces USD 15.8 million in financial relief for fishery disasters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-10-26",
+    "titulo": "European Commission promises simpler aquaculture rules, clarifies financial details after release of Vision 2040",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaHNqRnhMRHVrd3BHWDNnZDJqZGJGdnVpNmVFSW1hVklVM252M2VnakstMzBWQk44R2FCYnNnOVN6cXdaUFlOZ3Nia3R0cVNNNWt3UFU0SFNTZnk2M0M3enozQ2g1UlJfS0VSWXplT2l6Ukp5Q1JjN0VWOThyLXhGS1dVamIwOWpkLWU1WVNuVUl0VUVtX2ljMXFBV0tQYXBHLVN5SjZQTU03am5mT1h4eVNTQjYwQm1ub2dPZzZrTTdJNHU3U0FoZXhaMzhBbGF6NmctU0MxZ29ta0NDelpr?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaHNqRnhMRHVrd3BHWDNnZDJqZGJGdnVpNmVFSW1hVklVM252M2VnakstMzBWQk44R2FCYnNnOVN6cXdaUFlOZ3Nia3R0cVNNNWt3UFU0SFNTZnk2M0M3enozQ2g1UlJfS0VSWXplT2l6Ukp5Q1JjN0VWOThyLXhGS1dVamIwOWpkLWU1WVNuVUl0VUVtX2ljMXFBV0tQYXBHLVN5SjZQTU03am5mT1h4eVNTQjYwQm1ub2dPZzZrTTdJNHU3U0FoZXhaMzhBbGF6NmctU0MxZ29ta0NDelpr?oc=5\" target=\"_blank\">European Commission promises simpler aquaculture rules, clarifies financial details after release of Vision 2040</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
     "fecha": "2026-10-24",
@@ -714,20 +756,6 @@
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQMnZwaXY1YXcxTVRSb3ZZbVBQUjJwVnFwM3BJYi1uVlFKYzB5SHpjeVVGNEotZXJQaEY0ZXNXeTFDQUlab3BKVzNlTHFXSjdwTzh1MlFUc0VYdWhMSHZvdEh2cHltX3F3WEsxd3JxWTdKa1ZiSy0tVDJha2JsVXhnYU1kZXVJV2xQRXFTQ0lRakcxOFJSSDdV?oc=5\" target=\"_blank\">Peru officially cancels the second anchovy season of 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
-    "fecha": "2026-10-16",
-    "titulo": "Former employees’ lawsuit against Inland Foods revived by US appeals court",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVE9BYkg3Rk5NSzloTGdWRXQ1VXlQeG1SZW10ZGFQVGhwdm1vSS1WMm5JRDJpMkdJaFZqYnluTG5pY1JjV2RnVWVja0VBbHNOam15NWZrYWtJRXNWSXN3Q29DOGxmYXlYMkhaeG5uN25FdHRDc1REQjJNQTd0NGNYWEd2STZMWTBEQWtGMWRyQ09BRzZiYVp1UFBCRHVLOXJodDVJX3JBYW1RZG5q?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQVE9BYkg3Rk5NSzloTGdWRXQ1VXlQeG1SZW10ZGFQVGhwdm1vSS1WMm5JRDJpMkdJaFZqYnluTG5pY1JjV2RnVWVja0VBbHNOam15NWZrYWtJRXNWSXN3Q29DOGxmYXlYMkhaeG5uN25FdHRDc1REQjJNQTd0NGNYWEd2STZMWTBEQWtGMWRyQ09BRzZiYVp1UFBCRHVLOXJodDVJX3JBYW1RZG5q?oc=5\" target=\"_blank\">Former employees’ lawsuit against Inland Foods revived by US appeals court</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-10-15",
-    "titulo": "Malvinas: Multimillonaria demanda a pesqueras, bancos y astilleros por la explotación ilegal de recursos",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/malvinas-multimillonaria-demanda-a-pesqueras-bancos-y-astilleros-por-la-explotacion-ilegal-de-recursos/",
-    "resumen": "La Fundación Agustina Lerena llevó a la Justicia Federal un reclamo por 4,1 millones de toneladas capturadas entre 1989 y 2025. La acción también busca reparación ambiental y sanciones sobre permisos pesqueros argentinos."
-  },
-  {
     "fecha": "2026-10-15",
     "titulo": "La caballa esquivó a la flota en El Rincón y los desembarques se desplomaron",
     "fuente": "Revista Puerto",
@@ -782,34 +810,6 @@
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/10/chubut-publicara-datos-de-captura-barco-por-barco-tras-la-temporada-de-langostino/",
     "resumen": "El secretario de Pesca, Diego Brandan, anticipó que al cierre de la temporada en aguas provinciales se difundirá la información de cada buque. El anuncio se dio de cara a la jornada “Transparencia y trazabilidad para una pesca sostenible”, que se realizará el lunes 19 de octubre en la Legislatura de Chubut. La provincia ya publica su registro de embarcaciones y permisos."
-  },
-  {
-    "fecha": "2026-10-12",
-    "titulo": "Researchers at the University of Maine are turning discarded lobster shells into golf tees",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcUt2SkFDaEVZamRUeEVTVHJ4eFZxQTNiSWJpMS1iMlk3VExnRWNVaDZMWWEzaFY3Y0o4NGRxUTdvc0FwZk9vODlvNFlOa1M2Y19DVi1LbGxzU1BsODRXZ1Q3NGpCcXJQcF9WSHplSlhhQ1JfaFhzQWdlRmtLWUtBYXVUSjgwQko0Nzl5TEZUZ2Z5ZGRIXzFZVEx5TEFsbk1YYmdIOFJtOERGank1aVlDMlNGRGJ1eEhCR0c4cW9DUGZsZ3M?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcUt2SkFDaEVZamRUeEVTVHJ4eFZxQTNiSWJpMS1iMlk3VExnRWNVaDZMWWEzaFY3Y0o4NGRxUTdvc0FwZk9vODlvNFlOa1M2Y19DVi1LbGxzU1BsODRXZ1Q3NGpCcXJQcF9WSHplSlhhQ1JfaFhzQWdlRmtLWUtBYXVUSjgwQko0Nzl5TEZUZ2Z5ZGRIXzFZVEx5TEFsbk1YYmdIOFJtOERGank1aVlDMlNGRGJ1eEhCR0c4cW9DUGZsZ3M?oc=5\" target=\"_blank\">Researchers at the University of Maine are turning discarded lobster shells into golf tees</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-10-09",
-    "titulo": "Japanese export association aiming to promote, lessen fear around eating pufferfish",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONnIyTWpabnppdE9HTWxCR2RsMjNGODE5bXBRRlJ4QVRFV25sTEFZZ0VnWm1JVUxmdDB5U19nNVBYMENPeWdvR1RXSEJreVprNUp6T1I3clpUY0M0MEVzRG1kSkxEal9GbGlWRG1EdmJzWmdpUWplYlUybVhlaDh0SzZwcHk0OGc5WDRlU193cTQzY25wUjJ2VTdTYWQ1U1M0Z3J4THR6ZVlmTmxsdnpVSU1nOWdialBhSDE1c2ZFOA?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxONnIyTWpabnppdE9HTWxCR2RsMjNGODE5bXBRRlJ4QVRFV25sTEFZZ0VnWm1JVUxmdDB5U19nNVBYMENPeWdvR1RXSEJreVprNUp6T1I3clpUY0M0MEVzRG1kSkxEal9GbGlWRG1EdmJzWmdpUWplYlUybVhlaDh0SzZwcHk0OGc5WDRlU193cTQzY25wUjJ2VTdTYWQ1U1M0Z3J4THR6ZVlmTmxsdnpVSU1nOWdialBhSDE1c2ZFOA?oc=5\" target=\"_blank\">Japanese export association aiming to promote, lessen fear around eating pufferfish</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-10-07",
-    "titulo": "Latest IFFO report shows August uptick in fishmeal, but near-decade lows for year overall",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYVJJZGxmMzhBNTFnbE5Oc2pxUGxVNHpyQnUwVVEtNW1SaFctUkI5TjVYUHMxTFBBREJGYVpJTVo0S09uV1pma3dVM3FzVzJJV09OLVVlZHI5V0M2UFljcHlIblNIWFE5X3dzcUU1TERfMUVIQ2pFb1FsbFluODFGY2dLZjNaV2Y1R2F2dVBkdXNKTVNWbE1YeEM4QklIOFJzY1pFb3NQTjFYS3pXTWxuSVBma3R3WWxOZXhzN2s1RE8?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYVJJZGxmMzhBNTFnbE5Oc2pxUGxVNHpyQnUwVVEtNW1SaFctUkI5TjVYUHMxTFBBREJGYVpJTVo0S09uV1pma3dVM3FzVzJJV09OLVVlZHI5V0M2UFljcHlIblNIWFE5X3dzcUU1TERfMUVIQ2pFb1FsbFluODFGY2dLZjNaV2Y1R2F2dVBkdXNKTVNWbE1YeEM4QklIOFJzY1pFb3NQTjFYS3pXTWxuSVBma3R3WWxOZXhzN2s1RE8?oc=5\" target=\"_blank\">Latest IFFO report shows August uptick in fishmeal, but near-decade lows for year overall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-10-06",
-    "titulo": "NOAA Fisheries confirms 76 large whale entanglements in 2025",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbTlkMGhBWlpJU1JoMXM1TFc3UXVUc0hBWDkyVm5jcFZRR0hEbFA5dlRWZGx5Z1p0YUk0bnlnblZNcDU3aTZjb1JFUmRoaXZHVzVuRFNHMVNBSTVHOU9xRHl3bHhBUmN3cFRmNDdNYmRyTGduaGJvcFp1andHc21fU0Z6ZnFuT2dzeGx1U2NETjM1Ylg3TUtYYjN4Q1JUdGNvV2l0bS1jazBBdE5JMTZnT183OVlQOGJwaWVXN0poMA?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQbTlkMGhBWlpJU1JoMXM1TFc3UXVUc0hBWDkyVm5jcFZRR0hEbFA5dlRWZGx5Z1p0YUk0bnlnblZNcDU3aTZjb1JFUmRoaXZHVzVuRFNHMVNBSTVHOU9xRHl3bHhBUmN3cFRmNDdNYmRyTGduaGJvcFp1andHc21fU0Z6ZnFuT2dzeGx1U2NETjM1Ylg3TUtYYjN4Q1JUdGNvV2l0bS1jazBBdE5JMTZnT183OVlQOGJwaWVXN0poMA?oc=5\" target=\"_blank\">NOAA Fisheries confirms 76 large whale entanglements in 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
     "fecha": "2026-09-24",
