@@ -1,31 +1,80 @@
 [
   {
-    "fecha": "2026-10-25",
+    "fecha": "2026-10-26",
     "titulo": "Monitoreo Satelital de Buques Pesqueros",
     "fuente": "MAGyP",
     "url": "https://www.magyp.gob.ar/sitio/areas/pesca_maritima/monitoreo/",
     "resumen": "Monitoreo oficial de buques reportando al sistema. Áreas: Zona Rinc&oacute;n (Res. CFP N&ordm; 27/2009 y posteriores)."
   },
   {
-    "fecha": "2026-10-25",
+    "fecha": "2026-10-26",
     "titulo": "Desembarques de Capturas Marítimas (2026)",
     "fuente": "MAGyP",
     "url": "https://www.magyp.gob.ar/sitio/areas/pesca_maritima/desembarques/",
     "resumen": "Estadísticas oficiales de desembarques por especie, flota y puerto. Datos disponibles: 2026, 2025, 2024, 2023, 2022, 2021, 2020."
   },
   {
-    "fecha": "2026-10-25",
+    "fecha": "2026-10-26",
     "titulo": "Ingreso de Buques a Puerto de Mar del Plata",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/ingreso-de-buques-a-puerto/",
-    "resumen": "Buques programados: BP MISS PATAGONIA - 21:00 | BP SAN MATIAS - 23:00. Actualización: 25.OCT.2026 19:50 HS."
+    "resumen": "Buques programados: BP SAN MATIAS - 23:30. Actualización: 25.OCT.2026 22:50 HS."
   },
   {
-    "fecha": "2026-10-25",
+    "fecha": "2026-10-26",
     "titulo": "Buques Operando en ZEE Argentina",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/buques-operando/",
     "resumen": "Mapa interactivo de buques reportando al sistema. Áreas: Zona Común de Pesca (ARG-URU) / Zona de Veda Permanente de Juveniles de Merluza."
+  },
+  {
+    "fecha": "2026-10-26",
+    "titulo": "Mar del Plata pierde desembarques mientras crece la actividad en los puertos patagónicos",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/mar-del-plata-pierde-desembarques-mientras-crece-la-actividad-en-los-puertos-patagonicos/",
+    "resumen": "El principal puerto pesquero argentino acumula una caída interanual del 12,2% en los primeros nueve meses de 2026. En contraste, Puerto Madryn y Puerto Deseado registran incrementos superiores al 30% y al 48%, respectivamente, mientras los desembarques nacionales mantienen un crecimiento del 7,4%."
+  },
+  {
+    "fecha": "2026-10-26",
+    "titulo": "Europa cambia sus hábitos de consumo y exige otra forma de vender pescado",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/europa-cambia-sus-habitos-de-consumo-y-exige-otra-forma-de-vender-pescado/",
+    "resumen": "Una investigación de la Comisión Europea publicada en agosto de 2026 revela cómo evolucionan las preferencias alimentarias. El precio, la practicidad y las nuevas costumbres familiares están modificando las condiciones de compra de pescados y mariscos en uno de los mayores mercados del mundo."
+  },
+  {
+    "fecha": "2026-10-26",
+    "titulo": "La Unión Europea revisará la capacidad pesquera y prepara la renovación de su flota hacia 2040",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/la-union-europea-revisara-la-capacidad-pesquera-y-prepara-la-renovacion-de-su-flota-hacia-2040/",
+    "resumen": "El programa contempla cambios en la administración de cuotas, inversiones para mejorar la rentabilidad y nuevas medidas de control, mientras las empresas pesqueras reclaman una reforma de la legislación vigente."
+  },
+  {
+    "fecha": "2026-10-26",
+    "titulo": "La prospección comenzó al sur de Rawson entre los paralelos 44° S y 44°56’ S",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/10/la-prospeccion-comenzo-al-sur-de-rawson-entre-los-paralelos-44-s-y-4456-s/",
+    "resumen": "Ese sector se relevará durante dos días efectivos de pesca con 16 buques de flota amarilla. Posteriormente, la flota irá a prospectar al norte entre los paralelos de 43° S y 44° S, sumando 4 barcos artesanales. Los resultados definirán si están dadas las condiciones para iniciar la temporada en aguas provinciales."
+  },
+  {
+    "fecha": "2026-10-26",
+    "titulo": "Estados Unidos quiere rastrear el origen del pescado con química, no sólo con papeles",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/10/estados-unidos-quiere-rastrear-el-origen-del-pescado-con-quimica-no-solo-con-papeles/",
+    "resumen": "Un proyecto aprobado por la Cámara de Representantes propone que NOAA y el NIST desarrollen un método para determinar el país de origen de productos pesqueros por su composición química, incluso en sushi, ceviche o poke. Comenzaría con atún y pargo, y su desafío será convertir la huella ambiental de un pez en evidencia confiable contra el fraude y la pesca ilegal."
+  },
+  {
+    "fecha": "2026-10-26",
+    "titulo": "Denuncian al juzgado de la quiebra de Barillari por “fraude interjurisdiccional”",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/10/denuncian-al-juzgado-de-la-quiebra-de-barillari-por-fraude-interjurisdiccional/",
+    "resumen": "Acreedor de la pesquera sostiene que el Juzgado Comercial Nº16 de CABA, realizó un “alzamiento judicial” al no actuar de acuerdo con directivas del Tribunal Superior y continuar liberando garantías. Solicitaron medida cautelar para suspender los efectos del avenimiento."
+  },
+  {
+    "fecha": "2026-10-26",
+    "titulo": "La acuicultura reunirá en Madryn a científicos, empresarios y funcionarios",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/10/la-acuicultura-reunira-en-madryn-a-cientificos-empresarios-y-funcionarios/",
+    "resumen": "La Jornada Nacional de Acuicultura se realizará en noviembre en el CENPAT, con exposiciones sobre el cultivo de wakame, pez limón y mejillones, desarrollos biotecnológicos y experiencias empresariales. También habrá una mesa con representantes de Chubut, Neuquén, Río Negro y Tierra del Fuego para analizar políticas públicas."
   },
   {
     "fecha": "2026-10-24",
@@ -677,27 +726,6 @@
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/malvinas-multimillonaria-demanda-a-pesqueras-bancos-y-astilleros-por-la-explotacion-ilegal-de-recursos/",
     "resumen": "La Fundación Agustina Lerena llevó a la Justicia Federal un reclamo por 4,1 millones de toneladas capturadas entre 1989 y 2025. La acción también busca reparación ambiental y sanciones sobre permisos pesqueros argentinos."
-  },
-  {
-    "fecha": "2026-10-15",
-    "titulo": "Malvinas: Argentina pidió al Tribunal del Mar frenar Sea Lion y abrió una disputa por inversiones de US$ 2.100 millones",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/malvinas-argentina-pidio-al-tribunal-del-mar-frenar-sea-lion-y-abrio-una-disputa-por-inversiones-de-us-2-100-millones/",
-    "resumen": "La presentación busca impedir que comiencen las perforaciones previstas para 2027. El Reino Unido anunció protección legal para las petroleras, mientras las acciones argentinas ya obligaron a gestionar el reemplazo de dos contratistas. El conflicto incorpora la protección ambiental y los usos pesqueros del Atlántico Sudoccidental."
-  },
-  {
-    "fecha": "2026-10-15",
-    "titulo": "El puerto de Mar del Plata completó el desguace de otros dos pesqueros y recupera espacios de amarre",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/el-puerto-de-mar-del-plata-completo-el-desguace-de-otros-dos-pesqueros-y-recupera-espacios-de-amarre/",
-    "resumen": "El Consorcio Portuario finalizó las tareas de desguace de los buques Mr Big y Coral Azul en el varadero de la Base Naval. El programa ya permitió retirar más de 30 embarcaciones inactivas y recuperar 1.406 metros lineales de espacio operativo."
-  },
-  {
-    "fecha": "2026-10-15",
-    "titulo": "Europa transforma residuos pesqueros en productos de alto valor industrial",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/europa-transforma-residuos-pesqueros-en-productos-de-alto-valor-industrial/",
-    "resumen": "Con una inversión de 18,5 millones de euros, un proyecto europeo desarrolló seis cadenas de aprovechamiento de subproductos del pescado y redes en desuso. Sus resultados permiten obtener ingredientes para cosméticos, suplementos alimenticios y materiales reciclados para otras industrias."
   },
   {
     "fecha": "2026-10-15",
