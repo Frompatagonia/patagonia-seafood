@@ -18,7 +18,7 @@
     "titulo": "Ingreso de Buques a Puerto de Mar del Plata",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/ingreso-de-buques-a-puerto/",
-    "resumen": "Buques programados: BP KARINA - 23:30. Actualización: 26.OCT.2026 10:10 HS."
+    "resumen": "Buques programados: BP SAN PASCUAL - 21:00. Actualización: 26.OCT.2026 20:50 HS."
   },
   {
     "fecha": "2026-10-26",
@@ -61,6 +61,13 @@
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/celeiro-reune-a-la-pesca-europea-para-debatir-el-futuro-de-la-flota-y-su-competitividad/",
     "resumen": "Las XXX Jornadas Técnicas del Sector Pesquero se celebrarán del 5 al 7 de noviembre en Galicia. Autoridades, armadores, científicos y especialistas analizarán la Política Pesquera Común, los costos de la transición energética y los desafíos que enfrenta la actividad marítima."
+  },
+  {
+    "fecha": "2026-10-26",
+    "titulo": "Chubut suspende la prospección de langostino en el sur por elevada presencia de merluza",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/chubut-suspende-la-prospeccion-de-langostino-en-el-sur-por-elevada-presencia-de-merluza/",
+    "resumen": "La Secretaría de Pesca ordenó el traslado anticipado de las 20 embarcaciones hacia el norte. La evaluación continuará durante tres jornadas y sus resultados definirán las condiciones para una eventual apertura comercial."
   },
   {
     "fecha": "2026-10-26",
@@ -138,6 +145,27 @@
     "fuente": "SeafoodSource News",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS2dKLXN1VzU4cEFPdDVEVEtPNFlMbFZXYXBUcWxJdTl0c2pUTlRTckVObUhWRzFhaFdHYzc5d3F2bUVkZ0FZcjRHNGVGQjU5QWl6akxEMGJfVTg3bENLZDJ2SFVybE5JVmhpc3VORUdmQmhINHZ0MVpNU1dkb0U3eWZRWWtEMXRqOU1PaTBKcjM3ZnBsVFpOeFhjM0dhWFI5Z1VvdWpwcThxbFoyMm1CV3hkWHNJRmRF?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS2dKLXN1VzU4cEFPdDVEVEtPNFlMbFZXYXBUcWxJdTl0c2pUTlRTckVObUhWRzFhaFdHYzc5d3F2bUVkZ0FZcjRHNGVGQjU5QWl6akxEMGJfVTg3bENLZDJ2SFVybE5JVmhpc3VORUdmQmhINHZ0MVpNU1dkb0U3eWZRWWtEMXRqOU1PaTBKcjM3ZnBsVFpOeFhjM0dhWFI5Z1VvdWpwcThxbFoyMm1CV3hkWHNJRmRF?oc=5\" target=\"_blank\">Alaska state fishing loan program's fixed interest rate set to expire in June 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-10-26",
+    "titulo": "Umios reaches deal to acquire High Liner for CAD 1.25 billion in enterprise value",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcUN5eXdSN2NMQUNEN2tWZlpsUTNiTWVHY1ZWLWo4ZkdvUnctVUw0WUp0VnFYRm96TFpfN2xKN0x4dkV5VXNQbF9UMkxUeF8tT1RyT2xtOUhtbzJvcmxmNmZoa1B4YWNXcTlWbEhkOXBUVlVFLXZ6MWtXN1lGVkJhNmRjcnFlVjJqUkxybWNSMHJZVlFvLUYwYlFaWm8tMURHamhHQU5IYTRtUkp4ZzJ0WnJkUXRoOEk?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPcUN5eXdSN2NMQUNEN2tWZlpsUTNiTWVHY1ZWLWo4ZkdvUnctVUw0WUp0VnFYRm96TFpfN2xKN0x4dkV5VXNQbF9UMkxUeF8tT1RyT2xtOUhtbzJvcmxmNmZoa1B4YWNXcTlWbEhkOXBUVlVFLXZ6MWtXN1lGVkJhNmRjcnFlVjJqUkxybWNSMHJZVlFvLUYwYlFaWm8tMURHamhHQU5IYTRtUkp4ZzJ0WnJkUXRoOEk?oc=5\" target=\"_blank\">Umios reaches deal to acquire High Liner for CAD 1.25 billion in enterprise value</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-10-26",
+    "titulo": "Thai Union subsidiary i-Tail acquires Phelps Pet Products for USD 160 million",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONDlTNmxPVHg5V1cxRVBQTHlVZ2puT1ZRcHhqZkZvVUdQeFBzejdoVC1vUlc2UzJGYWp2THJBRWp0N0JCQ093bkNEODJLN2xYbnBtSXJTWV9oTUV0S0JwZkR6TWFsVWF6UnRBTWlKNHktM3JTR2J4ZTU2SHEzNmVhRGViNVBaTmJTT2ctRXFrV3pycHFlZVc5X3gxSWo0dEgxWVV2TlNGc1RUUFowYzJIUHNB?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxONDlTNmxPVHg5V1cxRVBQTHlVZ2puT1ZRcHhqZkZvVUdQeFBzejdoVC1vUlc2UzJGYWp2THJBRWp0N0JCQ093bkNEODJLN2xYbnBtSXJTWV9oTUV0S0JwZkR6TWFsVWF6UnRBTWlKNHktM3JTR2J4ZTU2SHEzNmVhRGViNVBaTmJTT2ctRXFrV3pycHFlZVc5X3gxSWo0dEgxWVV2TlNGc1RUUFowYzJIUHNB?oc=5\" target=\"_blank\">Thai Union subsidiary i-Tail acquires Phelps Pet Products for USD 160 million</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-10-26",
+    "titulo": "Trump announces America First Seafood Strategy with new label for domestic products",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYjFZclhHVm9Xb09fb2U0MzhnTTBLeGRuLTUtTzhqYm9iOWxYeWduUnhDSFVEclpiLTlGMm5BZU9FNmVHd05oNnJFSW9QeFVIeDV3ZkNJdW85R2NheVpWOXhpNFVDYjZyNC1tN0RCcWZHR3poVlhNQzI3YTFCYzRjYnJIbDZrMjBQd3lKbVJEQzVnSVg4cldFT3BsRlVBeElxLXJSSlZSYTJkVEpXdFp0dDRuRVVyeDJPYkE?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNYjFZclhHVm9Xb09fb2U0MzhnTTBLeGRuLTUtTzhqYm9iOWxYeWduUnhDSFVEclpiLTlGMm5BZU9FNmVHd05oNnJFSW9QeFVIeDV3ZkNJdW85R2NheVpWOXhpNFVDYjZyNC1tN0RCcWZHR3poVlhNQzI3YTFCYzRjYnJIbDZrMjBQd3lKbVJEQzVnSVg4cldFT3BsRlVBeElxLXJSSlZSYTJkVEpXdFp0dDRuRVVyeDJPYkE?oc=5\" target=\"_blank\">Trump announces America First Seafood Strategy with new label for domestic products</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
     "fecha": "2026-10-24",
@@ -406,6 +434,13 @@
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOM2xGM2lsQVVhMkk3VW5xeFFxQjB4MnUzRWp2cTRqekpzcHZhQnJ5V3Q5bC1JenlkamtJTlZXNDNaanpOQ2tpbG8wcGdmMGZvLVhUWGNnWlBBQmNwTnNZNWFPelZUVUFUbUtJZnpZUkgwREJhQ1lnbUx5Sll5aUtROXFwZUxJT18tbDcyai12aU95Q2dPMHBFeHkzV1F1NHI2cUREN21zOGx0bmFRS2toa2lKdTVDRGl3WVBYaVI1b3ctSkhh?oc=5\" target=\"_blank\">Totoaba trafficking rings linked to human smuggling, money laundering across Mexico, US, China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
+    "fecha": "2026-10-22",
+    "titulo": "Norwegian salmon prices tick back up in Week 42, while volumes drop slightly",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbFJ1TS11LTdISl9lcS1hRkozZ2RPQmxRNkNSaERCbGtyNXZndF9oam5HV19XaUpncjhiVE1aU3ZsdmgxVldwNkFfaVk2MkxZQVllblloSjFmODdXaFR0elBlenp5VG1scUNoUFJ0RzRqMVZZamltYVNoYXU3cHozTzhTcHB6aUE4MS1wMUZlQXQ?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPbFJ1TS11LTdISl9lcS1hRkozZ2RPQmxRNkNSaERCbGtyNXZndF9oam5HV19XaUpncjhiVE1aU3ZsdmgxVldwNkFfaVk2MkxZQVllblloSjFmODdXaFR0elBlenp5VG1scUNoUFJ0RzRqMVZZamltYVNoYXU3cHozTzhTcHB6aUE4MS1wMUZlQXQ?oc=5\" target=\"_blank\">Norwegian salmon prices tick back up in Week 42, while volumes drop slightly</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
     "fecha": "2026-10-21",
     "titulo": "El INIDEP cumple 49 años y sostiene con ciencia el futuro de la pesca argentina",
     "fuente": "Pescare",
@@ -602,20 +637,6 @@
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbGtaaWpLVXV2emk5QnF3TFNPRS0xNGkwWHQ5T2xyM3hoa0dtOTN6VkY4TUR2TWJacGxoLUgwdnV5SWJwbHBtYXpVN2Y4ejFWcWw0R0l0Nzl6UFRNeGxMeVJoRkVKeWxxRGQ1NDFWVGVCRkVBWnI4Zk1SZHZaMXl1QUtpeFFqVGhlODgyLTlTUjVzSm5xdWJvZWozNlFGSE1wTzZ3QmNmZ2dhR29ib2hOSzFrTzJrU1hGQ21hdktoQVU?oc=5\" target=\"_blank\">Italian law enforcement seizes EUR 18 million in money laundering, seafood trading scheme</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
-    "fecha": "2026-10-20",
-    "titulo": "Red Lobster rolls out October value promotions, makes two C-suite appointments",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVTUtdldld1RNODhrNjIwaGc1MlU5M2d0VVF2SmNNT1VMRFNPZDk4ZkJLVGlzQ3p0YUNjaDdBclNqVTVPYmwxTEF6bVp5RmZUSmRqYml5em5mRGpYVmVMZDEyWFlTUk5HeGthcmdOSEozU3NxLWhzT0JxQ0J4enk3MTU1X2RIckpMeEpra2pPaTRPcnJpc1l6akJQTmV2SXVwcmxsd2taUlNqRUVVYVA1MzRR?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQVTUtdldld1RNODhrNjIwaGc1MlU5M2d0VVF2SmNNT1VMRFNPZDk4ZkJLVGlzQ3p0YUNjaDdBclNqVTVPYmwxTEF6bVp5RmZUSmRqYml5em5mRGpYVmVMZDEyWFlTUk5HeGthcmdOSEozU3NxLWhzT0JxQ0J4enk3MTU1X2RIckpMeEpra2pPaTRPcnJpc1l6akJQTmV2SXVwcmxsd2taUlNqRUVVYVA1MzRR?oc=5\" target=\"_blank\">Red Lobster rolls out October value promotions, makes two C-suite appointments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-10-20",
-    "titulo": "BioMar announces launch of new feed formulation product BioRetain",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYUNmX1ZmZkdVbjdWYWd0Rl92TWRHN2V6cVhhb1ZCWGNBalNOSGRBTE5fWV9SbldPcTJwem9mWW4tSEozaFBMb19RWVg3bFpMa3NWcjlvUEc2TmQtZW1QcWxXYnE3VUlza2k4RnViWkNpc3c2WEd0R3lyazR1cWZuT014T25jVEZEbHVVRDRIeVRJMzVlSzk5a0IwUC1CRHkyVng1SWhCUl9KN00?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYUNmX1ZmZkdVbjdWYWd0Rl92TWRHN2V6cVhhb1ZCWGNBalNOSGRBTE5fWV9SbldPcTJwem9mWW4tSEozaFBMb19RWVg3bFpMa3NWcjlvUEc2TmQtZW1QcWxXYnE3VUlza2k4RnViWkNpc3c2WEd0R3lyazR1cWZuT014T25jVEZEbHVVRDRIeVRJMzVlSzk5a0IwUC1CRHkyVng1SWhCUl9KN00?oc=5\" target=\"_blank\">BioMar announces launch of new feed formulation product BioRetain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
     "fecha": "2026-10-19",
     "titulo": "Chubut veda la extracción de moluscos en el norte del Golfo San Jorge por marea roja",
     "fuente": "Pescare",
@@ -679,20 +700,6 @@
     "resumen": "Un video protagonizado por el marinero y creador de contenido “El Nigga del Barco” muestra cómo se separan los residuos a bordo y qué ocurre con ellos al llegar a tierra. La iniciativa impulsada por OSPA y CAPIP busca generar conciencia y promover mejores prácticas."
   },
   {
-    "fecha": "2026-10-19",
-    "titulo": "WorldFish signs agreement to establish country office in Nigeria",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUnVSekI5SVY3Znd0OEVIbnlNcGxRQThocElob2JnZ0U4ZlVhRHZVUnFZc1c2eTdOLUdKendaZHFhMTlEWGFYcnJqNWxLMncxVmMzekR1X1ZwSDFTeVpQNUQ3V2RBZTNtWDk0a2VkQUZTaWpCN056TUtjQm5iSmFQS291cTkyQkkyU3p5ZUVfRElodHVJcVNrYnRnT3BQWTNCdkJFM1lkeG1jTUFSR3BFaXZDaGRaODN0T2ZZVkxyTEp5azFOcmI1bmgycnRvZHNFa2p0Uw?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUnVSekI5SVY3Znd0OEVIbnlNcGxRQThocElob2JnZ0U4ZlVhRHZVUnFZc1c2eTdOLUdKendaZHFhMTlEWGFYcnJqNWxLMncxVmMzekR1X1ZwSDFTeVpQNUQ3V2RBZTNtWDk0a2VkQUZTaWpCN056TUtjQm5iSmFQS291cTkyQkkyU3p5ZUVfRElodHVJcVNrYnRnT3BQWTNCdkJFM1lkeG1jTUFSR3BFaXZDaGRaODN0T2ZZVkxyTEp5azFOcmI1bmgycnRvZHNFa2p0Uw?oc=5\" target=\"_blank\">WorldFish signs agreement to establish country office in Nigeria</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-10-19",
-    "titulo": "Mexico opens more area to gillnet fishing, shrinking protection for endangered vaquita",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaGhZV0xYR3hjSHl6NmVKakN2cW9rSzg2T2xLWjdiY044LVlhdWVHbGowUWdKOTIwa0ItQU1sTmpJOUhyZnhxenRPaHNlUUotNHVfd0xHaldMQ05mdDV5bjlMSVY1QXNqTldjYXVpeXFjc1o0M3FsdEE4MzlWOWFOQjRnMHZpdWd6MTBRM1FSckViS0xWWUFSMXRZUlp3WEV1amFGZnZsMEtHcUVpYy1HM3RGSnRJa3FqY3F4RQ?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNaGhZV0xYR3hjSHl6NmVKakN2cW9rSzg2T2xLWjdiY044LVlhdWVHbGowUWdKOTIwa0ItQU1sTmpJOUhyZnhxenRPaHNlUUotNHVfd0xHaldMQ05mdDV5bjlMSVY1QXNqTldjYXVpeXFjc1o0M3FsdEE4MzlWOWFOQjRnMHZpdWd6MTBRM1FSckViS0xWWUFSMXRZUlp3WEV1amFGZnZsMEtHcUVpYy1HM3RGSnRJa3FqY3F4RQ?oc=5\" target=\"_blank\">Mexico opens more area to gillnet fishing, shrinking protection for endangered vaquita</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
     "fecha": "2026-10-17",
     "titulo": "Acta CFP N° 27/2026: merluza negra, centolla y reformulaciones de proyectos pesqueros",
     "fuente": "Pescare",
@@ -726,13 +733,6 @@
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/la-anpyn-adjudico-el-relevamiento-integral-de-la-infraestructura-portuaria-argentina/",
     "resumen": "Una única empresa ganó la licitación nacional para actualizar el catastro de los puertos mediante tecnología georreferenciada. El contrato tendrá una duración inicial de doce meses."
-  },
-  {
-    "fecha": "2026-10-16",
-    "titulo": "Food Partners y Wanchese obtienen la certificación MSC de pesca sostenible de centolla",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/food-partners-y-wanchese-obtienen-la-certificacion-msc-de-pesca-sostenible-de-centolla/",
-    "resumen": "Food Partners Patagonia y Wanchese Argentina obtuvieron la certificación internacional de pesca sostenible para una unidad integrada por cinco embarcaciones del Área Central Patagónica. El reconocimiento amplía la presencia de la centolla argentina en los mercados que exigen trazabilidad y estándares ambientales reconocidos internacionalmente."
   },
   {
     "fecha": "2026-10-16",
