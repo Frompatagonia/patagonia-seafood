@@ -18,7 +18,7 @@
     "titulo": "Ingreso de Buques a Puerto de Mar del Plata",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/ingreso-de-buques-a-puerto/",
-    "resumen": "Buques programados: BP SAN PASCUAL - 21:00. Actualización: 26.OCT.2026 20:50 HS."
+    "resumen": "Buques programados: BP ANITA - 13:30 | BP DON SANTIAGO - 18:00. Actualización: 27.OCT.2026 10:50 HS."
   },
   {
     "fecha": "2026-10-27",
@@ -26,6 +26,27 @@
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/buques-operando/",
     "resumen": "Mapa interactivo de buques reportando al sistema. Áreas: Zona Común de Pesca (ARG-URU) / Zona de Veda Permanente de Juveniles de Merluza."
+  },
+  {
+    "fecha": "2026-10-27",
+    "titulo": "La actividad pesquera acumula un superávit comercial de US$1.600 millones",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/la-actividad-pesquera-acumula-un-superavit-comercial-de-us1-600-millones/",
+    "resumen": "La merluza lidera las capturas, el langostino concentra los mayores ingresos y el calamar muestra una caída en sus ventas externas. Los últimos datos oficiales permiten analizar el desempeño productivo y comercial de la pesca argentina durante 2026."
+  },
+  {
+    "fecha": "2026-10-27",
+    "titulo": "La Unión Europea prorroga hasta 2027 el arancel cero para langostino, merluza y calamar",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/la-union-europea-prorroga-hasta-2027-el-arancel-cero-para-langostino-merluza-y-calamar/",
+    "resumen": "Prorrogan por una año más un determinado cupo de especies importadas por la Unión Europea. Argentina compite por su utilización con los demás países exportadores."
+  },
+  {
+    "fecha": "2026-10-27",
+    "titulo": "Prefectura participó en la OMI sobre indemnizaciones por derrames de petróleo en el mar",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/prefectura-participo-en-la-omi-sobre-indemnizaciones-por-derrames-de-petroleo-en-el-mar/",
+    "resumen": "Argentina intervino en las reuniones internacionales que analizaron nuevas coberturas frente a la contaminación por hidrocarburos. El debate alcanza a la responsabilidad de los armadores y a la protección económica de las actividades pesqueras y portuarias."
   },
   {
     "fecha": "2026-10-27",
@@ -53,7 +74,42 @@
     "titulo": "Conarpesa amenaza otra vez con dejar a sus trabajadores sin temporada de langostino",
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/10/conarpesa-amenaza-otra-vez-con-dejar-a-sus-trabajadores-sin-temporada-de-langostino/",
-    "resumen": "Fernando Álvarez Castellano aseguró que no iniciará la zafra en Rawson hasta que se resuelva la disputa que solo su empresa tiene con el SICONARA por la liquidación del medio aguinaldo. Advirtió que sus operarios de tierra también se verán alcanzados por la falta de materia prima. Los ocho costeros de Conarpesa que operan desde […]"
+    "resumen": "Fernando Álvarez Castellano aseguró que no iniciará la zafra en Rawson hasta que se resuelva la disputa que solo su empresa tiene con el SICONARA por la liquidación del medio aguinaldo. Advirtió que sus operarios de tierra también se verán alcanzados por la falta de materia prima."
+  },
+  {
+    "fecha": "2026-10-27",
+    "titulo": "Eric Bloom leaving Eastern Fish, company promotes two to senior sales roles",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMkZTRFQyVGlnV0VEX0FoY3hwWmI4aTI4MjBxenlUMzQxRTRvbVcwZWdJWEtURlNwNFI3ZXV5U2hrclMwNnpOZmtSVmpJUTdoTUZEbHdvZ0p4UnprbWFvTWowbFNHSldDd0N3MzZEdE1NWDVfTUFtZ0I2Qk52eGUxS3BEZW9ma2gyNUhjSkVJZGt4eDM0MzlGS1hyc0tEaFFvUHdCYk0ydXc5MFlQblE?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOMkZTRFQyVGlnV0VEX0FoY3hwWmI4aTI4MjBxenlUMzQxRTRvbVcwZWdJWEtURlNwNFI3ZXV5U2hrclMwNnpOZmtSVmpJUTdoTUZEbHdvZ0p4UnprbWFvTWowbFNHSldDd0N3MzZEdE1NWDVfTUFtZ0I2Qk52eGUxS3BEZW9ma2gyNUhjSkVJZGt4eDM0MzlGS1hyc0tEaFFvUHdCYk0ydXc5MFlQblE?oc=5\" target=\"_blank\">Eric Bloom leaving Eastern Fish, company promotes two to senior sales roles</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-10-27",
+    "titulo": "California commercial fishers, conservationists join forces to reduce whale entanglements",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdURGTzd1XzJOZzhOZmtDQzBwV2Z5ZEdfcXZYeG90UHRiWDdWWGZvUWtCZVVpZmJwNGloMjJkMGV3VnRjczJCSzZwSWpNTWRrbl9BSDNGR2ZTOFAyZkdCeE9ueWJ2QkRlLUJ3b0dHTGs4Z3dyWThPcU1RMzR5TF9WZTlqYkR0OVFBb2FIT0NRRy1yVmRESUhST3o0SW1Gbk02ckZqR1NVTzFtNHh2ZVpvZWFnRFZvTTdod2VFdmRwVDg?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdURGTzd1XzJOZzhOZmtDQzBwV2Z5ZEdfcXZYeG90UHRiWDdWWGZvUWtCZVVpZmJwNGloMjJkMGV3VnRjczJCSzZwSWpNTWRrbl9BSDNGR2ZTOFAyZkdCeE9ueWJ2QkRlLUJ3b0dHTGs4Z3dyWThPcU1RMzR5TF9WZTlqYkR0OVFBb2FIT0NRRy1yVmRESUhST3o0SW1Gbk02ckZqR1NVTzFtNHh2ZVpvZWFnRFZvTTdod2VFdmRwVDg?oc=5\" target=\"_blank\">California commercial fishers, conservationists join forces to reduce whale entanglements</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-10-27",
+    "titulo": "New MSC finance model suggests certification, sustainability can unlock fishery value",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYzBQUzZDdkxOeXA1UWVaUFF3d1VONEZwd0pTcWNxUnd4ZG5lQ1I5dFZKc0RUSDRseFFjYkdyUEVvUkExcEhwY09kcWZyWXAxRHJNd3prU2dRcmdSeGV5bmZ6dk8yZWNhX0dmaFNYTHNmSE5scVBNajBJUzJfUkFTYml1UW5PRWxIV1ZLaFNYX2hGbkFhNHR3VHZwVDM4SmJMVGppdV9RUG4zTkhVQzMzSlZ1SlZTUQ?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQYzBQUzZDdkxOeXA1UWVaUFF3d1VONEZwd0pTcWNxUnd4ZG5lQ1I5dFZKc0RUSDRseFFjYkdyUEVvUkExcEhwY09kcWZyWXAxRHJNd3prU2dRcmdSeGV5bmZ6dk8yZWNhX0dmaFNYTHNmSE5scVBNajBJUzJfUkFTYml1UW5PRWxIV1ZLaFNYX2hGbkFhNHR3VHZwVDM4SmJMVGppdV9RUG4zTkhVQzMzSlZ1SlZTUQ?oc=5\" target=\"_blank\">New MSC finance model suggests certification, sustainability can unlock fishery value</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-10-27",
+    "titulo": "The Republic of Vanuatu joins voluntary agreement to protect the ocean's \"twilight zone\"",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ0R5cG96ZjJHRlpPcXlNUmFySVZnRHN4U05NczZtUWp5Y2JCeWxOcjB0QThic3NkcFNNNnhuZFUyd0d2eVJDRmNnbmxsRzdhVTlUSWdnN3VMV1RIQWZidmlTYVJvR0UyYlMzSnZ2U1hCRVRRTWJwNE4tbDUyd2t3UWVMRWpaeFdxOENqbXQ5dm95YWlEbm0ya2VLVmRjbG1CQWZrSnB4bFNzS3BEMmRuZFltdWUwZ1kyLTdTOURn?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPQ0R5cG96ZjJHRlpPcXlNUmFySVZnRHN4U05NczZtUWp5Y2JCeWxOcjB0QThic3NkcFNNNnhuZFUyd0d2eVJDRmNnbmxsRzdhVTlUSWdnN3VMV1RIQWZidmlTYVJvR0UyYlMzSnZ2U1hCRVRRTWJwNE4tbDUyd2t3UWVMRWpaeFdxOENqbXQ5dm95YWlEbm0ya2VLVmRjbG1CQWZrSnB4bFNzS3BEMmRuZFltdWUwZ1kyLTdTOURn?oc=5\" target=\"_blank\">The Republic of Vanuatu joins voluntary agreement to protect the ocean's \"twilight zone\"</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-10-27",
+    "titulo": "SRI International testing an underwater kite system that could bring power to remote areas of Alaska without diesel",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTUFyOFlXekRCUnVLSE9DYy1ibkh2SzRRYlEtNzQwQkFMbHIydkQ2NklYZ0d6R0JJeldGZ2o0b3NBSjBhdERLZ1FodmpiSHZUSzZuMUlxSmRlWVg4ZmdaeDBNZnEwMzVDWWZtS2wyQzBDdnRxNXFBRzZYSDI5M3NjeUV5V3JzR3NvRnVnMW4tR1g1b1NuTEhjWEk3bDZyOWZfbzNsTVFEVTdYcE0wN2tEbXhRaC0zbXhjZDMwaVJtT2RGLVZvRjd3MW9od3VjRnVlTk9oSTlfTjNJUHdiZzdONTBNT28?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTUFyOFlXekRCUnVLSE9DYy1ibkh2SzRRYlEtNzQwQkFMbHIydkQ2NklYZ0d6R0JJeldGZ2o0b3NBSjBhdERLZ1FodmpiSHZUSzZuMUlxSmRlWVg4ZmdaeDBNZnEwMzVDWWZtS2wyQzBDdnRxNXFBRzZYSDI5M3NjeUV5V3JzR3NvRnVnMW4tR1g1b1NuTEhjWEk3bDZyOWZfbzNsTVFEVTdYcE0wN2tEbXhRaC0zbXhjZDMwaVJtT2RGLVZvRjd3MW9od3VjRnVlTk9oSTlfTjNJUHdiZzdONTBNT28?oc=5\" target=\"_blank\">SRI International testing an underwater kite system that could bring power to remote areas of Alaska without diesel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
     "fecha": "2026-10-26",
@@ -567,13 +623,6 @@
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRXNOY2ZocEI0aHROT08zeGZFa0lEZ3JiRFdVQi0tT2JsMU9CT2hWeDBfTlBlN2JtcnVDejBrdTZTMUM1eXRXMEJoWE1GdzdWYVJrVW5rSEVwWTdMUk1keXV3ZlVTRnpKdnhoLUtka2dQZW45ak1QaFFiMGl2UWZEU0d0MFZpNHU0eFdFZGRFZmRnczFuREdWRV91eGxkLVQ0Z1lxRHZYd1F1QkE0d1ZYdjdmMEhpQTdOOEVz?oc=5\" target=\"_blank\">Pricing Analysis: Record diesel prices continue to profoundly affect global seafood sector</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
-    "fecha": "2026-10-21",
-    "titulo": "DNV secures majority stake in Chilean aquaculture consultancy Aquabench",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUW9tanc2T25jQnFHRHZfMEJZRmtiZk91MUlzbmgtQ1ZKcXBVSlFlbWMwT09pdU9UaEFQTjJrVnZrUTlaQjhHLUNsQjZ5Y0MxU0pMLWZ2dWljTDRuZF9EV0xXbzlVN0VxZmNjRmwzb3FRQTgtaEMyRFlHY3d4TDMtTVNsb1N4SFZnY1BwZWFYMzVjTXdfQWdNUmZQOEY1aV9Pd0JlUEQtbWp1QQ?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUW9tanc2T25jQnFHRHZfMEJZRmtiZk91MUlzbmgtQ1ZKcXBVSlFlbWMwT09pdU9UaEFQTjJrVnZrUTlaQjhHLUNsQjZ5Y0MxU0pMLWZ2dWljTDRuZF9EV0xXbzlVN0VxZmNjRmwzb3FRQTgtaEMyRFlHY3d4TDMtTVNsb1N4SFZnY1BwZWFYMzVjTXdfQWdNUmZQOEY1aV9Pd0JlUEQtbWp1QQ?oc=5\" target=\"_blank\">DNV secures majority stake in Chilean aquaculture consultancy Aquabench</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
     "fecha": "2026-10-20",
     "titulo": "El Crucero MS Seaventure ingresó a Mar del Plata rumbo a la Antártida",
     "fuente": "Pescare",
@@ -635,34 +684,6 @@
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/10/se-ejecutara-la-reparacion-del-muelle-de-puerto-deseado/",
     "resumen": "La comisión de adjudicación dio por “aprobada” la oferta técnica y económica de DyOPSA. Consiste en la construcción a nuevo del Sitio 4 que no está operativo hace años. La Provincia utilizó un fondo fiduciario para disponer de 12.000 millones de pesos que costarán los trabajos."
-  },
-  {
-    "fecha": "2026-10-20",
-    "titulo": "Trump signs seafood testing bill into law",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTWFMSE5JRWRlQzh0SzE1aS1USWxibkpHSUZDU0xBc3hib1lOY1Y1ckJjNThQTERvTlFqeTN5RG5za3JjcUpuZ1AyZE9WV3pIVmhrV1I0SWN4WUVUQVFyTGVPTVVuX2FxdWRERGRNRkY2NWJvV20xZTgzWGg4OTlVRXR3?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNTWFMSE5JRWRlQzh0SzE1aS1USWxibkpHSUZDU0xBc3hib1lOY1Y1ckJjNThQTERvTlFqeTN5RG5za3JjcUpuZ1AyZE9WV3pIVmhrV1I0SWN4WUVUQVFyTGVPTVVuX2FxdWRERGRNRkY2NWJvV20xZTgzWGg4OTlVRXR3?oc=5\" target=\"_blank\">Trump signs seafood testing bill into law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-10-20",
-    "titulo": "Two Nova Scotia seafood companies charged with buying illegally harvested lobsters",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTFBZNkpVZDV4UDdXWURKdEh1WjFHWDBqT3M2MldRRHVwNDhqanVwd1cxeFVLT0xqZkVkVlZaa2lUOHJIWVp3MHhXYTQ3RVVVTHhVeWJ3T2hfQ0NvYjNQNzFCOGtrSlFWeHVyYl9IV1NLRmQ1b3lSOElHdnBoNFZrTk8tdHVRVmNua18xWks3eTV0Qkt3dTRrSGNBTzlPWkFOZU1tbUI1c3NaTEQ3WW5lSmVLd0dUT3RhVlE?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOTFBZNkpVZDV4UDdXWURKdEh1WjFHWDBqT3M2MldRRHVwNDhqanVwd1cxeFVLT0xqZkVkVlZaa2lUOHJIWVp3MHhXYTQ3RVVVTHhVeWJ3T2hfQ0NvYjNQNzFCOGtrSlFWeHVyYl9IV1NLRmQ1b3lSOElHdnBoNFZrTk8tdHVRVmNua18xWks3eTV0Qkt3dTRrSGNBTzlPWkFOZU1tbUI1c3NaTEQ3WW5lSmVLd0dUT3RhVlE?oc=5\" target=\"_blank\">Two Nova Scotia seafood companies charged with buying illegally harvested lobsters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-10-20",
-    "titulo": "Environmental group sues for records related to Trump administration’s ESA rollbacks",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbVNGU3RLSE1DNkpDY2N3RUVNNHFUYTVVWm1vbWF2eXBtVUJvcEtvdW9OQVYtLVlnajlqdlBOYmUwcjYzOVhNVHM4UVhkdFF6QmZMYU9fakhpYUMtdGRJTUltWkZaa0dWM3Z2Q29hTVhaQUZfdGNPMS13XzZIazFhOWNpd2ZodGhTaHV6YUt5X05MUUYxaGg0TVFId0JsdEZqMnh6ZGZmWlZaOExFZV9UdQ?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQbVNGU3RLSE1DNkpDY2N3RUVNNHFUYTVVWm1vbWF2eXBtVUJvcEtvdW9OQVYtLVlnajlqdlBOYmUwcjYzOVhNVHM4UVhkdFF6QmZMYU9fakhpYUMtdGRJTUltWkZaa0dWM3Z2Q29hTVhaQUZfdGNPMS13XzZIazFhOWNpd2ZodGhTaHV6YUt5X05MUUYxaGg0TVFId0JsdEZqMnh6ZGZmWlZaOExFZV9UdQ?oc=5\" target=\"_blank\">Environmental group sues for records related to Trump administration’s ESA rollbacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-10-20",
-    "titulo": "Italian law enforcement seizes EUR 18 million in money laundering, seafood trading scheme",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbGtaaWpLVXV2emk5QnF3TFNPRS0xNGkwWHQ5T2xyM3hoa0dtOTN6VkY4TUR2TWJacGxoLUgwdnV5SWJwbHBtYXpVN2Y4ejFWcWw0R0l0Nzl6UFRNeGxMeVJoRkVKeWxxRGQ1NDFWVGVCRkVBWnI4Zk1SZHZaMXl1QUtpeFFqVGhlODgyLTlTUjVzSm5xdWJvZWozNlFGSE1wTzZ3QmNmZ2dhR29ib2hOSzFrTzJrU1hGQ21hdktoQVU?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbGtaaWpLVXV2emk5QnF3TFNPRS0xNGkwWHQ5T2xyM3hoa0dtOTN6VkY4TUR2TWJacGxoLUgwdnV5SWJwbHBtYXpVN2Y4ejFWcWw0R0l0Nzl6UFRNeGxMeVJoRkVKeWxxRGQ1NDFWVGVCRkVBWnI4Zk1SZHZaMXl1QUtpeFFqVGhlODgyLTlTUjVzSm5xdWJvZWozNlFGSE1wTzZ3QmNmZ2dhR29ib2hOSzFrTzJrU1hGQ21hdktoQVU?oc=5\" target=\"_blank\">Italian law enforcement seizes EUR 18 million in money laundering, seafood trading scheme</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
     "fecha": "2026-10-19",
@@ -740,27 +761,6 @@
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/peru-frena-la-segunda-temporada-de-anchoveta-y-agrava-la-escasez-mundial-de-harina-y-aceite-de-pescado/",
     "resumen": "La decisión de PRODUCE, respaldada por el IMARPE tras detectar un 79% de ejemplares juveniles, profundiza la incertidumbre sobre el abastecimiento mundial de harina y aceite de pescado. Los mercados ya anticipaban la escasez, mientras la industria peruana enfrenta una prolongada paralización y miles de trabajadores ven comprometidos sus ingresos."
-  },
-  {
-    "fecha": "2026-10-17",
-    "titulo": "Langostino: el CFP aprueba la reformulación de permisos y ordena desguazar el Ángela",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/langostino-el-cfp-aprueba-la-reformulacion-de-permisos-y-ordena-desguazar-el-angela/",
-    "resumen": "La decisión redefine las autorizaciones de captura de cuatro embarcaciones y establece un nuevo esquema con 520 toneladas anuales de langostino. Su ejecución queda condicionada a la justificación de inactividad comercial del María Gracia."
-  },
-  {
-    "fecha": "2026-10-16",
-    "titulo": "Tandanor terminó de reparar tres buques poteros para la próxima temporada de calamar illex",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/tandanor-termino-de-reparar-tres-buques-poteros-para-la-proxima-temporada-de-calamar-illex/",
-    "resumen": "El astillero finalizó los trabajos sobre tres embarcaciones de 70 metros de eslora, con intervenciones en sistemas de propulsión, estructuras y equipos de gobierno. Los mismos buques habían pasado por sus instalaciones en 2023, cuando uno de ellos participó de la recuperación operativa de la Planta 1."
-  },
-  {
-    "fecha": "2026-10-16",
-    "titulo": "La ANPyN adjudicó el relevamiento integral de la infraestructura portuaria argentina",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/la-anpyn-adjudico-el-relevamiento-integral-de-la-infraestructura-portuaria-argentina/",
-    "resumen": "Una única empresa ganó la licitación nacional para actualizar el catastro de los puertos mediante tecnología georreferenciada. El contrato tendrá una duración inicial de doce meses."
   },
   {
     "fecha": "2026-10-16",
