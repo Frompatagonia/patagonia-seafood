@@ -18,7 +18,7 @@
     "titulo": "Ingreso de Buques a Puerto de Mar del Plata",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/ingreso-de-buques-a-puerto/",
-    "resumen": "Buques programados: BP MERCEA C - 01:00 | BP MARIANELA - 02:00 | BP SAN JORGE MARTIR - 11:30 | BP TESON - 18:00 | BP MARIA GLORIA - 18:00. Actualización: 27.OCT.2026 23:27 HS."
+    "resumen": "Buques programados: BP SAN JORGE MARTIR - 11:30 | BP TESON - 18:00 | BP MARIA GLORIA - 18:00 | BP NONO PASCUAL - 19:00 | BP PROMAC - 22:00 | BP MARIA EUGENIA - 23:30. Actualización: 28.OCT.2026 06:07 HS."
   },
   {
     "fecha": "2026-10-28",
@@ -26,6 +26,27 @@
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/buques-operando/",
     "resumen": "Mapa interactivo de buques reportando al sistema. Áreas: Zona Común de Pesca (ARG-URU) / Zona de Veda Permanente de Juveniles de Merluza."
+  },
+  {
+    "fecha": "2026-10-28",
+    "titulo": "Langostino en Chubut. “Algunos barcos tuvieron buenas capturas”, Diego Brandán",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/langostino-en-chubut-algunos-barcos-tuvieron-buenas-capturas-diego-brandan/",
+    "resumen": "La prospección al norte de Rawson registró rendimientos desiguales, con langostino de buen tamaño comercial. La autoridad provincial aguarda los resultados de este miércoles para establecer los próximos pasos de la temporada 2026/2027."
+  },
+  {
+    "fecha": "2026-10-28",
+    "titulo": "Arrancó la China Fisheries & Seafood Expo 2026 con fuerte presencia argentina",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/arranco-la-china-fisheries-seafood-expo-2026-con-fuerte-presencia-argentina/",
+    "resumen": "La exposición de Qingdao reúne a la industria mundial del sector. Argentina busca ampliar negocios en un mercado que ya representa el 25% de sus exportaciones pesqueras."
+  },
+  {
+    "fecha": "2026-10-28",
+    "titulo": "Diputados buscan declarar la emergencia costera para proteger los puertos patagónicos",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/diputados-buscan-declarar-la-emergencia-costera-para-proteger-los-puertos-patagonicos/",
+    "resumen": "Un proyecto presentado en Diputados propone obras de defensa marítima y financiamiento nacional ante el avance de la erosión en Chubut y Santa Cruz."
   },
   {
     "fecha": "2026-10-28",
@@ -54,6 +75,41 @@
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/10/proponen-planes-oceanicos-sostenibles-para-ordenar-el-mar-argentino/",
     "resumen": "El diplomático Javier Figueroa, exembajador ante el Reino Unido y hoy a cargo de la Coordinación de Política Oceánica y del Atlántico Sur de la Cancillería, plantea integrar pesca, energía, conservación y soberanía en una misma hoja de ruta, y sostiene que la causa Malvinas debe pasar de la fuerza emocional a políticas y presupuestos sostenidos."
+  },
+  {
+    "fecha": "2026-10-28",
+    "titulo": "Indonesia to provide 4,582 free fishing vessels to fishers under USD 13 billion modernization plan",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRkRuUERtUlpTNzZpaV9vc3pLZlBKWXpMaUhLVXB1SHlLdm5RT1BjMGhIM3V6b3Q4Uk4yN2xneEdlRVd4UFVLdXBmQjluX3NEaFBEcUx1UHZ0RjhRS3V0Z3A1MFhVMVp0cUFndXpYbnIyc0pBb2U3VTJLc21tQ1JNYVByc003QkpMeHRWRXNVQ0FIeVNyWHZpcEt0OWtKYm9XVmRKZVNGRmQ3d3JwTnhvek4wY0NMZWl6bWQ0d29qaktKdS0wbTFUNDZJdllGdw?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPRkRuUERtUlpTNzZpaV9vc3pLZlBKWXpMaUhLVXB1SHlLdm5RT1BjMGhIM3V6b3Q4Uk4yN2xneEdlRVd4UFVLdXBmQjluX3NEaFBEcUx1UHZ0RjhRS3V0Z3A1MFhVMVp0cUFndXpYbnIyc0pBb2U3VTJLc21tQ1JNYVByc003QkpMeHRWRXNVQ0FIeVNyWHZpcEt0OWtKYm9XVmRKZVNGRmQ3d3JwTnhvek4wY0NMZWl6bWQ0d29qaktKdS0wbTFUNDZJdllGdw?oc=5\" target=\"_blank\">Indonesia to provide 4,582 free fishing vessels to fishers under USD 13 billion modernization plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-10-28",
+    "titulo": "Pricing Analysis: The Peruvian anchovy season cancellation and Atlantic salmon prices",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSFFDMkMtaEFnQjA0UlhrcUZucnlONTI0YWRYQk9yaDE4ZFBPVUNTZlpia2V4eExmbmM3Q2hwMUpFdFAzcERsLS1vV3hFQWhnVDBoUEFPdHY3S3lnam91MVpiRGItNDd0WElwbGI1RnFfMVBPbEF0U1JlRDVWeGd5Q2ROUE9JVjBIZWdxWm9ZdDB3N3h2di1FYmU5cVJJMktxeUcxZw?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNSFFDMkMtaEFnQjA0UlhrcUZucnlONTI0YWRYQk9yaDE4ZFBPVUNTZlpia2V4eExmbmM3Q2hwMUpFdFAzcERsLS1vV3hFQWhnVDBoUEFPdHY3S3lnam91MVpiRGItNDd0WElwbGI1RnFfMVBPbEF0U1JlRDVWeGd5Q2ROUE9JVjBIZWdxWm9ZdDB3N3h2di1FYmU5cVJJMktxeUcxZw?oc=5\" target=\"_blank\">Pricing Analysis: The Peruvian anchovy season cancellation and Atlantic salmon prices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-10-28",
+    "titulo": "ITUNNES project seeking continued EU support to sustain tropical tuna research network",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM1hmX1lndDBFSXNvbUxxRUQwSkI1azUtWGdzX294MC1aMTdUdVBEWDFXS2hQR3RwMmRzS1BKenN3RFNQVVFjcG5jV2h5S01Za0MzX0Z4MVg3WkliTzVxR00xTmNVLXBERnZWVUFkVFpFVFRmbUdhMnFfZGlmOGZ3RTBxYnpFOF9LWm1ZNldlOC1LUWhROUE4Um1yWncxQlo5enhlQ2FJM3ZKSnhLT0g3RkR5a1VDSnU0Qy1pX0pn?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOM1hmX1lndDBFSXNvbUxxRUQwSkI1azUtWGdzX294MC1aMTdUdVBEWDFXS2hQR3RwMmRzS1BKenN3RFNQVVFjcG5jV2h5S01Za0MzX0Z4MVg3WkliTzVxR00xTmNVLXBERnZWVUFkVFpFVFRmbUdhMnFfZGlmOGZ3RTBxYnpFOF9LWm1ZNldlOC1LUWhROUE4Um1yWncxQlo5enhlQ2FJM3ZKSnhLT0g3RkR5a1VDSnU0Qy1pX0pn?oc=5\" target=\"_blank\">ITUNNES project seeking continued EU support to sustain tropical tuna research network</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-10-28",
+    "titulo": "USDA announces USD 5 billion in loans available for seafood and meat processors",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSndJWElWT1h0VFI3eWswd3M3N2hNWFVJQ2doM1lYcGxRSW95RGlxR203U3B4czI3bmhORFNiVnQyYXZJZk1zOGt5b3ZHWFNRdGkwZ19yTXdJYjBEdWhyLTNYZW1sSFNYZEwxUm1SQ0ZQOC1Tb0dOWXo4UHJYb1NiSlNLd2dwcWhFMDVBbEdwYUFRbG4xVFBZYnFwcUhCMUROWExnaUpUcE13UnBCTThhZmVOTzQ?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQSndJWElWT1h0VFI3eWswd3M3N2hNWFVJQ2doM1lYcGxRSW95RGlxR203U3B4czI3bmhORFNiVnQyYXZJZk1zOGt5b3ZHWFNRdGkwZ19yTXdJYjBEdWhyLTNYZW1sSFNYZEwxUm1SQ0ZQOC1Tb0dOWXo4UHJYb1NiSlNLd2dwcWhFMDVBbEdwYUFRbG4xVFBZYnFwcUhCMUROWExnaUpUcE13UnBCTThhZmVOTzQ?oc=5\" target=\"_blank\">USDA announces USD 5 billion in loans available for seafood and meat processors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-10-28",
+    "titulo": "NGOs call marketing practices of industrial krill firms into question as CCAMLR annual meeting nears conclusion",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRm5YWkVSaWdKNkliT015aG05b19naWRRR3puUnJJUUFadElkbXBTS2hlN1A3cDF5M0RNdGNjYmNDUFUzTlU4bG9hcFZQRmpfUE4xdHZMREQzVEkwaWZ6cVNOVFhpcTZnRGJVcWtGY2N5ME5oOWE1b3ZxaldQWTBnRk95SE1Dd09nT01RckdsMjNNMjNVWG1jeG5fSmRHWHMwMGwwYTRoY3lqekxEZE9lZHBMU0ppOFkwemtqRUo0T2U4dnFFTW1fQkhOb0RkMmJuQjhWLVJaWGZHN096ZXM4?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRm5YWkVSaWdKNkliT015aG05b19naWRRR3puUnJJUUFadElkbXBTS2hlN1A3cDF5M0RNdGNjYmNDUFUzTlU4bG9hcFZQRmpfUE4xdHZMREQzVEkwaWZ6cVNOVFhpcTZnRGJVcWtGY2N5ME5oOWE1b3ZxaldQWTBnRk95SE1Dd09nT01RckdsMjNNMjNVWG1jeG5fSmRHWHMwMGwwYTRoY3lqekxEZE9lZHBMU0ppOFkwemtqRUo0T2U4dnFFTW1fQkhOb0RkMmJuQjhWLVJaWGZHN096ZXM4?oc=5\" target=\"_blank\">NGOs call marketing practices of industrial krill firms into question as CCAMLR annual meeting nears conclusion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
     "fecha": "2026-10-27",
@@ -560,34 +616,6 @@
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYklZVWNWbzlwd3E1OUd5TE9ORl91WlVIQTZleXpjZHpacTVaVk50SXZkWkhsWGRaS2dFSlY1NUhJdGJfS1ZVdWxNd3lCS1p3NWtSN0dXRG9fZUdpM3FNTXhCT01qeGVWcHMxNk45eFBzRTBTcW4yc0ZSanAtTG5wbHpKN0RMMzZDSFFsanQ0am1uR2lla2dIU3pIMkkwVzNPT24tMTZCODdNNmhfd0k0dTYzV0Y0ZWRrLU82OVcxdHZOS0s4SnBxYXlnSFJGZjBnOS1DRFJSckFfU21HdXh5SA?oc=5\" target=\"_blank\">Industry, fishing gear firms team up to tackle seal bycatch challenges in the North Sea with excluder innovations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
-    "fecha": "2026-10-22",
-    "titulo": "Class-action lawsuit against Biloxi restaurant Mary Mahoney’s, wholesaler Quality Seafood & Poultry reinstated",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVTB1Q3AxN05Vek5IWk1HcTBSTVdQVWNKZnh4eVp5V3RXc196RDB6YVF1M1RHSmlWU1p6TmU1Y3ZuQXF3RmtITE15c3psNGtQcTZKZk5PZEZnQlV1RmJrMVVTTDBKSklfWk15OUlIczJEU1NGYU42elhvWjJ0eXBYTTlvVm9oLU5SdVJpVnhXcjNTMW1rY1ZTQ0liT2xpR0t5NVRReEl5Q2p0NmhzSDM4RHFLWjgzd3lNQm9icWJtNzUtNjlCdXFVX19sSXQ0YmhJT2I0dmduV3F6UQ?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVTB1Q3AxN05Vek5IWk1HcTBSTVdQVWNKZnh4eVp5V3RXc196RDB6YVF1M1RHSmlWU1p6TmU1Y3ZuQXF3RmtITE15c3psNGtQcTZKZk5PZEZnQlV1RmJrMVVTTDBKSklfWk15OUlIczJEU1NGYU42elhvWjJ0eXBYTTlvVm9oLU5SdVJpVnhXcjNTMW1rY1ZTQ0liT2xpR0t5NVRReEl5Q2p0NmhzSDM4RHFLWjgzd3lNQm9icWJtNzUtNjlCdXFVX19sSXQ0YmhJT2I0dmduV3F6UQ?oc=5\" target=\"_blank\">Class-action lawsuit against Biloxi restaurant Mary Mahoney’s, wholesaler Quality Seafood & Poultry reinstated</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-10-22",
-    "titulo": "New York invests another USD 6.5 million in Long Island shellfish hatchery",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOX1VFRGtlUWNNbC1xYXU5NlQ2UmxjSkw4MUQ1QTdzM3h2MUkwbEtsai00MENSR2czTkdiam5rVThvVm1kYTNiRmVGU3RWRHNPM0F1Y01wMDZsTFJ4eFdlMjlEUVVpZURGSVhxV1VDMkpzM3RTRzhOOGUxbHI4UGFYUE5DZklIeUhNRFVtWkFRNXR4NWJxMG01RXRZTF9lcTh3SnFGTHI1d2ROcEEtSVE?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOX1VFRGtlUWNNbC1xYXU5NlQ2UmxjSkw4MUQ1QTdzM3h2MUkwbEtsai00MENSR2czTkdiam5rVThvVm1kYTNiRmVGU3RWRHNPM0F1Y01wMDZsTFJ4eFdlMjlEUVVpZURGSVhxV1VDMkpzM3RTRzhOOGUxbHI4UGFYUE5DZklIeUhNRFVtWkFRNXR4NWJxMG01RXRZTF9lcTh3SnFGTHI1d2ROcEEtSVE?oc=5\" target=\"_blank\">New York invests another USD 6.5 million in Long Island shellfish hatchery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-10-22",
-    "titulo": "Totoaba trafficking rings linked to human smuggling, money laundering across Mexico, US, China",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOM2xGM2lsQVVhMkk3VW5xeFFxQjB4MnUzRWp2cTRqekpzcHZhQnJ5V3Q5bC1JenlkamtJTlZXNDNaanpOQ2tpbG8wcGdmMGZvLVhUWGNnWlBBQmNwTnNZNWFPelZUVUFUbUtJZnpZUkgwREJhQ1lnbUx5Sll5aUtROXFwZUxJT18tbDcyai12aU95Q2dPMHBFeHkzV1F1NHI2cUREN21zOGx0bmFRS2toa2lKdTVDRGl3WVBYaVI1b3ctSkhh?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOM2xGM2lsQVVhMkk3VW5xeFFxQjB4MnUzRWp2cTRqekpzcHZhQnJ5V3Q5bC1JenlkamtJTlZXNDNaanpOQ2tpbG8wcGdmMGZvLVhUWGNnWlBBQmNwTnNZNWFPelZUVUFUbUtJZnpZUkgwREJhQ1lnbUx5Sll5aUtROXFwZUxJT18tbDcyai12aU95Q2dPMHBFeHkzV1F1NHI2cUREN21zOGx0bmFRS2toa2lKdTVDRGl3WVBYaVI1b3ctSkhh?oc=5\" target=\"_blank\">Totoaba trafficking rings linked to human smuggling, money laundering across Mexico, US, China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-10-22",
-    "titulo": "Norwegian salmon prices tick back up in Week 42, while volumes drop slightly",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbFJ1TS11LTdISl9lcS1hRkozZ2RPQmxRNkNSaERCbGtyNXZndF9oam5HV19XaUpncjhiVE1aU3ZsdmgxVldwNkFfaVk2MkxZQVllblloSjFmODdXaFR0elBlenp5VG1scUNoUFJ0RzRqMVZZamltYVNoYXU3cHozTzhTcHB6aUE4MS1wMUZlQXQ?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPbFJ1TS11LTdISl9lcS1hRkozZ2RPQmxRNkNSaERCbGtyNXZndF9oam5HV19XaUpncjhiVE1aU3ZsdmgxVldwNkFfaVk2MkxZQVllblloSjFmODdXaFR0elBlenp5VG1scUNoUFJ0RzRqMVZZamltYVNoYXU3cHozTzhTcHB6aUE4MS1wMUZlQXQ?oc=5\" target=\"_blank\">Norwegian salmon prices tick back up in Week 42, while volumes drop slightly</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
     "fecha": "2026-10-21",
     "titulo": "El INIDEP cumple 49 años y sostiene con ciencia el futuro de la pesca argentina",
     "fuente": "Pescare",
@@ -642,13 +670,6 @@
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/10/expectativa-por-el-inicio-de-la-temporada-de-pesca-de-rawson/",
     "resumen": "La semana próxima se hará la prospección, aún no está firmada la resolución. La casi totalidad de las plantas está sin actividad desde que terminó la zafra de langostino de aguas nacionales. Trabajadores de los diferentes eslabones de la cadena productiva aguardan definiciones."
-  },
-  {
-    "fecha": "2026-10-21",
-    "titulo": "European Commission unveils Vision 2040 for fisheries and aquaculture",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMU1IdThGdldKUk1yS3Fyc0VBUWVpeWFTcS1GQUR6a3A0bU1wZm5VbkFzM3U4WU15ZFEzS0hRaEUxLXhzdjlReldaLTVFdmtqZUREdG41VDFRb2dQQW9lWVkzTWJvUUVsRnVqUXZoQzB2ZndUbmVJSW5hQmVnSHpXWWE5dkU3MjZiZGJGYThQdno5aXFhRlFONzJ5R0pYTXVRSm1CU25hcw?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOMU1IdThGdldKUk1yS3Fyc0VBUWVpeWFTcS1GQUR6a3A0bU1wZm5VbkFzM3U4WU15ZFEzS0hRaEUxLXhzdjlReldaLTVFdmtqZUREdG41VDFRb2dQQW9lWVkzTWJvUUVsRnVqUXZoQzB2ZndUbmVJSW5hQmVnSHpXWWE5dkU3MjZiZGJGYThQdno5aXFhRlFONzJ5R0pYTXVRSm1CU25hcw?oc=5\" target=\"_blank\">European Commission unveils Vision 2040 for fisheries and aquaculture</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
     "fecha": "2026-10-20",
@@ -743,13 +764,6 @@
   },
   {
     "fecha": "2026-10-19",
-    "titulo": "Santa Cruz recupera sus puertos para atraer inversiones",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/santa-cruz-recupera-sus-puertos-para-atraer-inversiones/",
-    "resumen": "La provincia impulsa obras en Puerto Deseado y Caleta Paula para mejorar las condiciones operativas, mientras evalúa inversiones de empresarios chinos en Punta Quilla, incluida la posible instalación de una planta conservera."
-  },
-  {
-    "fecha": "2026-10-19",
     "titulo": "Malvinas: una demanda colectiva que depende del juez que le toque",
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/10/malvinas-una-demanda-colectiva-que-depende-del-juez-que-le-toque/",
@@ -775,20 +789,6 @@
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/10/apuestan-a-un-marinero-influencer-para-mejorar-la-separacion-de-residuos-a-bordo/",
     "resumen": "Un video protagonizado por el marinero y creador de contenido “El Nigga del Barco” muestra cómo se separan los residuos a bordo y qué ocurre con ellos al llegar a tierra. La iniciativa impulsada por OSPA y CAPIP busca generar conciencia y promover mejores prácticas."
-  },
-  {
-    "fecha": "2026-10-17",
-    "titulo": "Acta CFP N° 27/2026: merluza negra, centolla y reformulaciones de proyectos pesqueros",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/acta-cfp-n-27-2026-merluza-negra-centolla-y-reformulaciones-de-proyectos-pesqueros/",
-    "resumen": "El Consejo Federal Pesquero aprobó la distribución de 620 toneladas de merluza negra, estableció las capturas máximas de centolla para la temporada 2026-2027 y autorizó modificaciones en proyectos pesqueros. También resolvió el cambio de puerto de asiento de dos buques poteros a Puerto Madryn y abordó planteos vinculados con la normativa aplicable a embarcaciones nacionales y extranjeras."
-  },
-  {
-    "fecha": "2026-10-17",
-    "titulo": "Perú frena la segunda temporada de anchoveta y agrava la escasez mundial de harina y aceite de pescado",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/peru-frena-la-segunda-temporada-de-anchoveta-y-agrava-la-escasez-mundial-de-harina-y-aceite-de-pescado/",
-    "resumen": "La decisión de PRODUCE, respaldada por el IMARPE tras detectar un 79% de ejemplares juveniles, profundiza la incertidumbre sobre el abastecimiento mundial de harina y aceite de pescado. Los mercados ya anticipaban la escasez, mientras la industria peruana enfrenta una prolongada paralización y miles de trabajadores ven comprometidos sus ingresos."
   },
   {
     "fecha": "2026-10-16",
