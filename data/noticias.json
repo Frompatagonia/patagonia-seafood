@@ -18,7 +18,7 @@
     "titulo": "Ingreso de Buques a Puerto de Mar del Plata",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/ingreso-de-buques-a-puerto/",
-    "resumen": "Buques programados: BP MARIA EUGENIA - 23:30. Actualización: 28.OCT.2026 23:07 HS."
+    "resumen": "Buques programados: BP CTE. LUIS PIEDRABUENA - 13:15 | BP V. MARIA INMACULADA - 19:30 | BP SFIDA - 20:00 | BP ANTONIA D - 20:00 | BP SANT´ANTONIO - 22:30. Actualización: 29.OCT.2026 10:03 HS."
   },
   {
     "fecha": "2026-10-29",
@@ -26,6 +26,97 @@
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/buques-operando/",
     "resumen": "Mapa interactivo de buques reportando al sistema. Áreas: Zona Común de Pesca (ARG-URU) / Zona de Veda Permanente de Juveniles de Merluza."
+  },
+  {
+    "fecha": "2026-10-29",
+    "titulo": "Diputados dio dictamen a nuevas sanciones por pesca sin permiso argentino",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/diputados-dio-dictamen-a-nuevas-sanciones-por-pesca-sin-permiso-argentino/",
+    "resumen": "El proyecto de Ley de Defensa de la Soberanía Nacional incorpora nuevas multas e inhabilitaciones para la explotación pesquera en Malvinas y modifica las responsabilidades de empresas, accionistas y prestadores de servicios."
+  },
+  {
+    "fecha": "2026-10-29",
+    "titulo": "Langostino en Chubut: las bajas capturas generan dudas sobre el inicio de la temporada",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/langostino-en-chubut-las-bajas-capturas-generan-dudas-sobre-el-inicio-de-la-temporada/",
+    "resumen": "Los resultados conocidos durante la jornada del miércoles mantienen la incertidumbre sobre la apertura comercial. A bordo, consideran que todavía no se observan rendimientos suficientes, aunque restan jornadas de evaluación antes de una definición."
+  },
+  {
+    "fecha": "2026-10-29",
+    "titulo": "Malvinas: Argentina Azul pide intervenir en la causa pesquera y plantea derechos sobre la plataforma continental",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/malvinas-argentina-azul-pide-intervenir-en-la-causa-pesquera-y-plantea-derechos-sobre-la-plataforma-continental/",
+    "resumen": "La presentación incorpora fundamentos sobre los recursos del fondo marino y una iniciativa legislativa dirigida a los buques que operan sin autorización argentina. La Justicia deberá determinar su admisión y alcance dentro del proceso colectivo."
+  },
+  {
+    "fecha": "2026-10-29",
+    "titulo": "“Un proyecto que intentan llamar de soberanía y se redactó en Estados Unidos”",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/10/un-proyecto-que-intentan-llamar-de-soberania-y-se-redacto-en-estados-unidos/",
+    "resumen": "El dictamen de la Ley de Soberanía reunió 60 firmas sin que la oposición tuviera el texto y varios diputados acusaron al gobierno de ceder ante Estados Unidos. Los cambios acotan las sanciones por Malvinas. Para la pesca, la herramienta sigue siendo el artículo 27 bis de la Ley de Pesca."
+  },
+  {
+    "fecha": "2026-10-29",
+    "titulo": "“Hay una política de discriminación hacia la pesca”",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/10/hay-una-politica-de-discriminacion-hacia-la-pesca/",
+    "resumen": "Fernando Rivera, presidente de CaIPA, desglosa el aumento de costos que enfrenta la industria en tierra y en el mar, los cuales se elevaron mucho más que la variación del tipo de cambio. “La situación es insostenible”, aseguró."
+  },
+  {
+    "fecha": "2026-10-29",
+    "titulo": "La causa por contaminación que involucra a Conarpesa vuelve a juicio",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/10/la-causa-por-contaminacion-que-involucra-a-conarpesa-vuelve-a-juicio/",
+    "resumen": "El debate se realizará en Puerto Madryn, tras la anulación del Superior Tribunal de Justicia del Chubut a la absolución dictada en el primer juicio. La Fiscalía presentó pericias que detectaron concentraciones de materia orgánica superiores y coliformes muy superiores a los límites permitidos."
+  },
+  {
+    "fecha": "2026-10-29",
+    "titulo": "Promueven la reconversión laboral de tripulantes de pesca a los hidrocarburos",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/10/promueven-la-reconversion-laboral-de-tripulantes-de-pesca-a-los-hidrocarburos/",
+    "resumen": "Proponen la capacitación y habilitaciones necesarias para que trabajadores marítimos de San Antonio Oeste y Sierra Grande accedan a empleos vinculados con los proyectos hidrocarburíferos de Río Negro. Se enmarca en la Ley 80/20 que prioriza la contratación de mano de obra rionegrina."
+  },
+  {
+    "fecha": "2026-10-29",
+    "titulo": "Impulsan proyecto para reducir impuestos sobre actividades portuarias",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/10/impulsan-proyecto-para-reducir-impuestos-sobre-actividades-portuarias/",
+    "resumen": "La senadora bonaerense Cecilia Martínez (LLA) presentó la iniciativa para terminales provinciales. El proyecto contempla dos medidas: bajar un 50% el impuesto sobre los Ingresos Brutos y eliminar el adicional que se cobra por el movimiento de cargas. Mar del Plata exhibe números rojos."
+  },
+  {
+    "fecha": "2026-10-29",
+    "titulo": "Global Fishing Watch and Ai2 announce another partnership to use AI in vessel tracking globally",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPR2lIWnhYMzBBcDRJYXNETDRhUzJYVjVLX1Z6cURwVlhpZ0lhUmF2WmZfRU5LNUJSSm9MRzJ1OVNJdTlxQk1UQmNCbVVMZndDSmZ5VUpDcGtiRlplOWhSNXdVaDN1empQUkY5bENydGRVU1c5LVdubzFkVU15Y3UzRS1jZVFUa19ZVEd3QzJ0bzNnazZJcVZPV3EwVjVSWENVRFFSTnZOdm5EMkpPbGxhcXdQY0VZZS1kY0pyM3BGSnhGWjVFVUhwQmdn?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPR2lIWnhYMzBBcDRJYXNETDRhUzJYVjVLX1Z6cURwVlhpZ0lhUmF2WmZfRU5LNUJSSm9MRzJ1OVNJdTlxQk1UQmNCbVVMZndDSmZ5VUpDcGtiRlplOWhSNXdVaDN1empQUkY5bENydGRVU1c5LVdubzFkVU15Y3UzRS1jZVFUa19ZVEd3QzJ0bzNnazZJcVZPV3EwVjVSWENVRFFSTnZOdm5EMkpPbGxhcXdQY0VZZS1kY0pyM3BGSnhGWjVFVUhwQmdn?oc=5\" target=\"_blank\">Global Fishing Watch and Ai2 announce another partnership to use AI in vessel tracking globally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-10-29",
+    "titulo": "Canada hits man with CAD 7,500 fine over abalone possession",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUllEbnB5ZjAzSmg2Rk9pOFZhSkMxSEJFZ3FvX19Nbnc3M3hodi0tRlhSek9nN2FGdVlXWXNsajJjVWpEVExGUTRCeGV0ZmlNU3hRV18xcGp0MS1MXzNvQ3FiOE1ZYW5nSWRTOEZxNzRwTzRzUTEwX0NXTF8wZ1VfbTNnNmxIMW5iMUJOZk1lc2QwWGpVZ0NuVUJR?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQUllEbnB5ZjAzSmg2Rk9pOFZhSkMxSEJFZ3FvX19Nbnc3M3hodi0tRlhSek9nN2FGdVlXWXNsajJjVWpEVExGUTRCeGV0ZmlNU3hRV18xcGp0MS1MXzNvQ3FiOE1ZYW5nSWRTOEZxNzRwTzRzUTEwX0NXTF8wZ1VfbTNnNmxIMW5iMUJOZk1lc2QwWGpVZ0NuVUJR?oc=5\" target=\"_blank\">Canada hits man with CAD 7,500 fine over abalone possession</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-10-29",
+    "titulo": "War in the Middle East continuing to disrupt Iran’s fisheries sector, with estimated millions in losses",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd1A5MTFFVEhCUWN5bm5EaXdVQUpMUFoxVTJSd1d5NGg2bmcxVTN1UjkzOVp2TW0xTV9qbGdsdHd5aFM2Smk4Sld3akFBemxnZXN4QmJuWUUzQTBidkpMSWp3MkdJcVFnenA0UzJWS1k0SjZvcVZvZHotWkl4TVVMM2Q2dk04bUlSYXYyLWh0endBMVp2R25oczB3VTBxUTNCMWQtNkhXUnkxb3JNUVBOZUlBaFhMcTVxX25pMm45eElRUGl6YXBMeGJhSEpUUUYxS1ZB?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNd1A5MTFFVEhCUWN5bm5EaXdVQUpMUFoxVTJSd1d5NGg2bmcxVTN1UjkzOVp2TW0xTV9qbGdsdHd5aFM2Smk4Sld3akFBemxnZXN4QmJuWUUzQTBidkpMSWp3MkdJcVFnenA0UzJWS1k0SjZvcVZvZHotWkl4TVVMM2Q2dk04bUlSYXYyLWh0endBMVp2R25oczB3VTBxUTNCMWQtNkhXUnkxb3JNUVBOZUlBaFhMcTVxX25pMm45eElRUGl6YXBMeGJhSEpUUUYxS1ZB?oc=5\" target=\"_blank\">War in the Middle East continuing to disrupt Iran’s fisheries sector, with estimated millions in losses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-10-29",
+    "titulo": "Prices and export volumes for Norwegian salmon are up in Week 43",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT2xrSnlhSjE5UENsQnNXbFZVcm1vWWhyaFdnTEFpYU1ZaTd5WW1HazlHeDE0WDV5bC1oLVpPaTR1U2ZRWjdzMk5hOFhZLW82U0lhNzZudVpHeFItXzJ3XzRzRTcweFZETF9ndTUwNFY2QUhKMTA3V29WazU1UUpRTlNqcm9VRU5MV3JhMlVlbkxEUjlzcTFNQmxiTlhWdkxk?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNT2xrSnlhSjE5UENsQnNXbFZVcm1vWWhyaFdnTEFpYU1ZaTd5WW1HazlHeDE0WDV5bC1oLVpPaTR1U2ZRWjdzMk5hOFhZLW82U0lhNzZudVpHeFItXzJ3XzRzRTcweFZETF9ndTUwNFY2QUhKMTA3V29WazU1UUpRTlNqcm9VRU5MV3JhMlVlbkxEUjlzcTFNQmxiTlhWdkxk?oc=5\" target=\"_blank\">Prices and export volumes for Norwegian salmon are up in Week 43</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-10-29",
+    "titulo": "Salmon Evolution secures more funding, expects Phase 2 completion by year end",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORTNLbFZfeFVRaDBxOEpreF9KYTU4cExnTmw0czFCV0FsRW55dklfQ2xIY2s0eGtPcTVUbnJWSjNmeGtZZFRqMzhOLUpKcE40WmlhbDRpaVpUUHhGMjNrQVVzMFc5WExxTW1Qd1J5QmF6U2RZSUVLRFA0bGVqaGc2elVFOFRaVXBjclptakVLdGE0RkZKQjluWS1DcmJfdE9IcG4wRlFaR21EaGdHbjNseA?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxORTNLbFZfeFVRaDBxOEpreF9KYTU4cExnTmw0czFCV0FsRW55dklfQ2xIY2s0eGtPcTVUbnJWSjNmeGtZZFRqMzhOLUpKcE40WmlhbDRpaVpUUHhGMjNrQVVzMFc5WExxTW1Qd1J5QmF6U2RZSUVLRFA0bGVqaGc2elVFOFRaVXBjclptakVLdGE0RkZKQjluWS1DcmJfdE9IcG4wRlFaR21EaGdHbjNseA?oc=5\" target=\"_blank\">Salmon Evolution secures more funding, expects Phase 2 completion by year end</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
     "fecha": "2026-10-28",
@@ -525,34 +616,6 @@
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYTBzVkpiQUFFUUhvMThKbUxTbnBPdTA1NnRISV96eFFnb3ROMlBva1ZqOFc5aVE4LW5udWNQbkZVLTA0SHNKXzZMZ053eXJJRWRsZkEzMjg3V3MyMG9na3F4anJuMmtTSG9ya2I2Q0VNR05qLXhNVTFUN0hCNG9ZWlBLYVB5VjZsUU90VVRqQ2Y2RFlWOVhzN3RwSzk1TTR2Z3lWbEpBdTdhNzNrUmkzZlBaVDNWRW84OWE4b1VyN0V1UDQ?oc=5\" target=\"_blank\">Australis Seafoods ownership insists on bringing Isidoro Quiroga to court, despite setbacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
-    "fecha": "2026-10-23",
-    "titulo": "Chubby Group details plans for expanded seafood sourcing after USD 50 million funding, acquisition of Gen Korean BBQ",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTW9JSEV3U2FYSFgwdklUNHUzLThuRGJ4blBCb2FoazVXQVJ2cjdmR29VOFVXaWVpRUg0SVVpUnE1ZWpGWlhMODloUXFQM1dBYXRiX1BrMmtrNnRWcUVYc1dfQnJIWThmMEhnbG4yTEVhTXJrT3N6Ynk2VzZ6dXZJTjVqcWRxWV9ETm51ZEpkUkIxbU5Pei1uZTZLeC1PTU5NSXVEQ3hiTU5RTTRXZDZpWDd4Y1dYcUpUVW0tb2czdzVrRF9seDB6TGhMejF4czA0NGItem9WRFByOU1XeHVuTlVtYVA?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTW9JSEV3U2FYSFgwdklUNHUzLThuRGJ4blBCb2FoazVXQVJ2cjdmR29VOFVXaWVpRUg0SVVpUnE1ZWpGWlhMODloUXFQM1dBYXRiX1BrMmtrNnRWcUVYc1dfQnJIWThmMEhnbG4yTEVhTXJrT3N6Ynk2VzZ6dXZJTjVqcWRxWV9ETm51ZEpkUkIxbU5Pei1uZTZLeC1PTU5NSXVEQ3hiTU5RTTRXZDZpWDd4Y1dYcUpUVW0tb2czdzVrRF9seDB6TGhMejF4czA0NGItem9WRFByOU1XeHVuTlVtYVA?oc=5\" target=\"_blank\">Chubby Group details plans for expanded seafood sourcing after USD 50 million funding, acquisition of Gen Korean BBQ</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-10-23",
-    "titulo": "Deepwater species in the Gulf of Mexico declined drastically after Deepwater Horizon oil spill",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX1RienFUYkZzWEFUYzd1UUZDb2VKa2RsTndnTGQxVXcxb0lFSFc0N3FyS3N1NjdGcmRtLS1PZWU0Ti10eXFBLUJGRE9mRDI3dFJlRWw3dUtucmFZUjJUVkRMbGFrQkxxcl9QcTZYUkxiaGo2S3ZZamVtSnl1bjVfODQ4NHUtelBSSk8xM1B6X0g2VzBOWUxZTEpQazFsUkl0MDJGQXl1eFB4Y1JNT0dzODJ2R0hjTzFDR0hfWkJXakh5UkVMUC1GNGlR?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNX1RienFUYkZzWEFUYzd1UUZDb2VKa2RsTndnTGQxVXcxb0lFSFc0N3FyS3N1NjdGcmRtLS1PZWU0Ti10eXFBLUJGRE9mRDI3dFJlRWw3dUtucmFZUjJUVkRMbGFrQkxxcl9QcTZYUkxiaGo2S3ZZamVtSnl1bjVfODQ4NHUtelBSSk8xM1B6X0g2VzBOWUxZTEpQazFsUkl0MDJGQXl1eFB4Y1JNT0dzODJ2R0hjTzFDR0hfWkJXakh5UkVMUC1GNGlR?oc=5\" target=\"_blank\">Deepwater species in the Gulf of Mexico declined drastically after Deepwater Horizon oil spill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-10-23",
-    "titulo": "Namibia posts over 12 percent jump in Q2 seafood exports, widening trade surplus",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbk5OV2toRU42WVQ1Q1FweElSMmx6OERLaEZmVUtTeTdCaVp5VmtvSGJnS3pjRGZka1oteW9RTUZJZlFNeEx6T25TclVTeVkzRHpSSUc3cUxybUdUcEl1LS15d2dFLWN6Um9wd0JLX0tpcVRwNFkxZWVqV3BqalRUeUE0VTA2RC1LVjk2emsxSURRWFY3WGlHZXhhejgtVXo3NlpFRDVjQWJxRTdzY3JsR0d4Z0k?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNbk5OV2toRU42WVQ1Q1FweElSMmx6OERLaEZmVUtTeTdCaVp5VmtvSGJnS3pjRGZka1oteW9RTUZJZlFNeEx6T25TclVTeVkzRHpSSUc3cUxybUdUcEl1LS15d2dFLWN6Um9wd0JLX0tpcVRwNFkxZWVqV3BqalRUeUE0VTA2RC1LVjk2emsxSURRWFY3WGlHZXhhejgtVXo3NlpFRDVjQWJxRTdzY3JsR0d4Z0k?oc=5\" target=\"_blank\">Namibia posts over 12 percent jump in Q2 seafood exports, widening trade surplus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-10-23",
-    "titulo": "SeaMaine awards USD 1 million in grant funding to five Maine towns for infrastructure repair",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdXNYV3QzcjZodXdXTXhUODZQaVRJWU0yb3hNN0JoZGdkR2xza2Y2OGhGbXlaUkt2SDEtbzE1UEJFc0JWTkRKYklBeC1fT2VwU2UxMVBjVzBXX2RabXktQ0wwaFJXOUlXcXROTXVac2NtZjE4aW1oeFdSNnlLRnJiT3EtNXNZNHZENmdNZ01CXzZmcFh4a2pxTkR2WTRqVkpiQTdHZ1Rwd1Y5eXY2ZUNVY2xZMzZpRXJMM3pCXzh5QTZoZFl1R1E?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQdXNYV3QzcjZodXdXTXhUODZQaVRJWU0yb3hNN0JoZGdkR2xza2Y2OGhGbXlaUkt2SDEtbzE1UEJFc0JWTkRKYklBeC1fT2VwU2UxMVBjVzBXX2RabXktQ0wwaFJXOUlXcXROTXVac2NtZjE4aW1oeFdSNnlLRnJiT3EtNXNZNHZENmdNZ01CXzZmcFh4a2pxTkR2WTRqVkpiQTdHZ1Rwd1Y5eXY2ZUNVY2xZMzZpRXJMM3pCXzh5QTZoZFl1R1E?oc=5\" target=\"_blank\">SeaMaine awards USD 1 million in grant funding to five Maine towns for infrastructure repair</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
     "fecha": "2026-10-22",
     "titulo": "SOMU–CAFACh fija salarios y prioridad sindical para la flota amarilla de Rawson",
     "fuente": "Pescare",
@@ -607,13 +670,6 @@
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/10/exportaciones-por-1-866-millones-de-dolares-entre-enero-y-septiembre/",
     "resumen": "El sector embarcó 454.248 toneladas y facturó un 17,8% más que en 2025, una variación condicionada por la paralización de la flota tangonera congeladora del año pasado. El calamar illex siguió siendo el principal producto con 485 millones de dólares, pese a una caída del 9,8%, y la merluza recuperó terreno."
-  },
-  {
-    "fecha": "2026-10-22",
-    "titulo": "Dsm-firmenich names new standalone companies formed after sale of Animal Nutrition & Health business",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWHpMMV9QUmpVVm1tS0RPeFJVR2ZJd0pWSjJnUjZEQ2VfQlJZUm93a01uVzVZRkhOejFmdFBnNjNENGRwR01RbUFQZmkzb3NWUlFieEl4QkFlaEl3eUhtVUV1c2c2QmhtTUd5TTVhTXNDemdrRlhnRW5uTHV4WTVqdlVyNGc1RkNzZDQ2alNZSTNIa3hMc2NEZDJEX2tvYm5oWk5RdjZ0dkhkdFl2eEgteWdKMndhUjRDOEthVF9GcDYzMWJ2YjIwSzRocFhHdw?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPWHpMMV9QUmpVVm1tS0RPeFJVR2ZJd0pWSjJnUjZEQ2VfQlJZUm93a01uVzVZRkhOejFmdFBnNjNENGRwR01RbUFQZmkzb3NWUlFieEl4QkFlaEl3eUhtVUV1c2c2QmhtTUd5TTVhTXNDemdrRlhnRW5uTHV4WTVqdlVyNGc1RkNzZDQ2alNZSTNIa3hMc2NEZDJEX2tvYm5oWk5RdjZ0dkhkdFl2eEgteWdKMndhUjRDOEthVF9GcDYzMWJ2YjIwSzRocFhHdw?oc=5\" target=\"_blank\">Dsm-firmenich names new standalone companies formed after sale of Animal Nutrition & Health business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
     "fecha": "2026-10-21",
@@ -743,27 +799,6 @@
   },
   {
     "fecha": "2026-10-19",
-    "titulo": "Conarpesa: tres gremios alertan por el riesgo para la temporada de langostino",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/conarpesa-tres-gremios-alertan-por-el-riesgo-para-la-temporada-de-langostino/",
-    "resumen": "SOMU, SICONARA y STIA pidieron una audiencia urgente al gobernador Ignacio Torres para abordar el conflicto laboral con Agropez. El reclamo involucra a trabajadores embarcados y de planta, mientras crece la preocupación por el inicio de la próxima zafra provincial."
-  },
-  {
-    "fecha": "2026-10-19",
-    "titulo": "Merluza negra: el CFP distribuye 620 toneladas entre cinco buques",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/merluza-negra-el-cfp-distribuye-620-toneladas-entre-cinco-buques/",
-    "resumen": "Argenova, Pesantar y Estremar recibieron nuevas asignaciones de captura para organizar sus operaciones pesqueras. La decisión utiliza casi toda la disponibilidad informada de la Reserva de Administración y mantiene las obligaciones previstas en el régimen de cuotificación."
-  },
-  {
-    "fecha": "2026-10-19",
-    "titulo": "Centolla: el CFP fija 1.161 toneladas de captura en aguas nacionales",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/centolla-el-cfp-fija-1-161-toneladas-de-captura-en-aguas-nacionales/",
-    "resumen": "Para la temporada 2026-2027 se autorizaron mayores capturas en aguas nacionales respecto de los límites provisorios del ciclo anterior. El INIDEP registró una recuperación parcial del recurso, aunque advirtió sobre la baja abundancia en el sur y la disminución del reclutamiento."
-  },
-  {
-    "fecha": "2026-10-19",
     "titulo": "Malvinas: una demanda colectiva que depende del juez que le toque",
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/10/malvinas-una-demanda-colectiva-que-depende-del-juez-que-le-toque/",
@@ -817,40 +852,5 @@
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/10/la-caballa-esquivo-a-la-flota-en-el-rincon-y-los-desembarques-se-desplomaron/",
     "resumen": "La especie pelágica del stock sureño, al sur del 39°S, no se mostró disponible para la flota fresquera de altura. El stock del norte apareció a la altura del Río de la Plata y fue capturado por barcos costeros que pescaban a la pareja sobre la corvina."
-  },
-  {
-    "fecha": "2026-10-15",
-    "titulo": "Afiliados del SOMU reclaman elecciones y cuestionan los diez meses de prórroga",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/10/afiliados-del-somu-reclaman-elecciones-y-cuestionan-los-diez-meses-de-prorroga/",
-    "resumen": "Las elecciones sindicales debían realizarse entre el 1 y el 5 de diciembre de 2025, pero denuncias de irregularidades derivaron en su suspensión y en la sucesiva extensión de los mandatos de la conducción. Los trabajadores marítimos lamentan la falta de una definición judicial."
-  },
-  {
-    "fecha": "2026-10-15",
-    "titulo": "Murió un marinero del “Cabo Vírgenes” tras sufrir un accidente a bordo",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/10/murio-un-marinero-del-cabo-virgenes-tras-sufrir-un-accidente-a-bordo/",
-    "resumen": "Alejandro Silva falleció a bordo del fresquero de Red Chamber, que operaba a unas 200 millas de Puerto Deseado, antes de que la Prefectura pudiera evacuarlo. La Justicia deberá determinar las circunstancias del accidente."
-  },
-  {
-    "fecha": "2026-10-15",
-    "titulo": "Argenova sumó el sello “Alimentos Argentinos” para su merluza negra",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/10/argenova-sumo-el-sello-alimentos-argentinos-para-su-merluza-negra/",
-    "resumen": "La Secretaría de AGyP autorizó a la filial de Nueva Pescanova a usar el distintivo oficial en su merluza negra, lo que le da acceso a un reintegro adicional del 0,5% en las exportaciones. Productos de la firma también forman parte de la Semana de Argentina en Carrefour España."
-  },
-  {
-    "fecha": "2026-10-14",
-    "titulo": "Cuando el trabajo escasea, 3600 personas golpean la misma puerta",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/10/cuando-el-trabajo-escasea-3600-personas-golpean-la-misma-puerta/",
-    "resumen": "Fuertes Vientos, en Puerto Madryn, ya tiene más de 100 operarios procesando merluza y apuesta a diversificar su producción para sostener la actividad durante más meses del año y reducir su dependencia del langostino. El plan incluye la capacitación de fileteros, negociaciones laborales y el abastecimiento de materia prima a través de cinco barcos."
-  },
-  {
-    "fecha": "2026-10-14",
-    "titulo": "El futuro del calamar no puede definirse sin la Argentina",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/10/el-futuro-del-calamar-no-puede-definirse-sin-la-argentina/",
-    "resumen": "Mientras en Vigo se avanza hacia una base de datos regional sobre Illex argentinus sin la participación de científicos argentinos, la industria y los mercados reclaman mayor cooperación científica, trazabilidad y controles. La ausencia de un organismo regional de ordenación pesquera y la disputa de soberanía sobre las Islas Malvinas plantean un escenario particular para el país."
   }
 ]
