@@ -18,7 +18,7 @@
     "titulo": "Ingreso de Buques a Puerto de Mar del Plata",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/ingreso-de-buques-a-puerto/",
-    "resumen": "Buques programados: BP CENTAURO 2000 - 16:30. Actualización: 30.OCT.2026 16:03 HS."
+    "resumen": "Buques programados: BIP DR. EDUARDO L. HOLMBERG - 03:00 | BP DON NATALIO - 08:30 | BP FIDES FE II - 10:00 | BP MADONNINA DEL MARE - 10:00. Actualización: 30.OCT.2026 20:43 HS."
   },
   {
     "fecha": "2026-10-30",
@@ -47,6 +47,27 @@
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/rio-negro-creo-un-area-marina-protegida-de-2-733-km%c2%b2-y-establecera-nuevas-reglas-para-la-pesca/",
     "resumen": "La Legislatura aprobó la creación del Corredor de los Cinco Grandes, sobre el noreste del Golfo San Matías. El área comprende más de 130 kilómetros de costa y tendrá un plan de manejo que determinará las condiciones para la actividad pesquera, la navegación y el turismo."
+  },
+  {
+    "fecha": "2026-10-30",
+    "titulo": "Martínez Zapata a Álvarez Castellano: “Debería empezar por cumplir la ley”",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/10/martinez-zapata-a-alvarez-castellano-deberia-empezar-por-cumplir-la-ley/",
+    "resumen": "Con entre 130 y 140 juicios contra el Grupo Conarpesa, el abogado laboralista fijó su postura: “O se les paga a todos los trabajadores o no se le paga a ninguno”. Atribuyó a la empresa “una conducta sistemática, mecánica y maliciosa” en la liquidación de aguinaldos, pidió la intervención de la fiscalía federal por aportes y contribuciones y sostuvo que “es un gran negocio perjudicar a 1.000 trabajadores”."
+  },
+  {
+    "fecha": "2026-10-30",
+    "titulo": "Ley de Soberanía: el dictamen vació el Título I sobre Malvinas",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/10/ley-de-soberania-el-dictamen-vacio-el-titulo-i-sobre-malvinas/",
+    "resumen": "El 3 de septiembre, Milei anunció en cadena nacional que endurecería las sanciones a las empresas que operan en Malvinas. El dictamen de mayoría acota su alcance y, en los vínculos empresarios, queda por debajo de la Ley 26.659. Para la pesca, la herramienta vuelve a ser el 27 bis."
+  },
+  {
+    "fecha": "2026-10-30",
+    "titulo": "Langostino: habrá una nueva prospección a partir del 10 de noviembre",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/10/langostino-habra-una-nueva-prospeccion-a-partir-del-10-de-noviembre/",
+    "resumen": "Se demora el inicio de temporada en Chubut. Los resultados de la prospección no aconsejan una apertura comercial de la pesquería. Desde el sector de las plantas prefieren que la zafra inicie más cerca de diciembre."
   },
   {
     "fecha": "2026-10-30",
@@ -831,26 +852,5 @@
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/10/el-dragado-del-puerto-de-rawson-sigue-sin-licitarse-a-semanas-de-la-temporada-de-langostino/",
     "resumen": "Desde fines de 2025, el Gobierno de Chubut anunció partidas, plazos para la convocatoria y una adjudicación prevista para octubre. Con la zafra provincial próxima a comenzar, todavía no se llamó a licitación pública para la obra."
-  },
-  {
-    "fecha": "2026-10-16",
-    "titulo": "Zona Franca de Trelew: “beneficios fiscales” en los tres niveles del Estado",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/10/zona-franca-de-trelew-beneficios-fiscales-en-los-tres-niveles-del-estado/",
-    "resumen": "Andrés Arbeletche, secretario coordinador de Gabinete de Chubut, dijo que el régimen contempla ventajas fiscales nacionales, provinciales y municipales para reducir costos y mejorar la competitividad de las empresas. El sector pesquero es el que muestra mayor interés."
-  },
-  {
-    "fecha": "2026-10-16",
-    "titulo": "Pedro Baldino compró el casco del “Fonseca”",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/10/pedro-baldino-compro-el-casco-del-fonseca/",
-    "resumen": "El armador marplatense confirmó la adquisición dentro de una sociedad con capitales chinos. Cuando concluya su puesta en valor en SPI, el barco operará al fresco y la captura se reprocesará en “Ostramar”."
-  },
-  {
-    "fecha": "2026-10-15",
-    "titulo": "La caballa esquivó a la flota en El Rincón y los desembarques se desplomaron",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/10/la-caballa-esquivo-a-la-flota-en-el-rincon-y-los-desembarques-se-desplomaron/",
-    "resumen": "La especie pelágica del stock sureño, al sur del 39°S, no se mostró disponible para la flota fresquera de altura. El stock del norte apareció a la altura del Río de la Plata y fue capturado por barcos costeros que pescaban a la pareja sobre la corvina."
   }
 ]
