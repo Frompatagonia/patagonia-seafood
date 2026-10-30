@@ -18,7 +18,7 @@
     "titulo": "Ingreso de Buques a Puerto de Mar del Plata",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/ingreso-de-buques-a-puerto/",
-    "resumen": "Buques programados: BP DON MIGUEL I - 06:30 | BP LUIGI - 08:00 | BP CENTAURO 2000 - 15:30. Actualización: 30.OCT.2026 06:03 HS."
+    "resumen": "Buques programados: BP CENTAURO 2000 - 16:30. Actualización: 30.OCT.2026 16:03 HS."
   },
   {
     "fecha": "2026-10-30",
@@ -40,6 +40,13 @@
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/gremios-cuestionan-los-beneficios-para-buques-reconstruidos-por-su-impacto-en-la-industria-naval/",
     "resumen": "El Centro de Patrones y el SAONSINRA pidieron al Consejo Federal Pesquero que gestione la derogación de la Resolución 190/2026. Advierten que la medida podría desalentar la construcción de nuevas embarcaciones en astilleros argentinos."
+  },
+  {
+    "fecha": "2026-10-30",
+    "titulo": "Río Negro creó un Área Marina Protegida de 2.733 km² y establecerá nuevas reglas para la pesca",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/rio-negro-creo-un-area-marina-protegida-de-2-733-km%c2%b2-y-establecera-nuevas-reglas-para-la-pesca/",
+    "resumen": "La Legislatura aprobó la creación del Corredor de los Cinco Grandes, sobre el noreste del Golfo San Matías. El área comprende más de 130 kilómetros de costa y tendrá un plan de manejo que determinará las condiciones para la actividad pesquera, la navegación y el turismo."
   },
   {
     "fecha": "2026-10-30",
@@ -75,6 +82,27 @@
     "fuente": "SeafoodSource News",
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSXRFeHdSRGxsSnFvQ1MyMFZPQm9zZkxpZlNzUURIZUpOdDluRmZ5dHFhWFZzYWZHeGNGbFE3NW04d1lfTlZJSEZDYWJtRG55Vktob3Zzb0pnVjlyQjJWS3NqTkV2bmZ0SWVZV1ZrSFRBNW83RG9TczNCR2NKT3BrR3pRckJER0lkNjNHdkl5OEQtUTRmVDBKbXg5Mk40Mk5nNkJQZU94YkIwQ0pRbnZ3cTJKWmtzWDh3UDNjbHdJYjF6aTZHQVVFZ2hMcw?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNSXRFeHdSRGxsSnFvQ1MyMFZPQm9zZkxpZlNzUURIZUpOdDluRmZ5dHFhWFZzYWZHeGNGbFE3NW04d1lfTlZJSEZDYWJtRG55Vktob3Zzb0pnVjlyQjJWS3NqTkV2bmZ0SWVZV1ZrSFRBNW83RG9TczNCR2NKT3BrR3pRckJER0lkNjNHdkl5OEQtUTRmVDBKbXg5Mk40Mk5nNkJQZU94YkIwQ0pRbnZ3cTJKWmtzWDh3UDNjbHdJYjF6aTZHQVVFZ2hMcw?oc=5\" target=\"_blank\">Canada fisheries group pushing government to keep industry in mind during offshore wind planning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-10-30",
+    "titulo": "US State Department launches university-led Fish Innovation Lab",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLS1jOGtXcmtpNWctT0dyWV9iaUxCOUNBcGhwbEpmejBqMzI0V3hMOHBYeHMyR3ZKOE5PYlI3Y1hlYXJMOU42aFoyTkdWemVkWXdHdElWb2Jld3pacUZRSk9iMks5S2tkZ1ViTkxrcjc1djVrU2hZWUg2MWZSTmFrR0xjeHFHZG13OVQ4VXNTZHMzbHFxUS1nMFVzbkY5UW8?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNLS1jOGtXcmtpNWctT0dyWV9iaUxCOUNBcGhwbEpmejBqMzI0V3hMOHBYeHMyR3ZKOE5PYlI3Y1hlYXJMOU42aFoyTkdWemVkWXdHdElWb2Jld3pacUZRSk9iMks5S2tkZ1ViTkxrcjc1djVrU2hZWUg2MWZSTmFrR0xjeHFHZG13OVQ4VXNTZHMzbHFxUS1nMFVzbkY5UW8?oc=5\" target=\"_blank\">US State Department launches university-led Fish Innovation Lab</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-10-30",
+    "titulo": "Andfjord Salmon secures NOK 1.25 billion senior bond",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZmhzTElYd19DRlFfMGRWcWstOHNVNDQ2R1Vsdm53aDZ0LThZdTBPNE1aam1Lel9kQllNZ3dRU2N0Zm1sNHk3emw4NFNpUk95dW5NcjVpYkpzM1E0eGo4Qlo5NE9ZTjZ5dERTWGR6YmVqdzl5djNBVEZZb2lsMGxJa19lM1VsMmk1Y1oxTWFPTXE?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNZmhzTElYd19DRlFfMGRWcWstOHNVNDQ2R1Vsdm53aDZ0LThZdTBPNE1aam1Lel9kQllNZ3dRU2N0Zm1sNHk3emw4NFNpUk95dW5NcjVpYkpzM1E0eGo4Qlo5NE9ZTjZ5dERTWGR6YmVqdzl5djNBVEZZb2lsMGxJa19lM1VsMmk1Y1oxTWFPTXE?oc=5\" target=\"_blank\">Andfjord Salmon secures NOK 1.25 billion senior bond</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-10-30",
+    "titulo": "Benchmark Genetics launches new shrimp DNA parentage testing program BenchTrace",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY3J6NExmOVlkVzc1VTN6SGtfa09Ba1JKM2hvMWtzQUU4dlJtZGNpZWFIcUdwZWYycXRnZDJVZTN1SUpKTklzb2EzOWRCRmVpOExzZkVRczRkak5EeWdfNjIwN0QzNGZOc3huRkxTYmxvN1hHYVNiS3pSQi1KWkI1YjA0MjdKX090QXhiVkw4ZjVFTDBLRmNqeWNqSWxBRUI0cHlJdm51WHAyUXdr?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPY3J6NExmOVlkVzc1VTN6SGtfa09Ba1JKM2hvMWtzQUU4dlJtZGNpZWFIcUdwZWYycXRnZDJVZTN1SUpKTklzb2EzOWRCRmVpOExzZkVRczRkak5EeWdfNjIwN0QzNGZOc3huRkxTYmxvN1hHYVNiS3pSQi1KWkI1YjA0MjdKX090QXhiVkw4ZjVFTDBLRmNqeWNqSWxBRUI0cHlJdm51WHAyUXdr?oc=5\" target=\"_blank\">Benchmark Genetics launches new shrimp DNA parentage testing program BenchTrace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
     "fecha": "2026-10-29",
@@ -525,27 +553,6 @@
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNMWNRS0xvNklUS0MxeU5MREZCLVRkYUtuSjdCZ3V6aWx4Z2NIVE1IMUx0MjVfQVhLbnpwTlBMdGJyaktjbmdJUXRYZmpiVmw0aUhYSVA1Z0FuMW41S3RZWnc2dGpmVVZmZTY3TlI5bG9TRW8yaW80S0lvdFJnVlNiT0lXMlo1bHJ0TjRCODZlTl9vMWZrRldkRDNB?oc=5\" target=\"_blank\">Russia and China planning to expand bilateral seafood trade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
-    "fecha": "2026-10-26",
-    "titulo": "India developing plan for inland small-scale fisheries",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMGFRVGs5Ul9Zc0ZaMklQOHNTZ25jTXpMNFdJWmd2aVh2ZE5rdDJZYmV4eC1qbDFqMlI2eVB0cTNzR1FBMXpXa2lja2FwYjBqTTg3MW9IWW82M3ZTbDlUVjdpN3d6c2d6U1pJaEJiU2NkNGhwREE3Z1dXVVVHOGlfLUMtWGRCOGZQQWNxcXM3TFdmY28?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNMGFRVGs5Ul9Zc0ZaMklQOHNTZ25jTXpMNFdJWmd2aVh2ZE5rdDJZYmV4eC1qbDFqMlI2eVB0cTNzR1FBMXpXa2lja2FwYjBqTTg3MW9IWW82M3ZTbDlUVjdpN3d6c2d6U1pJaEJiU2NkNGhwREE3Z1dXVVVHOGlfLUMtWGRCOGZQQWNxcXM3TFdmY28?oc=5\" target=\"_blank\">India developing plan for inland small-scale fisheries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-10-26",
-    "titulo": "US announces USD 15.8 million in financial relief for fishery disasters",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcUpsZjVCTDJLOXVVM2ZCWi1IZmFicllnWmlzWDhVT1RCNWNjaGZLNW1pXy02T05iWGxWS0lLWlhwSmV1eng3WWJDOVZRNUFCcVUzT0pyd1piR21xRXAwRFlKVy1kbktXU0xFOHhjdVo1Y1Z6SUpjNGE1eFVCbmtyLTd1S2x6dTVZbFRGOG85cWJSc2MxaTQzb3I1ajhWR3ZrTGRndXdOOEgzZw?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcUpsZjVCTDJLOXVVM2ZCWi1IZmFicllnWmlzWDhVT1RCNWNjaGZLNW1pXy02T05iWGxWS0lLWlhwSmV1eng3WWJDOVZRNUFCcVUzT0pyd1piR21xRXAwRFlKVy1kbktXU0xFOHhjdVo1Y1Z6SUpjNGE1eFVCbmtyLTd1S2x6dTVZbFRGOG85cWJSc2MxaTQzb3I1ajhWR3ZrTGRndXdOOEgzZw?oc=5\" target=\"_blank\">US announces USD 15.8 million in financial relief for fishery disasters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-10-26",
-    "titulo": "European Commission promises simpler aquaculture rules, clarifies financial details after release of Vision 2040",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaHNqRnhMRHVrd3BHWDNnZDJqZGJGdnVpNmVFSW1hVklVM252M2VnakstMzBWQk44R2FCYnNnOVN6cXdaUFlOZ3Nia3R0cVNNNWt3UFU0SFNTZnk2M0M3enozQ2g1UlJfS0VSWXplT2l6Ukp5Q1JjN0VWOThyLXhGS1dVamIwOWpkLWU1WVNuVUl0VUVtX2ljMXFBV0tQYXBHLVN5SjZQTU03am5mT1h4eVNTQjYwQm1ub2dPZzZrTTdJNHU3U0FoZXhaMzhBbGF6NmctU0MxZ29ta0NDelpr?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQaHNqRnhMRHVrd3BHWDNnZDJqZGJGdnVpNmVFSW1hVklVM252M2VnakstMzBWQk44R2FCYnNnOVN6cXdaUFlOZ3Nia3R0cVNNNWt3UFU0SFNTZnk2M0M3enozQ2g1UlJfS0VSWXplT2l6Ukp5Q1JjN0VWOThyLXhGS1dVamIwOWpkLWU1WVNuVUl0VUVtX2ljMXFBV0tQYXBHLVN5SjZQTU03am5mT1h4eVNTQjYwQm1ub2dPZzZrTTdJNHU3U0FoZXhaMzhBbGF6NmctU0MxZ29ta0NDelpr?oc=5\" target=\"_blank\">European Commission promises simpler aquaculture rules, clarifies financial details after release of Vision 2040</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
     "fecha": "2026-10-24",
     "titulo": "Conarpesa ratificó que no moverá sus barcos hasta resolver el conflicto con maquinistas por liquidación del SAC",
     "fuente": "Pescare",
@@ -761,13 +768,6 @@
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/el-conflicto-electoral-del-somu-se-acerca-a-los-once-meses-sin-una-resolucion-judicial-de-fondo/",
     "resumen": "La disputa iniciada tras las elecciones de diciembre de 2025 continúa sin una definición sobre la validez de los comicios. Mientras Raúl Durdos permanece al frente del sindicato mediante una prórroga de mandatos dispuesta por la Justicia, las listas opositoras volvieron a reclamar que se avance hacia la etapa probatoria."
-  },
-  {
-    "fecha": "2026-10-20",
-    "titulo": "Comodoro Rivadavia inicia el proceso para retirar y demoler el pesquero Ambition",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/comodoro-rivadavia-inicia-el-proceso-para-retirar-y-demoler-el-pesquero-ambition/",
-    "resumen": "El buque permanece parcialmente hundido en el Muro Oeste del puerto. La Administración Portuaria formalizó el pedido de remoción ante Prefectura y abrió el plazo legal para eventuales oposiciones."
   },
   {
     "fecha": "2026-10-20",
