@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-10-31T03:45:40.093Z",
+  "updated_at": "2026-10-31T11:35:08.827Z",
   "last_checked": "2026-10-31",
   "window_days": 60,
   "title": "Informe Global de Precios",
@@ -267,21 +267,21 @@
       "source_url": "https://rnm.franceagrimer.fr/prix?M0121%3AMARCHE",
       "source_type": "auto",
       "checked_at": "2026-10-31",
-      "date": "2026-10-30",
-      "period_start": "2026-08-31",
-      "period_end": "2026-10-30",
-      "samples": 43,
+      "date": "2026-10-31",
+      "period_start": "2026-09-01",
+      "period_end": "2026-10-31",
+      "samples": 44,
       "currency": "EUR",
       "unit": "kg",
       "wholesale": {
-        "avg": 6.86,
+        "avg": 6.85,
         "min": 6.5,
         "max": 7.9,
         "currency": "EUR",
         "unit": "kg",
         "note": "Merluza entera fresca de 1-2 kg. No es filete interfoliado.",
         "usd": {
-          "avg": 7.66,
+          "avg": 7.65,
           "min": 7.26,
           "max": 8.83
         }
@@ -391,21 +391,21 @@
       "source_url": "https://rnm.franceagrimer.fr/prix?M0121%3AMARCHE",
       "source_type": "auto",
       "checked_at": "2026-10-31",
-      "date": "2026-10-30",
-      "period_start": "2026-08-31",
-      "period_end": "2026-10-30",
-      "samples": 43,
+      "date": "2026-10-31",
+      "period_start": "2026-09-01",
+      "period_end": "2026-10-31",
+      "samples": 44,
       "currency": "EUR",
       "unit": "kg",
       "wholesale": {
-        "avg": 20.62,
+        "avg": 20.53,
         "min": 15,
         "max": 23,
         "currency": "EUR",
         "unit": "kg",
         "note": "Calamar entero fresco. La fuente no confirma especie Illex.",
         "usd": {
-          "avg": 23.04,
+          "avg": 22.94,
           "min": 16.76,
           "max": 25.7
         }
@@ -484,21 +484,21 @@
       "source_url": "https://rnm.franceagrimer.fr/prix?M0121%3AMARCHE",
       "source_type": "auto",
       "checked_at": "2026-10-31",
-      "date": "2026-10-30",
-      "period_start": "2026-08-31",
-      "period_end": "2026-10-30",
-      "samples": 43,
+      "date": "2026-10-31",
+      "period_start": "2026-09-01",
+      "period_end": "2026-10-31",
+      "samples": 44,
       "currency": "EUR",
       "unit": "kg",
       "wholesale": {
-        "avg": 22,
+        "avg": 22.07,
         "min": 18,
         "max": 32,
         "currency": "EUR",
         "unit": "kg",
         "note": "Langoustine (Nephrops norvegicus), no langostino Pleoticus muelleri.",
         "usd": {
-          "avg": 24.58,
+          "avg": 24.66,
           "min": 20.11,
           "max": 35.75
         }
@@ -513,7 +513,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://observatorioprecios.es/mercados-alimentos-pescado-congelado/merluza",
-      "elapsed_ms": 125,
+      "elapsed_ms": 133,
       "error": null
     },
     {
@@ -522,7 +522,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://observatorioprecios.es/mercados-alimentos-pescado-congelado/merluza",
-      "elapsed_ms": 643,
+      "elapsed_ms": 510,
       "error": null
     },
     {
@@ -531,7 +531,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://observatorioprecios.es/mercados-alimentos-pescado-congelado/merluza",
-      "elapsed_ms": 642,
+      "elapsed_ms": 510,
       "error": null
     },
     {
@@ -540,7 +540,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://rnm.franceagrimer.fr/prix?M0121%3AMARCHE",
-      "elapsed_ms": 267,
+      "elapsed_ms": 272,
       "error": null
     },
     {
@@ -549,7 +549,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://ceagesp.gov.br/cotacoes/",
-      "elapsed_ms": 1147,
+      "elapsed_ms": 1378,
       "error": null
     },
     {
@@ -558,7 +558,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://sogemispa.it/bollettini-report-prezzi",
-      "elapsed_ms": 2043,
+      "elapsed_ms": 1861,
       "error": null
     },
     {
@@ -567,7 +567,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://www.shijou.metro.tokyo.lg.jp/",
-      "elapsed_ms": 1095,
+      "elapsed_ms": 1456,
       "error": null
     },
     {
@@ -576,7 +576,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://www.tridge.com/market-overview/frozen-argentine-shortfin-squid/CN",
-      "elapsed_ms": 2351,
+      "elapsed_ms": 1774,
       "error": null
     }
   ],
