@@ -1,31 +1,73 @@
 [
   {
-    "fecha": "2026-11-01",
+    "fecha": "2026-11-02",
     "titulo": "Monitoreo Satelital de Buques Pesqueros",
     "fuente": "MAGyP",
     "url": "https://www.magyp.gob.ar/sitio/areas/pesca_maritima/monitoreo/",
     "resumen": "Monitoreo oficial de buques reportando al sistema. Áreas: Zona Rinc&oacute;n (Res. CFP N&ordm; 27/2009 y posteriores)."
   },
   {
-    "fecha": "2026-11-01",
+    "fecha": "2026-11-02",
     "titulo": "Desembarques de Capturas Marítimas (2026)",
     "fuente": "MAGyP",
     "url": "https://www.magyp.gob.ar/sitio/areas/pesca_maritima/desembarques/",
     "resumen": "Estadísticas oficiales de desembarques por especie, flota y puerto. Datos disponibles: 2026, 2025, 2024, 2023, 2022, 2021, 2020."
   },
   {
-    "fecha": "2026-11-01",
+    "fecha": "2026-11-02",
     "titulo": "Ingreso de Buques a Puerto de Mar del Plata",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/ingreso-de-buques-a-puerto/",
-    "resumen": "Buques programados: BP KARINA - 16:15 | BP SALVADOR R - 23:30. Actualización: 01.NOV.2026 16:15 HS."
+    "resumen": "Buques programados: BP SALVADOR R - 23:30. Actualización: 01.NOV.2026 23:15 HS."
   },
   {
-    "fecha": "2026-11-01",
+    "fecha": "2026-11-02",
     "titulo": "Buques Operando en ZEE Argentina",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/buques-operando/",
     "resumen": "Mapa interactivo de buques reportando al sistema. Áreas: Zona Común de Pesca (ARG-URU) / Zona de Veda Permanente de Juveniles de Merluza."
+  },
+  {
+    "fecha": "2026-11-02",
+    "titulo": "Malvinas: zarpó el buque chileno Danstar tras la controversia por la nueva ruta marítima",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/malvinas-zarpo-el-buque-chileno-danstar-tras-la-controversia-por-la-nueva-ruta-maritima/",
+    "resumen": "El carguero partió de Valparaíso rumbo a la región de Magallanes, donde será acondicionado antes de comenzar el servicio de abastecimiento hacia las islas Malvinas."
+  },
+  {
+    "fecha": "2026-11-02",
+    "titulo": "Gremios solicitaron la derogación de la Resolución 190/26",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/11/gremios-solicitaron-la-derogacion-de-la-resolucion-190-26/",
+    "resumen": "El Centro de Patrones y el SAON lo pidieron mediante una nota elevada al CFP. Aseguran que es ilegal y afecta la seguridad de las tripulaciones. Es la norma que flexibiliza los beneficios de incrementar el esfuerzo pesquero contemplada para la construcción de barcos nuevos y que ahora alcanza con repararlos en más de un 60%."
+  },
+  {
+    "fecha": "2026-11-02",
+    "titulo": "Un barco del INIDEP llega al golfo San Matías para la campaña de hubbsi",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/11/un-barco-del-inidep-llega-al-golfo-san-matias-para-la-campana-de-hubbsi/",
+    "resumen": "Para este lunes está previsto el arribo del BIP Mar Argentino al golfo San Matías para realizar una campaña científica destinada a evaluar el estado del recurso merluza común. El relevamiento contará con la participación de científicos del CIMAS y tendrá una duración estimada de entre 10 y 12 días."
+  },
+  {
+    "fecha": "2026-11-02",
+    "titulo": "Camarones busca darle valor a las algas con nuevos proyectos",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/11/camarones-busca-darle-valor-a-las-algas-con-nuevos-proyectos/",
+    "resumen": "En la localidad chubutense, con el acompañamiento de la Escuela Secundaria N° 721, un grupo de jóvenes las transforma en alimentos y una emprendedora artesanal, apoyada por la Fundación Rewilding Argentina, las incorpora a cosméticos naturales, generando nuevas oportunidades económicas."
+  },
+  {
+    "fecha": "2026-11-02",
+    "titulo": "A pesar del esfuerzo de Argentina y Chile la CCRVMA volvió a cerrar sin acuerdo de AMP",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/11/a-pesar-del-esfuerzo-de-argentina-y-chile-la-ccrvma-volvio-a-cerrar-sin-acuerdo-de-amp/",
+    "resumen": "La 45ª reunión de la comisión que gestiona los recursos marinos antárticos terminó sin aprobar nuevas Áreas Marinas Protegidas ni medidas adicionales para el kril. La iniciativa binacional, que combina zonas vedadas con zonas abiertas a la pesca, seguirá en negociación con vistas a 2027."
+  },
+  {
+    "fecha": "2026-11-02",
+    "titulo": "Tres mil ochocientos millones de pesos para demoler la galería de los silos",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/11/tres-mil-ochocientos-millones-de-pesos-para-demoler-la-galeria-de-los-silos/",
+    "resumen": "En Mar del Plata el Consorcio Portuario llamó a licitación para eliminar la tradicional estructura en inmediaciones del Muelle 3. Se presentaron siete ofertas para llevar adelante una obra que debe ejecutarse en 210 días corridos."
   },
   {
     "fecha": "2026-10-31",
@@ -764,13 +806,6 @@
   },
   {
     "fecha": "2026-10-21",
-    "titulo": "La UTN Mar del Plata abordará la transformación de residuos en energía y el desarrollo de biocombustibles",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/la-utn-mar-del-plata-abordara-la-transformacion-de-residuos-en-energia-y-el-desarrollo-de-biocombustibles/",
-    "resumen": "La universidad realizará el jueves 22 de octubre un encuentro virtual abierto a la comunidad, dedicado al aprovechamiento de residuos orgánicos para la producción de energía y fertilizantes. Especialistas del ámbito científico analizarán las oportunidades que ofrecen el biodiésel, el biogás y la bioeconomía circular."
-  },
-  {
-    "fecha": "2026-10-21",
     "titulo": "“Exigir que Conarpesa cumpla con la ley no es ninguna extorsión”",
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/10/exigir-que-conarpesa-cumpla-con-la-ley-no-es-ninguna-extorsion/",
@@ -817,40 +852,5 @@
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/10/se-ejecutara-la-reparacion-del-muelle-de-puerto-deseado/",
     "resumen": "La comisión de adjudicación dio por “aprobada” la oferta técnica y económica de DyOPSA. Consiste en la construcción a nuevo del Sitio 4 que no está operativo hace años. La Provincia utilizó un fondo fiduciario para disponer de 12.000 millones de pesos que costarán los trabajos."
-  },
-  {
-    "fecha": "2026-10-19",
-    "titulo": "Malvinas: una demanda colectiva que depende del juez que le toque",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/10/malvinas-una-demanda-colectiva-que-depende-del-juez-que-le-toque/",
-    "resumen": "La Fundación Agustina Lerena demandó por daño ambiental a armadores gallegos, sus socios isleños, bancos, aseguradoras y empresas argentinas que vincula con ellos. El reclamo se apoya en datos oficiales, pero deja cuestiones centrales sin resolver."
-  },
-  {
-    "fecha": "2026-10-19",
-    "titulo": "El STIA anticipa “paro total de actividades” por el conflicto con Conarpesa",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/10/el-stia-anticipa-paro-total-de-actividades-por-el-conflicto-con-conarpesa/",
-    "resumen": "El gremio volvió a reclamar respuestas a Trabajo por los incumplimientos salariales del grupo empresario y extendió el reclamo al gobernador de Chubut, advirtiendo que se tomarán medidas de fuerza si no hay solución. Pidió audiencia y que se convoque también a CAPIP."
-  },
-  {
-    "fecha": "2026-10-19",
-    "titulo": "Merluza del efectivo norte: sobreexplotada y capturas en descenso",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/10/merluza-del-efectivo-norte-sobreexplotada-y-capturas-en-descenso/",
-    "resumen": "El INIDEP expuso una reseña del estado de situación del recurso durante la reunión de la Comisión de Seguimiento. Entre 1991 y 2026 la disminución de las capturas alcanzó el 82%. Escasa proporción de ejemplares adultos en los desembarques."
-  },
-  {
-    "fecha": "2026-10-19",
-    "titulo": "Apuestan a un marinero influencer para mejorar la separación de residuos a bordo",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/10/apuestan-a-un-marinero-influencer-para-mejorar-la-separacion-de-residuos-a-bordo/",
-    "resumen": "Un video protagonizado por el marinero y creador de contenido “El Nigga del Barco” muestra cómo se separan los residuos a bordo y qué ocurre con ellos al llegar a tierra. La iniciativa impulsada por OSPA y CAPIP busca generar conciencia y promover mejores prácticas."
-  },
-  {
-    "fecha": "2026-10-16",
-    "titulo": "El dragado del puerto de Rawson sigue sin licitarse a semanas de la temporada de langostino",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/10/el-dragado-del-puerto-de-rawson-sigue-sin-licitarse-a-semanas-de-la-temporada-de-langostino/",
-    "resumen": "Desde fines de 2025, el Gobierno de Chubut anunció partidas, plazos para la convocatoria y una adjudicación prevista para octubre. Con la zafra provincial próxima a comenzar, todavía no se llamó a licitación pública para la obra."
   }
 ]
