@@ -1,27 +1,27 @@
 [
   {
-    "fecha": "2026-11-03",
+    "fecha": "2026-11-04",
     "titulo": "Monitoreo Satelital de Buques Pesqueros",
     "fuente": "MAGyP",
     "url": "https://www.magyp.gob.ar/sitio/areas/pesca_maritima/monitoreo/",
     "resumen": "Monitoreo oficial de buques reportando al sistema. Áreas: Zona Rinc&oacute;n (Res. CFP N&ordm; 27/2009 y posteriores)."
   },
   {
-    "fecha": "2026-11-03",
+    "fecha": "2026-11-04",
     "titulo": "Desembarques de Capturas Marítimas (2026)",
     "fuente": "MAGyP",
     "url": "https://www.magyp.gob.ar/sitio/areas/pesca_maritima/desembarques/",
     "resumen": "Estadísticas oficiales de desembarques por especie, flota y puerto. Datos disponibles: 2026, 2025, 2024, 2023, 2022, 2021, 2020."
   },
   {
-    "fecha": "2026-11-03",
+    "fecha": "2026-11-04",
     "titulo": "Ingreso de Buques a Puerto de Mar del Plata",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/ingreso-de-buques-a-puerto/",
-    "resumen": "Buques programados: BP BELVEDERE - 01:00 | BP MISS PATAGONIA - 01:30 | BP DON GAETANO - 04:30 | BP MARBELLA - 05:45 | BP DON CAYETANO - 06:00 | BP GALEMAR - 15:00 | BP JOSE LUCIANO - 16:00. Actualización: 03.NOV.2026 18:45 HS."
+    "resumen": "Buques programados: BP BELVEDERE - 00:00 | BP MISS PATAGONIA - 00:15 | BP DON GAETANO - 03:30 | BP MARBELLA - 05:00 | BP DON CAYETANO - 05:00 | BP GALEMAR - 18:00 | BP JOSE MARCELO - 18:00 | BP JOSE LUCIANO - 19:00. Actualización: 03.NOV.2026 21:45 HS."
   },
   {
-    "fecha": "2026-11-03",
+    "fecha": "2026-11-04",
     "titulo": "Buques Operando en ZEE Argentina",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/buques-operando/",
@@ -124,6 +124,13 @@
     "fuente": "SeafoodSource News",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQldoMmZoUnhra0Fzd3RlbXFzaDZmbDZxOEhqenp3TnFpRXNkd2t2OTNkdC0tU2JRd3NlTkRlSVlCUXVzQkpXYllzNm54V09XQktCZHQ1Q2swRFN6LTRtY2RmYnNiNGphbjdvMHA4Tlh0SndLQ0J1OXNTcS1fc1pmdlVNSlNsRzVpblFYY3JfR3JUSjdRdU9FZ1BZSEY0NnViX0ZuNWF1cXRKMVJkQU44?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNQldoMmZoUnhra0Fzd3RlbXFzaDZmbDZxOEhqenp3TnFpRXNkd2t2OTNkdC0tU2JRd3NlTkRlSVlCUXVzQkpXYllzNm54V09XQktCZHQ1Q2swRFN6LTRtY2RmYnNiNGphbjdvMHA4Tlh0SndLQ0J1OXNTcS1fc1pmdlVNSlNsRzVpblFYY3JfR3JUSjdRdU9FZ1BZSEY0NnViX0ZuNWF1cXRKMVJkQU44?oc=5\" target=\"_blank\">National Seafood Association data finds US seafood consumption fell in 2024</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-03",
+    "titulo": "Satellite tagging offering NOAA better understanding of red king crab migration patterns",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSVV0b1BBeXdCSjNKSlB0cFlGRVRDRHVTVXJKTmpHSzNjN1pxSGVOVnJJUnFPMzM2djVZNGs4aTdwQlpmR2F0ZmRxWU1uZEtRRlZBZGVDQk1fQlJhcUl0czlneVBuNGdjYktzMnF2bzlDYzNYdGpDVi1jVndTT01zczJHVWlUUF9mNEhVVXJKcTFWOXRjQ0NiMFloRkpuQ2RZeEgxNS1ySnR5SGlYRndTblN3TDBaZy1aekRqNHpzaXZTUk9pYmY1MjFMRVA5UlZnVGV1aldXUVpFU28?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSVV0b1BBeXdCSjNKSlB0cFlGRVRDRHVTVXJKTmpHSzNjN1pxSGVOVnJJUnFPMzM2djVZNGs4aTdwQlpmR2F0ZmRxWU1uZEtRRlZBZGVDQk1fQlJhcUl0czlneVBuNGdjYktzMnF2bzlDYzNYdGpDVi1jVndTT01zczJHVWlUUF9mNEhVVXJKcTFWOXRjQ0NiMFloRkpuQ2RZeEgxNS1ySnR5SGlYRndTblN3TDBaZy1aekRqNHpzaXZTUk9pYmY1MjFMRVA5UlZnVGV1aldXUVpFU28?oc=5\" target=\"_blank\">Satellite tagging offering NOAA better understanding of red king crab migration patterns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
     "fecha": "2026-11-02",
@@ -572,13 +579,6 @@
     "fuente": "SeafoodSource News",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRkRuUERtUlpTNzZpaV9vc3pLZlBKWXpMaUhLVXB1SHlLdm5RT1BjMGhIM3V6b3Q4Uk4yN2xneEdlRVd4UFVLdXBmQjluX3NEaFBEcUx1UHZ0RjhRS3V0Z3A1MFhVMVp0cUFndXpYbnIyc0pBb2U3VTJLc21tQ1JNYVByc003QkpMeHRWRXNVQ0FIeVNyWHZpcEt0OWtKYm9XVmRKZVNGRmQ3d3JwTnhvek4wY0NMZWl6bWQ0d29qaktKdS0wbTFUNDZJdllGdw?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPRkRuUERtUlpTNzZpaV9vc3pLZlBKWXpMaUhLVXB1SHlLdm5RT1BjMGhIM3V6b3Q4Uk4yN2xneEdlRVd4UFVLdXBmQjluX3NEaFBEcUx1UHZ0RjhRS3V0Z3A1MFhVMVp0cUFndXpYbnIyc0pBb2U3VTJLc21tQ1JNYVByc003QkpMeHRWRXNVQ0FIeVNyWHZpcEt0OWtKYm9XVmRKZVNGRmQ3d3JwTnhvek4wY0NMZWl6bWQ0d29qaktKdS0wbTFUNDZJdllGdw?oc=5\" target=\"_blank\">Indonesia to provide 4,582 free fishing vessels to fishers under USD 13 billion modernization plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-10-28",
-    "titulo": "Pricing Analysis: The Peruvian anchovy season cancellation and Atlantic salmon prices",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSFFDMkMtaEFnQjA0UlhrcUZucnlONTI0YWRYQk9yaDE4ZFBPVUNTZlpia2V4eExmbmM3Q2hwMUpFdFAzcERsLS1vV3hFQWhnVDBoUEFPdHY3S3lnam91MVpiRGItNDd0WElwbGI1RnFfMVBPbEF0U1JlRDVWeGd5Q2ROUE9JVjBIZWdxWm9ZdDB3N3h2di1FYmU5cVJJMktxeUcxZw?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNSFFDMkMtaEFnQjA0UlhrcUZucnlONTI0YWRYQk9yaDE4ZFBPVUNTZlpia2V4eExmbmM3Q2hwMUpFdFAzcERsLS1vV3hFQWhnVDBoUEFPdHY3S3lnam91MVpiRGItNDd0WElwbGI1RnFfMVBPbEF0U1JlRDVWeGd5Q2ROUE9JVjBIZWdxWm9ZdDB3N3h2di1FYmU5cVJJMktxeUcxZw?oc=5\" target=\"_blank\">Pricing Analysis: The Peruvian anchovy season cancellation and Atlantic salmon prices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
     "fecha": "2026-10-27",
