@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-05T04:46:11.380Z",
+  "updated_at": "2026-11-05T13:53:03.086Z",
   "last_checked": "2026-11-05",
   "window_days": 60,
   "title": "Informe Global de Precios",
@@ -267,9 +267,9 @@
       "source_url": "https://rnm.franceagrimer.fr/prix?M0121%3AMARCHE",
       "source_type": "auto",
       "checked_at": "2026-11-05",
-      "date": "2026-11-04",
-      "period_start": "2026-09-05",
-      "period_end": "2026-11-04",
+      "date": "2026-11-05",
+      "period_start": "2026-09-06",
+      "period_end": "2026-11-05",
       "samples": 42,
       "currency": "EUR",
       "unit": "kg",
@@ -391,21 +391,21 @@
       "source_url": "https://rnm.franceagrimer.fr/prix?M0121%3AMARCHE",
       "source_type": "auto",
       "checked_at": "2026-11-05",
-      "date": "2026-11-04",
-      "period_start": "2026-09-05",
-      "period_end": "2026-11-04",
+      "date": "2026-11-05",
+      "period_start": "2026-09-06",
+      "period_end": "2026-11-05",
       "samples": 42,
       "currency": "EUR",
       "unit": "kg",
       "wholesale": {
-        "avg": 20.27,
+        "avg": 20.17,
         "min": 15,
         "max": 23,
         "currency": "EUR",
         "unit": "kg",
         "note": "Calamar entero fresco. La fuente no confirma especie Illex.",
         "usd": {
-          "avg": 22.84,
+          "avg": 22.73,
           "min": 16.9,
           "max": 25.91
         }
@@ -484,21 +484,21 @@
       "source_url": "https://rnm.franceagrimer.fr/prix?M0121%3AMARCHE",
       "source_type": "auto",
       "checked_at": "2026-11-05",
-      "date": "2026-11-04",
-      "period_start": "2026-09-05",
-      "period_end": "2026-11-04",
+      "date": "2026-11-05",
+      "period_start": "2026-09-06",
+      "period_end": "2026-11-05",
       "samples": 42,
       "currency": "EUR",
       "unit": "kg",
       "wholesale": {
-        "avg": 22.4,
+        "avg": 22.52,
         "min": 18,
         "max": 32,
         "currency": "EUR",
         "unit": "kg",
         "note": "Langoustine (Nephrops norvegicus), no langostino Pleoticus muelleri.",
         "usd": {
-          "avg": 25.24,
+          "avg": 25.37,
           "min": 20.28,
           "max": 36.05
         }
@@ -513,7 +513,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://observatorioprecios.es/mercados-alimentos-pescado-congelado/merluza",
-      "elapsed_ms": 114,
+      "elapsed_ms": 99,
       "error": null
     },
     {
@@ -522,7 +522,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://observatorioprecios.es/mercados-alimentos-pescado-congelado/merluza",
-      "elapsed_ms": 467,
+      "elapsed_ms": 379,
       "error": null
     },
     {
@@ -531,7 +531,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://observatorioprecios.es/mercados-alimentos-pescado-congelado/merluza",
-      "elapsed_ms": 472,
+      "elapsed_ms": 375,
       "error": null
     },
     {
@@ -540,7 +540,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://rnm.franceagrimer.fr/prix?M0121%3AMARCHE",
-      "elapsed_ms": 262,
+      "elapsed_ms": 238,
       "error": null
     },
     {
@@ -549,7 +549,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://ceagesp.gov.br/cotacoes/",
-      "elapsed_ms": 1407,
+      "elapsed_ms": 1445,
       "error": null
     },
     {
@@ -558,7 +558,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://sogemispa.it/bollettini-report-prezzi",
-      "elapsed_ms": 1585,
+      "elapsed_ms": 1388,
       "error": null
     },
     {
@@ -567,7 +567,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://www.shijou.metro.tokyo.lg.jp/",
-      "elapsed_ms": 1290,
+      "elapsed_ms": 735,
       "error": null
     },
     {
@@ -576,7 +576,7 @@
       "status": 403,
       "ok": false,
       "final_url": "https://www.tridge.com/market-overview/frozen-argentine-shortfin-squid/CN",
-      "elapsed_ms": 1504,
+      "elapsed_ms": 1395,
       "error": null
     }
   ],
