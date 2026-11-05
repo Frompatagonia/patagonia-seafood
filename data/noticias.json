@@ -1,31 +1,108 @@
 [
   {
-    "fecha": "2026-11-04",
+    "fecha": "2026-11-05",
     "titulo": "Monitoreo Satelital de Buques Pesqueros",
     "fuente": "MAGyP",
     "url": "https://www.magyp.gob.ar/sitio/areas/pesca_maritima/monitoreo/",
     "resumen": "Monitoreo oficial de buques reportando al sistema. Áreas: Zona Rinc&oacute;n (Res. CFP N&ordm; 27/2009 y posteriores)."
   },
   {
-    "fecha": "2026-11-04",
+    "fecha": "2026-11-05",
     "titulo": "Desembarques de Capturas Marítimas (2026)",
     "fuente": "MAGyP",
     "url": "https://www.magyp.gob.ar/sitio/areas/pesca_maritima/desembarques/",
     "resumen": "Estadísticas oficiales de desembarques por especie, flota y puerto. Datos disponibles: 2026, 2025, 2024, 2023, 2022, 2021, 2020."
   },
   {
-    "fecha": "2026-11-04",
+    "fecha": "2026-11-05",
     "titulo": "Ingreso de Buques a Puerto de Mar del Plata",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/ingreso-de-buques-a-puerto/",
-    "resumen": "Buques programados: BP STELLA MARIS I - 11:00 | BP TABEIRON TRES - 18:00 | BP SAN MATIAS - 18:00 | BP PAOLA S - 18:00. Actualización: 04.NOV.2026 22:20 HS."
+    "resumen": "Buques programados: BP STELLA MARIS I - 11:30 | BP TABEIRON TRES - 16:00 | BP SAN MATIAS - 18:00 | BP PROMAC - 23:45. Actualización: 05.NOV.2026 08:20 HS."
   },
   {
-    "fecha": "2026-11-04",
+    "fecha": "2026-11-05",
     "titulo": "Buques Operando en ZEE Argentina",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/buques-operando/",
     "resumen": "Mapa interactivo de buques reportando al sistema. Áreas: Zona Común de Pesca (ARG-URU) / Zona de Veda Permanente de Juveniles de Merluza."
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "Conarpesa vuelve a juicio por la presunta contaminación del Golfo Nuevo",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/conarpesa-vuelve-a-juicio-por-la-presunta-contaminacion-del-golfo-nuevo/",
+    "resumen": "El Superior Tribunal de Justicia de Chubut anuló la absolución dictada en el primer proceso y ordenó realizar un nuevo debate. La causa investiga el presunto vertido de efluentes industriales sin tratamiento desde la planta pesquera hacia el mar durante 2023."
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "La industria naval pide revisar la ley de cabotaje por el ingreso temporario de buques extranjeros",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/la-industria-naval-pide-revisar-la-ley-de-cabotaje-por-el-ingreso-temporario-de-buques-extranjeros/",
+    "resumen": "La Cámara de la Industria Naval de Mar del Plata cuestionó el proyecto S-1844/26 y advirtió que el régimen propuesto puede colocar a buques extranjeros en condiciones más favorables que las embarcaciones construidas, reparadas y operadas en el país. El sector reclama que los beneficios fiscales queden vinculados con inversión y construcción naval argentina."
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "Río Negro mide la recuperación de la merluza para definir el manejo en el Golfo San Matías",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/rio-negro-mide-la-recuperacion-de-la-merluza-para-definir-el-manejo-en-el-golfo-san-matias/",
+    "resumen": "La Provincia de Río Negro inició una nueva evaluación de la merluza común (Merluccius hubbsi) del Golfo San Matías para determinar cuánto avanzó la recuperación del stock después del mínimo histórico registrado en 2022. La campaña REDE 2026, desarrollada a bordo del BIP Mar Argentino, actualizará la información biológica que servirá de respaldo para las [...]"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "Hoy comienza el segundo juicio contra Conarpesa por presunta contaminación",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/11/hoy-comienza-el-segundo-juicio-contra-conarpesa-por-presunta-contaminacion/",
+    "resumen": "El nuevo debate oral se realiza desde cero, con la misma prueba y bajo la conducción de una nueva jueza, luego de que el Superior Tribunal de Justicia revocara la absolución dictada en el primer proceso. El fiscal Williams sostuvo que la acusación nunca modificó los hechos y afirmó que existen pericias, fotografías y registros […]"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "Ley de cabotaje: “competencia desleal y desaliento a las construcciones nacionales”",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/11/ley-de-cabotaje-competencia-desleal-y-desaliento-a-las-construcciones-nacionales/",
+    "resumen": "La Cámara de la Industria Naval de Mar del Plata pidió revisar el proyecto de ley de cabotaje que impulsa el oficialismo y se trata en el Senado. “Sería peor el remedio que la enfermedad”, avisaron desde el sector."
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "Zona Franca Trelew: los beneficios fiscales estarán operativos en marzo de 2027",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/11/zona-franca-trelew-los-beneficios-fiscales-estaran-operativos-en-marzo-de-2027/",
+    "resumen": "Lo anticipó el gobernador Torres al indicar que para esa fecha estarán terminadas las obras civiles necesarias para poner en funcionamiento el régimen tributario. Varias empresas pesqueras avanzan con proyectos de radicación para procesar langostino, merluza y calamar. La condición es incorporar valor agregado a los productos."
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "Prices for Norwegian salmon are down slightly in Week 44",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdWMxSjY4QU1naFJpamZaY1JFMW51OXNFTFoxRTQ3S3UtVUhKd25JM3pGV0hqXzhNN0NDUGVaRXVVMWdhR3U5OFZDS05oZ0Fmd0luOFlSYzNISGFuSXRELUdoNTIyOW9Nd1h1UUpsTHpTbGI4UFhOX0c0c2VJcTNqR3NNVGVQVXdnUktrRE02bWF5T2RKdmc?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNdWMxSjY4QU1naFJpamZaY1JFMW51OXNFTFoxRTQ3S3UtVUhKd25JM3pGV0hqXzhNN0NDUGVaRXVVMWdhR3U5OFZDS05oZ0Fmd0luOFlSYzNISGFuSXRELUdoNTIyOW9Nd1h1UUpsTHpTbGI4UFhOX0c0c2VJcTNqR3NNVGVQVXdnUktrRE02bWF5T2RKdmc?oc=5\" target=\"_blank\">Prices for Norwegian salmon are down slightly in Week 44</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "US data shows shark depredation tripled in Gulf, Southeast Atlantic over 20 years",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQazNwNm42YnNzdk5XOHVLNno2Yy1QNjJaV1A4NjFVSnl1UzFlOWFZRncyR0h3OXlRelA0QjNpQXVfTFdVZTdyRXlKZV9qa2REVmQ3X1hVZDM4TF9tVVJqME9OUUN5c1BoRVJ5WlE0LTFHdElVZGQyQ2E5bVM2MEcycWx0cklOa1JDYUduUXByZ2FFMGpuMTVoeTE0UGhycS05b2dMU3JlV0NHT2g1Rno5a1ZDdGxvdw?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQazNwNm42YnNzdk5XOHVLNno2Yy1QNjJaV1A4NjFVSnl1UzFlOWFZRncyR0h3OXlRelA0QjNpQXVfTFdVZTdyRXlKZV9qa2REVmQ3X1hVZDM4TF9tVVJqME9OUUN5c1BoRVJ5WlE0LTFHdElVZGQyQ2E5bVM2MEcycWx0cklOa1JDYUduUXByZ2FFMGpuMTVoeTE0UGhycS05b2dMU3JlV0NHT2g1Rno5a1ZDdGxvdw?oc=5\" target=\"_blank\">US data shows shark depredation tripled in Gulf, Southeast Atlantic over 20 years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "SNP calls on US policymakers, investors to advance brain health and nutrition efforts",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObExQVVZMZXJORzBtRjMyYTNFYU5BY3R2dFdzY29Yc3A0aHY0aUFsYWZablhEdkdNQnppRjhoUElEc1kzcGNyQld6c0RyajlUenhrLVpuLXZRU1E5Vl9PTTYzdzZYTlZwVWt6SU1fZTVWeXFiZHBQTktuQ0R5MEFLbTBKSS1fTnJnS3hkejM2cUpFZjdwQjZIZHBwTkppenFyVmc5aXpaSGtjOVlMbERJemRPT24?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxObExQVVZMZXJORzBtRjMyYTNFYU5BY3R2dFdzY29Yc3A0aHY0aUFsYWZablhEdkdNQnppRjhoUElEc1kzcGNyQld6c0RyajlUenhrLVpuLXZRU1E5Vl9PTTYzdzZYTlZwVWt6SU1fZTVWeXFiZHBQTktuQ0R5MEFLbTBKSS1fTnJnS3hkejM2cUpFZjdwQjZIZHBwTkppenFyVmc5aXpaSGtjOVlMbERJemRPT24?oc=5\" target=\"_blank\">SNP calls on US policymakers, investors to advance brain health and nutrition efforts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "Europêche meets with EU fisheries attachés, pushes for revision to Common Fisheries Policy",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOczZ2bElUS1l4b2U0SGc1YnVUSVUtTjJNazdqdF9nRlE0SG9UMUg0N3FYTGQyMG9ScUI2X1FYcUt4aUxXdmM2cXh6SEdtMFpma3lVZkFST3AzQVdvbGN4VkRzRVZtUmtKb3plWHJCQ1BQYm1RRElITVYzckUxWTU3MG5lOXN0SkQ0UndyTEswYll1NEpRUWRaNUZsNlRrTnlMMm8wS2xwTzlDY3c5R2xWVy0xZTNEVkRHb0lIUTVQR1BJZw?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOczZ2bElUS1l4b2U0SGc1YnVUSVUtTjJNazdqdF9nRlE0SG9UMUg0N3FYTGQyMG9ScUI2X1FYcUt4aUxXdmM2cXh6SEdtMFpma3lVZkFST3AzQVdvbGN4VkRzRVZtUmtKb3plWHJCQ1BQYm1RRElITVYzckUxWTU3MG5lOXN0SkQ0UndyTEswYll1NEpRUWRaNUZsNlRrTnlMMm8wS2xwTzlDY3c5R2xWVy0xZTNEVkRHb0lIUTVQR1BJZw?oc=5\" target=\"_blank\">Europêche meets with EU fisheries attachés, pushes for revision to Common Fisheries Policy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-05",
+    "titulo": "SalMar maintains record harvest pace in Q3 as Måsøval acquisition progressing according to plan",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeWRPb1FRa0ZOMk11bWYxWjB5RzJvT0NmR0FBYTR0T1dMSkYzYVd0ZXRLVFlGNVd0bEhVZUFPckF1MmdoOTJGNTJWZUpkdE1QYmh5NTgyVi1uZmxvY2VxR3k4ZGRBNFhzTnZXb0g0eWtBUTVuV1o0UFNXUjZSRUhjLWtCRTdEUkdDdDY2cWhYRmc5YTl3cVI5alRnd2o0YWtlVno3SVVOTW13N29NWUZWQnFMaHR5VlViV0JMQW1tVkJMTjFuYzcxd0d3?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPeWRPb1FRa0ZOMk11bWYxWjB5RzJvT0NmR0FBYTR0T1dMSkYzYVd0ZXRLVFlGNVd0bEhVZUFPckF1MmdoOTJGNTJWZUpkdE1QYmh5NTgyVi1uZmxvY2VxR3k4ZGRBNFhzTnZXb0g0eWtBUTVuV1o0UFNXUjZSRUhjLWtCRTdEUkdDdDY2cWhYRmc5YTl3cVI5alRnd2o0YWtlVno3SVVOTW13N29NWUZWQnFMaHR5VlViV0JMQW1tVkJMTjFuYzcxd0d3?oc=5\" target=\"_blank\">SalMar maintains record harvest pace in Q3 as Måsøval acquisition progressing according to plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
     "fecha": "2026-11-04",
@@ -497,41 +574,6 @@
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNSXRFeHdSRGxsSnFvQ1MyMFZPQm9zZkxpZlNzUURIZUpOdDluRmZ5dHFhWFZzYWZHeGNGbFE3NW04d1lfTlZJSEZDYWJtRG55Vktob3Zzb0pnVjlyQjJWS3NqTkV2bmZ0SWVZV1ZrSFRBNW83RG9TczNCR2NKT3BrR3pRckJER0lkNjNHdkl5OEQtUTRmVDBKbXg5Mk40Mk5nNkJQZU94YkIwQ0pRbnZ3cTJKWmtzWDh3UDNjbHdJYjF6aTZHQVVFZ2hMcw?oc=5\" target=\"_blank\">Canada fisheries group pushing government to keep industry in mind during offshore wind planning</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
-    "fecha": "2026-10-30",
-    "titulo": "US State Department launches university-led Fish Innovation Lab",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLS1jOGtXcmtpNWctT0dyWV9iaUxCOUNBcGhwbEpmejBqMzI0V3hMOHBYeHMyR3ZKOE5PYlI3Y1hlYXJMOU42aFoyTkdWemVkWXdHdElWb2Jld3pacUZRSk9iMks5S2tkZ1ViTkxrcjc1djVrU2hZWUg2MWZSTmFrR0xjeHFHZG13OVQ4VXNTZHMzbHFxUS1nMFVzbkY5UW8?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNLS1jOGtXcmtpNWctT0dyWV9iaUxCOUNBcGhwbEpmejBqMzI0V3hMOHBYeHMyR3ZKOE5PYlI3Y1hlYXJMOU42aFoyTkdWemVkWXdHdElWb2Jld3pacUZRSk9iMks5S2tkZ1ViTkxrcjc1djVrU2hZWUg2MWZSTmFrR0xjeHFHZG13OVQ4VXNTZHMzbHFxUS1nMFVzbkY5UW8?oc=5\" target=\"_blank\">US State Department launches university-led Fish Innovation Lab</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-10-30",
-    "titulo": "Andfjord Salmon secures NOK 1.25 billion senior bond",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZmhzTElYd19DRlFfMGRWcWstOHNVNDQ2R1Vsdm53aDZ0LThZdTBPNE1aam1Lel9kQllNZ3dRU2N0Zm1sNHk3emw4NFNpUk95dW5NcjVpYkpzM1E0eGo4Qlo5NE9ZTjZ5dERTWGR6YmVqdzl5djNBVEZZb2lsMGxJa19lM1VsMmk1Y1oxTWFPTXE?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNZmhzTElYd19DRlFfMGRWcWstOHNVNDQ2R1Vsdm53aDZ0LThZdTBPNE1aam1Lel9kQllNZ3dRU2N0Zm1sNHk3emw4NFNpUk95dW5NcjVpYkpzM1E0eGo4Qlo5NE9ZTjZ5dERTWGR6YmVqdzl5djNBVEZZb2lsMGxJa19lM1VsMmk1Y1oxTWFPTXE?oc=5\" target=\"_blank\">Andfjord Salmon secures NOK 1.25 billion senior bond</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-10-30",
-    "titulo": "Benchmark Genetics launches new shrimp DNA parentage testing program BenchTrace",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY3J6NExmOVlkVzc1VTN6SGtfa09Ba1JKM2hvMWtzQUU4dlJtZGNpZWFIcUdwZWYycXRnZDJVZTN1SUpKTklzb2EzOWRCRmVpOExzZkVRczRkak5EeWdfNjIwN0QzNGZOc3huRkxTYmxvN1hHYVNiS3pSQi1KWkI1YjA0MjdKX090QXhiVkw4ZjVFTDBLRmNqeWNqSWxBRUI0cHlJdm51WHAyUXdr?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPY3J6NExmOVlkVzc1VTN6SGtfa09Ba1JKM2hvMWtzQUU4dlJtZGNpZWFIcUdwZWYycXRnZDJVZTN1SUpKTklzb2EzOWRCRmVpOExzZkVRczRkak5EeWdfNjIwN0QzNGZOc3huRkxTYmxvN1hHYVNiS3pSQi1KWkI1YjA0MjdKX090QXhiVkw4ZjVFTDBLRmNqeWNqSWxBRUI0cHlJdm51WHAyUXdr?oc=5\" target=\"_blank\">Benchmark Genetics launches new shrimp DNA parentage testing program BenchTrace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-10-30",
-    "titulo": "Anglers push for banning commercial menhaden fishing in certain regions; workers union calls for support of fishery",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQR2pyZ0pHTURRU2dueEdOUXNQdzFxQk1GWU5NVTd2TGVqdzhXcFlRRWtnaUlucENLX1NUTFh5WGIxWW5BdS1JS3c4aDVoQXdkTnJsUEZWd1cwU2pHdExhdE8tMHU3NVVEcWNwYjN5YzJfbGpqa2dlY0hvVnpjOW1oc1U4ZFNEWkFEbDlQTmQtempReGU1cl90OWVNQzJlNS1Ed0VQNTVoTlRuRFhMMVZSU2hYN2ZpMlVUbmtxWnhSVDMzcjY2LTVOS2NSMk5NTEs3eXlIdw?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQR2pyZ0pHTURRU2dueEdOUXNQdzFxQk1GWU5NVTd2TGVqdzhXcFlRRWtnaUlucENLX1NUTFh5WGIxWW5BdS1JS3c4aDVoQXdkTnJsUEZWd1cwU2pHdExhdE8tMHU3NVVEcWNwYjN5YzJfbGpqa2dlY0hvVnpjOW1oc1U4ZFNEWkFEbDlQTmQtempReGU1cl90OWVNQzJlNS1Ed0VQNTVoTlRuRFhMMVZSU2hYN2ZpMlVUbmtxWnhSVDMzcjY2LTVOS2NSMk5NTEs3eXlIdw?oc=5\" target=\"_blank\">Anglers push for banning commercial menhaden fishing in certain regions; workers union calls for support of fishery</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-10-30",
-    "titulo": "Recent surge in humphead wrasse exports from Indonesia prompts concerns over sustainability, CITES loopholes",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUF9FNDNjLTlSakYyWEI5M01sTWRGV2hxM3NiX3NTM1lSVEktcTR4cVVyanE3WjA4NjY0R2o5YWN6OEx1YWFic3FxQjdPQ2pCX3J5RTZXQ0JqSzlvVmxkMGhjTG5sbjVmY2dXYjFfN2ZJOXRVanZiSE1BRmM1ejJKd1E5MVhrZDU5RTAzSGtubFN5cTRMbFNXMjBfZ2VCYloyTk5nRUhURDFuMm5QOVFIYk53TTJaYkxlYy01RWN3cnZMRkZoZ3FnRFFmaHZoS3J0RjI0dlRwckswdw?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUF9FNDNjLTlSakYyWEI5M01sTWRGV2hxM3NiX3NTM1lSVEktcTR4cVVyanE3WjA4NjY0R2o5YWN6OEx1YWFic3FxQjdPQ2pCX3J5RTZXQ0JqSzlvVmxkMGhjTG5sbjVmY2dXYjFfN2ZJOXRVanZiSE1BRmM1ejJKd1E5MVhrZDU5RTAzSGtubFN5cTRMbFNXMjBfZ2VCYloyTk5nRUhURDFuMm5QOVFIYk53TTJaYkxlYy01RWN3cnZMRkZoZ3FnRFFmaHZoS3J0RjI0dlRwckswdw?oc=5\" target=\"_blank\">Recent surge in humphead wrasse exports from Indonesia prompts concerns over sustainability, CITES loopholes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
     "fecha": "2026-10-29",
     "titulo": "Diputados dio dictamen a nuevas sanciones por pesca sin permiso argentino",
     "fuente": "Pescare",
@@ -777,27 +819,6 @@
     "resumen": "El gobierno de Santa Cruz busca las mejores opciones operativas y logísticas de su infraestructura portuaria para incrementar la disponibilidad de muelle en Deseado."
   },
   {
-    "fecha": "2026-10-24",
-    "titulo": "El encarecimiento de la harina de pescado acelera la búsqueda de alternativas para la acuicultura",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/el-encarecimiento-de-la-harina-de-pescado-acelera-la-busqueda-de-alternativas-para-la-acuicultura/",
-    "resumen": "La menor disponibilidad de ingredientes marinos dispara los costos de alimentación del camarón y los peces de cultivo. Argentina ya registra mayores ingresos por exportaciones de harina de pescado, mientras la merluza mejora sus precios internacionales."
-  },
-  {
-    "fecha": "2026-10-23",
-    "titulo": "Seafood EXPO Latin America Brasil 2026: qué dejó la feria para la pesca argentina",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/seafood-expo-latin-america-brasil-2026-que-dejo-la-feria-para-la-pesca-argentina/",
-    "resumen": "Brasil paga 12% más por el filet de merluza argentina y las pesqueras buscan ampliar sus ventas. La tónica y feeling del mercado ya avala una tendencia que revirtió la caída de demanda. Un nuevo ciclo se inició en marzo de 2026."
-  },
-  {
-    "fecha": "2026-10-23",
-    "titulo": "Chubut confirmó la prospección de langostino para definir la apertura de esta temporada 2026-2027",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/chubut-confirmo-la-prospeccion-de-langostino-para-definir-la-apertura-de-esta-temporada-2026-2027/",
-    "resumen": "Es oficial; el operativo comenzará el lunes 26 de octubre con 20 embarcaciones y cuatro jornadas de evaluación. Los resultados determinarán las condiciones para habilitar la pesca comercial en aguas provinciales."
-  },
-  {
     "fecha": "2026-10-23",
     "titulo": "Seafood Show Brasil: “Locura por el filet de merluza”",
     "fuente": "Revista Puerto",
@@ -831,26 +852,5 @@
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/10/la-merluza-se-afianza-y-el-langostino-busca-una-nueva-estrategia-comercial/",
     "resumen": "Tras Conxemar, los responsables comerciales de Estrella Patagónica y Arbumasa coinciden en que la merluza hubbsi atraviesa un buen momento, con demanda firme y precios en alza. En el langostino, en cambio, los grandes volúmenes y los problemas de calidad presionan los valores y reabren el debate sobre cuánto pescar y cómo promocionar el producto."
-  },
-  {
-    "fecha": "2026-10-22",
-    "titulo": "“Que sea una temporada donde reine la cordura y prime el trabajo”",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/10/que-sea-una-temporada-donde-reine-la-cordura-y-prime-el-trabajo/",
-    "resumen": "A días de la prospección de langostino en Chubut, el presidente de CAFACh, Gustavo González, pidió la intervención del Ejecutivo en el conflicto entre Conarpesa y el STIA para que no afecte el inicio de la temporada y alertó sobre la falta de demanda. También fijó en 85.000 toneladas el piso para la cuotificación."
-  },
-  {
-    "fecha": "2026-10-22",
-    "titulo": "Chubut promulgó la nueva ley de pesca artesanal que habilita cambios de zonas",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/10/chubut-promulgo-la-nueva-ley-de-pesca-artesanal-que-habilita-cambios-de-zonas/",
-    "resumen": "La modificación había sido impulsada para promover la actividad en la localidad de Camarones. Habilita a los barcos artesanales que operan en Caleta Córdova a pescar en la Zona III. La norma prohíbe expresamente la pesca “tanto dirigida como incidental” de la especie langostino."
-  },
-  {
-    "fecha": "2026-10-22",
-    "titulo": "Exportaciones por 1.866 millones de dólares entre enero y septiembre",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/10/exportaciones-por-1-866-millones-de-dolares-entre-enero-y-septiembre/",
-    "resumen": "El sector embarcó 454.248 toneladas y facturó un 17,8% más que en 2025, una variación condicionada por la paralización de la flota tangonera congeladora del año pasado. El calamar illex siguió siendo el principal producto con 485 millones de dólares, pese a una caída del 9,8%, y la merluza recuperó terreno."
   }
 ]
