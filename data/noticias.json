@@ -1,10 +1,24 @@
 [
   {
     "fecha": "2026-11-06",
+    "titulo": "Monitoreo Satelital de Buques Pesqueros",
+    "fuente": "MAGyP",
+    "url": "https://www.magyp.gob.ar/sitio/areas/pesca_maritima/monitoreo/",
+    "resumen": "Monitoreo oficial de buques reportando al sistema. Áreas: Zona Rinc&oacute;n (Res. CFP N&ordm; 27/2009 y posteriores)."
+  },
+  {
+    "fecha": "2026-11-06",
+    "titulo": "Desembarques de Capturas Marítimas (2026)",
+    "fuente": "MAGyP",
+    "url": "https://www.magyp.gob.ar/sitio/areas/pesca_maritima/desembarques/",
+    "resumen": "Estadísticas oficiales de desembarques por especie, flota y puerto. Datos disponibles: 2026, 2025, 2024, 2023, 2022, 2021, 2020."
+  },
+  {
+    "fecha": "2026-11-06",
     "titulo": "Ingreso de Buques a Puerto de Mar del Plata",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/ingreso-de-buques-a-puerto/",
-    "resumen": "Buques programados: BP TESON - 23:30 | BP PROMAC - 23:30. Actualización: 05.NOV.2026 22:40 HS."
+    "resumen": "Buques programados: BP CAMERIGE - 14:00 | BP HUAFENG 816 - 14:40 | BP ANITA - 18:00 | BP CTE.LUIS PIEDRABUENA - 18:00 | BP SFIDA - 19:30 | BP EL FARO - 20:00 | BP CALLEJA - 20:00. Actualización: 06.NOV.2026 13:34 HS."
   },
   {
     "fecha": "2026-11-06",
@@ -25,7 +39,14 @@
     "titulo": "El CFP fijó 277.200 toneladas para la pesca de anchoíta y caballa en 2026",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/el-cfp-fijo-277-200-toneladas-para-la-pesca-de-anchoita-y-caballa-en-2026/",
-    "resumen": "El Consejo Federal Pesquero (CFP) estableció las Capturas Máximas Permisibles (CMP) de anchoíta y caballa para 2026, con un volumen conjunto de 277.200 toneladas. La decisión, aprobada por unanimidad el jueves 5 de noviembre mediante la Resolución CFP Nro.15/2026, representa un incremento de apenas 1.000 toneladas respecto del año anterior, concentrado exclusivamente en el efectivo [...]"
+    "resumen": "Las evaluaciones del INIDEP confirman el buen estado biológico de la anchoíta y condiciones de subexplotación de la caballa sureña. Solo aumentó en 1.000 toneladas el límite de la anchoíta al sur del paralelo 41° Sur, mientras los desembarques continúan muy por debajo de los volúmenes autorizados."
+  },
+  {
+    "fecha": "2026-11-06",
+    "titulo": "Acta CFP N° 29/2026: asignaciones de merluza y vieira y reclamos por aranceles",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/acta-cfp-n-29-2026-asignaciones-de-merluza-y-vieira-y-reclamos-por-aranceles/",
+    "resumen": "El Consejo Federal Pesquero distribuyó capturas entre ocho buques merluceros, otorgó 798,9 toneladas adicionales de vieira patagónica y recibió un planteo de CAIPA sobre las Unidades de Pesca. El acta presenta una diferencia de 700 toneladas entre el total informado y las asignaciones individuales de merluza."
   },
   {
     "fecha": "2026-11-06",
@@ -77,18 +98,18 @@
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaDIwRVE4akJyR3AwOWx1ZHRqVjVxcGsyMWZyLUY3R2tyR2wyQ1RuT3Z6MVI0VlRLZjBBSkRQckszWDB3LXlTRURSUlhaSkdpclRKZlZtdkxkWHl4WDE2S0JaMHcybmluLW9JbFpvYWJZWFl4WUlCRUtqSDNpeGpCZGdJMGNWNkhjY0J5dV9nRV9nNEd1RmFiVHdXQmxJbU5kMEpBZ0dSMFFYUFNTZTIxX1Mtak9jSVJBcFVxQnduYW0taHc?oc=5\" target=\"_blank\">Sri Lankan blue swimming crab becomes country’s first fishery to achieve MSC certification</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
-    "fecha": "2026-11-05",
-    "titulo": "Monitoreo Satelital de Buques Pesqueros",
-    "fuente": "MAGyP",
-    "url": "https://www.magyp.gob.ar/sitio/areas/pesca_maritima/monitoreo/",
-    "resumen": "Monitoreo oficial de buques reportando al sistema. Áreas: Zona Rinc&oacute;n (Res. CFP N&ordm; 27/2009 y posteriores)."
+    "fecha": "2026-11-06",
+    "titulo": "EFPRA calls for a change in EU regulations to allow more livestock byproducts in animal feed",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMm9hVVRFamNvdjV2NWF3RlZmTGFLMEVuY2pSeW9Wc2NtbjRYU2pnd3JETEM3MDNuemt3OXNGOFItS3lfT3UzUi1vY21uaDY5aUVlakt3SlJJNTRMZVAyR1NfZmlDek5rWVVoY2hHaHpvZ25FX2x6ZmNJS1JLSkdjVXNvY2V5ZUtlTmFXa2hxTFBXVVJLc21ZeTRMeElRTFJqVC1RNWROaWdXWHUwOUZXWDJ2RzBUcHJrQ0hWbDlJNmE0Z3BN?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOMm9hVVRFamNvdjV2NWF3RlZmTGFLMEVuY2pSeW9Wc2NtbjRYU2pnd3JETEM3MDNuemt3OXNGOFItS3lfT3UzUi1vY21uaDY5aUVlakt3SlJJNTRMZVAyR1NfZmlDek5rWVVoY2hHaHpvZ25FX2x6ZmNJS1JLSkdjVXNvY2V5ZUtlTmFXa2hxTFBXVVJLc21ZeTRMeElRTFJqVC1RNWROaWdXWHUwOUZXWDJ2RzBUcHJrQ0hWbDlJNmE0Z3BN?oc=5\" target=\"_blank\">EFPRA calls for a change in EU regulations to allow more livestock byproducts in animal feed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
-    "fecha": "2026-11-05",
-    "titulo": "Desembarques de Capturas Marítimas (2026)",
-    "fuente": "MAGyP",
-    "url": "https://www.magyp.gob.ar/sitio/areas/pesca_maritima/desembarques/",
-    "resumen": "Estadísticas oficiales de desembarques por especie, flota y puerto. Datos disponibles: 2026, 2025, 2024, 2023, 2022, 2021, 2020."
+    "fecha": "2026-11-06",
+    "titulo": "Iceland’s controversial whaling season wraps up, with politicians, activists calling for it to be the nation’s last",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVkEwc2tmSklpQXdHN2Z6VHNGZWNVZkM1ejB1NGdsX0JzTzNNOVlTVnJ5dzJBUlJuTzZVQWdvem4yVW1HNm51WmRPanVNY1RsRnQ5RDJ5ZGc2LW1iOU9mWlg4UGlLTzdFSENiMGNSZC1COG02b0lxMHZVd1prU2ZBdmRLTklXUXp1S0F1UVFLRTlSSWhIeVFBM0d5MHVPNU9QNWtHSGk3dUFlcGRCb3liWGhWenhkUVo2Smx0SDFJdTd5bjU1a0kwVjV6T3JCSWdPSVdPRUJWX1JZTWl4WWpIQUtB?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPVkEwc2tmSklpQXdHN2Z6VHNGZWNVZkM1ejB1NGdsX0JzTzNNOVlTVnJ5dzJBUlJuTzZVQWdvem4yVW1HNm51WmRPanVNY1RsRnQ5RDJ5ZGc2LW1iOU9mWlg4UGlLTzdFSENiMGNSZC1COG02b0lxMHZVd1prU2ZBdmRLTklXUXp1S0F1UVFLRTlSSWhIeVFBM0d5MHVPNU9QNWtHSGk3dUFlcGRCb3liWGhWenhkUVo2Smx0SDFJdTd5bjU1a0kwVjV6T3JCSWdPSVdPRUJWX1JZTWl4WWpIQUtB?oc=5\" target=\"_blank\">Iceland’s controversial whaling season wraps up, with politicians, activists calling for it to be the nation’s last</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
     "fecha": "2026-11-05",
@@ -539,20 +560,6 @@
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNSWFNOFZtdXFhdmNKZDZla0I5dzFFdmxzLVI0NVBTd2RxY2pFdklodVVVWnpWU3VYZG44MXZ0aEgyaGFGLVpRbmg1UVNYRHJtb042eFhtSnRpdmd5OWtiX0NOcWdiTjB4T1BJbUpFbHFScjE1d2VfejRQRndVZFNTZkN4TFQ5WVotX1JoVkhwV1lVMFd1d09Yag?oc=5\" target=\"_blank\">California delays commercial Dungeness crab season to 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
-    "fecha": "2026-11-02",
-    "titulo": "BluGlacier CEO leaving role after nearly 12 years; Globaq Solutions taps new head of aquaculture, co-owner",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTjhQOXd0emlLekpXejh5c2k2MzBrZWIzV0U5eFRkNVNJSW1lanBOMXNJdE9BYXI2SWEzSVFFUnM0T1VsOWhvVWtBWC0xTzZkeTZ1TVl2ai1wNktRUWxqaU8xLXVjeUswNlgxc21rQTJ5UmFPM1YtUVQ0SE4tTVVlazI4Ylh2ODJuUUlQeTBTM3M0SjBjdHdiTXZIMWgyd3F0bnpjV1F0dlBWYnR6RnBiSi1qS0ZJcUpHeWdJTVV4VlA1eFlreFhLZjUzU3BIYWpVdHk1MzRNQ0NRVjBp?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTjhQOXd0emlLekpXejh5c2k2MzBrZWIzV0U5eFRkNVNJSW1lanBOMXNJdE9BYXI2SWEzSVFFUnM0T1VsOWhvVWtBWC0xTzZkeTZ1TVl2ai1wNktRUWxqaU8xLXVjeUswNlgxc21rQTJ5UmFPM1YtUVQ0SE4tTVVlazI4Ylh2ODJuUUlQeTBTM3M0SjBjdHdiTXZIMWgyd3F0bnpjV1F0dlBWYnR6RnBiSi1qS0ZJcUpHeWdJTVV4VlA1eFlreFhLZjUzU3BIYWpVdHk1MzRNQ0NRVjBp?oc=5\" target=\"_blank\">BluGlacier CEO leaving role after nearly 12 years; Globaq Solutions taps new head of aquaculture, co-owner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-11-02",
-    "titulo": "US wholesaler Monarch Trading touts national rollout, expansion of flagship seafood line Sovereign Seas",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQkpkdmhYNnBUY3ZBNkRYTWtUNTlpT3dpTGRIVUVuTUdqVXMtVXVqalhLMmFBX2ZVd2FBV0F2c0RpSXBOZXVET1lSd2JKb1dIZHRUdWpDc05qRUpWaVZEMjlZaHZicnFfYU1ZVkpKSTd4b2t5aFlKS1E2aGo2YVFZN0tyVkpoekhzbExMOGMtYndJZGFQWTFxdzFhOGFmS3lLbVRpSXlOTVdEMkk5MmNkSlZrNE5xOUxvaW9QbXRzUi1uOUlDTVVsQlRrYUhSbkt3RHNr?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQkpkdmhYNnBUY3ZBNkRYTWtUNTlpT3dpTGRIVUVuTUdqVXMtVXVqalhLMmFBX2ZVd2FBV0F2c0RpSXBOZXVET1lSd2JKb1dIZHRUdWpDc05qRUpWaVZEMjlZaHZicnFfYU1ZVkpKSTd4b2t5aFlKS1E2aGo2YVFZN0tyVkpoekhzbExMOGMtYndJZGFQWTFxdzFhOGFmS3lLbVRpSXlOTVdEMkk5MmNkSlZrNE5xOUxvaW9QbXRzUi1uOUlDTVVsQlRrYUhSbkt3RHNr?oc=5\" target=\"_blank\">US wholesaler Monarch Trading touts national rollout, expansion of flagship seafood line Sovereign Seas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
     "fecha": "2026-10-31",
     "titulo": "Acuerdo Mercosur-UE: crecen las ventas de merluza y mejoran las condiciones para el langostino",
     "fuente": "Pescare",
@@ -803,13 +810,6 @@
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/celeiro-reune-a-la-pesca-europea-para-debatir-el-futuro-de-la-flota-y-su-competitividad/",
     "resumen": "Las XXX Jornadas Técnicas del Sector Pesquero se celebrarán del 5 al 7 de noviembre en Galicia. Autoridades, armadores, científicos y especialistas analizarán la Política Pesquera Común, los costos de la transición energética y los desafíos que enfrenta la actividad marítima."
-  },
-  {
-    "fecha": "2026-10-26",
-    "titulo": "Chubut suspende la prospección de langostino en el sur por elevada presencia de merluza",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/chubut-suspende-la-prospeccion-de-langostino-en-el-sur-por-elevada-presencia-de-merluza/",
-    "resumen": "La Secretaría de Pesca ordenó el traslado anticipado de las 20 embarcaciones hacia el norte. La evaluación continuará durante tres jornadas y sus resultados definirán las condiciones para una eventual apertura comercial."
   },
   {
     "fecha": "2026-10-26",
