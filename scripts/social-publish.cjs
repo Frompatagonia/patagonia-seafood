@@ -16,9 +16,34 @@ const IG_ID = process.env.IG_ID || '17841422750623274';
 const SITE_URL = (process.env.SITE_URL || 'https://frompatagonia.github.io/patagonia-seafood/').replace(/\/?$/, '/');
 const NEWS_IMAGE_URL = process.env.NEWS_IMAGE_URL || SITE_URL + 'og-default.jpg';
 
+// ---------------------------------------------------------------------------
+// Frecuencias y ventanas horarias (hora argentina, UTC-3)
+// ---------------------------------------------------------------------------
+const ART_OFFSET_MS = -3 * 60 * 60 * 1000;
+const RECIPE_SLOTS_ART = [9, 15, 21]; // 3 publicaciones de la misma receta por día
+const GALLERY_INTERVAL_HOURS = Number(process.env.GALLERY_INTERVAL_HOURS || 12); // ~2 por día
+const VIDEO_INTERVAL_HOURS = Number(process.env.VIDEO_INTERVAL_HOURS || 84); // ~2 por semana
+const NEWS_MIN_INTERVAL_HOURS = Number(process.env.NEWS_MIN_INTERVAL_HOURS || 8);
+const PRODUCT_INTERVAL_HOURS = Number(process.env.PRODUCT_INTERVAL_HOURS || 44);
+const PRIORITY = ['gallery', 'video', 'news', 'product'];
+
 const args = new Set(process.argv.slice(2));
 const modeArg = process.argv.find((a) => a.startsWith('--mode='));
-const MODE = modeArg ? modeArg.split('=')[1] : args.has('--test') ? 'test' : args.has('--news') ? 'news' : args.has('--product') ? 'product' : 'auto';
+const MODE = modeArg
+  ? modeArg.split('=')[1]
+  : args.has('--test')
+    ? 'test'
+    : args.has('--news')
+      ? 'news'
+      : args.has('--product')
+        ? 'product'
+        : args.has('--recipe')
+          ? 'recipe'
+          : args.has('--gallery')
+            ? 'gallery'
+            : args.has('--video')
+              ? 'video'
+              : 'auto';
 const DRY_RUN = args.has('--dry-run');
 const FORCE = args.has('--force');
 const NO_FACEBOOK = args.has('--no-facebook');
@@ -64,6 +89,35 @@ const PRODUCTS = [
   }
 ];
 
+// Carpetas que alimentan la galería de fotos variadas (se excluyen logos, banderas,
+// fondos decorativos y la carpeta "social", que se usa para los productos).
+const GALLERY_FOLDERS = ['calamar', 'elaborados', 'flota', 'langostino', 'merluza', 'planta', 'variado-costero', 'certificaciones'];
+
+const GALLERY_CAPTIONS = {
+  calamar: 'Calamar argentino (Illex argentinus): tubos, vainas y tentáculos, con procesamiento en planta y control de calidad.',
+  langostino: 'Langostino argentino (Pleoticus muelleri), clasificado por calibre y listo para exportación.',
+  merluza: 'Merluza argentina (Merluccius hubbsi) en filet, entera y HG, con trazabilidad total.',
+  'variado-costero': 'Variado costero: corvina, besugo, pescadilla y otras especies del Mar Argentino.',
+  elaborados: 'Elaborados del mar: filets empanados y productos listos para retail.',
+  planta: 'Nuestra planta de procesamiento, donde cada producto se prepara con estándares de exportación.',
+  flota: 'Nuestra flota en el Mar Argentino, capturando con tecnología y responsabilidad.',
+  certificaciones: 'Certificaciones internacionales que respaldan cada uno de nuestros embarques.'
+};
+
+// Ingredientes de TheMealDB asociados a nuestras especies (define la foto de producto que acompaña la receta)
+const RECIPE_SOURCES = [
+  { ingredient: 'prawns', product: 'langostino' },
+  { ingredient: 'shrimp', product: 'langostino' },
+  { ingredient: 'squid', product: 'calamar' },
+  { ingredient: 'salmon', product: 'merluza' },
+  { ingredient: 'cod', product: 'merluza' },
+  { ingredient: 'fish fillet', product: 'merluza' },
+  { ingredient: 'white fish', product: 'merluza' },
+  { ingredient: 'monkfish', product: 'variado' },
+  { ingredient: 'tuna', product: 'variado' },
+  { ingredient: 'mussels', product: 'variado' }
+];
+
 function log(...parts) {
   console.log('[social]', ...parts);
 }
@@ -76,16 +130,59 @@ function readJson(file, fallback) {
   }
 }
 
+function publicUrl(relPath) {
+  return SITE_URL + String(relPath).split('/').map(encodeURIComponent).join('/');
+}
+
+function hash32(text) {
+  return crypto.createHash('sha1').update(String(text)).digest().readUInt32BE(0);
+}
+
+function artNow() {
+  return new Date(Date.now() + ART_OFFSET_MS);
+}
+
+function artDateKey() {
+  return artNow().toISOString().slice(0, 10);
+}
+
+function artHour() {
+  return artNow().getUTCHours();
+}
+
+function overdueHours(iso) {
+  if (!iso) return Infinity;
+  const t = new Date(iso).getTime();
+  if (Number.isNaN(t)) return Infinity;
+  return (Date.now() - t) / (60 * 60 * 1000);
+}
+
+function overdueScore(iso, intervalHours) {
+  return overdueHours(iso) / intervalHours;
+}
+
+// ---------------------------------------------------------------------------
+// Estado (anti-repetición de todas las secciones)
+// ---------------------------------------------------------------------------
 function loadState() {
   const raw = readJson(STATE_PATH, {});
-  const state = {
+  return {
     postedNews: raw.postedNews && typeof raw.postedNews === 'object' ? raw.postedNews : {},
     lastNewsPostDate: raw.lastNewsPostDate || null,
     lastProductPostDate: raw.lastProductPostDate || null,
     lastProductKey: raw.lastProductKey || null,
+    recipe: raw.recipe && typeof raw.recipe === 'object' ? raw.recipe : null,
+    usedRecipes: Array.isArray(raw.usedRecipes) ? raw.usedRecipes : [],
+    gallery:
+      raw.gallery && typeof raw.gallery === 'object'
+        ? { used: raw.gallery.used || {}, lastPostDate: raw.gallery.lastPostDate || null, lastPath: raw.gallery.lastPath || null }
+        : { used: {}, lastPostDate: null, lastPath: null },
+    videos:
+      raw.videos && typeof raw.videos === 'object'
+        ? { posted: raw.videos.posted || {}, lastPostDate: raw.videos.lastPostDate || null, lastPath: raw.videos.lastPath || null }
+        : { posted: {}, lastPostDate: null, lastPath: null },
     updatedAt: raw.updatedAt || null
   };
-  return state;
 }
 
 function saveState(state) {
@@ -94,6 +191,9 @@ function saveState(state) {
   fs.writeFileSync(STATE_PATH, JSON.stringify(state, null, 2) + '\n', 'utf8');
 }
 
+// ---------------------------------------------------------------------------
+// Meta Graph API
+// ---------------------------------------------------------------------------
 function getToken() {
   if (activeToken) return activeToken;
   const pageToken = process.env.META_PAGE_TOKEN;
@@ -164,6 +264,9 @@ function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
 }
 
+// ---------------------------------------------------------------------------
+// Noticias
+// ---------------------------------------------------------------------------
 function loadNews() {
   const data = readJson(NEWS_PATH, []);
   if (!Array.isArray(data)) return [];
@@ -222,12 +325,15 @@ function productCaption(product) {
   ].join('\n').slice(0, 2200);
 }
 
-async function waitForContainer(containerId) {
-  for (let attempt = 0; attempt < 40; attempt += 1) {
+// ---------------------------------------------------------------------------
+// Publicación
+// ---------------------------------------------------------------------------
+async function waitForContainer(containerId, attempts = 40, delayMs = 3000) {
+  for (let attempt = 0; attempt < attempts; attempt += 1) {
     const status = await graph(`/${containerId}`, { fields: 'status_code' });
     if (status.status_code === 'FINISHED') return;
     if (status.status_code === 'ERROR') throw new Error(`Instagram container ${containerId} terminó con error`);
-    await sleep(3000);
+    await sleep(delayMs);
   }
   throw new Error(`Timeout esperando el contenedor de Instagram ${containerId}`);
 }
@@ -247,13 +353,25 @@ async function publishFacebook(message, link) {
   }
 }
 
+async function publishFacebookPhoto(message, imageUrl) {
+  if (NO_FACEBOOK) return null;
+  const result = await graph(`/${PAGE_ID}/photos`, { url: imageUrl, message, published: 'true' }, 'POST');
+  return result.post_id || result.id;
+}
+
+async function publishFacebookVideo(description, videoUrl) {
+  if (NO_FACEBOOK) return null;
+  const result = await graph(`/${PAGE_ID}/videos`, { file_url: videoUrl, description }, 'POST');
+  return result.id;
+}
+
 async function publishInstagram(imageUrl, caption) {
   if (NO_INSTAGRAM) return null;
   try {
     await assertPublicImage(imageUrl);
   } catch (error) {
     if (imageUrl === NEWS_IMAGE_URL) throw error;
-    log('La imagen del producto todavía no es pública. Usando imagen de marca.');
+    log('La imagen no es pública. Usando imagen de marca.');
     imageUrl = NEWS_IMAGE_URL;
     await assertPublicImage(imageUrl);
   }
@@ -263,6 +381,43 @@ async function publishInstagram(imageUrl, caption) {
   return published.id;
 }
 
+async function publishInstagramCarousel(imageUrls, caption) {
+  if (NO_INSTAGRAM) return null;
+  const usable = [];
+  for (const url of imageUrls) {
+    try {
+      await assertPublicImage(url);
+      usable.push(url);
+    } catch (error) {
+      log('Imagen descartada del carrusel:', error.message);
+    }
+  }
+  if (!usable.length) throw new Error('No hay imágenes públicas para el carrusel');
+  if (usable.length === 1) return publishInstagram(usable[0], caption);
+
+  const children = [];
+  for (const url of usable) {
+    const item = await graph(`/${IG_ID}/media`, { image_url: url, is_carousel_item: 'true' }, 'POST');
+    await waitForContainer(item.id);
+    children.push(item.id);
+  }
+  const container = await graph(`/${IG_ID}/media`, { media_type: 'CAROUSEL', children: children.join(','), caption }, 'POST');
+  await waitForContainer(container.id);
+  const published = await graph(`/${IG_ID}/media_publish`, { creation_id: container.id }, 'POST');
+  return published.id;
+}
+
+async function publishInstagramReel(videoUrl, caption) {
+  if (NO_INSTAGRAM) return null;
+  const container = await graph(`/${IG_ID}/media`, { media_type: 'REELS', video_url: videoUrl, caption, share_to_feed: 'true' }, 'POST');
+  await waitForContainer(container.id, 90, 5000);
+  const published = await graph(`/${IG_ID}/media_publish`, { creation_id: container.id }, 'POST');
+  return published.id;
+}
+
+// ---------------------------------------------------------------------------
+// Sección: noticias / productos
+// ---------------------------------------------------------------------------
 async function publishNews(item, state) {
   const key = newsKey(item);
   const entry = state.postedNews[key] || {
@@ -295,43 +450,15 @@ async function publishNews(item, state) {
 
   if (!entry.instagram) {
     log('Publicando en Instagram:', item.titulo);
-    try {
-      const id = await publishInstagram(NEWS_IMAGE_URL, newsCaption(item, true));
-      entry.instagram = { id, at: new Date().toISOString() };
-      state.postedNews[key] = entry;
-      state.lastNewsPostDate = entry.instagram.at;
-      saveState(state);
-      log('Instagram OK:', id);
-    } catch (error) {
-      log('Instagram falló:', error.message);
-      throw error;
-    }
+    const id = await publishInstagram(NEWS_IMAGE_URL, newsCaption(item, true));
+    entry.instagram = { id, at: new Date().toISOString() };
+    state.postedNews[key] = entry;
+    state.lastNewsPostDate = entry.instagram.at;
+    saveState(state);
+    log('Instagram OK:', id);
   } else {
     log('Instagram ya publicado:', entry.instagram.id);
   }
-}
-
-function newsDue(state) {
-  if (FORCE) return true;
-  if (!state.lastNewsPostDate) return true;
-  const last = new Date(state.lastNewsPostDate).getTime();
-  if (Number.isNaN(last)) return true;
-  const minimumHours = Number(process.env.NEWS_MIN_INTERVAL_HOURS || 8);
-  return Date.now() - last >= minimumHours * 60 * 60 * 1000;
-}
-
-function productDue(state) {
-  if (FORCE) return true;
-  if (!state.lastProductPostDate) return true;
-  const last = new Date(state.lastProductPostDate).getTime();
-  if (Number.isNaN(last)) return true;
-  return Date.now() - last >= 44 * 60 * 60 * 1000;
-}
-
-function selectProduct(state) {
-  const lastIndex = PRODUCTS.findIndex((p) => p.key === state.lastProductKey);
-  if (lastIndex >= 0) return PRODUCTS[(lastIndex + 1) % PRODUCTS.length];
-  return PRODUCTS[Math.floor(Date.now() / 86400000) % PRODUCTS.length];
 }
 
 async function publishProduct(product, state) {
@@ -364,12 +491,414 @@ async function publishProduct(product, state) {
   saveState(state);
 }
 
+function newsDue(state) {
+  if (FORCE) return true;
+  return overdueHours(state.lastNewsPostDate) >= NEWS_MIN_INTERVAL_HOURS;
+}
+
+function productDue(state) {
+  if (FORCE) return true;
+  return overdueHours(state.lastProductPostDate) >= PRODUCT_INTERVAL_HOURS;
+}
+
+function selectProduct(state) {
+  const lastIndex = PRODUCTS.findIndex((p) => p.key === state.lastProductKey);
+  if (lastIndex >= 0) return PRODUCTS[(lastIndex + 1) % PRODUCTS.length];
+  return PRODUCTS[Math.floor(Date.now() / 86400000) % PRODUCTS.length];
+}
+
+// ---------------------------------------------------------------------------
+// Sección: galería de fotos (regla: si hay .png y .webp del mismo nombre, usa .webp)
+// ---------------------------------------------------------------------------
+function walkDir(dir, onFile) {
+  let entries;
+  try {
+    entries = fs.readdirSync(dir, { withFileTypes: true });
+  } catch {
+    return;
+  }
+  for (const entry of entries) {
+    const full = path.join(dir, entry.name);
+    if (entry.isDirectory()) walkDir(full, onFile);
+    else if (entry.isFile()) onFile(full);
+  }
+}
+
+function collectGalleryImages() {
+  const allowed = ['.webp', '.jpg', '.jpeg', '.png', '.gif'];
+  const found = [];
+  for (const folder of GALLERY_FOLDERS) {
+    const base = path.join(ROOT, 'images', folder);
+    if (!fs.existsSync(base)) continue;
+    walkDir(base, (full) => {
+      if (allowed.includes(path.extname(full).toLowerCase())) found.push(full);
+    });
+  }
+
+  // Regla .webp: agrupa por carpeta + nombre base y prefiere .webp sobre .png/.jpg
+  const byDir = {};
+  for (const full of found) {
+    const dir = path.dirname(full);
+    const stem = path.basename(full, path.extname(full)).toLowerCase();
+    byDir[dir] = byDir[dir] || {};
+    byDir[dir][stem] = byDir[dir][stem] || [];
+    byDir[dir][stem].push(full);
+  }
+
+  const result = [];
+  for (const dir of Object.keys(byDir)) {
+    for (const stem of Object.keys(byDir[dir])) {
+      const group = byDir[dir][stem];
+      const webp = group.find((f) => f.toLowerCase().endsWith('.webp'));
+      const chosen = webp || group[0];
+      result.push(path.relative(ROOT, chosen).split(path.sep).join('/'));
+    }
+  }
+  return result.sort();
+}
+
+function selectGalleryImage(state) {
+  const all = collectGalleryImages();
+  if (!all.length) return null;
+  const used = state.gallery.used || {};
+  const unused = all.filter((p) => !used[p]);
+  if (unused.length) return unused[hash32(`${artDateKey()}|${unused.length}`) % unused.length];
+  // Ya se usaron todas: rota por la menos reciente
+  return all.slice().sort((a, b) => String(used[a] || '').localeCompare(String(used[b] || '')))[0];
+}
+
+function galleryCaption(relPath, forInstagram = false) {
+  const folder = relPath.split('/')[1] || '';
+  const body = GALLERY_CAPTIONS[folder] || 'Nuestro trabajo en el Mar Argentino, con trazabilidad y calidad de exportación.';
+  const lines = [body, '', 'From Patagonia Seafood - Mar del Plata, Argentina.'];
+  if (forInstagram) lines.push(`Catálogo: ${SITE_URL}catalogo/`);
+  lines.push('', '#FromPatagoniaSeafood #MarArgentino #PescaArgentina #ProductoDelMar');
+  return lines.join('\n').slice(0, 2200);
+}
+
+async function publishGalleryItem(state, relPath) {
+  const url = publicUrl(relPath);
+  const caption = galleryCaption(relPath);
+
+  if (DRY_RUN) {
+    log('DRY RUN galería:', relPath);
+    log(url);
+    log(caption);
+    return;
+  }
+
+  await resolvePageToken();
+
+  if (!NO_FACEBOOK) {
+    log('Publicando foto en Facebook:', relPath);
+    const id = await publishFacebookPhoto(caption, url);
+    log('Facebook OK:', id);
+  }
+  if (!NO_INSTAGRAM) {
+    log('Publicando foto en Instagram:', relPath);
+    const id = await publishInstagram(url, galleryCaption(relPath, true));
+    log('Instagram OK:', id);
+  }
+
+  state.gallery.used[relPath] = new Date().toISOString();
+  state.gallery.lastPostDate = new Date().toISOString();
+  state.gallery.lastPath = relPath;
+  saveState(state);
+}
+
+function galleryDue(state) {
+  if (FORCE) return true;
+  return overdueHours(state.gallery.lastPostDate) >= GALLERY_INTERVAL_HOURS;
+}
+
+// ---------------------------------------------------------------------------
+// Sección: videos (2 por semana, alternando + ventana para videos nuevos)
+// ---------------------------------------------------------------------------
+function listVideos() {
+  const dir = path.join(ROOT, 'videos');
+  let files;
+  try {
+    files = fs.readdirSync(dir);
+  } catch {
+    return [];
+  }
+  return files
+    .filter((f) => /\.(mp4|mov|webm)$/i.test(f))
+    .sort()
+    .map((f) => `videos/${f}`);
+}
+
+function selectVideo(state) {
+  const all = listVideos();
+  if (!all.length) return null;
+  const posted = state.videos.posted || {};
+  // Prioriza videos nuevos (nunca publicados): así los que subís vos entran enseguida
+  const fresh = all.filter((v) => !posted[v]);
+  if (fresh.length) return fresh[0];
+  return all.slice().sort((a, b) => String(posted[a] || '').localeCompare(String(posted[b] || '')))[0];
+}
+
+function videoCaption(relPath, forInstagram = false) {
+  const name = path.basename(relPath).replace(/\.[a-z0-9]+$/i, '').replace(/[_]+/g, ' ').trim();
+  const lines = [
+    `Así trabajamos: ${name}.`,
+    '',
+    'Desde el Mar Argentino hasta tu mesa, con trazabilidad, cadena de frío y calidad de exportación.'
+  ];
+  if (forInstagram) lines.push(`${SITE_URL}catalogo/`);
+  lines.push('', '#FromPatagoniaSeafood #PescaArgentina #MarArgentino #Proceso #CadenaDeFrio');
+  return lines.join('\n').slice(0, 2200);
+}
+
+async function publishVideoItem(state, relPath) {
+  const url = publicUrl(relPath);
+  const caption = videoCaption(relPath);
+
+  if (DRY_RUN) {
+    log('DRY RUN video:', relPath);
+    log(url);
+    log(caption);
+    return;
+  }
+
+  await resolvePageToken();
+
+  if (!NO_FACEBOOK) {
+    try {
+      log('Publicando video en Facebook:', relPath);
+      const id = await publishFacebookVideo(caption, url);
+      log('Facebook video OK:', id);
+    } catch (error) {
+      log('Facebook video falló:', error.message);
+    }
+  }
+  if (!NO_INSTAGRAM) {
+    try {
+      log('Publicando reel en Instagram:', relPath);
+      const id = await publishInstagramReel(url, videoCaption(relPath, true));
+      log('Instagram reel OK:', id);
+    } catch (error) {
+      log('Instagram reel falló:', error.message);
+    }
+  }
+
+  state.videos.posted[relPath] = new Date().toISOString();
+  state.videos.lastPostDate = new Date().toISOString();
+  state.videos.lastPath = relPath;
+  saveState(state);
+}
+
+function videoDue(state) {
+  if (FORCE) return true;
+  return overdueHours(state.videos.lastPostDate) >= VIDEO_INTERVAL_HOURS;
+}
+
+// ---------------------------------------------------------------------------
+// Sección: recetas (1 nueva por día, publicada 3 veces el mismo día)
+// ---------------------------------------------------------------------------
+async function fetchJson(url) {
+  const response = await fetch(url, { headers: { accept: 'application/json' } });
+  if (!response.ok) throw new Error(`HTTP ${response.status} ${url}`);
+  return response.json();
+}
+
+function chunkText(text, max = 1800) {
+  const parts = String(text).split(/(?<=[.!?])\s+/);
+  const chunks = [];
+  let current = '';
+  for (const part of parts) {
+    if ((current + ' ' + part).trim().length > max) {
+      if (current.trim()) chunks.push(current.trim());
+      current = part;
+    } else {
+      current = (current + ' ' + part).trim();
+    }
+  }
+  if (current.trim()) chunks.push(current.trim());
+  return chunks;
+}
+
+async function translateEs(text) {
+  const clean = String(text || '').replace(/\s+/g, ' ').trim();
+  if (!clean) return '';
+  const out = [];
+  for (const chunk of chunkText(clean)) {
+    let done = false;
+    try {
+      const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=es&dt=t&q=${encodeURIComponent(chunk)}`;
+      const data = await fetchJson(url);
+      if (Array.isArray(data) && Array.isArray(data[0])) {
+        const translated = data[0].map((part) => (Array.isArray(part) ? part[0] : '')).join('').trim();
+        if (translated) {
+          out.push(translated);
+          done = true;
+        }
+      }
+    } catch {
+      /* continúa con el fallback */
+    }
+    if (done) continue;
+    try {
+      const url = `https://api.mymemory.translated.net/get?q=${encodeURIComponent(chunk)}&langpair=en|es`;
+      const data = await fetchJson(url);
+      const translated = data && data.responseData && data.responseData.translatedText;
+      if (translated && !/MYMEMORY WARNING/i.test(translated)) {
+        out.push(translated);
+        continue;
+      }
+    } catch {
+      /* continúa con el original */
+    }
+    out.push(chunk);
+  }
+  return out.join(' ');
+}
+
+async function buildDailyRecipe(dayKey, state) {
+  const pool = [];
+  const seen = new Set();
+  for (const source of RECIPE_SOURCES) {
+    try {
+      const data = await fetchJson(`https://www.themealdb.com/api/json/v1/1/filter.php?i=${encodeURIComponent(source.ingredient)}`);
+      for (const meal of data.meals || []) {
+        if (seen.has(meal.idMeal)) continue;
+        seen.add(meal.idMeal);
+        pool.push({ id: meal.idMeal, thumb: meal.strMealThumb, product: source.product });
+      }
+    } catch {
+      /* ignora el ingrediente que falle */
+    }
+  }
+  if (!pool.length) throw new Error('TheMealDB no devolvió recetas');
+
+  const used = new Set(state.usedRecipes || []);
+  let candidates = pool.filter((m) => !used.has(m.id));
+  if (!candidates.length) candidates = pool;
+
+  const pick = candidates[hash32(dayKey) % candidates.length];
+  const detail = await fetchJson(`https://www.themealdb.com/api/json/v1/1/lookup.php?i=${pick.id}`);
+  const meal = detail.meals && detail.meals[0];
+  if (!meal) throw new Error('La receta no tiene detalle');
+
+  const ingredients = [];
+  for (let i = 1; i <= 20; i += 1) {
+    const ing = String(meal[`strIngredient${i}`] || '').trim();
+    const measure = String(meal[`strMeasure${i}`] || '').trim();
+    if (ing) ingredients.push(`${measure ? measure + ' ' : ''}${ing}`.trim());
+  }
+
+  const steps = String(meal.strInstructions || '')
+    .replace(/\r/g, '')
+    .split(/\n+/)
+    .map((line) => line.replace(/^[\s▢•\-\*\d.)]+/, '').trim())
+    .filter((line) => line.length > 2)
+    .slice(0, 15);
+
+  const ingredientsEs = [];
+  for (const ing of ingredients) ingredientsEs.push(await translateEs(ing));
+  const stepsEs = [];
+  for (const step of steps) stepsEs.push(await translateEs(step));
+
+  const product = PRODUCTS.find((p) => p.key === pick.product) || PRODUCTS[0];
+
+  return {
+    dayKey,
+    mealId: meal.idMeal,
+    titleEs: await translateEs(meal.strMeal),
+    titleOriginal: meal.strMeal,
+    area: meal.strArea || '',
+    category: meal.strCategory || '',
+    imageUrl: meal.strMealThumb || pick.thumb,
+    productKey: product.key,
+    productName: product.name,
+    productImage: product.image,
+    ingredients: ingredientsEs,
+    steps: stepsEs,
+    postsToday: 0,
+    postedSlots: [],
+    lastPostDate: null
+  };
+}
+
+function recipeCaption(recipe, forInstagram = false) {
+  const lines = [recipe.titleEs, ''];
+  lines.push(`Una receta de ${recipe.area || 'cocina del mar'} para disfrutar en casa con el sabor del Mar Argentino.`);
+  lines.push('', 'INGREDIENTES');
+  for (const ing of recipe.ingredients) lines.push(`- ${ing}`);
+  lines.push('', 'PREPARACIÓN');
+  recipe.steps.forEach((step, i) => lines.push(`${i + 1}. ${step}`));
+  lines.push('', `En From Patagonia Seafood trabajamos ${recipe.productName} con trazabilidad y calidad de exportación.`);
+  if (forInstagram) lines.push(`Fichas técnicas y catálogo: ${SITE_URL}catalogo/`);
+  lines.push('', '#RecetaDePescado #MarArgentino #FromPatagoniaSeafood #CocinaDelMar #ProductoDelMar');
+  return lines.join('\n').slice(0, 2200);
+}
+
+async function ensureDailyRecipe(state) {
+  const dayKey = artDateKey();
+  if (!state.recipe || state.recipe.dayKey !== dayKey) {
+    log('Armando la receta del día...');
+    state.recipe = await buildDailyRecipe(dayKey, state);
+    log('Receta elegida:', state.recipe.titleEs);
+  }
+  return state.recipe;
+}
+
+async function publishRecipe(state) {
+  const recipe = await ensureDailyRecipe(state);
+  const dishUrl = recipe.imageUrl;
+  const productPath = recipe.productImage;
+  const productUrl = publicUrl(productPath);
+
+  if (DRY_RUN) {
+    log('DRY RUN receta:', recipe.titleEs);
+    log('Foto del plato:', dishUrl);
+    log('Foto de producto:', productUrl);
+    log(recipeCaption(recipe, true));
+    return;
+  }
+
+  await resolvePageToken();
+
+  if (!NO_FACEBOOK) {
+    log('Publicando receta en Facebook:', recipe.titleEs);
+    const id = await publishFacebookPhoto(recipeCaption(recipe, false), dishUrl);
+    log('Facebook OK:', id);
+  }
+  if (!NO_INSTAGRAM) {
+    log('Publicando receta en Instagram (carrusel):', recipe.titleEs);
+    const id = await publishInstagramCarousel([dishUrl, productUrl], recipeCaption(recipe, true));
+    log('Instagram OK:', id);
+  }
+
+  recipe.postsToday = (recipe.postsToday || 0) + 1;
+  const slot = String(artHour());
+  if (!Array.isArray(recipe.postedSlots)) recipe.postedSlots = [];
+  if (!recipe.postedSlots.includes(slot)) recipe.postedSlots.push(slot);
+  recipe.lastPostDate = new Date().toISOString();
+  state.recipe = recipe;
+  state.usedRecipes = Array.from(new Set([...(state.usedRecipes || []), recipe.mealId])).slice(-60);
+  saveState(state);
+}
+
+function recipeDue(state) {
+  if (FORCE) return true;
+  const dayKey = artDateKey();
+  const hour = artHour();
+  const recipe = state.recipe && state.recipe.dayKey === dayKey ? state.recipe : null;
+  const posts = recipe ? recipe.postsToday || 0 : 0;
+  if (posts >= RECIPE_SLOTS_ART.length) return false;
+  return hour >= RECIPE_SLOTS_ART[posts];
+}
+
+// ---------------------------------------------------------------------------
+// Orquestador
+// ---------------------------------------------------------------------------
 async function main() {
   const state = loadState();
-  const news = loadNews();
-  log(`Modo: ${MODE}${DRY_RUN ? ' (dry run)' : ''}. Noticias: ${news.length}.`);
+  log(`Modo: ${MODE}${DRY_RUN ? ' (dry run)' : ''}. Fecha ART: ${artDateKey()} ${String(artHour()).padStart(2, '0')}:00.`);
 
   if (MODE === 'test') {
+    const news = loadNews();
     const latest = news[0];
     if (!latest) throw new Error('No hay noticias en data/noticias.json');
     const key = newsKey(latest);
@@ -384,7 +913,7 @@ async function main() {
 
   if (MODE === 'news') {
     if (!newsDue(state)) {
-      log('Noticias en pausa para no saturar. Próximo envío cuando pase el intervalo mínimo.');
+      log('Noticias en pausa para no saturar.');
       return;
     }
     const item = selectNews(state, { ignoreState: FORCE });
@@ -398,26 +927,87 @@ async function main() {
 
   if (MODE === 'product') {
     if (!productDue(state)) {
-      log('Todavía no corresponde publicar producto (intervalo de 44 h).');
+      log(`Todavía no corresponde publicar producto (intervalo de ${PRODUCT_INTERVAL_HOURS} h).`);
       return;
     }
     await publishProduct(selectProduct(state), state);
     return;
   }
 
-  if (productDue(state)) {
+  if (MODE === 'recipe') {
+    await publishRecipe(state);
+    return;
+  }
+
+  if (MODE === 'gallery') {
+    const relPath = selectGalleryImage(state);
+    if (!relPath) {
+      log('No hay fotos para publicar.');
+      return;
+    }
+    await publishGalleryItem(state, relPath);
+    return;
+  }
+
+  if (MODE === 'video') {
+    const relPath = selectVideo(state);
+    if (!relPath) {
+      log('No hay videos para publicar.');
+      return;
+    }
+    await publishVideoItem(state, relPath);
+    return;
+  }
+
+  // ---- Modo automático: 1 publicación por corrida (escalonado hora por hora) ----
+  if (recipeDue(state)) {
+    await publishRecipe(state);
+    return;
+  }
+
+  const candidates = [];
+  if (galleryDue(state)) candidates.push({ type: 'gallery', score: overdueScore(state.gallery.lastPostDate, GALLERY_INTERVAL_HOURS) });
+  if (videoDue(state)) candidates.push({ type: 'video', score: overdueScore(state.videos.lastPostDate, VIDEO_INTERVAL_HOURS) });
+  if (newsDue(state)) candidates.push({ type: 'news', score: overdueScore(state.lastNewsPostDate, NEWS_MIN_INTERVAL_HOURS) });
+  if (productDue(state)) candidates.push({ type: 'product', score: overdueScore(state.lastProductPostDate, PRODUCT_INTERVAL_HOURS) });
+
+  if (!candidates.length) {
+    log('Nada pendiente por ahora.');
+    return;
+  }
+
+  candidates.sort((a, b) => b.score - a.score || PRIORITY.indexOf(a.type) - PRIORITY.indexOf(b.type));
+  const chosen = candidates[0].type;
+  log('Publicando (lo más atrasado):', chosen);
+
+  if (chosen === 'gallery') {
+    const relPath = selectGalleryImage(state);
+    if (!relPath) {
+      log('No hay fotos para publicar.');
+      return;
+    }
+    await publishGalleryItem(state, relPath);
+    return;
+  }
+
+  if (chosen === 'video') {
+    const relPath = selectVideo(state);
+    if (!relPath) {
+      log('No hay videos para publicar.');
+      return;
+    }
+    await publishVideoItem(state, relPath);
+    return;
+  }
+
+  if (chosen === 'product') {
     await publishProduct(selectProduct(state), state);
     return;
   }
 
-  if (!newsDue(state)) {
-    log('Sin producto pendiente y noticias en pausa para no saturar.');
-    return;
-  }
-
-  const item = selectNews(state);
+  const item = selectNews(state, { ignoreState: FORCE });
   if (!item) {
-    log('No hay noticias nuevas ni producto pendiente.');
+    log('No hay noticias nuevas para publicar.');
     return;
   }
   await publishNews(item, state);
