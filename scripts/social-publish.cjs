@@ -20,12 +20,14 @@ const NEWS_IMAGE_URL = process.env.NEWS_IMAGE_URL || SITE_URL + 'og-default.jpg'
 // Frecuencias y ventanas horarias (hora argentina, UTC-3)
 // ---------------------------------------------------------------------------
 const ART_OFFSET_MS = -3 * 60 * 60 * 1000;
-const RECIPE_SLOTS_ART = [9, 15, 21]; // 3 publicaciones de la misma receta por día
 const GALLERY_INTERVAL_HOURS = Number(process.env.GALLERY_INTERVAL_HOURS || 12); // ~2 por día
 const VIDEO_INTERVAL_HOURS = Number(process.env.VIDEO_INTERVAL_HOURS || 84); // ~2 por semana
 const NEWS_MIN_INTERVAL_HOURS = Number(process.env.NEWS_MIN_INTERVAL_HOURS || 8);
 const PRODUCT_INTERVAL_HOURS = Number(process.env.PRODUCT_INTERVAL_HOURS || 44);
-const PRIORITY = ['gallery', 'video', 'news', 'product'];
+const PORT_INTERVAL_HOURS = Number(process.env.PORT_INTERVAL_HOURS || 24); // 1 puerto por día
+const RECIPE_INTERVAL_HOURS = Number(process.env.RECIPE_INTERVAL_HOURS || 168); // 1 receta por semana
+const CHEF_INTERVAL_HOURS = Number(process.env.CHEF_INTERVAL_HOURS || 168); // 1 tip de chef por semana
+const PRIORITY = ['gallery', 'video', 'news', 'product', 'port', 'chef'];
 
 // Mensajes de marca: la historia real (400 familias) + los puertos, para que cada texto conecte y se comparta.
 const BRAND_STORY = 'Detrás de cada producto hay 400 familias argentinas que viven del mar.';
@@ -49,7 +51,11 @@ const MODE = modeArg
             ? 'gallery'
             : args.has('--video')
               ? 'video'
-              : 'auto';
+              : args.has('--port')
+                ? 'port'
+                : args.has('--chef')
+                  ? 'chef'
+                  : 'auto';
 const DRY_RUN = args.has('--dry-run');
 const FORCE = args.has('--force');
 const NO_FACEBOOK = args.has('--no-facebook');
@@ -92,6 +98,150 @@ const PRODUCTS = [
     image: 'images/social/elaborados.jpg',
     pdf: 'catalogo/',
     text: 'Filets empanados y elaborados de pescado listos para retail, congelados y con el respaldo de nuestra planta de procesamiento.'
+  }
+];
+
+// Puertos: 1 publicación por día, rotando. Foto propia del lugar (uso libre, Wikimedia Commons).
+const PORTS = [
+  {
+    key: 'mar-del-plata',
+    name: 'Mar del Plata',
+    image: 'images/puertos/mar-del-plata.jpg',
+    text: `Mar del Plata no es solo nuestra base: es donde empieza todo.
+
+Acá está nuestro puerto, nuestra planta y el equipo que trabaja el producto que después viaja al mundo. Una ciudad de más de 600.000 habitantes, la capital pesquera de la Argentina.`,
+    hashtags: '#MarDelPlata #BuenosAires #Puerto #MarArgentino #PescaArgentina'
+  },
+  {
+    key: 'san-antonio-oeste',
+    name: 'San Antonio Oeste',
+    image: 'images/puertos/san-antonio-oeste.jpg',
+    text: `San Antonio Oeste: aguas profundas y uno de los caladeros más ricos del Atlántico Sur.
+
+Un pueblo de más de 32.000 habitantes con un puerto que mueve langostino y merluza para el mundo. Al lado, Las Grutas: el balneario que todos conocen.`,
+    hashtags: '#SanAntonioOeste #SanAntonioEste #LasGrutas #RioNegro #Langostino'
+  },
+  {
+    key: 'punta-colorada',
+    name: 'Punta Colorada',
+    image: 'images/puertos/punta-colorada.jpg',
+    text: `Punta Colorada es un puerto chico con historia grande. Está en Sierra Grande, Río Negro, junto a Playas Doradas: poca gente, mucho mar.
+
+Es la misma caleta que mueve el producto de la zona. Un lugar que casi nadie conoce y que debería conocer el mundo.`,
+    hashtags: '#PuntaColorada #PlayasDoradas #SierraGrande #RioNegro #Patagonia'
+  },
+  {
+    key: 'puerto-madryn',
+    name: 'Puerto Madryn',
+    image: 'images/puertos/puerto-madryn.jpg',
+    text: `Puerto Madryn es una de las puertas de entrada a la Patagonia. Más de 122.000 habitantes y un puerto que no para.
+
+A pocos kilómetros está nuestra planta de Trelew, donde en temporada se procesa el langostino.`,
+    hashtags: '#PuertoMadryn #Chubut #Trelew #Langostino #Patagonia'
+  },
+  {
+    key: 'rawson',
+    name: 'Rawson',
+    image: 'images/puertos/rawson.jpg',
+    text: `Rawson es la capital de Chubut y también vive del mar. Casi 46.000 habitantes y un puerto a minutos de la ciudad.
+
+Puerto Rawson es uno de los puntos donde opera nuestra flota, junto a Playa Unión.`,
+    hashtags: '#Rawson #Chubut #PuertoRawson #PlayaUnion #PescaArgentina'
+  },
+  {
+    key: 'camarones',
+    name: 'Bahía Camarones',
+    image: 'images/puertos/camarones.jpg',
+    text: `Bahía Camarones: un pueblo chico frente a un mar enorme. Casi 2.000 habitantes y el langostino en el centro de la vida de todos.
+
+Es una de las zonas que más cuidamos, porque acá el mar es todo.`,
+    hashtags: '#BahiaCamarones #Camarones #Chubut #Langostino #Patagonia'
+  },
+  {
+    key: 'comodoro-rivadavia',
+    name: 'Comodoro Rivadavia',
+    image: 'images/puertos/comodoro-rivadavia.jpg',
+    text: `Comodoro Rivadavia es uno de los grandes puertos del sur. Más de 240.000 habitantes y una ciudad que no para.
+
+Petróleo y pesca: los dos motores. Y uno de los lugares donde opera nuestra flota.`,
+    hashtags: '#ComodoroRivadavia #Chubut #Puerto #PescaArgentina #Patagonia'
+  },
+  {
+    key: 'caleta-paula',
+    name: 'Caleta Paula',
+    image: 'images/puertos/caleta-paula.jpg',
+    text: `Caleta Paula es el puerto de Caleta Olivia, el punto más al sur de nuestras operaciones.
+
+Más de 67.000 habitantes, frío, viento y mar. El sur más duro y también el más generoso.`,
+    hashtags: '#CaletaPaula #CaletaOlivia #SantaCruz #PescaArgentina #Patagonia'
+  }
+];
+
+// Secretos de chef: 1 por semana. Tips de cocina para el pescado y el marisco.
+const CHEF_TIPS = [
+  {
+    key: 'salmuera',
+    title: 'El agua de mar casera',
+    image: 'images/social/merluza.jpg',
+    text: `En vez de tirarle sal gruesa por encima, sumergí el lomo 3 o 4 minutos en agua con 35 g de sal por litro (agua de mar casera).
+
+Se sala parejo, la piel dora mejor y no se pega. Es el truco del chef Jordi Cruz (3 estrellas Michelin).`
+  },
+  {
+    key: 'secar',
+    title: 'Secá bien el pescado',
+    image: 'images/social/merluza.jpg',
+    text: `La humedad es la enemiga número uno del pescado a la plancha: si está húmedo, se cuece en vez de dorarse.
+
+Pasalo por papel absorbente antes de cocinarlo. Un pescado seco se dora y se despega solo.`
+  },
+  {
+    key: 'plancha-caliente',
+    title: 'Plancha bien caliente',
+    image: 'images/social/langostino.jpg',
+    text: `Precalentá la plancha o sartén 2 o 3 minutos a fuego medio-alto y usá una película fina de aceite, no un charco.
+
+Y el secreto: no lo toques los primeros 4 minutos. Cuando esté dorado, se despega solo.`
+  },
+  {
+    key: 'langostino-punto',
+    title: 'Langostinos en 3 minutos',
+    image: 'images/social/langostino.jpg',
+    text: `Los langostinos van siempre desde agua hirviendo. Cuando el agua vuelve a hervir, se apagan y se sacan.
+
+Los grandes necesitan 3 o 4 minutos. Retiralos apenas cambian de color: el calor residual termina de cocinarlos.`
+  },
+  {
+    key: 'sal-final',
+    title: 'La sal que se siente',
+    image: 'images/social/langostino.jpg',
+    text: `El langostino es dulce por naturaleza: aunque el agua tenga mucha sal, no queda salado.
+
+La sal que realmente se siente es la que se pone por encima, al final: sal gruesa y lista.`
+  },
+  {
+    key: 'salteado',
+    title: 'Salteados: 2 minutos y nada más',
+    image: 'images/social/calamar.jpg',
+    text: `Si los vas a saltear, poquísimo tiempo: 2 o 3 minutos.
+
+La mejor base es un sofrito de ajo, cebolla, tomate, vino blanco y fumet. Ahí el marisco se luce.`
+  },
+  {
+    key: 'regla-minutos',
+    title: 'La regla de los 8 a 10 minutos',
+    image: 'images/social/variado.jpg',
+    text: `Regla de oro de la cocina: 8 a 10 minutos de cocción total por cada 2,5 cm de grosor del pescado.
+
+Es una referencia: depende del tipo de pescado y de la potencia de tu fuego.`
+  },
+  {
+    key: 'descongelar',
+    title: 'Nunca descongeles al aire',
+    image: 'images/social/elaborados.jpg',
+    text: `Si el producto viene congelado, descongelalo en la heladera, nunca a temperatura ambiente.
+
+Así el pescado no pierde agua ni sabor, y llega a la plancha en su mejor punto.`
   }
 ];
 
@@ -187,6 +337,14 @@ function loadState() {
       raw.videos && typeof raw.videos === 'object'
         ? { posted: raw.videos.posted || {}, lastPostDate: raw.videos.lastPostDate || null, lastPath: raw.videos.lastPath || null }
         : { posted: {}, lastPostDate: null, lastPath: null },
+    ports:
+      raw.ports && typeof raw.ports === 'object'
+        ? { used: raw.ports.used || {}, lastPostDate: raw.ports.lastPostDate || null, lastKey: raw.ports.lastKey || null }
+        : { used: {}, lastPostDate: null, lastKey: null },
+    chef:
+      raw.chef && typeof raw.chef === 'object'
+        ? { used: raw.chef.used || {}, lastPostDate: raw.chef.lastPostDate || null, lastKey: raw.chef.lastKey || null }
+        : { used: {}, lastPostDate: null, lastKey: null },
     updatedAt: raw.updatedAt || null
   };
 }
@@ -516,6 +674,132 @@ function selectProduct(state) {
   const lastIndex = PRODUCTS.findIndex((p) => p.key === state.lastProductKey);
   if (lastIndex >= 0) return PRODUCTS[(lastIndex + 1) % PRODUCTS.length];
   return PRODUCTS[Math.floor(Date.now() / 86400000) % PRODUCTS.length];
+}
+
+// ---------------------------------------------------------------------------
+// Sección: puertos (1 por día, rotando los 8)
+// ---------------------------------------------------------------------------
+function dedupeHashtags(...groups) {
+  const seen = new Set();
+  const out = [];
+  for (const group of groups) {
+    for (const tag of String(group).split(/\s+/)) {
+      if (!tag) continue;
+      const key = tag.toLowerCase();
+      if (seen.has(key)) continue;
+      seen.add(key);
+      out.push(tag);
+    }
+  }
+  return out.join(' ');
+}
+
+function portCaption(port, forInstagram = false) {
+  const lines = [port.text, '', BRAND_STORY, BRAND_PORTS, BRAND_CTA];
+  if (forInstagram) lines.push(`Catálogo: ${SITE_URL}catalogo/`);
+  lines.push('', dedupeHashtags(HASHTAGS_BASE, port.hashtags));
+  return lines.join('\n').slice(0, 2200);
+}
+
+function selectPort(state) {
+  const used = state.ports.used || {};
+  const fresh = PORTS.filter((p) => !used[p.key]);
+  if (fresh.length) return fresh[0];
+  return PORTS.slice().sort((a, b) => String(used[a.key] || '').localeCompare(String(used[b.key] || '')))[0];
+}
+
+async function publishPort(state, port) {
+  const url = publicUrl(port.image);
+  const caption = portCaption(port);
+
+  if (DRY_RUN) {
+    log('DRY RUN puerto:', port.name);
+    log(url);
+    log(caption);
+    return;
+  }
+
+  await resolvePageToken();
+
+  if (!NO_FACEBOOK) {
+    log('Publicando puerto en Facebook:', port.name);
+    const id = await publishFacebookPhoto(caption, url);
+    log('Facebook OK:', id);
+  }
+  if (!NO_INSTAGRAM) {
+    log('Publicando puerto en Instagram:', port.name);
+    const id = await publishInstagram(url, portCaption(port, true));
+    log('Instagram OK:', id);
+  }
+
+  state.ports.used[port.key] = new Date().toISOString();
+  state.ports.lastPostDate = new Date().toISOString();
+  state.ports.lastKey = port.key;
+  saveState(state);
+}
+
+function portDue(state) {
+  if (FORCE) return true;
+  return overdueHours(state.ports.lastPostDate) >= PORT_INTERVAL_HOURS;
+}
+
+// ---------------------------------------------------------------------------
+// Sección: secretos de chef (1 por semana)
+// ---------------------------------------------------------------------------
+function chefCaption(tip, forInstagram = false) {
+  const lines = [
+    `Tip de chef: ${tip.title}`,
+    '',
+    tip.text,
+    '',
+    BRAND_STORY,
+    BRAND_CTA
+  ];
+  if (forInstagram) lines.push(`Recetas y catálogo: ${SITE_URL}catalogo/`);
+  lines.push('', `${HASHTAGS_BASE} #CocinaDelMar #TipDeChef`);
+  return lines.join('\n').slice(0, 2200);
+}
+
+function selectChefTip(state) {
+  const used = state.chef.used || {};
+  const fresh = CHEF_TIPS.filter((t) => !used[t.key]);
+  if (fresh.length) return fresh[0];
+  return CHEF_TIPS.slice().sort((a, b) => String(used[a.key] || '').localeCompare(String(used[b.key] || '')))[0];
+}
+
+async function publishChefTip(state, tip) {
+  const url = publicUrl(tip.image);
+  const caption = chefCaption(tip);
+
+  if (DRY_RUN) {
+    log('DRY RUN tip de chef:', tip.title);
+    log(url);
+    log(caption);
+    return;
+  }
+
+  await resolvePageToken();
+
+  if (!NO_FACEBOOK) {
+    log('Publicando tip de chef en Facebook:', tip.title);
+    const id = await publishFacebookPhoto(caption, url);
+    log('Facebook OK:', id);
+  }
+  if (!NO_INSTAGRAM) {
+    log('Publicando tip de chef en Instagram:', tip.title);
+    const id = await publishInstagram(url, chefCaption(tip, true));
+    log('Instagram OK:', id);
+  }
+
+  state.chef.used[tip.key] = new Date().toISOString();
+  state.chef.lastPostDate = new Date().toISOString();
+  state.chef.lastKey = tip.key;
+  saveState(state);
+}
+
+function chefDue(state) {
+  if (FORCE) return true;
+  return overdueHours(state.chef.lastPostDate) >= CHEF_INTERVAL_HOURS;
 }
 
 // ---------------------------------------------------------------------------
@@ -890,10 +1174,6 @@ async function publishRecipe(state) {
     log('Instagram OK:', id);
   }
 
-  recipe.postsToday = (recipe.postsToday || 0) + 1;
-  const slot = String(artHour());
-  if (!Array.isArray(recipe.postedSlots)) recipe.postedSlots = [];
-  if (!recipe.postedSlots.includes(slot)) recipe.postedSlots.push(slot);
   recipe.lastPostDate = new Date().toISOString();
   state.recipe = recipe;
   state.usedRecipes = Array.from(new Set([...(state.usedRecipes || []), recipe.mealId])).slice(-60);
@@ -902,12 +1182,8 @@ async function publishRecipe(state) {
 
 function recipeDue(state) {
   if (FORCE) return true;
-  const dayKey = artDateKey();
-  const hour = artHour();
-  const recipe = state.recipe && state.recipe.dayKey === dayKey ? state.recipe : null;
-  const posts = recipe ? recipe.postsToday || 0 : 0;
-  if (posts >= RECIPE_SLOTS_ART.length) return false;
-  return hour >= RECIPE_SLOTS_ART[posts];
+  const last = state.recipe ? state.recipe.lastPostDate : null;
+  return overdueHours(last) >= RECIPE_INTERVAL_HOURS;
 }
 
 // ---------------------------------------------------------------------------
@@ -979,6 +1255,24 @@ async function main() {
     return;
   }
 
+  if (MODE === 'port') {
+    if (!portDue(state)) {
+      log(`Todavía no corresponde publicar puerto (intervalo de ${PORT_INTERVAL_HOURS} h).`);
+      return;
+    }
+    await publishPort(state, selectPort(state));
+    return;
+  }
+
+  if (MODE === 'chef') {
+    if (!chefDue(state)) {
+      log(`Todavía no corresponde publicar tip de chef (intervalo de ${CHEF_INTERVAL_HOURS} h).`);
+      return;
+    }
+    await publishChefTip(state, selectChefTip(state));
+    return;
+  }
+
   // ---- Modo automático: 1 publicación por corrida (escalonado hora por hora) ----
   if (recipeDue(state)) {
     await publishRecipe(state);
@@ -990,6 +1284,8 @@ async function main() {
   if (videoDue(state)) candidates.push({ type: 'video', score: overdueScore(state.videos.lastPostDate, VIDEO_INTERVAL_HOURS) });
   if (newsDue(state)) candidates.push({ type: 'news', score: overdueScore(state.lastNewsPostDate, NEWS_MIN_INTERVAL_HOURS) });
   if (productDue(state)) candidates.push({ type: 'product', score: overdueScore(state.lastProductPostDate, PRODUCT_INTERVAL_HOURS) });
+  if (portDue(state)) candidates.push({ type: 'port', score: overdueScore(state.ports.lastPostDate, PORT_INTERVAL_HOURS) });
+  if (chefDue(state)) candidates.push({ type: 'chef', score: overdueScore(state.chef.lastPostDate, CHEF_INTERVAL_HOURS) });
 
   if (!candidates.length) {
     log('Nada pendiente por ahora.');
@@ -1022,6 +1318,16 @@ async function main() {
 
   if (chosen === 'product') {
     await publishProduct(selectProduct(state), state);
+    return;
+  }
+
+  if (chosen === 'port') {
+    await publishPort(state, selectPort(state));
+    return;
+  }
+
+  if (chosen === 'chef') {
+    await publishChefTip(state, selectChefTip(state));
     return;
   }
 

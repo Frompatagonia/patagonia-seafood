@@ -17,6 +17,8 @@ on:
           - video
           - news
           - product
+          - port
+          - chef
           - test
       force:
         description: 'Forzar publicación'
@@ -55,6 +57,9 @@ jobs:
           GALLERY_INTERVAL_HOURS: '12'
           VIDEO_INTERVAL_HOURS: '84'
           PRODUCT_INTERVAL_HOURS: '44'
+          PORT_INTERVAL_HOURS: '24'
+          RECIPE_INTERVAL_HOURS: '168'
+          CHEF_INTERVAL_HOURS: '168'
 
       - name: Guardar estado
         run: |
