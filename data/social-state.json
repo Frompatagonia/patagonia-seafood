@@ -446,5 +446,58 @@
   "lastNewsPostDate": "2026-11-09T03:44:11.862Z",
   "lastProductPostDate": "2026-11-07T21:14:40.608Z",
   "lastProductKey": "merluza",
-  "updatedAt": "2026-11-09T03:44:11.862Z"
+  "recipe": {
+    "dayKey": "2026-11-09",
+    "mealId": "53428",
+    "titleEs": "Camaro Grelhado Com Molho Cru (Gambas a la plancha con salsa de cebolla verde)",
+    "titleOriginal": "Camaro Grelhado Com Molho Cru (Grilled Prawns with Green Onion Sauce)",
+    "area": "",
+    "category": "Seafood",
+    "imageUrl": "https://www.themealdb.com/images/media/meals/jg4r991779916649.jpg",
+    "productKey": "langostino",
+    "productName": "Langostino argentino",
+    "productImage": "images/social/langostino.jpg",
+    "ingredients": [
+      "1 lb Gambas",
+      "2 dientes de ajo picado",
+      "1/2 taza de cebolletas",
+      "1 g de comino molido",
+      "1/4 de cucharadita de sal",
+      "4 cucharadas soperas de vinagre blanco",
+      "4 cucharadas de agua "
+    ],
+    "steps": [
+      "Prepara la salsa combinando todos los ingredientes y moliéndolos en una pasta.",
+      "Ponga las gambas en los pinchos y cepille con salsa.",
+      "Asar a la parrilla hasta que estén listos (deben perder su color translúcido), unos 3-4 minutos a cada lado.",
+      "Servir con salsa extra al lado."
+    ],
+    "postsToday": 0,
+    "postedSlots": [],
+    "lastPostDate": "2026-11-09T23:14:59.923Z"
+  },
+  "usedRecipes": [
+    "53428"
+  ],
+  "gallery": {
+    "used": {},
+    "lastPostDate": null,
+    "lastPath": null
+  },
+  "videos": {
+    "posted": {},
+    "lastPostDate": null,
+    "lastPath": null
+  },
+  "ports": {
+    "used": {},
+    "lastPostDate": null,
+    "lastKey": null
+  },
+  "chef": {
+    "used": {},
+    "lastPostDate": null,
+    "lastKey": null
+  },
+  "updatedAt": "2026-11-09T23:14:59.923Z"
 }
