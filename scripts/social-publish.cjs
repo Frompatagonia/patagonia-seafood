@@ -27,6 +27,12 @@ const NEWS_MIN_INTERVAL_HOURS = Number(process.env.NEWS_MIN_INTERVAL_HOURS || 8)
 const PRODUCT_INTERVAL_HOURS = Number(process.env.PRODUCT_INTERVAL_HOURS || 44);
 const PRIORITY = ['gallery', 'video', 'news', 'product'];
 
+// Mensajes de marca: la historia real (400 familias) + los puertos, para que cada texto conecte y se comparta.
+const BRAND_STORY = 'Detrás de cada producto hay 400 familias argentinas que viven del mar.';
+const BRAND_PORTS = 'Flota propia, 2 plantas (Mar del Plata y Trelew) y 7 puertos patagónicos en operación.';
+const BRAND_CTA = 'Si creés que el trabajo argentino merece llegar al mundo, compartí esta publicación.';
+const HASHTAGS_BASE = '#FromPatagoniaSeafood #MarArgentino #PescaArgentina #MarDelPlata #Trelew #Patagonia #ProductoDelMar #IndustriaPesquera';
+
 const args = new Set(process.argv.slice(2));
 const modeArg = process.argv.find((a) => a.startsWith('--mode='));
 const MODE = modeArg
@@ -94,14 +100,14 @@ const PRODUCTS = [
 const GALLERY_FOLDERS = ['calamar', 'elaborados', 'flota', 'langostino', 'merluza', 'planta', 'variado-costero', 'certificaciones'];
 
 const GALLERY_CAPTIONS = {
-  calamar: 'Calamar argentino (Illex argentinus): tubos, vainas y tentáculos, con procesamiento en planta y control de calidad.',
-  langostino: 'Langostino argentino (Pleoticus muelleri), clasificado por calibre y listo para exportación.',
-  merluza: 'Merluza argentina (Merluccius hubbsi) en filet, entera y HG, con trazabilidad total.',
-  'variado-costero': 'Variado costero: corvina, besugo, pescadilla y otras especies del Mar Argentino.',
-  elaborados: 'Elaborados del mar: filets empanados y productos listos para retail.',
-  planta: 'Nuestra planta de procesamiento, donde cada producto se prepara con estándares de exportación.',
-  flota: 'Nuestra flota en el Mar Argentino, capturando con tecnología y responsabilidad.',
-  certificaciones: 'Certificaciones internacionales que respaldan cada uno de nuestros embarques.'
+  calamar: 'Antes de llegar a tu mesa, este calamar pasó por las manos de gente de la Patagonia. Calamar argentino (Illex argentinus): tubos, vainas y tentáculos, con procesamiento en planta y control de calidad.',
+  langostino: 'El langostino patagónico que exportamos al mundo nace del trabajo de cientos de familias argentinas. Langostino Pleoticus muelleri, clasificado por calibre y listo para exportación.',
+  merluza: 'La merluza es el pescado más elegido de la Argentina, y la nuestra viaja al mundo. Merluza Merluccius hubbsi en filet, entera y HG, con trazabilidad total.',
+  'variado-costero': 'Corvina, besugo, pescadilla: el sabor real de la costa argentina. Especies del Mar Argentino seleccionadas para retail y gastronomía.',
+  elaborados: 'Del mar a la góndola: así se prepara lo que comés. Filets empanados y elaborados listos para retail, congelados en nuestra propia planta.',
+  planta: 'Acá se procesa lo que comemos y lo que exportamos. Planta de Mar del Plata (7.500 m²) y planta de Trelew, con tecnología de punta.',
+  flota: 'Cada barco que sale de puerto lleva el trabajo de cientos de familias argentinas. Flota propia operando en el Mar Argentino.',
+  certificaciones: 'Nos exigen los estándares más altos del mundo y los cumplimos. Certificaciones internacionales que respaldan cada embarque.'
 };
 
 // Ingredientes de TheMealDB asociados a nuestras especies (define la foto de producto que acompaña la receta)
@@ -303,25 +309,30 @@ function newsCaption(item, forInstagram = false) {
     '',
     item.resumen || '',
     '',
-    `Fuente: ${item.fuente || 'From Patagonia Seafood'}`
+    `Fuente: ${item.fuente || 'From Patagonia Seafood'}`,
+    '',
+    'Seguimos el día a día de la industria que da trabajo a 400 familias argentinas.'
   ];
   if (forInstagram) {
     lines.push(`Más información: ${SITE_URL}informacion/`);
   }
-  lines.push('', '#FromPatagoniaSeafood #PescaArgentina #MarArgentino #PuertoMarDelPlata');
+  lines.push('', `${HASHTAGS_BASE} #PuertoMarDelPlata`);
   return lines.join('\n').slice(0, 2200);
 }
 
 function productCaption(product) {
   return [
-    product.name,
+    `Detrás de cada ${product.name.toLowerCase()} hay 400 familias argentinas que viven del mar.`,
     '',
     product.text,
+    '',
+    BRAND_PORTS,
+    BRAND_CTA,
     '',
     `Ficha técnica: ${SITE_URL}${product.pdf}`,
     `Catálogo completo: ${SITE_URL}catalogo/`,
     '',
-    '#FromPatagoniaSeafood #ProductoDelMar #PescaArgentina #MarArgentino'
+    `${HASHTAGS_BASE} #Seafood`
   ].join('\n').slice(0, 2200);
 }
 
@@ -570,9 +581,9 @@ function selectGalleryImage(state) {
 function galleryCaption(relPath, forInstagram = false) {
   const folder = relPath.split('/')[1] || '';
   const body = GALLERY_CAPTIONS[folder] || 'Nuestro trabajo en el Mar Argentino, con trazabilidad y calidad de exportación.';
-  const lines = [body, '', 'From Patagonia Seafood - Mar del Plata, Argentina.'];
+  const lines = [body, '', BRAND_STORY, BRAND_PORTS, '', BRAND_CTA];
   if (forInstagram) lines.push(`Catálogo: ${SITE_URL}catalogo/`);
-  lines.push('', '#FromPatagoniaSeafood #MarArgentino #PescaArgentina #ProductoDelMar');
+  lines.push('', HASHTAGS_BASE);
   return lines.join('\n').slice(0, 2200);
 }
 
@@ -641,12 +652,16 @@ function selectVideo(state) {
 function videoCaption(relPath, forInstagram = false) {
   const name = path.basename(relPath).replace(/\.[a-z0-9]+$/i, '').replace(/[_]+/g, ' ').trim();
   const lines = [
-    `Así trabajamos: ${name}.`,
+    `Esto no lo hace una máquina: lo hacen personas. ${name}.`,
     '',
-    'Desde el Mar Argentino hasta tu mesa, con trazabilidad, cadena de frío y calidad de exportación.'
+    BRAND_STORY,
+    'Desde el Mar Argentino hasta tu mesa, con trazabilidad, cadena de frío y calidad de exportación.',
+    '',
+    BRAND_PORTS,
+    BRAND_CTA
   ];
-  if (forInstagram) lines.push(`${SITE_URL}catalogo/`);
-  lines.push('', '#FromPatagoniaSeafood #PescaArgentina #MarArgentino #Proceso #CadenaDeFrio');
+  if (forInstagram) lines.push(`Catálogo: ${SITE_URL}catalogo/`);
+  lines.push('', `${HASHTAGS_BASE} #CadenaDeFrio`);
   return lines.join('\n').slice(0, 2200);
 }
 
@@ -725,7 +740,7 @@ async function translateEs(text) {
   for (const chunk of chunkText(clean)) {
     let done = false;
     try {
-      const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=es&dt=t&q=${encodeURIComponent(chunk)}`;
+      const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=auto&tl=es&dt=t&q=${encodeURIComponent(chunk)}`;
       const data = await fetchJson(url);
       if (Array.isArray(data) && Array.isArray(data[0])) {
         const translated = data[0].map((part) => (Array.isArray(part) ? part[0] : '')).join('').trim();
@@ -821,15 +836,20 @@ async function buildDailyRecipe(dayKey, state) {
 }
 
 function recipeCaption(recipe, forInstagram = false) {
-  const lines = [recipe.titleEs, ''];
-  lines.push(`Una receta de ${recipe.area || 'cocina del mar'} para disfrutar en casa con el sabor del Mar Argentino.`);
-  lines.push('', 'INGREDIENTES');
+  const lines = [
+    `${recipe.titleEs}: la receta de hoy, con ${recipe.productName.toLowerCase()} del Mar Argentino.`,
+    '',
+    'INGREDIENTES'
+  ];
   for (const ing of recipe.ingredients) lines.push(`- ${ing}`);
   lines.push('', 'PREPARACIÓN');
   recipe.steps.forEach((step, i) => lines.push(`${i + 1}. ${step}`));
-  lines.push('', `En From Patagonia Seafood trabajamos ${recipe.productName} con trazabilidad y calidad de exportación.`);
+  lines.push(
+    '',
+    'Detrás de cada producto hay 400 familias argentinas que viven del mar. Guardá esta receta y compartila con quien cocine en tu casa.'
+  );
   if (forInstagram) lines.push(`Fichas técnicas y catálogo: ${SITE_URL}catalogo/`);
-  lines.push('', '#RecetaDePescado #MarArgentino #FromPatagoniaSeafood #CocinaDelMar #ProductoDelMar');
+  lines.push('', `#RecetaDePescado #CocinaDelMar #RecetaFacil #ComidaSana ${HASHTAGS_BASE}`);
   return lines.join('\n').slice(0, 2200);
 }
 
