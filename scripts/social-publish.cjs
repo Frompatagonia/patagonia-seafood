@@ -89,8 +89,8 @@ const PRODUCTS = [
     key: 'variado',
     name: 'Variado costero',
     image: 'images/social/variado.jpg',
-    pdf: 'fichas/besugo.pdf',
-    text: 'Besugo, caballa, corvina, mero, pescadilla y pez palo. Especies del Mar Argentino seleccionadas para retail y gastronomía.'
+    pdf: 'fichas/corvina.pdf',
+    text: 'Corvina, abadejo, pez limón y chernia. Especies del Mar Argentino seleccionadas para retail y gastronomía.'
   },
   {
     key: 'elaborados',
