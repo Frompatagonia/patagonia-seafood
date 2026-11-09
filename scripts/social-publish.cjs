@@ -90,7 +90,7 @@ const PRODUCTS = [
     name: 'Variado costero',
     image: 'images/social/variado.jpg',
     pdf: 'fichas/corvina.pdf',
-    text: 'Corvina, abadejo, pez limón y chernia. Especies del Mar Argentino seleccionadas para retail y gastronomía.'
+    text: 'Corvina, abadejo, pez limón, chernia, besugo, caballa, mero, pescadilla y pez palo. Especies del Mar Argentino seleccionadas para retail y gastronomía.'
   },
   {
     key: 'elaborados',
