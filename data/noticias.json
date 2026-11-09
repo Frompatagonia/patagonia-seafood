@@ -18,7 +18,7 @@
     "titulo": "Ingreso de Buques a Puerto de Mar del Plata",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/ingreso-de-buques-a-puerto/",
-    "resumen": "Buques programados: BP SALVADOR R - 22:00. Actualización: 08.NOV.2026 19:00 HS."
+    "resumen": "Buques programados: BP ANTONINO - 03:00 | BP RAFFAELA - 04:30 | BP MAREJADA - 06:00. Actualización: 09.NOV.2026 13:10 HS."
   },
   {
     "fecha": "2026-11-09",
@@ -26,6 +26,104 @@
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/buques-operando/",
     "resumen": "Mapa interactivo de buques reportando al sistema. Áreas: Zona Común de Pesca (ARG-URU) / Zona de Veda Permanente de Juveniles de Merluza."
+  },
+  {
+    "fecha": "2026-11-09",
+    "titulo": "Malvinas: La jueza Federal de Río Grande prohibió pescar a doce empresas y grupos españoles",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/malvinas-la-jueza-federal-de-rio-grande-prohibio-pescar-a-doce-empresas-y-grupos-espanoles/",
+    "resumen": "La Fundación Agustina Lerena informó que la cautelar también alcanza a siete estructuras hispano-isleñas y exige documentar sus operaciones. El juzgado pidió antecedentes sobre permisos y cuotas de las firmas nacionales investigadas, para las cuales la legislación pesquera contempla la caducidad ante vinculaciones prohibidas."
+  },
+  {
+    "fecha": "2026-11-09",
+    "titulo": "El Coral Blanco se hundió en el puerto antes de su traslado al parque submarino Kiokko Rúa",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/el-coral-blanco-se-hundio-en-el-puerto-antes-de-su-traslado-al-parque-submarino-kiokko-rua/",
+    "resumen": "Desde hace 7 meses se informó que sería trasladado para recrear el parque submarino Kiokko Rúa. La burocracia administrativa nuevamente hunde el avance hacia la eficiencia portuaria."
+  },
+  {
+    "fecha": "2026-11-09",
+    "titulo": "La pesca argentina creció 24% hasta septiembre y exportó más",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/la-pesca-argentina-crecio-24-hasta-septiembre-y-exporto-mas/",
+    "resumen": "Los crustáceos explicaron el retroceso interanual informado por el INDEC. El balance hasta el 30 de septiembre conserva una mejora sobre 2025, aunque el desempeño de las flotas muestra una diferencia marcada: los congeladores sostienen la expansión y los fresqueros acumulan una baja."
+  },
+  {
+    "fecha": "2026-11-09",
+    "titulo": "Pesqueras argentinas cerraron ventas por más de USD 9 millones en París",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/pesqueras-argentinas-cerraron-ventas-por-mas-de-usd-9-millones-en-paris/",
+    "resumen": "La ronda reunió a 14 empresas nacionales con compradores franceses y dejó 47 oportunidades comerciales adicionales. El langostino y la vieira patagónica integraron la oferta presentada para ampliar los canales de distribución de los productos argentinos en ese mercado."
+  },
+  {
+    "fecha": "2026-11-09",
+    "titulo": "Álvarez Castellano y su copiloto salieron ilesos de un fuerte vuelco en Dubái",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/alvarez-castellano-y-su-copiloto-salieron-ilesos-de-un-fuerte-vuelco-en-dubai/",
+    "resumen": "El presidente de Conarpesa Argentina resultó ileso junto a su coequiper tras un espectacular vuelco en el Rally de Dubai."
+  },
+  {
+    "fecha": "2026-11-09",
+    "titulo": "Álvarez Castellano pide que lo inspeccionen: sería hora",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/11/alvarez-castellano-pide-que-lo-inspeccionen-seria-hora/",
+    "resumen": "Un audio en el que el CEO de Conarpesa ordena bajar a capitanes que no lleguen a 19 kilos por cajón confirma un sistema conocido en Rawson: exigir más kilos de los permitidos y pagar por 17 a armadores, tripulantes y obreros. Los fallos en su contra se acumulan; las inspecciones, no."
+  },
+  {
+    "fecha": "2026-11-09",
+    "titulo": "Una jueza ordenó a pesqueras españolas suspender la pesca en Malvinas",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/11/una-jueza-ordeno-a-pesqueras-espanolas-suspender-la-pesca-en-malvinas/",
+    "resumen": "La Fundación Agustina Lerena informó que la magistrada Mariel Borruto ordenó a doce empresas españolas y siete sociedades hispano-isleñas abstenerse de pescar en aguas argentinas, incluidas las cercanas a Malvinas hasta las 200 millas. La medida es provisional y depende de las notificaciones."
+  },
+  {
+    "fecha": "2026-11-09",
+    "titulo": "El Mar Argentino ya está cambiando",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/11/el-mar-argentino-ya-esta-cambiando/",
+    "resumen": "Un estudio del Foro para la Conservación del Mar Patagónico confirma que el cambio climático ya dejó una señal medible en el Atlántico Sudoccidental. Con altas emisiones, el calentamiento alcanzará toda la región. La pregunta para la pesca argentina es si la ciencia y el manejo podrán anticiparse."
+  },
+  {
+    "fecha": "2026-11-09",
+    "titulo": "Destacan la incorporación de la pesca dentro del Régimen de Incentivo a las Inversiones Relevantes",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/11/destacan-la-incorporacion-de-la-pesca-dentro-del-regimen-de-incentivo-a-las-inversiones-relevantes/",
+    "resumen": "Desde la Cámara de Armadores y los frigoríficos exportadores valoraron la iniciativa impulsada por el senador marplatense Maximiliano Abad de incluir a la industria pesquera dentro del proyecto de ley que ya tuvo media sanción."
+  },
+  {
+    "fecha": "2026-11-09",
+    "titulo": "Young’s capitalizes on basa’s UK success with Gastro line expansion",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMGhQTEp5T0w3Wjc3ckdTSFZyZUx1MjA4SEhQVFVpMGw1OU5ZSzFHcW5FMGctUXBISi15bGxQM21PN0RjRjZGM1JyajVEbDNDNk9LMmE2V3dEUHkzZEM3VHlQcllianZHQUcxOWF1d3RZTjdTblpsYVZhZ2ZGVWZyZ1NCNGhONmxCVTRiMV9wYzZ6WVE1c1FIQW9kalQ4ZVFld0VtUg?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOMGhQTEp5T0w3Wjc3ckdTSFZyZUx1MjA4SEhQVFVpMGw1OU5ZSzFHcW5FMGctUXBISi15bGxQM21PN0RjRjZGM1JyajVEbDNDNk9LMmE2V3dEUHkzZEM3VHlQcllianZHQUcxOWF1d3RZTjdTblpsYVZhZ2ZGVWZyZ1NCNGhONmxCVTRiMV9wYzZ6WVE1c1FIQW9kalQ4ZVFld0VtUg?oc=5\" target=\"_blank\">Young’s capitalizes on basa’s UK success with Gastro line expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-09",
+    "titulo": "Democrat blue wave could reshape US seafood agenda",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbGNPY0ZHWW5rakFJMGwtMFJwUFpHVW53NHBubjhYbUE3SE9kbVlxN1lOcmw2MUlqTVpQOEF0X2hOVXM0NGVIX2ZiaFc4N0g3YXBldm1Ia25sS1dsNGJRek0zV0k0X1MzdW4zSFRPMkRwT3d3eW4wU3NOOUFOQXNLbERtV3FFNzM2UE9QcENvTU9zUlpTRGc?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPbGNPY0ZHWW5rakFJMGwtMFJwUFpHVW53NHBubjhYbUE3SE9kbVlxN1lOcmw2MUlqTVpQOEF0X2hOVXM0NGVIX2ZiaFc4N0g3YXBldm1Ia25sS1dsNGJRek0zV0k0X1MzdW4zSFRPMkRwT3d3eW4wU3NOOUFOQXNLbERtV3FFNzM2UE9QcENvTU9zUlpTRGc?oc=5\" target=\"_blank\">Democrat blue wave could reshape US seafood agenda</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-09",
+    "titulo": "California officers catch nearly a dozen people illegally harvesting Dungeness crab",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOWxXdV9OZHd1aHZvZVZmNU56RTdPX2Ftc3lqcVUtRjB1aFkyVDBwLXA4MkUwUE50eXFkUzkzaUFXMnNOOEE0Y3g3RTJzZWVXRVh2MVBFZFJMYjRTRm4zdkcxa0ZxOHh0TUlTQ3ZhSW54QVRhM3p2bzlVSTFFYlhkWVlhSFpJVy0wLUZvUmdlVXNRRnJwMWF1emM5U01xdnRDeldlaEVwZDZyUjNqUml2OUdKN2lGZE1UcGc?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOOWxXdV9OZHd1aHZvZVZmNU56RTdPX2Ftc3lqcVUtRjB1aFkyVDBwLXA4MkUwUE50eXFkUzkzaUFXMnNOOEE0Y3g3RTJzZWVXRVh2MVBFZFJMYjRTRm4zdkcxa0ZxOHh0TUlTQ3ZhSW54QVRhM3p2bzlVSTFFYlhkWVlhSFpJVy0wLUZvUmdlVXNRRnJwMWF1emM5U01xdnRDeldlaEVwZDZyUjNqUml2OUdKN2lGZE1UcGc?oc=5\" target=\"_blank\">California officers catch nearly a dozen people illegally harvesting Dungeness crab</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-09",
+    "titulo": "Premium Brands shatters Q3 revenue record; Clearwater narrows losses",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZGFibHZFSVBpT3djWmtpell0em1Lb2NEendoOFJzS2R6UHVpbnhoTFljSnJGMjdvTzhTbENOMmwwSG5aZE9GNWJSNlFrSVpsQ0ZOMTZtQnBXR014WlJ6QkNnak54eTNmejlYOTVhZ0JyYWJvckpMN0FVYzBtWGVfT2g4aTY1SFYwYktWZ2pzeDVTbG0xVVMxX0ZtN2FieTA3Z2dtcE9iaw?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQZGFibHZFSVBpT3djWmtpell0em1Lb2NEendoOFJzS2R6UHVpbnhoTFljSnJGMjdvTzhTbENOMmwwSG5aZE9GNWJSNlFrSVpsQ0ZOMTZtQnBXR014WlJ6QkNnak54eTNmejlYOTVhZ0JyYWJvckpMN0FVYzBtWGVfT2g4aTY1SFYwYktWZ2pzeDVTbG0xVVMxX0ZtN2FieTA3Z2dtcE9iaw?oc=5\" target=\"_blank\">Premium Brands shatters Q3 revenue record; Clearwater narrows losses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-09",
+    "titulo": "AKVA debuts new net pen collar for sites weathering the most extreme conditions",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOM0pEUXUtVUpBN1RSWGNUQVRwTmlud0ZqWFBZb21HNGQ2MWZiT0lNTmtRXy14aUdub2p2dUxaZTlhQzAwV3VUMFA5eVZfSE1wTkR5SmtuWHdmQmYyb0tTbVZkSWZLTk9LQWF5cnZDcXZZbVJmcU5uS3dCMUV3VnNQRERuNlEyWlVfZ0l5b2JjaWd4WkF1aG5IbTdDcFZvSU8xTGVLRUYtakQxbnNqYVFHdDJkS3c?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOM0pEUXUtVUpBN1RSWGNUQVRwTmlud0ZqWFBZb21HNGQ2MWZiT0lNTmtRXy14aUdub2p2dUxaZTlhQzAwV3VUMFA5eVZfSE1wTkR5SmtuWHdmQmYyb0tTbVZkSWZLTk9LQWF5cnZDcXZZbVJmcU5uS3dCMUV3VnNQRERuNlEyWlVfZ0l5b2JjaWd4WkF1aG5IbTdDcFZvSU8xTGVLRUYtakQxbnNqYVFHdDJkS3c?oc=5\" target=\"_blank\">AKVA debuts new net pen collar for sites weathering the most extreme conditions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
     "fecha": "2026-11-07",
@@ -483,34 +581,6 @@
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ0lnZG02Rl9DbTNCX3dnM1dRVkVROXRQa2tKR3BfYmNJZmFIY2pXRlFIOE1QblFuY1RTVG5JdWtnVGhGMFRWLUhHeDJUdlRzLXlTUXQxaE41V2VXTk9xbDlXMm9TelBValBENmpGUTcyakpKcGVNeEEteGpXRFhuXzZYN3RhZkhoVU92YjZOMkU0NlVsLUF5V1BWX3ZXNnhhZGhzNw?oc=5\" target=\"_blank\">Publix funds several SFP projects to support seafood sustainability</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
-    "fecha": "2026-11-03",
-    "titulo": "Thai Union posts record Q3 sales despite weaker frozen seafood demand",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNczdDMUpPUk1PU1AzaXRDenM5c1F5QmlRVnplU240UFg1U1ZCekZ1M1ViWnhxRzRZeWxSZnMwNmM2Tm1vcENpcHQxaHdJWENRMjFYY0ZqTDY2a0paRXpzbm5rcmJWekp1Wl9wM29iYnZJV2EtZlY0ckZ0dlJBZkJuOW1EYWtQdmoydldRaG1NVDMtTmRCRFNwMkl4WWNDNlNUN3JPcnNjMA?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNczdDMUpPUk1PU1AzaXRDenM5c1F5QmlRVnplU240UFg1U1ZCekZ1M1ViWnhxRzRZeWxSZnMwNmM2Tm1vcENpcHQxaHdJWENRMjFYY0ZqTDY2a0paRXpzbm5rcmJWekp1Wl9wM29iYnZJV2EtZlY0ckZ0dlJBZkJuOW1EYWtQdmoydldRaG1NVDMtTmRCRFNwMkl4WWNDNlNUN3JPcnNjMA?oc=5\" target=\"_blank\">Thai Union posts record Q3 sales despite weaker frozen seafood demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-11-03",
-    "titulo": "National Seafood Association data finds US seafood consumption fell in 2024",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQldoMmZoUnhra0Fzd3RlbXFzaDZmbDZxOEhqenp3TnFpRXNkd2t2OTNkdC0tU2JRd3NlTkRlSVlCUXVzQkpXYllzNm54V09XQktCZHQ1Q2swRFN6LTRtY2RmYnNiNGphbjdvMHA4Tlh0SndLQ0J1OXNTcS1fc1pmdlVNSlNsRzVpblFYY3JfR3JUSjdRdU9FZ1BZSEY0NnViX0ZuNWF1cXRKMVJkQU44?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNQldoMmZoUnhra0Fzd3RlbXFzaDZmbDZxOEhqenp3TnFpRXNkd2t2OTNkdC0tU2JRd3NlTkRlSVlCUXVzQkpXYllzNm54V09XQktCZHQ1Q2swRFN6LTRtY2RmYnNiNGphbjdvMHA4Tlh0SndLQ0J1OXNTcS1fc1pmdlVNSlNsRzVpblFYY3JfR3JUSjdRdU9FZ1BZSEY0NnViX0ZuNWF1cXRKMVJkQU44?oc=5\" target=\"_blank\">National Seafood Association data finds US seafood consumption fell in 2024</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-11-03",
-    "titulo": "Satellite tagging offering NOAA better understanding of red king crab migration patterns",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSVV0b1BBeXdCSjNKSlB0cFlGRVRDRHVTVXJKTmpHSzNjN1pxSGVOVnJJUnFPMzM2djVZNGs4aTdwQlpmR2F0ZmRxWU1uZEtRRlZBZGVDQk1fQlJhcUl0czlneVBuNGdjYktzMnF2bzlDYzNYdGpDVi1jVndTT01zczJHVWlUUF9mNEhVVXJKcTFWOXRjQ0NiMFloRkpuQ2RZeEgxNS1ySnR5SGlYRndTblN3TDBaZy1aekRqNHpzaXZTUk9pYmY1MjFMRVA5UlZnVGV1aldXUVpFU28?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSVV0b1BBeXdCSjNKSlB0cFlGRVRDRHVTVXJKTmpHSzNjN1pxSGVOVnJJUnFPMzM2djVZNGs4aTdwQlpmR2F0ZmRxWU1uZEtRRlZBZGVDQk1fQlJhcUl0czlneVBuNGdjYktzMnF2bzlDYzNYdGpDVi1jVndTT01zczJHVWlUUF9mNEhVVXJKcTFWOXRjQ0NiMFloRkpuQ2RZeEgxNS1ySnR5SGlYRndTblN3TDBaZy1aekRqNHpzaXZTUk9pYmY1MjFMRVA5UlZnVGV1aldXUVpFU28?oc=5\" target=\"_blank\">Satellite tagging offering NOAA better understanding of red king crab migration patterns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-11-03",
-    "titulo": "Full impact of mass pilchard die-offs on South Africa’s seafood industry remains unclear",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ2J3WWxtdV9iU2puZXN0OTBhSElORy1WTXBfUkVOUjFrX0dQSGV4U1hVN0RJRk9pQk05VnE1WXdNaXdPalEtR1FhbzhpbGo4X09HaVpVcWxJclpQRG5RS1hsdkRHZ3ZYSXB2TmkwMVgtcTVRV3BKblMyNGdEM3k0T2duNWZBUEZSNkFtUXlfZ2pxYmNtcU9oUFFpaDNKQ2xPOVZyWVc0czBqWFVkNm5CVWNqS09ISkw2bzlyR3NHa28?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ2J3WWxtdV9iU2puZXN0OTBhSElORy1WTXBfUkVOUjFrX0dQSGV4U1hVN0RJRk9pQk05VnE1WXdNaXdPalEtR1FhbzhpbGo4X09HaVpVcWxJclpQRG5RS1hsdkRHZ3ZYSXB2TmkwMVgtcTVRV3BKblMyNGdEM3k0T2duNWZBUEZSNkFtUXlfZ2pxYmNtcU9oUFFpaDNKQ2xPOVZyWVc0czBqWFVkNm5CVWNqS09ISkw2bzlyR3NHa28?oc=5\" target=\"_blank\">Full impact of mass pilchard die-offs on South Africa’s seafood industry remains unclear</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
     "fecha": "2026-11-02",
     "titulo": "Malvinas: zarpó el buque chileno Danstar tras la controversia por la nueva ruta marítima",
     "fuente": "Pescare",
@@ -572,13 +642,6 @@
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/11/tres-mil-ochocientos-millones-de-pesos-para-demoler-la-galeria-de-los-silos/",
     "resumen": "En Mar del Plata el Consorcio Portuario llamó a licitación para eliminar la tradicional estructura en inmediaciones del Muelle 3. Se presentaron siete ofertas para llevar adelante una obra que debe ejecutarse en 210 días corridos."
-  },
-  {
-    "fecha": "2026-11-02",
-    "titulo": "CCAMLR again fails to reach agreement on krill conservation measures",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORGtfMUVaMFEtVl9QaHV3RE9QVFJwREJDTkNfdE43WWNiREdkNHlnTHh4Y0dWbzdfZU1BVUxjS19yR25Pb0xMN0NWY3NGaDRyUk9UUEJnODM5cjZaUFVaSHdfbVNaZE1qTXpDMHQ3d1IzeGVkZVJwclhDRDRLbmFiLV9keFZTSUVNWXMyNHRpZWJ6ZjFMUkJ6RTF1ZWVlcXRDblg1aDBR?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxORGtfMUVaMFEtVl9QaHV3RE9QVFJwREJDTkNfdE43WWNiREdkNHlnTHh4Y0dWbzdfZU1BVUxjS19yR25Pb0xMN0NWY3NGaDRyUk9UUEJnODM5cjZaUFVaSHdfbVNaZE1qTXpDMHQ3d1IzeGVkZVJwclhDRDRLbmFiLV9keFZTSUVNWXMyNHRpZWJ6ZjFMUkJ6RTF1ZWVlcXRDblg1aDBR?oc=5\" target=\"_blank\">CCAMLR again fails to reach agreement on krill conservation measures</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
     "fecha": "2026-10-31",
@@ -750,27 +813,6 @@
   },
   {
     "fecha": "2026-10-27",
-    "titulo": "La actividad pesquera acumula un superávit comercial de US$1.600 millones",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/la-actividad-pesquera-acumula-un-superavit-comercial-de-us1-600-millones/",
-    "resumen": "La merluza lidera las capturas, el langostino concentra los mayores ingresos y el calamar muestra una caída en sus ventas externas. Los últimos datos oficiales permiten analizar el desempeño productivo y comercial de la pesca argentina durante 2026."
-  },
-  {
-    "fecha": "2026-10-27",
-    "titulo": "La Unión Europea prorroga hasta 2027 el arancel cero para langostino, merluza y calamar",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/la-union-europea-prorroga-hasta-2027-el-arancel-cero-para-langostino-merluza-y-calamar/",
-    "resumen": "Prorrogan por una año más un determinado cupo de especies importadas por la Unión Europea. Argentina compite por su utilización con los demás países exportadores."
-  },
-  {
-    "fecha": "2026-10-27",
-    "titulo": "Prefectura participó en la OMI sobre indemnizaciones por derrames de petróleo en el mar",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/prefectura-participo-en-la-omi-sobre-indemnizaciones-por-derrames-de-petroleo-en-el-mar/",
-    "resumen": "Argentina intervino en las reuniones internacionales que analizaron nuevas coberturas frente a la contaminación por hidrocarburos. El debate alcanza a la responsabilidad de los armadores y a la protección económica de las actividades pesqueras y portuarias."
-  },
-  {
-    "fecha": "2026-10-27",
     "titulo": "La flota adelanta la prospección al norte ante la ausencia de langostino al sur",
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/10/la-flota-adelanta-la-prospeccion-al-norte-ante-la-ausencia-de-langostino-al-sur/",
@@ -799,20 +841,6 @@
   },
   {
     "fecha": "2026-10-26",
-    "titulo": "Mar del Plata pierde desembarques mientras crece la actividad en los puertos patagónicos",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/mar-del-plata-pierde-desembarques-mientras-crece-la-actividad-en-los-puertos-patagonicos/",
-    "resumen": "El principal puerto pesquero argentino acumula una caída interanual del 12,2% en los primeros nueve meses de 2026. En contraste, Puerto Madryn y Puerto Deseado registran incrementos superiores al 30% y al 48%, respectivamente, mientras los desembarques nacionales mantienen un crecimiento del 7,4%."
-  },
-  {
-    "fecha": "2026-10-26",
-    "titulo": "Europa cambia sus hábitos de consumo y exige otra forma de vender pescado",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/europa-cambia-sus-habitos-de-consumo-y-exige-otra-forma-de-vender-pescado/",
-    "resumen": "Una investigación de la Comisión Europea publicada en agosto de 2026 revela cómo evolucionan las preferencias alimentarias. El precio, la practicidad y las nuevas costumbres familiares están modificando las condiciones de compra de pescados y mariscos en uno de los mayores mercados del mundo."
-  },
-  {
-    "fecha": "2026-10-26",
     "titulo": "La prospección comenzó al sur de Rawson entre los paralelos 44° S y 44°56’ S",
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/10/la-prospeccion-comenzo-al-sur-de-rawson-entre-los-paralelos-44-s-y-4456-s/",
@@ -824,33 +852,5 @@
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/10/estados-unidos-quiere-rastrear-el-origen-del-pescado-con-quimica-no-solo-con-papeles/",
     "resumen": "Un proyecto aprobado por la Cámara de Representantes propone que NOAA y el NIST desarrollen un método para determinar el país de origen de productos pesqueros por su composición química, incluso en sushi, ceviche o poke. Comenzaría con atún y pargo, y su desafío será convertir la huella ambiental de un pez en evidencia confiable contra el fraude y la pesca ilegal."
-  },
-  {
-    "fecha": "2026-10-26",
-    "titulo": "Denuncian al juzgado de la quiebra de Barillari por “fraude interjurisdiccional”",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/10/denuncian-al-juzgado-de-la-quiebra-de-barillari-por-fraude-interjurisdiccional/",
-    "resumen": "Acreedor de la pesquera sostiene que el Juzgado Comercial Nº16 de CABA, realizó un “alzamiento judicial” al no actuar de acuerdo con directivas del Tribunal Superior y continuar liberando garantías. Solicitaron medida cautelar para suspender los efectos del avenimiento."
-  },
-  {
-    "fecha": "2026-10-26",
-    "titulo": "La acuicultura reunirá en Madryn a científicos, empresarios y funcionarios",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/10/la-acuicultura-reunira-en-madryn-a-cientificos-empresarios-y-funcionarios/",
-    "resumen": "La Jornada Nacional de Acuicultura se realizará en noviembre en el CENPAT, con exposiciones sobre el cultivo de wakame, pez limón y mejillones, desarrollos biotecnológicos y experiencias empresariales. También habrá una mesa con representantes de Chubut, Neuquén, Río Negro y Tierra del Fuego para analizar políticas públicas."
-  },
-  {
-    "fecha": "2026-10-23",
-    "titulo": "Seafood Show Brasil: “Locura por el filet de merluza”",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/10/seafood-show-brasil-locura-por-el-filet-de-merluza/",
-    "resumen": "Entre el 20 y el 22 de octubre se llevó a cabo la feria de San Pablo, de la que fueron parte empresas argentinas. Los participantes destacaron el interés por la hubbsi, así como también el trabajo que todavía queda por hacer para seducir al consumidor brasileño con el langostino salvaje."
-  },
-  {
-    "fecha": "2026-10-23",
-    "titulo": "“Siconara no le escapa a ninguna discusión”",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/10/siconara-no-le-escapa-a-ninguna-discusion/",
-    "resumen": "Mientras escala la tensión entre Conarpesa y el STIA, el secretario gremial del gremio de maquinistas, Jorge Maldonado, aseguró que están dadas las condiciones para iniciar la zafra, pera advirtió que no pueden “admitir que cada empresa pretenda establecer unilateralmente sus propias condiciones laborales”."
   }
 ]
