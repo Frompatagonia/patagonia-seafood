@@ -487,9 +487,11 @@
     "lastPath": "images/planta/WP_20160406_13_45_46_Pro.webp"
   },
   "videos": {
-    "posted": {},
-    "lastPostDate": null,
-    "lastPath": null
+    "posted": {
+      "videos/BARCO CONVENCIONAL TRABAJANDO.mp4": "2026-11-10T14:03:14.090Z"
+    },
+    "lastPostDate": "2026-11-10T14:03:14.090Z",
+    "lastPath": "videos/BARCO CONVENCIONAL TRABAJANDO.mp4"
   },
   "ports": {
     "used": {},
@@ -501,5 +503,5 @@
     "lastPostDate": null,
     "lastKey": null
   },
-  "updatedAt": "2026-11-10T05:28:07.214Z"
+  "updatedAt": "2026-11-10T14:03:14.090Z"
 }
