@@ -480,9 +480,11 @@
     "53428"
   ],
   "gallery": {
-    "used": {},
-    "lastPostDate": null,
-    "lastPath": null
+    "used": {
+      "images/planta/WP_20160406_13_45_46_Pro.webp": "2026-11-10T05:28:07.214Z"
+    },
+    "lastPostDate": "2026-11-10T05:28:07.214Z",
+    "lastPath": "images/planta/WP_20160406_13_45_46_Pro.webp"
   },
   "videos": {
     "posted": {},
@@ -499,5 +501,5 @@
     "lastPostDate": null,
     "lastKey": null
   },
-  "updatedAt": "2026-11-09T23:14:59.923Z"
+  "updatedAt": "2026-11-10T05:28:07.214Z"
 }
