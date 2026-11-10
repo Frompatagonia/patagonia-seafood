@@ -1,31 +1,101 @@
 [
   {
-    "fecha": "2026-11-09",
+    "fecha": "2026-11-10",
     "titulo": "Monitoreo Satelital de Buques Pesqueros",
     "fuente": "MAGyP",
     "url": "https://www.magyp.gob.ar/sitio/areas/pesca_maritima/monitoreo/",
     "resumen": "Monitoreo oficial de buques reportando al sistema. Áreas: Zona Rinc&oacute;n (Res. CFP N&ordm; 27/2009 y posteriores)."
   },
   {
-    "fecha": "2026-11-09",
+    "fecha": "2026-11-10",
     "titulo": "Desembarques de Capturas Marítimas (2026)",
     "fuente": "MAGyP",
     "url": "https://www.magyp.gob.ar/sitio/areas/pesca_maritima/desembarques/",
     "resumen": "Estadísticas oficiales de desembarques por especie, flota y puerto. Datos disponibles: 2026, 2025, 2024, 2023, 2022, 2021, 2020."
   },
   {
-    "fecha": "2026-11-09",
+    "fecha": "2026-11-10",
     "titulo": "Ingreso de Buques a Puerto de Mar del Plata",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/ingreso-de-buques-a-puerto/",
-    "resumen": "Buques programados: BP ANTONINO - 03:00 | BP RAFFAELA - 04:30 | BP MAREJADA - 10:00 | BP ACRUX - 16:30. Actualización: 09.NOV.2026 21:10 HS."
+    "resumen": "Buques programados: BP MAREJADA - 13:00 | BP DON NATALIO - 14:00 | BP MARGOT - 16:30 | BP ACRUX - 17:00. Actualización: 10.NOV.2026 06:50 HS."
   },
   {
-    "fecha": "2026-11-09",
+    "fecha": "2026-11-10",
     "titulo": "Buques Operando en ZEE Argentina",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/buques-operando/",
     "resumen": "Mapa interactivo de buques reportando al sistema. Áreas: Zona Común de Pesca (ARG-URU) / Zona de Veda Permanente de Juveniles de Merluza."
+  },
+  {
+    "fecha": "2026-11-10",
+    "titulo": "Sebastián Cejas juró como secretario de Pesca de Chubut",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/sebastian-cejas-juro-como-secretario-de-pesca-de-chubut/",
+    "resumen": "Diego Brandán fue designado al frente del Instituto Provincial de la Vivienda y Desarrollo Urbano. La jura confirma el cambio anticipado por PESCARE el sábado pasado, que también informó el regreso de José Gabriel Aguilar al Consejo Federal Pesquero en reemplazo de Andrés Arbeletche."
+  },
+  {
+    "fecha": "2026-11-10",
+    "titulo": "CAIPA cuestiona el uso de las Unidades de Pesca para cobrar tasas y aranceles",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/caipa-cuestiona-el-uso-de-las-unidades-de-pesca-para-cobrar-tasas-y-aranceles/",
+    "resumen": "La cámara advierte que la unidad creada para actualizar multas aumentó 3.662,1% desde 2020. Reclama que los cargos administrativos guarden relación con el costo de cada servicio. El Consejo Federal Pesquero ubicó esas obligaciones en la competencia de la Autoridad de Aplicación."
+  },
+  {
+    "fecha": "2026-11-10",
+    "titulo": "FONAPE: el CFP asignó $19.853 millones. El sector pesquero aportó $52.835 millones en 2026",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/fonape-el-cfp-asigno-19853-millones-el-sector-pesquero-aporto-52835-millones-en-2026/",
+    "resumen": "La investigación y el control marítimo concentrarán $5.900 millones. Las cinco provincias pesqueras tendrán una participación idéntica a la de la Nación en el tramo coparticipable. El Consejo también dispuso una remesa adicional de $385,7 millones por embarque de inspectores."
+  },
+  {
+    "fecha": "2026-11-10",
+    "titulo": "Evalúan postergar la prospección de langostino por mal tiempo",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/11/evaluan-postergar-la-prospeccion-de-langostino-por-mal-tiempo/",
+    "resumen": "Ante los resultados negativos del primer relevamiento se había planificado iniciar otra exploración el 10 de noviembre, pero después se fijó el comienzo para el jueves 12. La previsión meteorológica advierte por vientos y condiciones de mar con olas importantes, lo que haría posponer la salida."
+  },
+  {
+    "fecha": "2026-11-10",
+    "titulo": "Torres tomó juramento a Sebastián Cejas como nuevo Secretario de Pesca",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/11/torres-tomo-juramento-a-sebastian-cejas-como-nuevo-secretario-de-pesca/",
+    "resumen": "Diego Brandán fue designado al frente del Instituto Provincial de la Vivienda y Desarrollo Urbano. Gabriel Aguilar será el nuevo representante de Chubut ante el Consejo Federal Pesquero."
+  },
+  {
+    "fecha": "2026-11-10",
+    "titulo": "Trans-Ocean touts influencer-led \"Bring Your Fish to Work\" campaign",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV2M4UGJaLWwxdG5mYmFJVmNXSkwzY005VTQzMEVtVmJRcjgweDBxYjZROUpaOVZWQ21pY1U2eEt4bFRxYTl2MDlEbjVqMWgzUEJYaENOTmdrWDR0a2hIS0drdkcwQkl3U09ScEV2Y0I5T1JoVk9xZ1ZlN1N6WnVLN0cxUjlHeFFqZUJ4RmZvcDdqMUdTUnpOVk5DRGFoR2hINUdqLXk2dkk1dWNtY082YjViSTlVdw?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNV2M4UGJaLWwxdG5mYmFJVmNXSkwzY005VTQzMEVtVmJRcjgweDBxYjZROUpaOVZWQ21pY1U2eEt4bFRxYTl2MDlEbjVqMWgzUEJYaENOTmdrWDR0a2hIS0drdkcwQkl3U09ScEV2Y0I5T1JoVk9xZ1ZlN1N6WnVLN0cxUjlHeFFqZUJ4RmZvcDdqMUdTUnpOVk5DRGFoR2hINUdqLXk2dkk1dWNtY082YjViSTlVdw?oc=5\" target=\"_blank\">Trans-Ocean touts influencer-led \"Bring Your Fish to Work\" campaign</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-10",
+    "titulo": "Norcod has first-ever profitable quarter in Q3 2026",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVTNnTTZaNDVkejc3SmZzU3h3SGJ6VXJhQ2hmTDdDLVczMlBHRGEzUmczV1JoZWxyeDJDcldkZUFvUmhFZU96alBRNTEwdlAxb3BKc3NJaEFNangwQWpHTXpsM0dKOXZjd0tSRUFmWmdvTE03LVR5aG9wWWdSXzJ0bDVLcHlBbWc0NFlKeG14OA?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQVTNnTTZaNDVkejc3SmZzU3h3SGJ6VXJhQ2hmTDdDLVczMlBHRGEzUmczV1JoZWxyeDJDcldkZUFvUmhFZU96alBRNTEwdlAxb3BKc3NJaEFNangwQWpHTXpsM0dKOXZjd0tSRUFmWmdvTE03LVR5aG9wWWdSXzJ0bDVLcHlBbWc0NFlKeG14OA?oc=5\" target=\"_blank\">Norcod has first-ever profitable quarter in Q3 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-10",
+    "titulo": "Oman bans wild capture of abalone for one year",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMnJTX3JXWTFTdWo0a05WT2Z4LWxrUVdhSE15VG1kZkZZdXkzMGFyempDX0d5c2pEQVp2ajBkYXRWbi1TTjdDVU5iRmtJdlZUOUt4NElqWWE4MnhYdDM2N2pubVp1S0lrNjBzTkNHazVfTkcyUF9pWDRiTTBMa1AtVTNaY2RfYnpq?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMnJTX3JXWTFTdWo0a05WT2Z4LWxrUVdhSE15VG1kZkZZdXkzMGFyempDX0d5c2pEQVp2ajBkYXRWbi1TTjdDVU5iRmtJdlZUOUt4NElqWWE4MnhYdDM2N2pubVp1S0lrNjBzTkNHazVfTkcyUF9pWDRiTTBMa1AtVTNaY2RfYnpq?oc=5\" target=\"_blank\">Oman bans wild capture of abalone for one year</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-10",
+    "titulo": "Friend of the Sea launches initiative to address growing concerns around Italy’s invasive blue crab crisis",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbmk0VDRXdFNhOUl4WkRsdE9FWGRkdGxjbkRMVnh1X1RLOV82N2tsVmw4LXVsS0loMXdOYXM2Wm9TOUtVSHNaeVk1LV8wNHkzdEJ4djhmQkVYNkpuMkFHcEsxV0Z4S3Jza1c4ZXZiMDV1MzRaZVBFWkJZeGJrSzZ4dGhLMjhQRy1lQkZ0dkdnZlZhUmN3VFNQUVQ5Y082VHhGUURUWUFINkNvQ3Q1S3EycWtIY3p2QmtTWGhELTJPaEVGcjVSMnBNMkc5bFV6TGlSZjhHZmFwUTU?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbmk0VDRXdFNhOUl4WkRsdE9FWGRkdGxjbkRMVnh1X1RLOV82N2tsVmw4LXVsS0loMXdOYXM2Wm9TOUtVSHNaeVk1LV8wNHkzdEJ4djhmQkVYNkpuMkFHcEsxV0Z4S3Jza1c4ZXZiMDV1MzRaZVBFWkJZeGJrSzZ4dGhLMjhQRy1lQkZ0dkdnZlZhUmN3VFNQUVQ5Y082VHhGUURUWUFINkNvQ3Q1S3EycWtIY3p2QmtTWGhELTJPaEVGcjVSMnBNMkc5bFV6TGlSZjhHZmFwUTU?oc=5\" target=\"_blank\">Friend of the Sea launches initiative to address growing concerns around Italy’s invasive blue crab crisis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-10",
+    "titulo": "NOAA Fisheries officially proposes allowing commercial fishing in the Pacific Islands Heritage Marine National Monument",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSk5sMmhRNXltTEFqcXNMOGhyWDdxMHduYzVBcldDMWR0LTFyR0xGdTJjSkQ1SGdaV0dudXVXNzczLTFiUDhRdU1ZTTZZX0JqSnpvelFRWC1oYkNLZ19SWWdmNVdJbFViSXNoelJ0V2ZqOTFtUDE1MWF5ZVNXeU5RaHNPVUQ3cG9FelRHa255SkJyTVdUa0g4MUdoU29rYjRoSjNjZmxQV1hsNTdJN2t4WXo0RE02UVJMZzJZLUNPQWlmbHRLU3FWdTF4UVFHRWl6TXVUM0hkaU1qNHBGOVo5WXh0SGdGY0xsVkE?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSk5sMmhRNXltTEFqcXNMOGhyWDdxMHduYzVBcldDMWR0LTFyR0xGdTJjSkQ1SGdaV0dudXVXNzczLTFiUDhRdU1ZTTZZX0JqSnpvelFRWC1oYkNLZ19SWWdmNVdJbFViSXNoelJ0V2ZqOTFtUDE1MWF5ZVNXeU5RaHNPVUQ3cG9FelRHa255SkJyTVdUa0g4MUdoU29rYjRoSjNjZmxQV1hsNTdJN2t4WXo0RE02UVJMZzJZLUNPQWlmbHRLU3FWdTF4UVFHRWl6TXVUM0hkaU1qNHBGOVo5WXh0SGdGY0xsVkE?oc=5\" target=\"_blank\">NOAA Fisheries officially proposes allowing commercial fishing in the Pacific Islands Heritage Marine National Monument</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
     "fecha": "2026-11-09",
@@ -504,34 +574,6 @@
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPbVYzNDZsX204MkJtR2pzXzQwTHFXRHVtSWE2XzBvVklLZk5lUkNVQ01LSnRtUlF3VjRqRlhoZm10VmpoLXlxQTVDMmJUcGNPS3FwZ092UkhTVm94dlB2Y0xOUXpUOGJSQW13Qi1Na1ljMURkSFFXX1Rwdng2aUt0Qi1BellGd1F4T2hzRUdVT2ZnX1IzajJDSGF0M2VXUTZGWUIta3JR?oc=5\" target=\"_blank\">Alpha Capital acquires stake in Saudi aquaculture firm Tharawat Seas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
-    "fecha": "2026-11-04",
-    "titulo": "Nova Scotian company GHD touts success in removing ghost gear through private-sector partnership",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQT0dUSjFpM2N5Rlo1eDlkUDh2U0Y1QTh1SUtwZm5iNS1Ua2NoelhFaUd3Nkp6QXYtcWM4bE9OdWoxSTMwQjB3bGNSQzFqa0s0RnFqOEF4QkxmNEItZTBtVGdGalREWmJieUZwdm9tR1AyZkFVZDBSNGhBS3pLYVNpcmdJd25BSnhIRkFELVk0OXhPWUY0c05nbC13NHhPcEo1Nkc1Njh1Ri0za2RWblFIdzRNRjE4dkZWa0FrLW4yXzZMYWlMZ3QwZlJiWQ?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQT0dUSjFpM2N5Rlo1eDlkUDh2U0Y1QTh1SUtwZm5iNS1Ua2NoelhFaUd3Nkp6QXYtcWM4bE9OdWoxSTMwQjB3bGNSQzFqa0s0RnFqOEF4QkxmNEItZTBtVGdGalREWmJieUZwdm9tR1AyZkFVZDBSNGhBS3pLYVNpcmdJd25BSnhIRkFELVk0OXhPWUY0c05nbC13NHhPcEo1Nkc1Njh1Ri0za2RWblFIdzRNRjE4dkZWa0FrLW4yXzZMYWlMZ3QwZlJiWQ?oc=5\" target=\"_blank\">Nova Scotian company GHD touts success in removing ghost gear through private-sector partnership</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-11-04",
-    "titulo": "Fortifi acquires IJ White Systems, adding to its food processing equipment portfolio",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMGdBLU42S19zMkJqZzIzVjBZMW9jS19iWUNoS3lfcF80NE4zb0tUUGFPOWZYcnQ3eGdqVjQ4NWxCQWlVeG1ldFZPM2tZX1JFbThpcjhiSURoeVdudHJRMWQxN2ZKMWhZRE11ZDBFOFZzQlhKMGU2MzFGWTdIN09zMXdSQ3lxNER6QmZqSERPcE1fVzR1ZGdCYnJBVXQ3YVN5Ynh4b1lqVlhyTHJFODRIVklGbGhkb05vTXc?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQMGdBLU42S19zMkJqZzIzVjBZMW9jS19iWUNoS3lfcF80NE4zb0tUUGFPOWZYcnQ3eGdqVjQ4NWxCQWlVeG1ldFZPM2tZX1JFbThpcjhiSURoeVdudHJRMWQxN2ZKMWhZRE11ZDBFOFZzQlhKMGU2MzFGWTdIN09zMXdSQ3lxNER6QmZqSERPcE1fVzR1ZGdCYnJBVXQ3YVN5Ynh4b1lqVlhyTHJFODRIVklGbGhkb05vTXc?oc=5\" target=\"_blank\">Fortifi acquires IJ White Systems, adding to its food processing equipment portfolio</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-11-04",
-    "titulo": "Crabbers again ask Washington Superior Court to shut down 24/7 monitoring of vessels",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSDNIX3psbzVza3NkZm5DalYtODZwUEhCYk1xR0xIT0ZPb25HR0FIYkx2WkVkWmZTNjFmZVh3UVB2X3NOSmxOM3ZJeDNBTlNIMnUzWE5uMWlDMmlPQVktWVNXdngzdFRNUDc2WEIwcTU0R0tuS3N1a0tIajZSajJLVzRoSTZZc0lCcllOTDliSnRVVkdHSXpheXFjS01mVDNZak5ZMHhNRFNmcjRGdVNRa1ZrNGhkNXhUWVlR?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSDNIX3psbzVza3NkZm5DalYtODZwUEhCYk1xR0xIT0ZPb25HR0FIYkx2WkVkWmZTNjFmZVh3UVB2X3NOSmxOM3ZJeDNBTlNIMnUzWE5uMWlDMmlPQVktWVNXdngzdFRNUDc2WEIwcTU0R0tuS3N1a0tIajZSajJLVzRoSTZZc0lCcllOTDliSnRVVkdHSXpheXFjS01mVDNZak5ZMHhNRFNmcjRGdVNRa1ZrNGhkNXhUWVlR?oc=5\" target=\"_blank\">Crabbers again ask Washington Superior Court to shut down 24/7 monitoring of vessels</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-11-04",
-    "titulo": "Finnish biotech firm Volare targets full production at insect protein factory in 2027, unveils plans for second facility",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMlJ6MU9ILXlYZV9qczAxOGhMUkxoazhHRFRhaVB1RGZvejdzTUdQWFZXemFnZVVVRXBSbmpGUTY0ay1zVkxBQWF4TlJmckFaS3dVTGpvNnptVVgySXV1dEI4WTNsVWJtUjRORDI2LXhZdTlPVHVXU3hRelNvN0VDOUJzTXJlX2xOeGU5U3dLdWYxUnZjMWJCSXF4RDJxUUZoNW5SVXdpMVVHQUtTdTl4dkh5SnppZFNXTDh5RlRPcnI5WF9HazEzVTA2UzBJeVpOdkVqR0V3SjBfQWdWM2FFekI2bjRPWFcydFE?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMlJ6MU9ILXlYZV9qczAxOGhMUkxoazhHRFRhaVB1RGZvejdzTUdQWFZXemFnZVVVRXBSbmpGUTY0ay1zVkxBQWF4TlJmckFaS3dVTGpvNnptVVgySXV1dEI4WTNsVWJtUjRORDI2LXhZdTlPVHVXU3hRelNvN0VDOUJzTXJlX2xOeGU5U3dLdWYxUnZjMWJCSXF4RDJxUUZoNW5SVXdpMVVHQUtTdTl4dkh5SnppZFNXTDh5RlRPcnI5WF9HazEzVTA2UzBJeVpOdkVqR0V3SjBfQWdWM2FFekI2bjRPWFcydFE?oc=5\" target=\"_blank\">Finnish biotech firm Volare targets full production at insect protein factory in 2027, unveils plans for second facility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
     "fecha": "2026-11-03",
     "titulo": "Puerto Deseado prepara el camino para certificar su infraestructura portuaria",
     "fuente": "Pescare",
@@ -572,13 +614,6 @@
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/11/proyectan-un-centro-de-servicios-y-estacionamiento-para-ordenar-el-transito-hacia-el-storni/",
     "resumen": "El puerto y cámaras empresarias firmaron una carta de intención para avanzar con un espacio destinado a los transportistas en el predio de la Cámara Empresaria de Transporte. El proyecto contempla estacionamiento, sanitarios, duchas, oficinas y un sistema digital para coordinar el ingreso de los vehículos al puerto y al Parque Pesquero."
-  },
-  {
-    "fecha": "2026-11-03",
-    "titulo": "Somali pirates hijack Iranian fishing vessel",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPd1VIQ3hiU21wR29RX1VkVTN6SDhMejhOcG94VTZxYmVDQnc2WENGZVg0OGNWNDdteUh0eTVNblR2VjZaZzdod2RybFpnSU9fUjhxT3FyZENmcFUxLXlac0M5Z3hNcVhDcDVrUGtNMzI5M2FUMG55UjNBU1NhV1BFTkV2UVJCZw?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxPd1VIQ3hiU21wR29RX1VkVTN6SDhMejhOcG94VTZxYmVDQnc2WENGZVg0OGNWNDdteUh0eTVNblR2VjZaZzdod2RybFpnSU9fUjhxT3FyZENmcFUxLXlac0M5Z3hNcVhDcDVrUGtNMzI5M2FUMG55UjNBU1NhV1BFTkV2UVJCZw?oc=5\" target=\"_blank\">Somali pirates hijack Iranian fishing vessel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
     "fecha": "2026-11-02",
@@ -764,27 +799,6 @@
   },
   {
     "fecha": "2026-10-28",
-    "titulo": "Langostino en Chubut. “Algunos barcos tuvieron buenas capturas”, Diego Brandán",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/langostino-en-chubut-algunos-barcos-tuvieron-buenas-capturas-diego-brandan/",
-    "resumen": "La prospección al norte de Rawson registró rendimientos desiguales, con langostino de buen tamaño comercial. La autoridad provincial aguarda los resultados de este miércoles para establecer los próximos pasos de la temporada 2026/2027."
-  },
-  {
-    "fecha": "2026-10-28",
-    "titulo": "Arrancó la China Fisheries & Seafood Expo 2026 con fuerte presencia argentina",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/arranco-la-china-fisheries-seafood-expo-2026-con-fuerte-presencia-argentina/",
-    "resumen": "La exposición de Qingdao reúne a la industria mundial del sector. Argentina busca ampliar negocios en un mercado que ya representa el 25% de sus exportaciones pesqueras."
-  },
-  {
-    "fecha": "2026-10-28",
-    "titulo": "Diputados buscan declarar la emergencia costera para proteger los puertos patagónicos",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/diputados-buscan-declarar-la-emergencia-costera-para-proteger-los-puertos-patagonicos/",
-    "resumen": "Un proyecto presentado en Diputados propone obras de defensa marítima y financiamiento nacional ante el avance de la erosión en Chubut y Santa Cruz."
-  },
-  {
-    "fecha": "2026-10-28",
     "titulo": "Capturas variables en el primer día de prospección al Norte",
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/10/capturas-variables-en-el-primer-dia-de-prospeccion-al-norte/",
@@ -838,19 +852,5 @@
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/10/conarpesa-amenaza-otra-vez-con-dejar-a-sus-trabajadores-sin-temporada-de-langostino/",
     "resumen": "Fernando Álvarez Castellano aseguró que no iniciará la zafra en Rawson hasta que se resuelva la disputa que solo su empresa tiene con el SICONARA por la liquidación del medio aguinaldo. Advirtió que sus operarios de tierra también se verán alcanzados por la falta de materia prima."
-  },
-  {
-    "fecha": "2026-10-26",
-    "titulo": "La prospección comenzó al sur de Rawson entre los paralelos 44° S y 44°56’ S",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/10/la-prospeccion-comenzo-al-sur-de-rawson-entre-los-paralelos-44-s-y-4456-s/",
-    "resumen": "Ese sector se relevará durante dos días efectivos de pesca con 16 buques de flota amarilla. Posteriormente, la flota irá a prospectar al norte entre los paralelos de 43° S y 44° S, sumando 4 barcos artesanales. Los resultados definirán si están dadas las condiciones para iniciar la temporada en aguas provinciales."
-  },
-  {
-    "fecha": "2026-10-26",
-    "titulo": "Estados Unidos quiere rastrear el origen del pescado con química, no sólo con papeles",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/10/estados-unidos-quiere-rastrear-el-origen-del-pescado-con-quimica-no-solo-con-papeles/",
-    "resumen": "Un proyecto aprobado por la Cámara de Representantes propone que NOAA y el NIST desarrollen un método para determinar el país de origen de productos pesqueros por su composición química, incluso en sushi, ceviche o poke. Comenzaría con atún y pargo, y su desafío será convertir la huella ambiental de un pez en evidencia confiable contra el fraude y la pesca ilegal."
   }
 ]
