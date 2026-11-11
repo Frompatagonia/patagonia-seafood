@@ -457,8 +457,8 @@
     }
   },
   "lastNewsPostDate": "2026-11-11T08:41:36.004Z",
-  "lastProductPostDate": "2026-11-07T21:14:40.608Z",
-  "lastProductKey": "merluza",
+  "lastProductPostDate": "2026-11-11T23:14:49.911Z",
+  "lastProductKey": "calamar",
   "recipe": {
     "dayKey": "2026-11-09",
     "mealId": "53428",
@@ -521,5 +521,5 @@
     "lastPostDate": "2026-11-11T01:38:29.623Z",
     "lastKey": "salmuera"
   },
-  "updatedAt": "2026-11-11T16:48:46.537Z"
+  "updatedAt": "2026-11-11T23:14:49.911Z"
 }
