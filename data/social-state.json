@@ -441,9 +441,22 @@
         "id": "18028791695865295",
         "at": "2026-11-09T03:44:11.862Z"
       }
+    },
+    "https://pescare.com.ar/sebastian-cejas-juro-como-secretario-de-pesca-de-chubut/": {
+      "title": "Sebastián Cejas juró como secretario de Pesca de Chubut",
+      "date": "2026-11-10",
+      "url": "https://pescare.com.ar/sebastian-cejas-juro-como-secretario-de-pesca-de-chubut/",
+      "facebook": {
+        "id": "1208224315713852_122133457179420852",
+        "at": "2026-11-11T08:41:21.698Z"
+      },
+      "instagram": {
+        "id": "17907722376599954",
+        "at": "2026-11-11T08:41:36.004Z"
+      }
     }
   },
-  "lastNewsPostDate": "2026-11-09T03:44:11.862Z",
+  "lastNewsPostDate": "2026-11-11T08:41:36.004Z",
   "lastProductPostDate": "2026-11-07T21:14:40.608Z",
   "lastProductKey": "merluza",
   "recipe": {
@@ -507,5 +520,5 @@
     "lastPostDate": "2026-11-11T01:38:29.623Z",
     "lastKey": "salmuera"
   },
-  "updatedAt": "2026-11-11T01:38:29.623Z"
+  "updatedAt": "2026-11-11T08:41:36.004Z"
 }
