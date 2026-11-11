@@ -18,7 +18,7 @@
     "titulo": "Ingreso de Buques a Puerto de Mar del Plata",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/ingreso-de-buques-a-puerto/",
-    "resumen": "Buques programados: BP HUAFENG 822 - 22:30 | BP JUPITER - 23:00 | BP POPA - 23:00. Actualización: 10.NOV.2026 20:33 HS."
+    "resumen": "Buques programados: BP UCHI - 09:30 | BP GRACIELA I - 13:00 | BP FLORIDABLANCA - 15:30 | BP CENTAURO 2000 - 20:00 | BP NIÑO JESUS DE PRAGA - 23:00. Actualización: 11.NOV.2026 08:33 HS."
   },
   {
     "fecha": "2026-11-11",
@@ -39,7 +39,21 @@
     "titulo": "Conarpesa ofrece reincorporar trabajadores tras un pedido de disculpas",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/conarpesa-ofrece-reincorporar-trabajadores-tras-un-pedido-de-disculpas/",
-    "resumen": "Un grupo de trabajadores eventuales de las plantas de Conarpesa y Agropez en Puerto Rawson solicitó formalmente su reincorporación a la empresa, luego de reconocer que se habían retirado de las instalaciones antes de completar las tareas de procesamiento de langostino. El pedido recibió una respuesta favorable del presidente de la compañía, Fernando Álvarez Castellano, [...]"
+    "resumen": "Un grupo de trabajadores presentó una nota formal en la que reconoció haberse retirado de las plantas antes de finalizar la producción de langostino y pidió recuperar sus puestos laborales. Fernando Álvarez Castellano manifestó su disposición a reincorporarlos y anticipó que esta temporada se implementarán dos turnos de 11 horas."
+  },
+  {
+    "fecha": "2026-11-11",
+    "titulo": "Chubut apunta al sábado 14 para iniciar la segunda prospección de langostino con 20 buques",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/chubut-apunta-al-sabado-14-para-iniciar-la-segunda-prospeccion-de-langostino-con-20-buques/",
+    "resumen": "El mal tiempo obligó a reprogramar el relevamiento previsto inicialmente para el 10 de noviembre. La nueva fecha tentativa es el sábado 14, aunque su cumplimiento dependerá de las condiciones meteorológicas. La prospección permitirá evaluar una eventual apertura de la temporada 2026/2027."
+  },
+  {
+    "fecha": "2026-11-11",
+    "titulo": "La FAO revisa una guía sobre derechos laborales en la pesca y la acuicultura",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/la-fao-revisa-una-guia-sobre-derechos-laborales-en-la-pesca-y-la-acuicultura/",
+    "resumen": "Una consulta técnica internacional en Vigo examina las recomendaciones sobre derechos humanos, condiciones de trabajo y protección social en la industria pesquera. El documento abarcará desde la captura hasta la comercialización, con criterios diferenciados según la actividad y el tamaño de las empresas. Su aplicación será voluntaria."
   },
   {
     "fecha": "2026-11-11",
@@ -61,6 +75,34 @@
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/11/proponen-destinar-2-de-las-retenciones-petroleras-para-el-desarrollo-de-la-acuicultura/",
     "resumen": "El proyecto de ley presentado en el Congreso crea un fondo específico para financiar emprendimientos, infraestructura, investigación y capacitación en el sector. La iniciativa plantea priorizar a las provincias productoras afectadas por el declive de la explotación convencional, entre ellas, Chubut."
+  },
+  {
+    "fecha": "2026-11-11",
+    "titulo": "Liberian government defends implementation of fisheries projects from mismanagement accusations",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeWhpanZjRE04WE5XUXFpNDBiaHBLUUdOWWNSZFJZUVJTVTQ3c01PeWR0SjJVQm0zVjRNWjBrVkJoMWRqRVRLYklDZXVTamQ4M0NqNnRfR2VRT1F4bnByM1pFTXdKNG9LV21CVHlDQXo2d0pxWmpxWWdGVF83d2ZzUGI4QmJaV3J0NEtZMmFyRUx5VnFqOUdfOEV3T1R0TWk0ZDI1M3FNVjRmN0w5MFpGdXpfRWg3S210U29aTFZKUWRpdGFaNzdOX2tn?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNeWhpanZjRE04WE5XUXFpNDBiaHBLUUdOWWNSZFJZUVJTVTQ3c01PeWR0SjJVQm0zVjRNWjBrVkJoMWRqRVRLYklDZXVTamQ4M0NqNnRfR2VRT1F4bnByM1pFTXdKNG9LV21CVHlDQXo2d0pxWmpxWWdGVF83d2ZzUGI4QmJaV3J0NEtZMmFyRUx5VnFqOUdfOEV3T1R0TWk0ZDI1M3FNVjRmN0w5MFpGdXpfRWg3S210U29aTFZKUWRpdGFaNzdOX2tn?oc=5\" target=\"_blank\">Liberian government defends implementation of fisheries projects from mismanagement accusations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-11",
+    "titulo": "Seafood harvesting jobs in Alaska increased for the first time in six years",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNGdGdXNoMnprUTVkbE5yNzE1aThqeEt6d253cC05QVpPX0NCd21lVmZTSkhDbEltV0gtX3R6a3BOMnFHVk9sM1lZay1pYm9OaFFhUWVHYzVfTmp5LTNub2N2UVpOX0xQOE83enVzSElrTWVpaVUwNDJWZzdzN290X0NILVdLVWlJc0pBRUhsVlEtaUpoMjljMUFIQjhHQ3BzRjBURV9ibkpudmJZRGoyek9rMHduUDQ5YnE2T0dnRktLQmM?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNGdGdXNoMnprUTVkbE5yNzE1aThqeEt6d253cC05QVpPX0NCd21lVmZTSkhDbEltV0gtX3R6a3BOMnFHVk9sM1lZay1pYm9OaFFhUWVHYzVfTmp5LTNub2N2UVpOX0xQOE83enVzSElrTWVpaVUwNDJWZzdzN290X0NILVdLVWlJc0pBRUhsVlEtaUpoMjljMUFIQjhHQ3BzRjBURV9ibkpudmJZRGoyek9rMHduUDQ5YnE2T0dnRktLQmM?oc=5\" target=\"_blank\">Seafood harvesting jobs in Alaska increased for the first time in six years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-11",
+    "titulo": "National Aquaculture Association: America First Seafood Strategy needs a larger focus on aquaculture",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcUFSTmMxWFhGb3RGVmYzQjZGZGxKOG96eUNiWmJSRzFjUXBSY0NkSTllUWRBVnMtd0REMzAwQ2JFZHUwWUNOb2dVR0V6ZURLLVdCTktEbVVKZWk2T25BTHd4Y003NERsbDhjQ2Ywemg0U29neTRUYnBpcGtzWGdsNjJjeEQ5S3pGT01rUHhYaVNGYlNKZGJCcWMyeUpuOVQ5TlhOVTM5NHdaTUlfNnR3VWNqVGtuR19fd2k2eFd6RlBBMjJXNThOQUtCN19tbTA?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPcUFSTmMxWFhGb3RGVmYzQjZGZGxKOG96eUNiWmJSRzFjUXBSY0NkSTllUWRBVnMtd0REMzAwQ2JFZHUwWUNOb2dVR0V6ZURLLVdCTktEbVVKZWk2T25BTHd4Y003NERsbDhjQ2Ywemg0U29neTRUYnBpcGtzWGdsNjJjeEQ5S3pGT01rUHhYaVNGYlNKZGJCcWMyeUpuOVQ5TlhOVTM5NHdaTUlfNnR3VWNqVGtuR19fd2k2eFd6RlBBMjJXNThOQUtCN19tbTA?oc=5\" target=\"_blank\">National Aquaculture Association: America First Seafood Strategy needs a larger focus on aquaculture</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-11",
+    "titulo": "Pricing Analysis: Can US midterm results give the seafood sector a boost?",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZS1uVHFFVno3a3NyV0wyakhrQmhrdF83NXVCbEJLb3RsRjVjNExZSXV4dG5MNTl2Ym1ZaFNaU2hIWXh6YXJJMnJhUklhYTRRMmFfWFVWaUY3LUhzdVFrM0hnUXFVdXdsVmVuMUVTcENqTDJrNmJaejByWEltNEZIUGYtZ3hkU2NRUXpuT0p4dmpUOURaSkZJ?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQZS1uVHFFVno3a3NyV0wyakhrQmhrdF83NXVCbEJLb3RsRjVjNExZSXV4dG5MNTl2Ym1ZaFNaU2hIWXh6YXJJMnJhUklhYTRRMmFfWFVWaUY3LUhzdVFrM0hnUXFVdXdsVmVuMUVTcENqTDJrNmJaejByWEltNEZIUGYtZ3hkU2NRUXpuT0p4dmpUOURaSkZJ?oc=5\" target=\"_blank\">Pricing Analysis: Can US midterm results give the seafood sector a boost?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
     "fecha": "2026-11-10",
@@ -525,20 +567,6 @@
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPcGdWcXUxTjdtT0FhTHczZTZVX3doNkQ2enpCZkxVTnlfeGNQQ2RrYXRtYl9hTW5fS0c4SUoteXc3aE5LbDZORDBZbDJrTzhVbk9LNGZobl91dV82dVZxV1NpMi0zeWQ1WjVpWXFUN1UwWG0waEdyM0lmTzRWeWNzRFZzY0VkUVFXQnZVbkZNVXVWakd3azdkTG5ySlRUWXJnODVsY0JyTQ?oc=5\" target=\"_blank\">EU and Western Indian Ocean nations join forces to tackle IUU fishing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
-    "fecha": "2026-11-05",
-    "titulo": "“World’s largest seafood company” Mowi raises 2026 harvest guidance after record Q3",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUjFveThodjhBWktwYUUteXZqdVR0b2Z2OWZaS3BWRlQwWGVsc0IwcGtEVUY4bTVwXzJIdklHNkQ2dThfcUFBdmpDVVZuaVJ6a1hzeHMtOGozVTVzV05pMTBVcTk1Tl9BTk5DRkZCQUVuekduX0RHLVFiQk9tRHJpbWNpd1dGbmIwdWg1MUd4Sm95YjZvby1Qamo3ekFXTk9YRmVCOXpGaXlUOF9yOTJLRFRxVE5pRkRQ?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUjFveThodjhBWktwYUUteXZqdVR0b2Z2OWZaS3BWRlQwWGVsc0IwcGtEVUY4bTVwXzJIdklHNkQ2dThfcUFBdmpDVVZuaVJ6a1hzeHMtOGozVTVzV05pMTBVcTk1Tl9BTk5DRkZCQUVuekduX0RHLVFiQk9tRHJpbWNpd1dGbmIwdWg1MUd4Sm95YjZvby1Qamo3ekFXTk9YRmVCOXpGaXlUOF9yOTJLRFRxVE5pRkRQ?oc=5\" target=\"_blank\">“World’s largest seafood company” Mowi raises 2026 harvest guidance after record Q3</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-11-05",
-    "titulo": "AquaChile parent company signs MoU to purchase Blumar’s salmon business for USD 540 million",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZmphMVAwR2tHSDluTUN3Wjd6TmVCOHBCZWZKM2NEQzlBV0RDODZlWjJsUHZ4RWZ2LWcyaUFlazM5eko2ZDZpQ3FPUFd5aEE3TU9hTkd4bWV1cG5HOHJHMjFtVXNmb1o4Vlg4UnNZWWdTRl9DX1ZYRTJGR2tmUDgzY01HaHlLVE53c2xSQnJxaUlrNkhuQkxsOUwyVF9ZTzVHWWhRNG1ZMXpXVW5lUGp3TjRnTWdVQWpnbkFoMXBXcXRoNnZ4?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOZmphMVAwR2tHSDluTUN3Wjd6TmVCOHBCZWZKM2NEQzlBV0RDODZlWjJsUHZ4RWZ2LWcyaUFlazM5eko2ZDZpQ3FPUFd5aEE3TU9hTkd4bWV1cG5HOHJHMjFtVXNmb1o4Vlg4UnNZWWdTRl9DX1ZYRTJGR2tmUDgzY01HaHlLVE53c2xSQnJxaUlrNkhuQkxsOUwyVF9ZTzVHWWhRNG1ZMXpXVW5lUGp3TjRnTWdVQWpnbkFoMXBXcXRoNnZ4?oc=5\" target=\"_blank\">AquaChile parent company signs MoU to purchase Blumar’s salmon business for USD 540 million</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
     "fecha": "2026-11-04",
     "titulo": "La Justicia Federal de Río Grande asumió la causa por la pesca en Malvinas y abrió la instancia cautelar",
     "fuente": "Pescare",
@@ -593,20 +621,6 @@
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/11/crean-una-plataforma-para-transparentar-la-informacion-que-el-estado-no-publica/",
     "resumen": "Dos organizaciones de la sociedad civil reunieron, mediante pedidos de acceso a la información pública, datos de 520 buques y de sus armadores, permisos, cuotas y sanciones. Advierten que la información sigue incompleta y reclaman que avance en Diputados un proyecto para abrir el Registro de la Pesca."
-  },
-  {
-    "fecha": "2026-11-04",
-    "titulo": "BioMar posts double-digit revenue, earnings increases in Q3 2026",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNWRQeHBDNUY1dlZtQTNrdDU1UUhSaFI5QVhiMnZCTVlOdU5VYmx4ZFh6c0pVdVRzSV9ZcXJoLTFxMks5eXNocXVtNVBEM3loM2ttZ2h3QTZfNmVnRmxRbmhGOUZ6NUhxWHpvR0xCeTcwbmotS1cyVFVqZWRXTmwtRDhtekFOVHBFcDRXR1pPTHMwQnlzbnBxRmVGc0R2aXM?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQNWRQeHBDNUY1dlZtQTNrdDU1UUhSaFI5QVhiMnZCTVlOdU5VYmx4ZFh6c0pVdVRzSV9ZcXJoLTFxMks5eXNocXVtNVBEM3loM2ttZ2h3QTZfNmVnRmxRbmhGOUZ6NUhxWHpvR0xCeTcwbmotS1cyVFVqZWRXTmwtRDhtekFOVHBFcDRXR1pPTHMwQnlzbnBxRmVGc0R2aXM?oc=5\" target=\"_blank\">BioMar posts double-digit revenue, earnings increases in Q3 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-11-04",
-    "titulo": "Greenpeace drops boulders in UK MPA to prevent bottom trawling",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZDUxME1WTUNVQVVLdG5IVGlZYnE4Y3NCSVZwcVY2MW85d1I5d05PTGlxNkl3dlpTRmNGSjU2YTllbDExMUFTdm5tZXVJMklyREV3aHIzSk1uZWhXeDdtSlJTdWZwTFdGYmJtWGJqYmFyajNIU2VKVHNRUTdPQW5LMTltNkt3Z0VJTi00bVFjbkstMXFqTEdOR0JBa2lpUQ?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPZDUxME1WTUNVQVVLdG5IVGlZYnE4Y3NCSVZwcVY2MW85d1I5d05PTGlxNkl3dlpTRmNGSjU2YTllbDExMUFTdm5tZXVJMklyREV3aHIzSk1uZWhXeDdtSlJTdWZwTFdGYmJtWGJqYmFyajNIU2VKVHNRUTdPQW5LMTltNkt3Z0VJTi00bVFjbkstMXFqTEdOR0JBa2lpUQ?oc=5\" target=\"_blank\">Greenpeace drops boulders in UK MPA to prevent bottom trawling</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
     "fecha": "2026-11-03",
@@ -750,13 +764,6 @@
   },
   {
     "fecha": "2026-10-30",
-    "titulo": "Río Negro creó un Área Marina Protegida de 2.733 km² y establecerá nuevas reglas para la pesca",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/rio-negro-creo-un-area-marina-protegida-de-2-733-km%c2%b2-y-establecera-nuevas-reglas-para-la-pesca/",
-    "resumen": "La Legislatura aprobó la creación del Corredor de los Cinco Grandes, sobre el noreste del Golfo San Matías. El área comprende más de 130 kilómetros de costa y tendrá un plan de manejo que determinará las condiciones para la actividad pesquera, la navegación y el turismo."
-  },
-  {
-    "fecha": "2026-10-30",
     "titulo": "Martínez Zapata a Álvarez Castellano: “Debería empezar por cumplir la ley”",
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/10/martinez-zapata-a-alvarez-castellano-deberia-empezar-por-cumplir-la-ley/",
@@ -775,13 +782,6 @@
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/10/langostino-habra-una-nueva-prospeccion-a-partir-del-10-de-noviembre/",
     "resumen": "Se demora el inicio de temporada en Chubut. Los resultados de la prospección no aconsejan una apertura comercial de la pesquería. Desde el sector de las plantas prefieren que la zafra inicie más cerca de diciembre."
-  },
-  {
-    "fecha": "2026-10-29",
-    "titulo": "Diputados dio dictamen a nuevas sanciones por pesca sin permiso argentino",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/diputados-dio-dictamen-a-nuevas-sanciones-por-pesca-sin-permiso-argentino/",
-    "resumen": "El proyecto de Ley de Defensa de la Soberanía Nacional incorpora nuevas multas e inhabilitaciones para la explotación pesquera en Malvinas y modifica las responsabilidades de empresas, accionistas y prestadores de servicios."
   },
   {
     "fecha": "2026-10-29",
