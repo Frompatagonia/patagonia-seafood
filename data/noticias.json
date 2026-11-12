@@ -18,7 +18,7 @@
     "titulo": "Ingreso de Buques a Puerto de Mar del Plata",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/ingreso-de-buques-a-puerto/",
-    "resumen": "Buques programados: BP DON PEDRO - 07:30 | BP GURISES - 15:30 | BP DON MIGUEL I - 15:30 | BP BELVEDERE - 16:00 | BP MARGOT - 17:30 | BP SAN ANDRES APOSTOL - 17:30. Actualización: 12.NOV.2026 06:50 HS."
+    "resumen": "Buques programados: BP GURISES - 15:30 | BP BELVEDERE - 15:30 | BP DON MIGUEL I - 16:00 | BP MARGOT - 17:00 | BP SAN ANDRES APOSTOL - 17:00. Actualización: 12.NOV.2026 15:20 HS."
   },
   {
     "fecha": "2026-11-12",
@@ -40,6 +40,20 @@
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/cedepesca-capacito-a-observadores-para-mejorar-el-registro-de-mamiferos-marinos/",
     "resumen": "La actividad estuvo dirigida a quienes monitorean la pesca de langostino en Chubut. El convenio con el CONICET incorpora nuevas variables de observación y un formulario más completo para estudiar las interacciones entre las especies y las operaciones de la flota."
+  },
+  {
+    "fecha": "2026-11-12",
+    "titulo": "Los desembarques pesqueros alcanzan su mayor nivel en cuatro años",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/los-desembarques-pesqueros-alcanzan-su-mayor-nivel-en-cuatro-anos/",
+    "resumen": "Al 11 de noviembre, las descargas sumaron 767.748 toneladas y superaron los registros de igual fecha de 2023, 2024 y 2025. La merluza común y el langostino sostienen el crecimiento, mientras las dificultades económicas del segmento fresquero motivaron la continuidad de beneficios arancelarios."
+  },
+  {
+    "fecha": "2026-11-12",
+    "titulo": "Malvinas: el Tribunal del Mar prevé decidir el 28 de noviembre si frena Sea Lion",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/malvinas-el-tribunal-del-mar-preve-decidir-el-28-de-noviembre-si-frena-sea-lion/",
+    "resumen": "Argentina pidió suspender nuevas perforaciones y la instalación de infraestructura petrolera mientras se constituye el tribunal arbitral. El Reino Unido cuestionó la competencia y la urgencia del reclamo, y afirmó que las perforaciones no comenzarán antes del 21 de marzo de 2027."
   },
   {
     "fecha": "2026-11-12",
@@ -68,6 +82,34 @@
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/11/centolla-el-cfp-aprobo-un-programa-de-pesca-experimental-propuesto-por-tierra-del-fuego/",
     "resumen": "Según el representante provincial, la iniciativa complementa el régimen de cuotificación de la especie y apunta a conocer el potencial pesquero de Península Mitre, Isla de los Estados y el Canal Beagle. Salió por mayoría, con el voto negativo de Buenos Aires."
+  },
+  {
+    "fecha": "2026-11-12",
+    "titulo": "Scottish Sea Farms opens “Scotland’s biggest salmon farm” with launch of Billy Baa operations in Shetland",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQnRMVkc4TXpycnEweUxPNXJyMDhMQ1FoMVN5c0s5OXl3UVdiOGhORWtSOXJNVHNPa0YwWVRMQkFYVlcwMXJzV21rekJjc2djSlNrdHVVcnhkd08zT2FfSUZ1U2EtcHJpT2s4TG9rZS1hb3dSUXhjQ2FKSktnd3pWYzU5eVdYMUwwUUpET2c3WG9td1BNbFlreUZkV21KQXhaTmFrTlMxWEFmT2hIR3V6U1NfcHBJak1RdTNfOXBLS3Z0S0E5bXJycURUYnVPT1hNUFZvSQ?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQnRMVkc4TXpycnEweUxPNXJyMDhMQ1FoMVN5c0s5OXl3UVdiOGhORWtSOXJNVHNPa0YwWVRMQkFYVlcwMXJzV21rekJjc2djSlNrdHVVcnhkd08zT2FfSUZ1U2EtcHJpT2s4TG9rZS1hb3dSUXhjQ2FKSktnd3pWYzU5eVdYMUwwUUpET2c3WG9td1BNbFlreUZkV21KQXhaTmFrTlMxWEFmT2hIR3V6U1NfcHBJak1RdTNfOXBLS3Z0S0E5bXJycURUYnVPT1hNUFZvSQ?oc=5\" target=\"_blank\">Scottish Sea Farms opens “Scotland’s biggest salmon farm” with launch of Billy Baa operations in Shetland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-12",
+    "titulo": "Economist Tara Sinclair announced as keynote speaker for 2027 Seafood Expo North America",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTDZKTkVTYndXakhDTW41c3VPNDNraktjVnFnLUo4ZE1mZzdXa2dfaTdIakVqWkM4Vjg0YjVjaDA5dmlHWFFBc0VJVHpjZGhfd1NWcEI0OG5jZzAzaFZTZW45Vl9TVDhSc09CNWN6eGhuNEVTdENLN2Z3MkZhbHZ2aHcyNUp5UjBUbEM0MUtIWWg1dnRlNk1DWGZWcmgxSEk5bWpRSjFCMy1qZ0I1REhocFNIWE9SU0tVb3NKYlVlSWc?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTDZKTkVTYndXakhDTW41c3VPNDNraktjVnFnLUo4ZE1mZzdXa2dfaTdIakVqWkM4Vjg0YjVjaDA5dmlHWFFBc0VJVHpjZGhfd1NWcEI0OG5jZzAzaFZTZW45Vl9TVDhSc09CNWN6eGhuNEVTdENLN2Z3MkZhbHZ2aHcyNUp5UjBUbEM0MUtIWWg1dnRlNk1DWGZWcmgxSEk5bWpRSjFCMy1qZ0I1REhocFNIWE9SU0tVb3NKYlVlSWc?oc=5\" target=\"_blank\">Economist Tara Sinclair announced as keynote speaker for 2027 Seafood Expo North America</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-12",
+    "titulo": "Michael-Ann Rowe sets out to break down seafood consumption barriers through “Fishionista” social media show",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONmFxWWZxN1o4cGt0eWhCV1ZOcXJvNy1DUGJNYXdSMXBMTjBBck5NZmlHdW5UN2FXMXdxeDBZWVRUOEFtRlc3SnhKX3dHQXFtSEl5WTg4S1VCR2xmZkhMNVBfb09panB3QVJLYmxQMUw3MDIteUQ0REp5Qnl3R2J6OU5UUEVhN1drUDJkU0EzN21zVVRjWFhXM084REhaLVV4dWt5LXpkNmpwVDJkRHhZZXZfRVFyM3QtbThWV0IxRkQtdll6SW9FbzduNUlKQjRndGc3SmVJejk?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxONmFxWWZxN1o4cGt0eWhCV1ZOcXJvNy1DUGJNYXdSMXBMTjBBck5NZmlHdW5UN2FXMXdxeDBZWVRUOEFtRlc3SnhKX3dHQXFtSEl5WTg4S1VCR2xmZkhMNVBfb09panB3QVJLYmxQMUw3MDIteUQ0REp5Qnl3R2J6OU5UUEVhN1drUDJkU0EzN21zVVRjWFhXM084REhaLVV4dWt5LXpkNmpwVDJkRHhZZXZfRVFyM3QtbThWV0IxRkQtdll6SW9FbzduNUlKQjRndGc3SmVJejk?oc=5\" target=\"_blank\">Michael-Ann Rowe sets out to break down seafood consumption barriers through “Fishionista” social media show</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-12",
+    "titulo": "Canada continues investment in Atlantic salmon conservation with CAD 10 million grant",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLXFteHFQalNPd0N5ZGNjLWlXOVZJNUhWNTc2al9jRXVycjNySmFob0ZGS3RMWGNTN2NKVkZJWUV1bjI3RUNTTUJiNk9TcjhwU3poLTdkdlc3ck5fdy1SelBfWGtwdFFnZlJrMzBJZTR0cDFrT3VLQUtLVkpnaW5PV0F5eXIyLTczdGZ5b1BoVzd2MXZkZ1hHVmNqM2xxUDRSMkE1OWVocDVQTXZfNWZWMFdURU42UWtqcEdaUA?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPLXFteHFQalNPd0N5ZGNjLWlXOVZJNUhWNTc2al9jRXVycjNySmFob0ZGS3RMWGNTN2NKVkZJWUV1bjI3RUNTTUJiNk9TcjhwU3poLTdkdlc3ck5fdy1SelBfWGtwdFFnZlJrMzBJZTR0cDFrT3VLQUtLVkpnaW5PV0F5eXIyLTczdGZ5b1BoVzd2MXZkZ1hHVmNqM2xxUDRSMkE1OWVocDVQTXZfNWZWMFdURU42UWtqcEdaUA?oc=5\" target=\"_blank\">Canada continues investment in Atlantic salmon conservation with CAD 10 million grant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
     "fecha": "2026-11-11",
@@ -581,34 +623,6 @@
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOczZ2bElUS1l4b2U0SGc1YnVUSVUtTjJNazdqdF9nRlE0SG9UMUg0N3FYTGQyMG9ScUI2X1FYcUt4aUxXdmM2cXh6SEdtMFpma3lVZkFST3AzQVdvbGN4VkRzRVZtUmtKb3plWHJCQ1BQYm1RRElITVYzckUxWTU3MG5lOXN0SkQ0UndyTEswYll1NEpRUWRaNUZsNlRrTnlMMm8wS2xwTzlDY3c5R2xWVy0xZTNEVkRHb0lIUTVQR1BJZw?oc=5\" target=\"_blank\">Europêche meets with EU fisheries attachés, pushes for revision to Common Fisheries Policy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
-    "fecha": "2026-11-05",
-    "titulo": "SalMar maintains record harvest pace in Q3 as Måsøval acquisition progressing according to plan",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeWRPb1FRa0ZOMk11bWYxWjB5RzJvT0NmR0FBYTR0T1dMSkYzYVd0ZXRLVFlGNVd0bEhVZUFPckF1MmdoOTJGNTJWZUpkdE1QYmh5NTgyVi1uZmxvY2VxR3k4ZGRBNFhzTnZXb0g0eWtBUTVuV1o0UFNXUjZSRUhjLWtCRTdEUkdDdDY2cWhYRmc5YTl3cVI5alRnd2o0YWtlVno3SVVOTW13N29NWUZWQnFMaHR5VlViV0JMQW1tVkJMTjFuYzcxd0d3?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPeWRPb1FRa0ZOMk11bWYxWjB5RzJvT0NmR0FBYTR0T1dMSkYzYVd0ZXRLVFlGNVd0bEhVZUFPckF1MmdoOTJGNTJWZUpkdE1QYmh5NTgyVi1uZmxvY2VxR3k4ZGRBNFhzTnZXb0g0eWtBUTVuV1o0UFNXUjZSRUhjLWtCRTdEUkdDdDY2cWhYRmc5YTl3cVI5alRnd2o0YWtlVno3SVVOTW13N29NWUZWQnFMaHR5VlViV0JMQW1tVkJMTjFuYzcxd0d3?oc=5\" target=\"_blank\">SalMar maintains record harvest pace in Q3 as Måsøval acquisition progressing according to plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-11-05",
-    "titulo": "ClientEarth takes Spanish government to court over whale, dolphin bycatch",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQODNzbkdtWk1ucDE3VVJWZVZuSWN2TUt1enpVMnVTWjNYTVVyWmNzT3hCeWtLczNud2l4RjFkYW03VzF1VlJ6VW1PeEEyN3c2TnNWMEV5SkpjZjA4VGJINE1TME9lUW1rOUdBQlAzYnFPcFhpSHlxLXl3Q2NBZUluXy01enF0dS1uSlVZaFVGVG1uRjhFamlLM0VpbzZfeUlFOFkySEdIemRnTkk?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQODNzbkdtWk1ucDE3VVJWZVZuSWN2TUt1enpVMnVTWjNYTVVyWmNzT3hCeWtLczNud2l4RjFkYW03VzF1VlJ6VW1PeEEyN3c2TnNWMEV5SkpjZjA4VGJINE1TME9lUW1rOUdBQlAzYnFPcFhpSHlxLXl3Q2NBZUluXy01enF0dS1uSlVZaFVGVG1uRjhFamlLM0VpbzZfeUlFOFkySEdIemRnTkk?oc=5\" target=\"_blank\">ClientEarth takes Spanish government to court over whale, dolphin bycatch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-11-05",
-    "titulo": "Pew pushing for ecosystem-based management, pelagic recovery in Northeast Atlantic",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRm1uRjRoMElUanAzV1VYcnJOSzd2akRIYXVYaUE4QjB6LVYxVklWcDZfTFNNbXdLajMyNkFQVHRkUGVjQUlaaTBrVFZTdmpvUGVfb003aHZ4RmZaWG1MbGpTcmhRSW9EanVLaHlweE1NR0dDRDBDMW9nX2g4THpHZktpc2V4QVRCM3RUZmkxclZwZmRMVmFiY0wwbXFxNy1iUEN1STJnOVpuSmhvN1dvMDVpM0R2OUlB?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRm1uRjRoMElUanAzV1VYcnJOSzd2akRIYXVYaUE4QjB6LVYxVklWcDZfTFNNbXdLajMyNkFQVHRkUGVjQUlaaTBrVFZTdmpvUGVfb003aHZ4RmZaWG1MbGpTcmhRSW9EanVLaHlweE1NR0dDRDBDMW9nX2g4THpHZktpc2V4QVRCM3RUZmkxclZwZmRMVmFiY0wwbXFxNy1iUEN1STJnOVpuSmhvN1dvMDVpM0R2OUlB?oc=5\" target=\"_blank\">Pew pushing for ecosystem-based management, pelagic recovery in Northeast Atlantic</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-11-05",
-    "titulo": "EU and Western Indian Ocean nations join forces to tackle IUU fishing",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcGdWcXUxTjdtT0FhTHczZTZVX3doNkQ2enpCZkxVTnlfeGNQQ2RrYXRtYl9hTW5fS0c4SUoteXc3aE5LbDZORDBZbDJrTzhVbk9LNGZobl91dV82dVZxV1NpMi0zeWQ1WjVpWXFUN1UwWG0waEdyM0lmTzRWeWNzRFZzY0VkUVFXQnZVbkZNVXVWakd3azdkTG5ySlRUWXJnODVsY0JyTQ?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPcGdWcXUxTjdtT0FhTHczZTZVX3doNkQ2enpCZkxVTnlfeGNQQ2RrYXRtYl9hTW5fS0c4SUoteXc3aE5LbDZORDBZbDJrTzhVbk9LNGZobl91dV82dVZxV1NpMi0zeWQ1WjVpWXFUN1UwWG0waEdyM0lmTzRWeWNzRFZzY0VkUVFXQnZVbkZNVXVWakd3azdkTG5ySlRUWXJnODVsY0JyTQ?oc=5\" target=\"_blank\">EU and Western Indian Ocean nations join forces to tackle IUU fishing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
     "fecha": "2026-11-04",
     "titulo": "La Justicia Federal de Río Grande asumió la causa por la pesca en Malvinas y abrió la instancia cautelar",
     "fuente": "Pescare",
@@ -775,20 +789,6 @@
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/acuerdo-mercosur-ue-crecen-las-ventas-de-merluza-y-mejoran-las-condiciones-para-el-langostino/",
     "resumen": "El presidente de CAPeCA, Eduardo Boiero, destacó un incremento del 10% en las ventas de merluza argentina al mercado europeo y efectos favorables sobre los precios del langostino. Los datos surgieron de una reunión con el embajador Fernando Iglesias, en la que se analizaron los primeros resultados del acuerdo comercial."
-  },
-  {
-    "fecha": "2026-10-31",
-    "titulo": "Siete empresas compiten por la demolición de la galería de granos del puerto de Mar del Plata",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/siete-empresas-compiten-por-la-demolicion-de-la-galeria-de-granos-del-puerto-de-mar-del-plata/",
-    "resumen": "El Consorcio Portuario Regional Mar del Plata realizó la apertura de sobres de la licitación para retirar la antigua estructura cerealera del Espigón 3. La obra cuenta con un presupuesto oficial superior a los $3.823 millones y las propuestas ingresarán ahora en la etapa de evaluación para definir su adjudicación."
-  },
-  {
-    "fecha": "2026-10-31",
-    "titulo": "El Puerto de Mar del Plata redefine zonas y ordena el espacio para pesca, industria, servicios y turismo",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/el-puerto-de-mar-del-plata-redefine-zonas-y-ordena-el-espacio-para-pesca-industria-servicios-y-turismo/",
-    "resumen": "El Consorcio Portuario Regional Mar del Plata aprobó una nueva zonificación para toda su jurisdicción, una decisión que modifica el esquema territorial vigente desde 2007 y establece con mayor precisión qué actividades podrán desarrollarse en cada sector del puerto."
   },
   {
     "fecha": "2026-10-30",
