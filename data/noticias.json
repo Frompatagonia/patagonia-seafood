@@ -1,31 +1,73 @@
 [
   {
-    "fecha": "2026-11-11",
+    "fecha": "2026-11-12",
     "titulo": "Monitoreo Satelital de Buques Pesqueros",
     "fuente": "MAGyP",
     "url": "https://www.magyp.gob.ar/sitio/areas/pesca_maritima/monitoreo/",
     "resumen": "Monitoreo oficial de buques reportando al sistema. Áreas: Zona Rinc&oacute;n (Res. CFP N&ordm; 27/2009 y posteriores)."
   },
   {
-    "fecha": "2026-11-11",
+    "fecha": "2026-11-12",
     "titulo": "Desembarques de Capturas Marítimas (2026)",
     "fuente": "MAGyP",
     "url": "https://www.magyp.gob.ar/sitio/areas/pesca_maritima/desembarques/",
     "resumen": "Estadísticas oficiales de desembarques por especie, flota y puerto. Datos disponibles: 2026, 2025, 2024, 2023, 2022, 2021, 2020."
   },
   {
-    "fecha": "2026-11-11",
+    "fecha": "2026-11-12",
     "titulo": "Ingreso de Buques a Puerto de Mar del Plata",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/ingreso-de-buques-a-puerto/",
-    "resumen": "Buques programados: BP CENTAURO 2000 - 20:00 | BP NIÑO JESUS DE PRAGA - 22:00. Actualización: 11.NOV.2026 19:33 HS."
+    "resumen": "Buques programados: BP DON PEDRO - 07:30 | BP GURISES - 15:30 | BP DON MIGUEL I - 15:30 | BP BELVEDERE - 16:00 | BP MARGOT - 17:30 | BP SAN ANDRES APOSTOL - 17:30. Actualización: 12.NOV.2026 06:50 HS."
   },
   {
-    "fecha": "2026-11-11",
+    "fecha": "2026-11-12",
     "titulo": "Buques Operando en ZEE Argentina",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/buques-operando/",
     "resumen": "Mapa interactivo de buques reportando al sistema. Áreas: Zona Común de Pesca (ARG-URU) / Zona de Veda Permanente de Juveniles de Merluza."
+  },
+  {
+    "fecha": "2026-11-12",
+    "titulo": "Prefectura reincorporó dos aeronaves modernizadas para reforzar la vigilancia marítima",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/prefectura-reincorporo-dos-aeronaves-modernizadas-para-reforzar-la-vigilancia-maritima/",
+    "resumen": "El avión CASA C-212 Isla Gran Malvina y un helicóptero Ecureuil regresaron al servicio tras completar trabajos de mantenimiento y modernización. La incorporación de radares, cámaras infrarrojas y sistemas digitales permitirá mejorar el control de embarcaciones, la detección de actividades ilegales y las operaciones de búsqueda y rescate."
+  },
+  {
+    "fecha": "2026-11-12",
+    "titulo": "CeDePesca capacitó a observadores para mejorar el registro de mamíferos marinos",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/cedepesca-capacito-a-observadores-para-mejorar-el-registro-de-mamiferos-marinos/",
+    "resumen": "La actividad estuvo dirigida a quienes monitorean la pesca de langostino en Chubut. El convenio con el CONICET incorpora nuevas variables de observación y un formulario más completo para estudiar las interacciones entre las especies y las operaciones de la flota."
+  },
+  {
+    "fecha": "2026-11-12",
+    "titulo": "Langostino: la prospección del fin de semana define la apertura de temporada",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/11/langostino-la-prospeccion-del-fin-de-semana-define-la-apertura-de-temporada/",
+    "resumen": "El relevamiento se desarrollará durante dos días efectivos de pesca, exclusivamente en la Zona Norte, que fue dividida en dos áreas. Participarán 22 embarcaciones de la flota amarilla. Si los resultados son positivos, el lunes podría habilitarse la zafra."
+  },
+  {
+    "fecha": "2026-11-12",
+    "titulo": "Rawson y Camarones tendrán administraciones portuarias con participación del sector privado",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/11/rawson-y-camarones-tendran-administraciones-portuarias-con-participacion-del-sector-privado/",
+    "resumen": "Torres presentó la iniciativa junto a los intendentes Biss y Loyola, y diputados del oficialismo. El proyecto contempla una administración conjunta. Además, confirmó que el dragado del puerto capitalino está en proceso de adjudicación y que empresarios financiarán la ampliación de 50 metros de muelle."
+  },
+  {
+    "fecha": "2026-11-12",
+    "titulo": "La agenda de la acuicultura argentina después de Madryn",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/11/la-agenda-de-la-acuicultura-argentina-despues-de-madryn/",
+    "resumen": "La Jornada Nacional de Acuicultura reunió en Puerto Madryn a investigadores, productores y autoridades. Los avances en pez limón, mejillones y algas convivieron con una discusión sobre dónde y en qué condiciones ampliar los cultivos. Con la maricultura todavía en pequeña escala, el desafío es convertir ese intercambio en una agenda federal de trabajo."
+  },
+  {
+    "fecha": "2026-11-12",
+    "titulo": "Centolla: el CFP aprobó un programa de pesca experimental propuesto por Tierra del Fuego",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/11/centolla-el-cfp-aprobo-un-programa-de-pesca-experimental-propuesto-por-tierra-del-fuego/",
+    "resumen": "Según el representante provincial, la iniciativa complementa el régimen de cuotificación de la especie y apunta a conocer el potencial pesquero de Península Mitre, Isla de los Estados y el Canal Beagle. Salió por mayoría, con el voto negativo de Buenos Aires."
   },
   {
     "fecha": "2026-11-11",
@@ -750,20 +792,6 @@
   },
   {
     "fecha": "2026-10-30",
-    "titulo": "Chubut posterga la zafra de langostino y mantiene a la flota de Rawson a la espera",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/chubut-posterga-la-zafra-de-langostino-y-mantiene-a-la-flota-de-rawson-a-la-espera/",
-    "resumen": "La decisión de postergar el inicio de la temporada de langostino en Chubut responde a los resultados de la prospección y ratifica la prioridad del criterio técnico sobre los tiempos operativos de la flota."
-  },
-  {
-    "fecha": "2026-10-30",
-    "titulo": "Gremios cuestionan los beneficios para buques reconstruidos por su impacto en la industria naval",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/gremios-cuestionan-los-beneficios-para-buques-reconstruidos-por-su-impacto-en-la-industria-naval/",
-    "resumen": "El Centro de Patrones y el SAONSINRA pidieron al Consejo Federal Pesquero que gestione la derogación de la Resolución 190/2026. Advierten que la medida podría desalentar la construcción de nuevas embarcaciones en astilleros argentinos."
-  },
-  {
-    "fecha": "2026-10-30",
     "titulo": "Martínez Zapata a Álvarez Castellano: “Debería empezar por cumplir la ley”",
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/10/martinez-zapata-a-alvarez-castellano-deberia-empezar-por-cumplir-la-ley/",
@@ -824,33 +852,5 @@
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/10/capturas-variables-en-el-primer-dia-de-prospeccion-al-norte/",
     "resumen": "El relevamiento de langostinos en la denominada Zona Norte se divide en dos. De Isla Escondida a Rawson cuesta encontrar el recurso. De Rawson a la boca del Golfo Nuevo hubo lances dispares y presencia de merluza en algunos sectores."
-  },
-  {
-    "fecha": "2026-10-28",
-    "titulo": "“Hace más de 15 años que Conarpesa y Agropez vienen liquidando mal el aguinaldo”",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/10/hace-mas-de-15-anos-que-conarpesa-y-agropez-vienen-liquidando-mal-el-aguinaldo/",
-    "resumen": "Dijo el secretario gremial nacional del Siconara, Jorge Maldonado, respecto de los juicios que enfrentan las empresas del Grupo Conarpesa y pidió que saque los barcos porque mucha gente depende de ello. Sostuvo que la actualización de los CCT es central para resolver las diferencias y dar previsibilidad."
-  },
-  {
-    "fecha": "2026-10-28",
-    "titulo": "Los límites de CATCH frente a la pesca no regulada en la Milla 201",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/10/los-limites-de-catch-frente-a-la-pesca-no-regulada-en-la-milla-201/",
-    "resumen": "La trazabilidad y los alcances del sistema europeo estuvieron entre los tópicos más frecuentes de las exposiciones y los intercambios de la última Conxemar en Vigo. Para el Atlántico Sudoccidental, el debate plantea una cuestión decisiva: reconstruir el origen documental de un producto no equivale a acreditar la sustentabilidad de la pesquería de la que proviene."
-  },
-  {
-    "fecha": "2026-10-28",
-    "titulo": "Proponen Planes Oceánicos Sostenibles para ordenar el Mar Argentino",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/10/proponen-planes-oceanicos-sostenibles-para-ordenar-el-mar-argentino/",
-    "resumen": "El diplomático Javier Figueroa, exembajador ante el Reino Unido y hoy a cargo de la Coordinación de Política Oceánica y del Atlántico Sur de la Cancillería, plantea integrar pesca, energía, conservación y soberanía en una misma hoja de ruta, y sostiene que la causa Malvinas debe pasar de la fuerza emocional a políticas y presupuestos sostenidos."
-  },
-  {
-    "fecha": "2026-10-27",
-    "titulo": "La flota adelanta la prospección al norte ante la ausencia de langostino al sur",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/10/la-flota-adelanta-la-prospeccion-al-norte-ante-la-ausencia-de-langostino-al-sur/",
-    "resumen": "En la primera jornada del relevamiento solamente se hicieron dos lances y se suspendió anticipadamente por la casi nula presencia de langostino y altos porcentajes de bycatch de merluza. La reprogramación de la prospección dispuso que se efectúen tres días efectivos de pesca en la zona norte."
   }
 ]
