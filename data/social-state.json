@@ -454,9 +454,22 @@
         "id": "17907722376599954",
         "at": "2026-11-11T08:41:36.004Z"
       }
+    },
+    "https://pescare.com.ar/capip-reclama-reactivar-el-fondo-acuicola-para-impulsar-la-produccion-industrial/": {
+      "title": "CAPIP reclama reactivar el fondo acuícola para impulsar la producción industrial",
+      "date": "2026-11-11",
+      "url": "https://pescare.com.ar/capip-reclama-reactivar-el-fondo-acuicola-para-impulsar-la-produccion-industrial/",
+      "facebook": {
+        "id": "1208224315713852_122133709137420852",
+        "at": "2026-11-12T05:08:25.035Z"
+      },
+      "instagram": {
+        "id": "18090161996293242",
+        "at": "2026-11-12T05:08:34.295Z"
+      }
     }
   },
-  "lastNewsPostDate": "2026-11-11T08:41:36.004Z",
+  "lastNewsPostDate": "2026-11-12T05:08:34.295Z",
   "lastProductPostDate": "2026-11-11T23:14:49.911Z",
   "lastProductKey": "calamar",
   "recipe": {
@@ -521,5 +534,5 @@
     "lastPostDate": "2026-11-11T01:38:29.623Z",
     "lastKey": "salmuera"
   },
-  "updatedAt": "2026-11-11T23:14:49.911Z"
+  "updatedAt": "2026-11-12T05:08:34.295Z"
 }
