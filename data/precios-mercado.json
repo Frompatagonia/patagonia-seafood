@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-13T13:48:02.689Z",
+  "updated_at": "2026-11-13T23:09:27.200Z",
   "last_checked": "2026-11-13",
   "window_days": 60,
   "title": "Informe Global de Precios",
@@ -152,15 +152,15 @@
     }
   ],
   "exchange": {
-    "date": "2026-11-12",
+    "date": "2026-11-13",
     "source": "Banco Central Europeo",
     "source_url": "https://www.ecb.europa.eu/stats/eurofxref/eurofxref-daily.xml",
     "base": "EUR",
     "rates": {
-      "USD": 1.1081,
-      "BRL": 6.2241,
-      "JPY": 176.96,
-      "CNY": 7.3891
+      "USD": 1.1052,
+      "BRL": 6.2595,
+      "JPY": 176.83,
+      "CNY": 7.3738
     }
   },
   "quotes": [
@@ -188,9 +188,9 @@
         "unit": "kg",
         "note": "Merluza congelada agregada. La fuente no informa filete interfoliado ni calibre 60-200 g.",
         "usd": {
-          "avg": 7.65,
-          "min": 7.65,
-          "max": 7.65
+          "avg": 7.63,
+          "min": 7.63,
+          "max": 7.63
         }
       },
       "retail": null
@@ -219,9 +219,9 @@
         "unit": "kg",
         "note": "Merluza congelada agregada. La fuente no informa filete interfoliado ni calibre 60-200 g.",
         "usd": {
-          "avg": 7,
-          "min": 6.09,
-          "max": 7.98
+          "avg": 6.98,
+          "min": 6.08,
+          "max": 7.96
         }
       },
       "retail": null
@@ -250,9 +250,9 @@
         "unit": "kg",
         "note": "Merluza congelada agregada. La fuente no informa filete interfoliado ni calibre 60-200 g.",
         "usd": {
-          "avg": 7.1,
-          "min": 5.54,
-          "max": 14.96
+          "avg": 7.08,
+          "min": 5.53,
+          "max": 14.92
         }
       },
       "retail": null
@@ -281,12 +281,13 @@
         "unit": "kg",
         "note": "Merluza entera fresca de 1-2 kg. No es filete interfoliado.",
         "usd": {
-          "avg": 7.54,
-          "min": 7.2,
-          "max": 7.76
+          "avg": 7.52,
+          "min": 7.18,
+          "max": 7.74
         }
       },
-      "retail": null
+      "retail": null,
+      "stale": true
     },
     {
       "id": "mercamadrid-calamar_entero",
@@ -312,9 +313,9 @@
         "unit": "kg",
         "note": "Calamar congelado agregado. La fuente no confirma especie Illex ni gramaje.",
         "usd": {
-          "avg": 6.93,
-          "min": 6.65,
-          "max": 7.48
+          "avg": 6.91,
+          "min": 6.63,
+          "max": 7.46
         }
       },
       "retail": null
@@ -343,9 +344,9 @@
         "unit": "kg",
         "note": "Calamar congelado agregado. La fuente no confirma especie Illex ni gramaje.",
         "usd": {
-          "avg": 7.15,
-          "min": 7.09,
-          "max": 7.2
+          "avg": 7.13,
+          "min": 7.07,
+          "max": 7.18
         }
       },
       "retail": null
@@ -374,9 +375,9 @@
         "unit": "kg",
         "note": "Calamar congelado agregado. La fuente no confirma especie Illex ni gramaje.",
         "usd": {
-          "avg": 15.96,
-          "min": 11.08,
-          "max": 16.62
+          "avg": 15.91,
+          "min": 11.05,
+          "max": 16.58
         }
       },
       "retail": null
@@ -405,12 +406,13 @@
         "unit": "kg",
         "note": "Calamar entero fresco. La fuente no confirma especie Illex.",
         "usd": {
-          "avg": 21.74,
-          "min": 16.4,
-          "max": 25.49
+          "avg": 21.68,
+          "min": 16.36,
+          "max": 25.42
         }
       },
-      "retail": null
+      "retail": null,
+      "stale": true
     },
     {
       "id": "mercamadrid-langostino_entero",
@@ -436,9 +438,9 @@
         "unit": "kg",
         "note": "Langostino congelado agregado. La fuente no confirma calibre L1 10/20.",
         "usd": {
-          "avg": 31.03,
-          "min": 31.03,
-          "max": 31.03
+          "avg": 30.95,
+          "min": 30.95,
+          "max": 30.95
         }
       },
       "retail": null
@@ -467,9 +469,9 @@
         "unit": "kg",
         "note": "Langostino congelado agregado. La fuente no confirma calibre L1 10/20.",
         "usd": {
-          "avg": 30.3,
-          "min": 27.7,
-          "max": 33.24
+          "avg": 30.22,
+          "min": 27.63,
+          "max": 33.16
         }
       },
       "retail": null
@@ -498,9 +500,9 @@
         "unit": "kg",
         "note": "Langostino congelado agregado. La fuente no confirma calibre L1 10/20.",
         "usd": {
-          "avg": 16.62,
-          "min": 16.62,
-          "max": 16.62
+          "avg": 16.58,
+          "min": 16.58,
+          "max": 16.58
         }
       },
       "retail": null
@@ -529,12 +531,13 @@
         "unit": "kg",
         "note": "Langoustine (Nephrops norvegicus), no langostino Pleoticus muelleri.",
         "usd": {
-          "avg": 25.62,
-          "min": 19.95,
-          "max": 35.46
+          "avg": 25.55,
+          "min": 19.89,
+          "max": 35.37
         }
       },
-      "retail": null
+      "retail": null,
+      "stale": true
     }
   ],
   "source_checks": [
@@ -544,7 +547,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://observatorioprecios.es/mercados-alimentos-pescado-congelado/merluza",
-      "elapsed_ms": 157,
+      "elapsed_ms": 570,
       "error": null
     },
     {
@@ -553,7 +556,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://observatorioprecios.es/mercados-alimentos-pescado-congelado/merluza",
-      "elapsed_ms": 778,
+      "elapsed_ms": 571,
       "error": null
     },
     {
@@ -562,16 +565,16 @@
       "status": 200,
       "ok": true,
       "final_url": "https://observatorioprecios.es/mercados-alimentos-pescado-congelado/merluza",
-      "elapsed_ms": 783,
+      "elapsed_ms": 778,
       "error": null
     },
     {
       "market_id": "rungis",
       "checked_at": "2026-11-13",
-      "status": 200,
-      "ok": true,
+      "status": 403,
+      "ok": false,
       "final_url": "https://rnm.franceagrimer.fr/prix?M0121%3AMARCHE",
-      "elapsed_ms": 306,
+      "elapsed_ms": 739,
       "error": null
     },
     {
@@ -580,7 +583,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://ceagesp.gov.br/cotacoes/",
-      "elapsed_ms": 1975,
+      "elapsed_ms": 1854,
       "error": null
     },
     {
@@ -589,7 +592,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://sogemispa.it/bollettini-report-prezzi",
-      "elapsed_ms": 2372,
+      "elapsed_ms": 2069,
       "error": null
     },
     {
@@ -598,7 +601,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://www.shijou.metro.tokyo.lg.jp/",
-      "elapsed_ms": 1043,
+      "elapsed_ms": 1135,
       "error": null
     },
     {
@@ -607,7 +610,7 @@
       "status": 403,
       "ok": false,
       "final_url": "https://www.tridge.com/market-overview/frozen-argentine-shortfin-squid/CN",
-      "elapsed_ms": 932,
+      "elapsed_ms": 999,
       "error": null
     }
   ],
@@ -618,8 +621,8 @@
     "retail_quotes": 0,
     "exact_quotes": 0,
     "reference_quotes": 12,
-    "stale_quotes": 0,
-    "sources_ok": 7,
+    "stale_quotes": 3,
+    "sources_ok": 6,
     "sources_total": 8
   },
   "notices": [
