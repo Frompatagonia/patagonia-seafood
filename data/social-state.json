@@ -467,9 +467,22 @@
         "id": "18090161996293242",
         "at": "2026-11-12T05:08:34.295Z"
       }
+    },
+    "https://pescare.com.ar/la-flota-espanola-reclama-una-reforma-europea-para-frenar-su-retroceso/": {
+      "title": "La flota española reclama una reforma europea para frenar su retroceso",
+      "date": "2026-11-13",
+      "url": "https://pescare.com.ar/la-flota-espanola-reclama-una-reforma-europea-para-frenar-su-retroceso/",
+      "facebook": {
+        "id": "1208224315713852_122134060269420852",
+        "at": "2026-11-13T10:23:45.319Z"
+      },
+      "instagram": {
+        "id": "18110188625222814",
+        "at": "2026-11-13T10:23:59.062Z"
+      }
     }
   },
-  "lastNewsPostDate": "2026-11-12T05:08:34.295Z",
+  "lastNewsPostDate": "2026-11-13T10:23:59.062Z",
   "lastProductPostDate": "2026-11-11T23:14:49.911Z",
   "lastProductKey": "calamar",
   "recipe": {
@@ -534,5 +547,5 @@
     "lastPostDate": "2026-11-11T01:38:29.623Z",
     "lastKey": "salmuera"
   },
-  "updatedAt": "2026-11-12T05:08:34.295Z"
+  "updatedAt": "2026-11-13T10:23:59.062Z"
 }
