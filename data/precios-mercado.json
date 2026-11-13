@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-13T04:41:56.475Z",
+  "updated_at": "2026-11-13T13:48:02.689Z",
   "last_checked": "2026-11-13",
   "window_days": 60,
   "title": "Informe Global de Precios",
@@ -267,10 +267,10 @@
       "source_url": "https://rnm.franceagrimer.fr/prix?M0121%3AMARCHE",
       "source_type": "auto",
       "checked_at": "2026-11-13",
-      "date": "2026-11-12",
-      "period_start": "2026-09-13",
-      "period_end": "2026-11-12",
-      "samples": 41,
+      "date": "2026-11-13",
+      "period_start": "2026-09-14",
+      "period_end": "2026-11-13",
+      "samples": 42,
       "currency": "EUR",
       "unit": "kg",
       "wholesale": {
@@ -391,21 +391,21 @@
       "source_url": "https://rnm.franceagrimer.fr/prix?M0121%3AMARCHE",
       "source_type": "auto",
       "checked_at": "2026-11-13",
-      "date": "2026-11-12",
-      "period_start": "2026-09-13",
-      "period_end": "2026-11-12",
-      "samples": 41,
+      "date": "2026-11-13",
+      "period_start": "2026-09-14",
+      "period_end": "2026-11-13",
+      "samples": 42,
       "currency": "EUR",
       "unit": "kg",
       "wholesale": {
-        "avg": 19.69,
+        "avg": 19.62,
         "min": 14.8,
         "max": 23,
         "currency": "EUR",
         "unit": "kg",
         "note": "Calamar entero fresco. La fuente no confirma especie Illex.",
         "usd": {
-          "avg": 21.82,
+          "avg": 21.74,
           "min": 16.4,
           "max": 25.49
         }
@@ -515,21 +515,21 @@
       "source_url": "https://rnm.franceagrimer.fr/prix?M0121%3AMARCHE",
       "source_type": "auto",
       "checked_at": "2026-11-13",
-      "date": "2026-11-12",
-      "period_start": "2026-09-13",
-      "period_end": "2026-11-12",
-      "samples": 41,
+      "date": "2026-11-13",
+      "period_start": "2026-09-14",
+      "period_end": "2026-11-13",
+      "samples": 42,
       "currency": "EUR",
       "unit": "kg",
       "wholesale": {
-        "avg": 23.07,
+        "avg": 23.12,
         "min": 18,
         "max": 32,
         "currency": "EUR",
         "unit": "kg",
         "note": "Langoustine (Nephrops norvegicus), no langostino Pleoticus muelleri.",
         "usd": {
-          "avg": 25.56,
+          "avg": 25.62,
           "min": 19.95,
           "max": 35.46
         }
@@ -544,7 +544,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://observatorioprecios.es/mercados-alimentos-pescado-congelado/merluza",
-      "elapsed_ms": 95,
+      "elapsed_ms": 157,
       "error": null
     },
     {
@@ -553,7 +553,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://observatorioprecios.es/mercados-alimentos-pescado-congelado/merluza",
-      "elapsed_ms": 457,
+      "elapsed_ms": 778,
       "error": null
     },
     {
@@ -562,7 +562,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://observatorioprecios.es/mercados-alimentos-pescado-congelado/merluza",
-      "elapsed_ms": 461,
+      "elapsed_ms": 783,
       "error": null
     },
     {
@@ -571,7 +571,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://rnm.franceagrimer.fr/prix?M0121%3AMARCHE",
-      "elapsed_ms": 253,
+      "elapsed_ms": 306,
       "error": null
     },
     {
@@ -580,7 +580,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://ceagesp.gov.br/cotacoes/",
-      "elapsed_ms": 1446,
+      "elapsed_ms": 1975,
       "error": null
     },
     {
@@ -589,7 +589,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://sogemispa.it/bollettini-report-prezzi",
-      "elapsed_ms": 1515,
+      "elapsed_ms": 2372,
       "error": null
     },
     {
@@ -598,7 +598,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://www.shijou.metro.tokyo.lg.jp/",
-      "elapsed_ms": 1472,
+      "elapsed_ms": 1043,
       "error": null
     },
     {
@@ -607,7 +607,7 @@
       "status": 403,
       "ok": false,
       "final_url": "https://www.tridge.com/market-overview/frozen-argentine-shortfin-squid/CN",
-      "elapsed_ms": 701,
+      "elapsed_ms": 932,
       "error": null
     }
   ],
