@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "updated_at": "2026-11-14T04:37:51.830Z",
+  "updated_at": "2026-11-14T12:52:08.888Z",
   "last_checked": "2026-11-14",
   "window_days": 60,
   "title": "Informe Global de Precios",
@@ -547,7 +547,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://observatorioprecios.es/mercados-alimentos-pescado-congelado/merluza",
-      "elapsed_ms": 484,
+      "elapsed_ms": 624,
       "error": null
     },
     {
@@ -556,7 +556,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://observatorioprecios.es/mercados-alimentos-pescado-congelado/merluza",
-      "elapsed_ms": 490,
+      "elapsed_ms": 625,
       "error": null
     },
     {
@@ -565,7 +565,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://observatorioprecios.es/mercados-alimentos-pescado-congelado/merluza",
-      "elapsed_ms": 481,
+      "elapsed_ms": 781,
       "error": null
     },
     {
@@ -574,7 +574,7 @@
       "status": 403,
       "ok": false,
       "final_url": "https://rnm.franceagrimer.fr/prix?M0121%3AMARCHE",
-      "elapsed_ms": 563,
+      "elapsed_ms": 775,
       "error": null
     },
     {
@@ -583,7 +583,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://ceagesp.gov.br/cotacoes/",
-      "elapsed_ms": 1435,
+      "elapsed_ms": 1830,
       "error": null
     },
     {
@@ -592,7 +592,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://sogemispa.it/bollettini-report-prezzi",
-      "elapsed_ms": 1590,
+      "elapsed_ms": 2353,
       "error": null
     },
     {
@@ -601,7 +601,7 @@
       "status": 200,
       "ok": true,
       "final_url": "https://www.shijou.metro.tokyo.lg.jp/",
-      "elapsed_ms": 1226,
+      "elapsed_ms": 752,
       "error": null
     },
     {
@@ -610,7 +610,7 @@
       "status": 403,
       "ok": false,
       "final_url": "https://www.tridge.com/market-overview/frozen-argentine-shortfin-squid/CN",
-      "elapsed_ms": 1459,
+      "elapsed_ms": 1408,
       "error": null
     }
   ],
