@@ -480,9 +480,22 @@
         "id": "18110188625222814",
         "at": "2026-11-13T10:23:59.062Z"
       }
+    },
+    "https://pescare.com.ar/einaval-2026-triplica-su-capacidad-de-expositores-en-mar-del-plata/": {
+      "title": "EINAVAL 2026 triplica su capacidad de expositores en Mar del Plata",
+      "date": "2026-11-13",
+      "url": "https://pescare.com.ar/einaval-2026-triplica-su-capacidad-de-expositores-en-mar-del-plata/",
+      "facebook": {
+        "id": "1208224315713852_122134300359420852",
+        "at": "2026-11-14T07:15:44.180Z"
+      },
+      "instagram": {
+        "id": "18020102780958545",
+        "at": "2026-11-14T07:15:53.958Z"
+      }
     }
   },
-  "lastNewsPostDate": "2026-11-13T10:23:59.062Z",
+  "lastNewsPostDate": "2026-11-14T07:15:53.958Z",
   "lastProductPostDate": "2026-11-11T23:14:49.911Z",
   "lastProductKey": "calamar",
   "recipe": {
@@ -549,5 +562,5 @@
     "lastPostDate": "2026-11-11T01:38:29.623Z",
     "lastKey": "salmuera"
   },
-  "updatedAt": "2026-11-14T00:04:51.222Z"
+  "updatedAt": "2026-11-14T07:15:53.958Z"
 }
