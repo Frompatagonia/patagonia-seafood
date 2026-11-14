@@ -493,9 +493,22 @@
         "id": "18020102780958545",
         "at": "2026-11-14T07:15:53.958Z"
       }
+    },
+    "https://pescare.com.ar/chubut-inicio-la-prospeccion-para-definir-la-apertura-de-la-temporada-de-langostino/": {
+      "title": "Chubut inició la prospección para definir la apertura de la temporada de langostino",
+      "date": "2026-11-14",
+      "url": "https://pescare.com.ar/chubut-inicio-la-prospeccion-para-definir-la-apertura-de-la-temporada-de-langostino/",
+      "facebook": {
+        "id": "1208224315713852_122134482141420852",
+        "at": "2026-11-14T23:33:22.088Z"
+      },
+      "instagram": {
+        "id": "17915792823471803",
+        "at": "2026-11-14T23:33:32.077Z"
+      }
     }
   },
-  "lastNewsPostDate": "2026-11-14T07:15:53.958Z",
+  "lastNewsPostDate": "2026-11-14T23:33:32.077Z",
   "lastProductPostDate": "2026-11-14T19:38:28.308Z",
   "lastProductKey": "variado",
   "recipe": {
@@ -563,5 +576,5 @@
     "lastPostDate": "2026-11-11T01:38:29.623Z",
     "lastKey": "salmuera"
   },
-  "updatedAt": "2026-11-14T19:38:28.308Z"
+  "updatedAt": "2026-11-14T23:33:32.077Z"
 }
