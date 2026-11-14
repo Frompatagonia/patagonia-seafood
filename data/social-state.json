@@ -535,10 +535,11 @@
     "used": {
       "images/planta/WP_20160406_13_45_46_Pro.webp": "2026-11-10T05:28:07.214Z",
       "images/merluza/filet/00418.webp": "2026-11-11T16:48:46.537Z",
-      "images/merluza/filet/00356.webp": "2026-11-13T18:20:08.644Z"
+      "images/merluza/filet/00356.webp": "2026-11-13T18:20:08.644Z",
+      "images/flota/00010 (2).webp": "2026-11-14T14:41:02.642Z"
     },
-    "lastPostDate": "2026-11-13T18:20:08.644Z",
-    "lastPath": "images/merluza/filet/00356.webp"
+    "lastPostDate": "2026-11-14T14:41:02.642Z",
+    "lastPath": "images/flota/00010 (2).webp"
   },
   "videos": {
     "posted": {
@@ -562,5 +563,5 @@
     "lastPostDate": "2026-11-11T01:38:29.623Z",
     "lastKey": "salmuera"
   },
-  "updatedAt": "2026-11-14T07:15:53.958Z"
+  "updatedAt": "2026-11-14T14:41:02.642Z"
 }
