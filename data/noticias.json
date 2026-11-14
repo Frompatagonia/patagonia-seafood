@@ -18,7 +18,7 @@
     "titulo": "Ingreso de Buques a Puerto de Mar del Plata",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/ingreso-de-buques-a-puerto/",
-    "resumen": "Buques programados: BP PADRE PIO - 22:30. Actualización: 13.NOV.2026 22:28 HS."
+    "resumen": "Buques programados: BP GEMINIS - 11:00 | BP SAN PASCUAL - 17:00 | BP VENTARRON I - 18:00 | BP DON RAIMUNDO - 21:30 | BP CANAL DE BEAGLE - 23:30. Actualización: 14.NOV.2026 09:18 HS."
   },
   {
     "fecha": "2026-11-14",
@@ -26,6 +26,34 @@
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/buques-operando/",
     "resumen": "Mapa interactivo de buques reportando al sistema. Áreas: Zona Común de Pesca (ARG-URU) / Zona de Veda Permanente de Juveniles de Merluza."
+  },
+  {
+    "fecha": "2026-11-14",
+    "titulo": "Chubut inició la prospección para definir la apertura de la temporada de langostino",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/chubut-inicio-la-prospeccion-para-definir-la-apertura-de-la-temporada-de-langostino/",
+    "resumen": "La flota trabaja en dos grupos, al norte a casi 30 millas náuticas al NE de Rawson y al sur a 15 millas náuticas al S del mismo puerto chubutense. El esquema provincial asigna once embarcaciones a cada área y contempla dos jornadas de evaluación. Los resultados permitirán determinar si el recurso reúne las condiciones para habilitar la pesca comercial."
+  },
+  {
+    "fecha": "2026-11-14",
+    "titulo": "Cambios en Pesca de Chubut: expectativas por la nueva gestión y respeto por acuerdos existentes",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/cambios-en-pesca-de-chubut-expectativas-por-la-nueva-gestion-y-respeto-por-acuerdos-existentes/",
+    "resumen": "El presidente del Grupo Conarpesa destacó el trabajo realizado por Diego Brandán y Andrés Arbeletche, expresó su confianza en los nuevos funcionarios y remarcó la importancia de mantener reglas claras y acuerdos que permitan sostener el desarrollo de la actividad pesquera."
+  },
+  {
+    "fecha": "2026-11-14",
+    "titulo": "La pesquería de krill antártico renovó el sello MSC con tres condiciones",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/la-pesqueria-de-krill-antartico-renovo-el-sello-msc-con-tres-condiciones/",
+    "resumen": "Las empresas deberán mejorar la gestión de las capturas concentradas y la respuesta ante riesgos para las especies que dependen del recurso. Aker BioMarine confirmó que el cumplimiento de las condiciones será revisado mediante auditorías independientes anuales."
+  },
+  {
+    "fecha": "2026-11-14",
+    "titulo": "El Puerto de Mar del Plata reunió a más de cien instituciones para definir proyectos",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/el-puerto-de-mar-del-plata-reunio-a-mas-de-cien-instituciones-para-definir-proyectos/",
+    "resumen": "El Puerto de Mar del Plata comenzó las reuniones de las comisiones Social y Económica de la Iniciativa Puertos Azules. Seguridad laboral, capacitación, agregado de valor a los productos pesqueros y acceso a mercados integran la agenda inicial del programa en el principal puerto pesquero del país."
   },
   {
     "fecha": "2026-11-13",
@@ -743,27 +771,6 @@
   },
   {
     "fecha": "2026-11-03",
-    "titulo": "Puerto Deseado prepara el camino para certificar su infraestructura portuaria",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/puerto-deseado-prepara-el-camino-para-certificar-su-infraestructura-portuaria/",
-    "resumen": "El Gobierno de Santa Cruz prevé iniciar antes de diciembre la reconstrucción del Sitio 4 y su zona de transición. También se realizarán mejoras en las condiciones de amarre y seguridad, con el objetivo de avanzar posteriormente hacia la certificación del puerto."
-  },
-  {
-    "fecha": "2026-11-03",
-    "titulo": "Dragados y obras portuarias tendrán nuevas exigencias ambientales",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/dragados-y-obras-portuarias-tendran-nuevas-exigencias-ambientales/",
-    "resumen": "La Agencia Nacional de Puertos y Navegación aprobó un régimen que establece distintos niveles de control para obras y actividades en puertos y vías navegables."
-  },
-  {
-    "fecha": "2026-11-03",
-    "titulo": "Argentina es el tercer exportador mundial de merluza",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/argentina-es-el-tercer-exportador-mundial-de-merluza/",
-    "resumen": "Las ventas alcanzaron 123.440 toneladas y USD 313,15 millones durante 2025. El posicionamiento internacional de una de las principales especies de la pesca argentina tiene impacto directo sobre Mar del Plata, principal puerto merlucero del país."
-  },
-  {
-    "fecha": "2026-11-03",
     "titulo": "Informe laboral marplatense: más personas trabajando y más desocupadas",
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/11/informe-laboral-marplatense-mas-personas-trabajando-y-mas-desocupadas/",
@@ -782,13 +789,6 @@
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/11/proyectan-un-centro-de-servicios-y-estacionamiento-para-ordenar-el-transito-hacia-el-storni/",
     "resumen": "El puerto y cámaras empresarias firmaron una carta de intención para avanzar con un espacio destinado a los transportistas en el predio de la Cámara Empresaria de Transporte. El proyecto contempla estacionamiento, sanitarios, duchas, oficinas y un sistema digital para coordinar el ingreso de los vehículos al puerto y al Parque Pesquero."
-  },
-  {
-    "fecha": "2026-11-02",
-    "titulo": "Malvinas: zarpó el buque chileno Danstar tras la controversia por la nueva ruta marítima",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/malvinas-zarpo-el-buque-chileno-danstar-tras-la-controversia-por-la-nueva-ruta-maritima/",
-    "resumen": "El carguero chileno será acondicionado en Punta Arenas antes de iniciar en diciembre el nuevo servicio de abastecimiento hacia las islas. La conexión reduce a menos de la mitad la distancia logística respecto de Montevideo y vuelve a colocar bajo análisis el régimen argentino aplicable a la navegación con destino al archipiélago."
   },
   {
     "fecha": "2026-11-02",
