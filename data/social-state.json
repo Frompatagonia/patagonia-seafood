@@ -519,9 +519,22 @@
         "id": "18035849822907042",
         "at": "2026-11-15T19:12:29.958Z"
       }
+    },
+    "https://pescare.com.ar/italia-frena-la-pesca-de-gambero-rosso-y-limita-su-oferta-hasta-fin-de-ano/": {
+      "title": "Italia frena la pesca de Gambero Rosso y limita su oferta hasta fin de año",
+      "date": "2026-11-16",
+      "url": "https://pescare.com.ar/italia-frena-la-pesca-de-gambero-rosso-y-limita-su-oferta-hasta-fin-de-ano/",
+      "facebook": {
+        "id": "1208224315713852_122134842957420852",
+        "at": "2026-11-16T13:16:30.511Z"
+      },
+      "instagram": {
+        "id": "17915045769484871",
+        "at": "2026-11-16T13:16:37.076Z"
+      }
     }
   },
-  "lastNewsPostDate": "2026-11-15T19:12:29.958Z",
+  "lastNewsPostDate": "2026-11-16T13:16:37.076Z",
   "lastProductPostDate": "2026-11-14T19:38:28.308Z",
   "lastProductKey": "variado",
   "recipe": {
@@ -592,5 +605,5 @@
     "lastPostDate": "2026-11-11T01:38:29.623Z",
     "lastKey": "salmuera"
   },
-  "updatedAt": "2026-11-15T23:40:21.649Z"
+  "updatedAt": "2026-11-16T13:16:37.076Z"
 }
