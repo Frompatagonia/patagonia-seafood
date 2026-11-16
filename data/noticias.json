@@ -1,31 +1,38 @@
 [
   {
-    "fecha": "2026-11-15",
+    "fecha": "2026-11-16",
     "titulo": "Monitoreo Satelital de Buques Pesqueros",
     "fuente": "MAGyP",
     "url": "https://www.magyp.gob.ar/sitio/areas/pesca_maritima/monitoreo/",
     "resumen": "Monitoreo oficial de buques reportando al sistema. Áreas: Zona Rinc&oacute;n (Res. CFP N&ordm; 27/2009 y posteriores)."
   },
   {
-    "fecha": "2026-11-15",
+    "fecha": "2026-11-16",
     "titulo": "Desembarques de Capturas Marítimas (2026)",
     "fuente": "MAGyP",
     "url": "https://www.magyp.gob.ar/sitio/areas/pesca_maritima/desembarques/",
     "resumen": "Estadísticas oficiales de desembarques por especie, flota y puerto. Datos disponibles: 2026, 2025, 2024, 2023, 2022, 2021, 2020."
   },
   {
-    "fecha": "2026-11-15",
+    "fecha": "2026-11-16",
     "titulo": "Ingreso de Buques a Puerto de Mar del Plata",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/ingreso-de-buques-a-puerto/",
-    "resumen": "Buques programados: BP PROMAC - 20:00 | BP SAN MATIAS - 21:00 | BP TESON - 21:00 | BP LEAL - 22:00. Actualización: 15.NOV.2026 16:25 HS."
+    "resumen": "Buques programados: BP LITO - 01:00 | BP MERCEA C - 03:00 | BP DON CAYETANO - 07:00 | BP CIUDAD FELIZ - 07:30 | BP CTE. LUIS PIEDRABUENA - 08:00 | BP TOZUDO - 09:00. Actualización: 15.NOV.2026 22:55 HS."
   },
   {
-    "fecha": "2026-11-15",
+    "fecha": "2026-11-16",
     "titulo": "Buques Operando en ZEE Argentina",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/buques-operando/",
     "resumen": "Mapa interactivo de buques reportando al sistema. Áreas: Zona Común de Pesca (ARG-URU) / Zona de Veda Permanente de Juveniles de Merluza."
+  },
+  {
+    "fecha": "2026-11-16",
+    "titulo": "Italia frena la pesca de Gambero Rosso y limita su oferta hasta fin de año",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/italia-frena-la-pesca-de-gambero-rosso-y-limita-su-oferta-hasta-fin-de-ano/",
+    "resumen": "El cierre alcanza a dos especies de profundidad en Sicilia. La medida se suma a las interrupciones aplicadas desde agosto y aporta contexto al interés de los compradores italianos por ampliar el abastecimiento de langostino argentino."
   },
   {
     "fecha": "2026-11-14",
@@ -733,13 +740,6 @@
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/cooperativas-portuarias-de-mar-del-plata-advierten-por-menos-trabajo-y-mayores-costos/",
     "resumen": "Juan Carlos Nazer, expresidente de FECOOAPORT, aseguró que las suspensiones dispuestas por el INAES no alteraron la operatoria del puerto de Mar del Plata. Sin embargo, advirtió que la menor disponibilidad de trabajo y la reducción de la actividad de la flota hacia fin de año complican la situación económica de numerosas cooperativas."
-  },
-  {
-    "fecha": "2026-11-04",
-    "titulo": "Uruguay realiza una campaña científica de merluza con un buque propio tras siete años",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/uruguay-realiza-una-campana-cientifica-de-merluza-con-un-buque-propio-tras-siete-anos/",
-    "resumen": "La Dirección Nacional de Recursos Acuáticos (DINARA) inició una campaña científica en la Zona Común de Pesca argentino-uruguaya a bordo del BP Atlantic Jane. La investigación cuenta con participación del INIDEP y permitirá obtener información sobre el estado del recurso, la distribución de juveniles y las zonas de veda."
   },
   {
     "fecha": "2026-11-04",
