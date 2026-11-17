@@ -18,7 +18,7 @@
     "titulo": "Ingreso de Buques a Puerto de Mar del Plata",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/ingreso-de-buques-a-puerto/",
-    "resumen": "Buques programados: BP MAR DEL CHUBUT - 12:00 | BP TABEIRON TRES - 13:00 | BP DON GAETANO - 18:30 | BP 7 DE DICIEMBRE - 22:30. Actualización: 17.NOV.2026 10:20 HS."
+    "resumen": "Buques programados: BP DON GAETANO - 17:30 | BP MISS TIDE - 21:00 | BP 7 DE DICIEMBRE - 21:40. Actualización: 17.NOV.2026 14:00 HS."
   },
   {
     "fecha": "2026-11-17",
@@ -47,6 +47,13 @@
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/investigan-a-cuatro-pesqueras-de-puerto-madryn-por-presunta-contaminacion-del-golfo-nuevo/",
     "resumen": "La Justicia de Puerto Madryn abrió este lunes la investigación contra responsables de Red Chamber, Estrella Patagónica y Congeladores Patagónicos, por supuestas descargas de efluentes que habrían superado los límites permitidos."
+  },
+  {
+    "fecha": "2026-11-17",
+    "titulo": "Los desembarques pesqueros en Argentina alcanzan su mayor nivel en cuatro años",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/los-desembarques-pesqueros-en-argentina-alcanzan-su-mayor-nivel-en-cuatro-anos/",
+    "resumen": "Los desembarques aumentan 5,8% frente a 2025, con diferencias importantes entre especies y puertos. El informe semanal de la Dirección de Planificación Pesquera permite seguir esos cambios y aporta una base para analizar sus causas biológicas, operativas y comerciales."
   },
   {
     "fecha": "2026-11-17",
@@ -733,13 +740,6 @@
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/el-cfp-asigno-cuotas-de-centolla-a-seis-buques-hasta-2041/",
     "resumen": "El régimen establece derechos de captura para quince temporadas, distribuidos entre tres grupos empresarios y sujetos a condiciones de explotación. Buenos Aires votó en contra y Santa Cruz se abstuvo por objeciones vinculadas con las competencias provinciales."
-  },
-  {
-    "fecha": "2026-11-06",
-    "titulo": "El CFP fijó 277.200 toneladas para la pesca de anchoíta y caballa en 2026",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/el-cfp-fijo-277-200-toneladas-para-la-pesca-de-anchoita-y-caballa-en-2026/",
-    "resumen": "Las evaluaciones del INIDEP confirman el buen estado biológico de la anchoíta y condiciones de subexplotación de la caballa sureña. Solo aumentó en 1.000 toneladas el límite de la anchoíta al sur del paralelo 41° Sur, mientras los desembarques continúan muy por debajo de los volúmenes autorizados."
   },
   {
     "fecha": "2026-11-06",
