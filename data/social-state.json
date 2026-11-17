@@ -532,9 +532,22 @@
         "id": "17915045769484871",
         "at": "2026-11-16T13:16:37.076Z"
       }
+    },
+    "https://pescare.com.ar/sturzenegger-confunde-industria-con-privilegio-malestar-y-preocupacion-por-sus-declaraciones/": {
+      "title": "Sturzenegger confunde industria con privilegio. Malestar y preocupación por sus declaraciones",
+      "date": "2026-11-17",
+      "url": "https://pescare.com.ar/sturzenegger-confunde-industria-con-privilegio-malestar-y-preocupacion-por-sus-declaraciones/",
+      "facebook": {
+        "id": "1208224315713852_122135225823420852",
+        "at": "2026-11-17T23:16:19.982Z"
+      },
+      "instagram": {
+        "id": "17874455970648399",
+        "at": "2026-11-17T23:16:30.279Z"
+      }
     }
   },
-  "lastNewsPostDate": "2026-11-16T13:16:37.076Z",
+  "lastNewsPostDate": "2026-11-17T23:16:30.279Z",
   "lastProductPostDate": "2026-11-14T19:38:28.308Z",
   "lastProductKey": "variado",
   "recipe": {
@@ -611,5 +624,5 @@
     "lastPostDate": "2026-11-11T01:38:29.623Z",
     "lastKey": "salmuera"
   },
-  "updatedAt": "2026-11-17T15:17:43.727Z"
+  "updatedAt": "2026-11-17T23:16:30.279Z"
 }
