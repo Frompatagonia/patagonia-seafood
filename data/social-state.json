@@ -538,37 +538,42 @@
   "lastProductPostDate": "2026-11-14T19:38:28.308Z",
   "lastProductKey": "variado",
   "recipe": {
-    "dayKey": "2026-11-09",
-    "mealId": "53428",
-    "titleEs": "Camaro Grelhado Com Molho Cru (Gambas a la plancha con salsa de cebolla verde)",
-    "titleOriginal": "Camaro Grelhado Com Molho Cru (Grilled Prawns with Green Onion Sauce)",
-    "area": "",
+    "dayKey": "2026-11-17",
+    "mealId": "53349",
+    "titleEs": "Gambas al estilo jamaicano con pimiento",
+    "titleOriginal": "Jamaican Pepper Shrimp",
+    "area": "Jamaican",
     "category": "Seafood",
-    "imageUrl": "https://www.themealdb.com/images/media/meals/jg4r991779916649.jpg",
+    "imageUrl": "https://www.themealdb.com/images/media/meals/bx07m71764792853.jpg",
     "productKey": "langostino",
     "productName": "Langostino argentino",
     "productImage": "images/social/langostino.jpg",
     "ingredients": [
-      "1 lb Gambas",
-      "2 dientes de ajo picado",
-      "1/2 taza de cebolletas",
-      "1 g de comino molido",
-      "1/4 de cucharadita de sal",
-      "4 cucharadas soperas de vinagre blanco",
-      "4 cucharadas de agua "
+      "1 libra de camarones",
+      "2 Scotch Bonnet picados",
+      "1 cucharada de condimento multiusos",
+      "2 cucharaditas de achiote molido",
+      "2 cucharaditas de pimienta de Jamaica",
+      "3/4 de taza de caldo de gambas",
+      "1/4 taza de cebolla",
+      "2 dientes de ajo picados",
+      "2 cucharadas de vinagre blanco",
+      "3 ramitas de tomillo",
+      "Para probar Sal"
     ],
     "steps": [
-      "Prepara la salsa combinando todos los ingredientes y moliéndolos en una pasta.",
-      "Ponga las gambas en los pinchos y cepille con salsa.",
-      "Asar a la parrilla hasta que estén listos (deben perder su color translúcido), unos 3-4 minutos a cada lado.",
-      "Servir con salsa extra al lado."
+      "En un bol mediano, mezcla las gambas con los pimientos Scotch Bonnet picados, el condimento multiusos, el achiote molido y la pimienta de Jamaica molida. Mézclalo todo bien para que se impregnen uniformemente y deja marinar durante 10 minutos.",
+      "Calienta una sartén grande a fuego medio. Añade el caldo de gambas y deja que hierva a fuego lento. Incorpora la cebolla cortada en dados y el ajo, y cocina hasta que se ablanden y suelten su aroma, unos 2 minutos.",
+      "Añade las gambas sazonadas y las ramitas de tomillo, extendiendo las gambas por la sartén. Tapa y cocina durante unos 5-7 minutos, removiendo de vez en cuando, hasta que las gambas adquieran un color naranja brillante y estén bien hechas.",
+      "Añadir el vinagre blanco, remover y cocinar durante otro minuto. Probar y añadir sal al gusto. Con una espumadera, pasa las gambas a un plato. Servir caliente con un poco de líquido de cocción rociado por encima."
     ],
     "postsToday": 0,
     "postedSlots": [],
-    "lastPostDate": "2026-11-09T23:14:59.923Z"
+    "lastPostDate": "2026-11-17T05:55:30.169Z"
   },
   "usedRecipes": [
-    "53428"
+    "53428",
+    "53349"
   ],
   "gallery": {
     "used": {
@@ -605,5 +610,5 @@
     "lastPostDate": "2026-11-11T01:38:29.623Z",
     "lastKey": "salmuera"
   },
-  "updatedAt": "2026-11-16T13:16:37.076Z"
+  "updatedAt": "2026-11-17T05:55:30.169Z"
 }
