@@ -18,7 +18,7 @@
     "titulo": "Ingreso de Buques a Puerto de Mar del Plata",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/ingreso-de-buques-a-puerto/",
-    "resumen": "Buques programados: BP DESAFIO - 22:15. Actualización: 17.NOV.2026 21:50 HS."
+    "resumen": "Buques programados: BP ROCIO DEL MAR - 13:30 | BP NONO PASCUAL - 14:30 | BP ACRUX - 15:30 | BP EL MARISCO I - 16:30 | BP SANT´ANTONIO - 17:00 | BP ANDRES JORGE - 17:30 | BP CALLEJA - 23:00. Actualización: 18.NOV.2026 12:40 HS."
   },
   {
     "fecha": "2026-11-18",
@@ -26,6 +26,34 @@
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/buques-operando/",
     "resumen": "Mapa interactivo de buques reportando al sistema. Áreas: Zona Común de Pesca (ARG-URU) / Zona de Veda Permanente de Juveniles de Merluza."
+  },
+  {
+    "fecha": "2026-11-18",
+    "titulo": "Cultivar el mar: la primera granja de algas de Argentina busca dar el salto productivo",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/cultivar-el-mar-la-primera-granja-de-algas-de-argentina-busca-dar-el-salto-productivo/",
+    "resumen": "Impulsada por Fundación Por el Mar en Puerto San Julián, la iniciativa busca transformar el cultivo de macroalgas en una nueva alternativa productiva para la Patagonia, con participación de los pescadores artesanales y una expansión prevista hacia Tierra del Fuego en 2027."
+  },
+  {
+    "fecha": "2026-11-18",
+    "titulo": "La Comisión de Intereses Marítimos retomó el debate sobre la trazabilidad pesquera",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/la-comision-de-intereses-maritimos-retomo-el-debate-sobre-la-trazabilidad-pesquera/",
+    "resumen": "La Comisión de Intereses Marítimos de la Cámara de Diputados retomó este martes 17 de noviembre el debate sobre la trazabilidad pesquera. Los gremios pidieron avanzar con los proyectos de ley y los especialistas expusieron cómo se registra el recorrido del pescado y qué controles hacen falta para verificarlo."
+  },
+  {
+    "fecha": "2026-11-18",
+    "titulo": "El Joseph Duhamel pasó a dominio del Estado tras 16 años varado en Puerto Madryn",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/el-joseph-duhamel-paso-a-dominio-del-estado-tras-16-anos-varado-en-puerto-madryn/",
+    "resumen": "La administración portuaria deberá costear el desguace del antiguo buque factoría. En junio de 2025, Prefectura había ordenado retirar el casco por el riesgo ambiental que representaba al sur del muelle Almirante Storni."
+  },
+  {
+    "fecha": "2026-11-18",
+    "titulo": "Mar del Plata reúne al Consejo Portuario Argentino en la primera jornada de EINAVAL 2026",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/mar-del-plata-reune-al-consejo-portuario-argentino-en-la-primera-jornada-de-einaval-2026/",
+    "resumen": "La recorrida que encabeza Marcos Gutiérrez comienza en SPI Astilleros y continúa por las terminales 2 y 3, donde las delegaciones tienen previsto conocer la operatoria de los muelles y los proyectos de inversión del puerto."
   },
   {
     "fecha": "2026-11-18",
@@ -54,6 +82,48 @@
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/11/en-un-mes-se-inaugura-el-syncrolift-del-astillero-de-comodoro-rivadavia/",
     "resumen": "La puesta en funcionamiento está prevista para el 18 de diciembre y marcará el regreso de las operaciones de reparación naval en seco después de dos décadas de inactividad. En una primera etapa comenzará a trabajar con dos gradas de las cinco proyectadas. Prevé recibir pesqueros para mantenimiento y reparación que actualmente son llevados al norte."
+  },
+  {
+    "fecha": "2026-11-18",
+    "titulo": "Alaska reports a 46 percent decrease in salmon harvests in 2026",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOERkamJENHJhUFdreDBjekpBaks0eHlLSUVrRHhnYWptOVNUazZZRjJzeFdlc1lHb3hQUXhmV0NUbUJyRHlwMG9FeUNUeTYyRjFHRWxFaFdHTDBaeXllRTJ4cmJVRlBqRnlPcEs5ZTg0NU13akFjNmV3aFVvanpTZkVMdHk3NlJZMnk0S050aWQ4NVI4RWg2ZDZacGREdw?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPOERkamJENHJhUFdreDBjekpBaks0eHlLSUVrRHhnYWptOVNUazZZRjJzeFdlc1lHb3hQUXhmV0NUbUJyRHlwMG9FeUNUeTYyRjFHRWxFaFdHTDBaeXllRTJ4cmJVRlBqRnlPcEs5ZTg0NU13akFjNmV3aFVvanpTZkVMdHk3NlJZMnk0S050aWQ4NVI4RWg2ZDZacGREdw?oc=5\" target=\"_blank\">Alaska reports a 46 percent decrease in salmon harvests in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-18",
+    "titulo": "Senate Republicans reject Trump’s request to transfer NOAA’s ESA, MMPA responsibilities",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOY3pRNWVfWG1OWGwzUEczVVN2OTFOeHlHbnZOa3duU3BfRWVhbVRfWHA0TmtfYk9xNkpOalZKYTJqa0xMQmIxc29vdHNwUmp5aVEzZ1ZHaXJqejRqQnE4VGhKM2duOUE1TFpTa1V1MnRiVnNzNTdlTWRHX0YtVGNmQThXN3FtZXJuN2t2c190cmpyX2djU2UyQTNjMl93b2dEYzg5U092aWJ5RWJ5YzY0dGJqS09QU2hybjBCX3p3?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOY3pRNWVfWG1OWGwzUEczVVN2OTFOeHlHbnZOa3duU3BfRWVhbVRfWHA0TmtfYk9xNkpOalZKYTJqa0xMQmIxc29vdHNwUmp5aVEzZ1ZHaXJqejRqQnE4VGhKM2duOUE1TFpTa1V1MnRiVnNzNTdlTWRHX0YtVGNmQThXN3FtZXJuN2t2c190cmpyX2djU2UyQTNjMl93b2dEYzg5U092aWJ5RWJ5YzY0dGJqS09QU2hybjBCX3p3?oc=5\" target=\"_blank\">Senate Republicans reject Trump’s request to transfer NOAA’s ESA, MMPA responsibilities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-18",
+    "titulo": "Affordability, AI, wellness among top 2027 consumer trends to watch",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSS1RZTBqMkszN25xNnd4c3lBZlhwcjdVNXQyTzBoWWhZMTV0a0RNWnpHdGRyNm81NWRpV0Z5X1dvb1h2ZFRnV1VISlJ6a0xMRmJxc0FoSmQ4YUhrTHlPMXFscTFuRktrbmd2VXRXV0t6MUJPLVc0Z01NSWJzS21mbGhHY0hwdUJjdTFuZ2xIMEoxd0dyQ3oydEY2VjRHZmV6VHc?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNSS1RZTBqMkszN25xNnd4c3lBZlhwcjdVNXQyTzBoWWhZMTV0a0RNWnpHdGRyNm81NWRpV0Z5X1dvb1h2ZFRnV1VISlJ6a0xMRmJxc0FoSmQ4YUhrTHlPMXFscTFuRktrbmd2VXRXV0t6MUJPLVc0Z01NSWJzS21mbGhHY0hwdUJjdTFuZ2xIMEoxd0dyQ3oydEY2VjRHZmV6VHc?oc=5\" target=\"_blank\">Affordability, AI, wellness among top 2027 consumer trends to watch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-18",
+    "titulo": "SFP spearheads launch of Global Marine Commodities 2 project, garnering international participation",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTm52b2w2aHIxUkJkZ0NwTXdKTk4tN1dybEZwaGJTektfMS1DUmJ4WGdhMlhNTG9NMGtCTEJqdjBxc2tKYWJwYWlCZVNfb0VMSURlY1czUGdCV1BfVEZycHpEY0lKVTBpSTJTOUduMjVUeDNNR0ViNl93U2NObFYxcFF5QklwWGZXZ1BKTDNzZ0lQQ01UeDZwdzlLY3FRQ3F1X2JrQThCck9BNXMwMFhxaTAxWnB6RVRKSVRNNGw2dHBJaHRuS1JhWkV0Y0l5QQ?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPTm52b2w2aHIxUkJkZ0NwTXdKTk4tN1dybEZwaGJTektfMS1DUmJ4WGdhMlhNTG9NMGtCTEJqdjBxc2tKYWJwYWlCZVNfb0VMSURlY1czUGdCV1BfVEZycHpEY0lKVTBpSTJTOUduMjVUeDNNR0ViNl93U2NObFYxcFF5QklwWGZXZ1BKTDNzZ0lQQ01UeDZwdzlLY3FRQ3F1X2JrQThCck9BNXMwMFhxaTAxWnB6RVRKSVRNNGw2dHBJaHRuS1JhWkV0Y0l5QQ?oc=5\" target=\"_blank\">SFP spearheads launch of Global Marine Commodities 2 project, garnering international participation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-18",
+    "titulo": "Auke Creek Research Station research finds that warming waters are affecting run times, but not abundance",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORWd1V3E3cmFpQ1dnZ2JxUmRKUUFFcVJSNHhoN3lBTl84WUhJSmtkOXdhUElNZFJjcFg5c2pFcFJPMVM5MEV5T2JGenJXSUFEcWc4anhSMTV1VTl4Unc5dW8xbzU2V0N3aDNMbkVsSVdKVXRjeDA4YXJuZnB6SnFobG9BVkdjcUtsYndKSlhNYVU5Y0lLMHBwQWtlVUVEaXVON0xpMjNlVlBleXgwVzRRYUc3QzA3N0hOZktFOU5meU1sUTU4T1R3TGFnQTVhTmR1eFdRbEdn?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxORWd1V3E3cmFpQ1dnZ2JxUmRKUUFFcVJSNHhoN3lBTl84WUhJSmtkOXdhUElNZFJjcFg5c2pFcFJPMVM5MEV5T2JGenJXSUFEcWc4anhSMTV1VTl4Unc5dW8xbzU2V0N3aDNMbkVsSVdKVXRjeDA4YXJuZnB6SnFobG9BVkdjcUtsYndKSlhNYVU5Y0lLMHBwQWtlVUVEaXVON0xpMjNlVlBleXgwVzRRYUc3QzA3N0hOZktFOU5meU1sUTU4T1R3TGFnQTVhTmR1eFdRbEdn?oc=5\" target=\"_blank\">Auke Creek Research Station research finds that warming waters are affecting run times, but not abundance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-18",
+    "titulo": "Måsøval bumps up full-year salmon harvest projection again after strong Q3 performance",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUjRjRU52V1d6QmdIWDBzLUlHN2ZBY1I2QTd1TkpOQnNYeldTWVVtdjVxMktzSU5aR2tUa0EwcWlYLVFKRTlqTHJCaFctOGJwRE5ZbmFsM1ZYRnUwNlR5bGF3WHYyRGpKM0U0cFk1T3dpb3VBMlBkcW9MaXhsZkUtdUtMdzhHaE4yVVhXTXpSbFZXQkpJR0JyR1Z2NEI3UUJ3NUNDNGhXZENYaFhaRmJKMW9OcVZmdFNZUjlXOFRR?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPUjRjRU52V1d6QmdIWDBzLUlHN2ZBY1I2QTd1TkpOQnNYeldTWVVtdjVxMktzSU5aR2tUa0EwcWlYLVFKRTlqTHJCaFctOGJwRE5ZbmFsM1ZYRnUwNlR5bGF3WHYyRGpKM0U0cFk1T3dpb3VBMlBkcW9MaXhsZkUtdUtMdzhHaE4yVVhXTXpSbFZXQkpJR0JyR1Z2NEI3UUJ3NUNDNGhXZENYaFhaRmJKMW9OcVZmdFNZUjlXOFRR?oc=5\" target=\"_blank\">Måsøval bumps up full-year salmon harvest projection again after strong Q3 performance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
     "fecha": "2026-11-17",
@@ -553,41 +623,6 @@
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPLXFteHFQalNPd0N5ZGNjLWlXOVZJNUhWNTc2al9jRXVycjNySmFob0ZGS3RMWGNTN2NKVkZJWUV1bjI3RUNTTUJiNk9TcjhwU3poLTdkdlc3ck5fdy1SelBfWGtwdFFnZlJrMzBJZTR0cDFrT3VLQUtLVkpnaW5PV0F5eXIyLTczdGZ5b1BoVzd2MXZkZ1hHVmNqM2xxUDRSMkE1OWVocDVQTXZfNWZWMFdURU42UWtqcEdaUA?oc=5\" target=\"_blank\">Canada continues investment in Atlantic salmon conservation with CAD 10 million grant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
-    "fecha": "2026-11-12",
-    "titulo": "BBRSDA receives grant funding for sonar salmon counting and marketing push",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONUFpRjhuOHA1RHNWY1hpR1gtQ21SSXR3VWFPTkVsYnliMTRIeHl5X0RsdUl0aUxuZUZlUGp0NXBrRy04NDgyeHhPS1BVdE9KbVhvQ0dvMEtHY0EzUVFGc0NVVHFJT2RmZXZpOXp4MnBzZXhvd0ZZTVVPMHlKMURsS2QzRm9RTDRxRGlmeDdvbFB6TlNNYTZWUlJsSEFPdnY4VVF3ZzZCaDYtYnNhTFE?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxONUFpRjhuOHA1RHNWY1hpR1gtQ21SSXR3VWFPTkVsYnliMTRIeHl5X0RsdUl0aUxuZUZlUGp0NXBrRy04NDgyeHhPS1BVdE9KbVhvQ0dvMEtHY0EzUVFGc0NVVHFJT2RmZXZpOXp4MnBzZXhvd0ZZTVVPMHlKMURsS2QzRm9RTDRxRGlmeDdvbFB6TlNNYTZWUlJsSEFPdnY4VVF3ZzZCaDYtYnNhTFE?oc=5\" target=\"_blank\">BBRSDA receives grant funding for sonar salmon counting and marketing push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-11-12",
-    "titulo": "High Liner posts higher volumes, profit, income in Q3 as shareholders set to vote on Umios acquisition in December",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQalVuUThIUFRjRVEyUUI3Zi11U0Z4YmhQLXpWeF9nS3p4VzA1a1RUVXhCX2JrN3JTZXhzNVlEUWVnZ1RCaGRwTzNVbTQ3bDgyYmY4bnZCYjU4QkRDWEdpd2RjY0kzb3JrZ1BTX1dlRzFGNXY3SllOLThVVERtZXFsNVdfSDJuY2xLS3M4N2x3cjZSM0pqT1E1bnFqYW1vMF9iNHp0SXpwdFJJZkk4V21aUloxYXR1UHRoZXNuZmhhSDAxc2xSdHpXR1BaTlR6Zm5jRFpoZmtYYnU?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQalVuUThIUFRjRVEyUUI3Zi11U0Z4YmhQLXpWeF9nS3p4VzA1a1RUVXhCX2JrN3JTZXhzNVlEUWVnZ1RCaGRwTzNVbTQ3bDgyYmY4bnZCYjU4QkRDWEdpd2RjY0kzb3JrZ1BTX1dlRzFGNXY3SllOLThVVERtZXFsNVdfSDJuY2xLS3M4N2x3cjZSM0pqT1E1bnFqYW1vMF9iNHp0SXpwdFJJZkk4V21aUloxYXR1UHRoZXNuZmhhSDAxc2xSdHpXR1BaTlR6Zm5jRFpoZmtYYnU?oc=5\" target=\"_blank\">High Liner posts higher volumes, profit, income in Q3 as shareholders set to vote on Umios acquisition in December</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-11-12",
-    "titulo": "Guillermo Turner tapped to lead Chile’s Salmon Council, replacing Loreto Seguel",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdDgzRjlUTXlzOFBpeWlSaHZnRlB2aWlYcldndGtGNWZwY0hCUGFncnRXdEJUbGs5d0xmNUdOYlFmUDh5S3ZfOGxWV1BfbjVFOXV1SmZqeFZCRnk2TjhWQnI5Wnhka2pselBxbXVFQVI5NXltY05LOEo0ZU1EWHFaT0pZVkZHbnZJZFJOcWZhMkRwU1hTWkR6SlNZTUdwbjVfTm9NQlA1cWR2a002ajUtN1JoRQ?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPdDgzRjlUTXlzOFBpeWlSaHZnRlB2aWlYcldndGtGNWZwY0hCUGFncnRXdEJUbGs5d0xmNUdOYlFmUDh5S3ZfOGxWV1BfbjVFOXV1SmZqeFZCRnk2TjhWQnI5Wnhka2pselBxbXVFQVI5NXltY05LOEo0ZU1EWHFaT0pZVkZHbnZJZFJOcWZhMkRwU1hTWkR6SlNZTUdwbjVfTm9NQlA1cWR2a002ajUtN1JoRQ?oc=5\" target=\"_blank\">Guillermo Turner tapped to lead Chile’s Salmon Council, replacing Loreto Seguel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-11-12",
-    "titulo": "ASMFC makes 9 percent cut to 2027 menhaden quota",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeGNOeW9qcU9oa1RCRlNfdEx3SVhTZlZUUDNiamVpSWdnNTV2V3ByaE5aOWlzeFk1WlAxQkZWYnJpVmRlcXpuUmZRNVVWa2M5SkhTZXZHeXJKYllTRGRheFE4TjZYUnRKM2tvM1c2emw3RDltbUhUNlBFRGsyeFpLQ1BFVVZvS3dMcm5r?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeGNOeW9qcU9oa1RCRlNfdEx3SVhTZlZUUDNiamVpSWdnNTV2V3ByaE5aOWlzeFk1WlAxQkZWYnJpVmRlcXpuUmZRNVVWa2M5SkhTZXZHeXJKYllTRGRheFE4TjZYUnRKM2tvM1c2emw3RDltbUhUNlBFRGsyeFpLQ1BFVVZvS3dMcm5r?oc=5\" target=\"_blank\">ASMFC makes 9 percent cut to 2027 menhaden quota</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-11-12",
-    "titulo": "Prince William Sound reports lowest pink salmon harvest since the late 1970s",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNzR2NnpQcThyM0xHOWFQU1BfZVF6THJtYWdOSC1mSXM4V1BDLVlhRWRiUDVHalFXOHlBSlhQeTFqQWptVnk1bjNwTnREMFhDN2RPXzZMdll1VWhnUkZoS3E0djRBY2NxRFVuOXZJZy1GWTlFRmtkTEowSElqRmtfVjlVZGVRb0pucnRDLXItN2t4RkhuTGZVb0poWUVwYncxVmFiUU0tekpjU2NzSUlCdkUtNklpUEE?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQNzR2NnpQcThyM0xHOWFQU1BfZVF6THJtYWdOSC1mSXM4V1BDLVlhRWRiUDVHalFXOHlBSlhQeTFqQWptVnk1bjNwTnREMFhDN2RPXzZMdll1VWhnUkZoS3E0djRBY2NxRFVuOXZJZy1GWTlFRmtkTEowSElqRmtfVjlVZGVRb0pucnRDLXItN2t4RkhuTGZVb0poWUVwYncxVmFiUU0tekpjU2NzSUlCdkUtNklpUEE?oc=5\" target=\"_blank\">Prince William Sound reports lowest pink salmon harvest since the late 1970s</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
     "fecha": "2026-11-11",
     "titulo": "CAPIP reclama reactivar el fondo acuícola para impulsar la producción industrial",
     "fuente": "Pescare",
@@ -635,13 +670,6 @@
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/11/proponen-destinar-2-de-las-retenciones-petroleras-para-el-desarrollo-de-la-acuicultura/",
     "resumen": "El proyecto de ley presentado en el Congreso crea un fondo específico para financiar emprendimientos, infraestructura, investigación y capacitación en el sector. La iniciativa plantea priorizar a las provincias productoras afectadas por el declive de la explotación convencional, entre ellas, Chubut."
-  },
-  {
-    "fecha": "2026-11-11",
-    "titulo": "Liberian government defends implementation of fisheries projects from mismanagement accusations",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeWhpanZjRE04WE5XUXFpNDBiaHBLUUdOWWNSZFJZUVJTVTQ3c01PeWR0SjJVQm0zVjRNWjBrVkJoMWRqRVRLYklDZXVTamQ4M0NqNnRfR2VRT1F4bnByM1pFTXdKNG9LV21CVHlDQXo2d0pxWmpxWWdGVF83d2ZzUGI4QmJaV3J0NEtZMmFyRUx5VnFqOUdfOEV3T1R0TWk0ZDI1M3FNVjRmN0w5MFpGdXpfRWg3S210U29aTFZKUWRpdGFaNzdOX2tn?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNeWhpanZjRE04WE5XUXFpNDBiaHBLUUdOWWNSZFJZUVJTVTQ3c01PeWR0SjJVQm0zVjRNWjBrVkJoMWRqRVRLYklDZXVTamQ4M0NqNnRfR2VRT1F4bnByM1pFTXdKNG9LV21CVHlDQXo2d0pxWmpxWWdGVF83d2ZzUGI4QmJaV3J0NEtZMmFyRUx5VnFqOUdfOEV3T1R0TWk0ZDI1M3FNVjRmN0w5MFpGdXpfRWg3S210U29aTFZKUWRpdGFaNzdOX2tn?oc=5\" target=\"_blank\">Liberian government defends implementation of fisheries projects from mismanagement accusations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
     "fecha": "2026-11-10",
@@ -740,34 +768,6 @@
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/11/destacan-la-incorporacion-de-la-pesca-dentro-del-regimen-de-incentivo-a-las-inversiones-relevantes/",
     "resumen": "Desde la Cámara de Armadores y los frigoríficos exportadores valoraron la iniciativa impulsada por el senador marplatense Maximiliano Abad de incluir a la industria pesquera dentro del proyecto de ley que ya tuvo media sanción."
-  },
-  {
-    "fecha": "2026-11-07",
-    "titulo": "El CFP aprobó un programa de pesca experimental en Tierra del Fuego",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/el-cfp-aprobo-un-programa-de-pesca-experimental-en-tierra-del-fuego/",
-    "resumen": "Las campañas estudiarán recursos en aguas provinciales y nacionales adyacentes, con condiciones específicas de captura y control. La representación bonaerense rechazó la propuesta por el tiempo concedido para analizarla y por su vinculación con las cuotas de centolla."
-  },
-  {
-    "fecha": "2026-11-07",
-    "titulo": "Gatuzo: 100 recapturas aportan nuevos datos sobre sus movimientos",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/gatuzo-100-recapturas-aportan-nuevos-datos-sobre-sus-movimientos/",
-    "resumen": "El programa científico que llevan adelante Argentina y Uruguay alcanzó un nuevo registro en el estudio de la especie. Desde 2016 se marcaron miles de ejemplares y algunos recorrieron más de 450 kilómetros. El seguimiento incorpora ahora tecnología satelital para conocer con mayor precisión sus movimientos."
-  },
-  {
-    "fecha": "2026-11-07",
-    "titulo": "Vuelve el exsecretario de Pesca de Arcioni al Consejo Federal Pesquero",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/vuelve-el-exsecretario-de-pesca-de-arcioni-al-consejo-federal-pesquero/",
-    "resumen": "Gabriel Aguilar reemplazará a Andrés Arbeletche en la representación de Chubut, mientras Sebastián Cejas asumirá en lugar de Diego Brandán. El recambio recupera figuras de la administración anterior y modifica la interlocución provincial en un momento decisivo para la discusión sobre el futuro del langostino."
-  },
-  {
-    "fecha": "2026-11-06",
-    "titulo": "El CFP asignó cuotas de centolla a seis buques hasta 2041",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/el-cfp-asigno-cuotas-de-centolla-a-seis-buques-hasta-2041/",
-    "resumen": "El régimen establece derechos de captura para quince temporadas, distribuidos entre tres grupos empresarios y sujetos a condiciones de explotación. Buenos Aires votó en contra y Santa Cruz se abstuvo por objeciones vinculadas con las competencias provinciales."
   },
   {
     "fecha": "2026-11-06",
