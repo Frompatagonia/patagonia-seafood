@@ -548,8 +548,8 @@
     }
   },
   "lastNewsPostDate": "2026-11-17T23:16:30.279Z",
-  "lastProductPostDate": "2026-11-14T19:38:28.308Z",
-  "lastProductKey": "variado",
+  "lastProductPostDate": "2026-11-18T14:53:16.791Z",
+  "lastProductKey": "elaborados",
   "recipe": {
     "dayKey": "2026-11-17",
     "mealId": "53349",
@@ -625,5 +625,5 @@
     "lastPostDate": "2026-11-11T01:38:29.623Z",
     "lastKey": "salmuera"
   },
-  "updatedAt": "2026-11-18T05:22:44.322Z"
+  "updatedAt": "2026-11-18T14:53:16.791Z"
 }
