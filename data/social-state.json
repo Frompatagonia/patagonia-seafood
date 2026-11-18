@@ -545,9 +545,22 @@
         "id": "17874455970648399",
         "at": "2026-11-17T23:16:30.279Z"
       }
+    },
+    "https://pescare.com.ar/cultivar-el-mar-la-primera-granja-de-algas-de-argentina-busca-dar-el-salto-productivo/": {
+      "title": "Cultivar el mar: la primera granja de algas de Argentina busca dar el salto productivo",
+      "date": "2026-11-18",
+      "url": "https://pescare.com.ar/cultivar-el-mar-la-primera-granja-de-algas-de-argentina-busca-dar-el-salto-productivo/",
+      "facebook": {
+        "id": "1208224315713852_122135551497420852",
+        "at": "2026-11-18T22:26:33.740Z"
+      },
+      "instagram": {
+        "id": "17956893471287956",
+        "at": "2026-11-18T22:26:47.380Z"
+      }
     }
   },
-  "lastNewsPostDate": "2026-11-17T23:16:30.279Z",
+  "lastNewsPostDate": "2026-11-18T22:26:47.380Z",
   "lastProductPostDate": "2026-11-18T14:53:16.791Z",
   "lastProductKey": "elaborados",
   "recipe": {
@@ -625,5 +638,5 @@
     "lastPostDate": "2026-11-11T01:38:29.623Z",
     "lastKey": "salmuera"
   },
-  "updatedAt": "2026-11-18T14:53:16.791Z"
+  "updatedAt": "2026-11-18T22:26:47.380Z"
 }
