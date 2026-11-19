@@ -18,7 +18,7 @@
     "titulo": "Ingreso de Buques a Puerto de Mar del Plata",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/ingreso-de-buques-a-puerto/",
-    "resumen": "Buques programados: BP ROCIO DEL MAR - 13:30 | BP NONO PASCUAL - 14:30 | BP ACRUX - 15:30 | BP EL MARISCO I - 16:30 | BP SANT´ANTONIO - 17:00 | BP ANDRES JORGE - 17:30 | BP CALLEJA - 23:00. Actualización: 18.NOV.2026 12:40 HS."
+    "resumen": "Buques programados: BP DON NICOLA - 16:30 | BP EL MARISCO I - 16:30 | BP SANT´ANTONIO - 17:00 | BP ANDRES JORGE - 17:30. Actualización: 18.NOV.2026 16:40 HS."
   },
   {
     "fecha": "2026-11-18",
@@ -54,6 +54,13 @@
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/mar-del-plata-reune-al-consejo-portuario-argentino-en-la-primera-jornada-de-einaval-2026/",
     "resumen": "La recorrida que encabeza Marcos Gutiérrez comienza en SPI Astilleros y continúa por las terminales 2 y 3, donde las delegaciones tienen previsto conocer la operatoria de los muelles y los proyectos de inversión del puerto."
+  },
+  {
+    "fecha": "2026-11-18",
+    "titulo": "UDIPA respondió a Sturzenegger por llamar “casta” a la pesca",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/udipa-respondio-a-sturzenegger-por-llamar-casta-a-la-pesca/",
+    "resumen": "La entidad defendió a las familias pioneras de Mar del Plata e invitó al ministro a discutir cómo agregar valor a las exportaciones pesqueras."
   },
   {
     "fecha": "2026-11-18",
@@ -124,6 +131,41 @@
     "fuente": "SeafoodSource News",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUjRjRU52V1d6QmdIWDBzLUlHN2ZBY1I2QTd1TkpOQnNYeldTWVVtdjVxMktzSU5aR2tUa0EwcWlYLVFKRTlqTHJCaFctOGJwRE5ZbmFsM1ZYRnUwNlR5bGF3WHYyRGpKM0U0cFk1T3dpb3VBMlBkcW9MaXhsZkUtdUtMdzhHaE4yVVhXTXpSbFZXQkpJR0JyR1Z2NEI3UUJ3NUNDNGhXZENYaFhaRmJKMW9OcVZmdFNZUjlXOFRR?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPUjRjRU52V1d6QmdIWDBzLUlHN2ZBY1I2QTd1TkpOQnNYeldTWVVtdjVxMktzSU5aR2tUa0EwcWlYLVFKRTlqTHJCaFctOGJwRE5ZbmFsM1ZYRnUwNlR5bGF3WHYyRGpKM0U0cFk1T3dpb3VBMlBkcW9MaXhsZkUtdUtMdzhHaE4yVVhXTXpSbFZXQkpJR0JyR1Z2NEI3UUJ3NUNDNGhXZENYaFhaRmJKMW9OcVZmdFNZUjlXOFRR?oc=5\" target=\"_blank\">Måsøval bumps up full-year salmon harvest projection again after strong Q3 performance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-18",
+    "titulo": "Canadian sea cucumber harvesters welcome new trade deal with China",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNWdvSjY1aDBuSlZmQmJEdWpNQ3dpS1hOT1QwZHhYYXRkRklEclBaSTR4QlRfdFM0SlV5SmNYblBPMzl4dmRiVUtOWll0QnNtU1hnRjBlSDNtYzVzb1JNZVVSV3V5bzNKLWtFTzZjWUo0ODdOZUwyeHZaa3YtWDZtcmhFelp5Q20zUE1pZ1JDNzJZajJTclBFaEhuMHZuSjU4by0w?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNNWdvSjY1aDBuSlZmQmJEdWpNQ3dpS1hOT1QwZHhYYXRkRklEclBaSTR4QlRfdFM0SlV5SmNYblBPMzl4dmRiVUtOWll0QnNtU1hnRjBlSDNtYzVzb1JNZVVSV3V5bzNKLWtFTzZjWUo0ODdOZUwyeHZaa3YtWDZtcmhFelp5Q20zUE1pZ1JDNzJZajJTclBFaEhuMHZuSjU4by0w?oc=5\" target=\"_blank\">Canadian sea cucumber harvesters welcome new trade deal with China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-18",
+    "titulo": "Florida law enforcement turns away unlabeled, warm seafood shipments",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYXNtUG1FZVBXcnVHX2kxRnRwU0t6cFZnRnlzY1JYQ1Byd3FSdkhqWjVhS1lJTjg0SDN2bmw0bGE1dThYZHRhVUpEbHNlZWRhUUZBRXJ0bV9WVXdEZFFEYk43aTZ3emhpTnpRVVVMZmJ2QWRKTnZ3Z2N5NlJHRElCcURaWFBORnFNUWhmTzV4QnIybERBMDIwMXNxOFZwdEFuWWY1MA?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPYXNtUG1FZVBXcnVHX2kxRnRwU0t6cFZnRnlzY1JYQ1Byd3FSdkhqWjVhS1lJTjg0SDN2bmw0bGE1dThYZHRhVUpEbHNlZWRhUUZBRXJ0bV9WVXdEZFFEYk43aTZ3emhpTnpRVVVMZmJ2QWRKTnZ3Z2N5NlJHRElCcURaWFBORnFNUWhmTzV4QnIybERBMDIwMXNxOFZwdEFuWWY1MA?oc=5\" target=\"_blank\">Florida law enforcement turns away unlabeled, warm seafood shipments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-18",
+    "titulo": "Vietnamese shrimp exporters adjusting product strategies, farming practices to ensure medium-term sales growth",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSTJTclRRanN4WG9uMUhuQzFaSjhWVjlyWEZCdmhUaEQ5N0RvRG1CSEd5VjYtMUoyY1FlcllxMFZhakZJSEt6NGJxT1Q4SUFMQWozTjFKbmpPdllSU2xWby1zTGRVdE42WTlabDIydkV4WnJXWDNKOVhNQ3ZwdEVRRFEzb3Z2Q0VuRWN5a0tiQjlvX1VXNGdmNDhuV1NSWklqWi03SDdUYWlUWmRCUEdfbldwUm5QTlBZQ3NxbFp1bHZhdmRlOFdham5fUWg5LVB3VGZ6VnB0OWEzZ3Nj?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSTJTclRRanN4WG9uMUhuQzFaSjhWVjlyWEZCdmhUaEQ5N0RvRG1CSEd5VjYtMUoyY1FlcllxMFZhakZJSEt6NGJxT1Q4SUFMQWozTjFKbmpPdllSU2xWby1zTGRVdE42WTlabDIydkV4WnJXWDNKOVhNQ3ZwdEVRRFEzb3Z2Q0VuRWN5a0tiQjlvX1VXNGdmNDhuV1NSWklqWi03SDdUYWlUWmRCUEdfbldwUm5QTlBZQ3NxbFp1bHZhdmRlOFdham5fUWg5LVB3VGZ6VnB0OWEzZ3Nj?oc=5\" target=\"_blank\">Vietnamese shrimp exporters adjusting product strategies, farming practices to ensure medium-term sales growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-18",
+    "titulo": "Finnish food tech firm Hailia poised to capitalize on skyrocketing protein demand, 100 percent fish momentum",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcU84NkZaY0NLOWl4NEZLdUxHLWlaWVcxazdXVVhfQTVDSHA0MG4yaGNhUzNvLUJrXzEwTm9xTkxxZ1FYOFRmNUY5Sl9xVlFycHJJOUpZcVVKejhKOGtwSGpKbFB5S3dzb2dtemxOeW16NVJnS2llSFlJVngzMVpoOXhtallpdk01ZUdHN3lwTEpGNUJjbDVXcV9OcEZtTDFoWTNTYzk2ZEt0Z2xBRmJtcFdOLUNKVkdITWUzRk4tRVY4Y192RjluQzh6NVF1TWJsb0daVEZGN2lJUQ?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcU84NkZaY0NLOWl4NEZLdUxHLWlaWVcxazdXVVhfQTVDSHA0MG4yaGNhUzNvLUJrXzEwTm9xTkxxZ1FYOFRmNUY5Sl9xVlFycHJJOUpZcVVKejhKOGtwSGpKbFB5S3dzb2dtemxOeW16NVJnS2llSFlJVngzMVpoOXhtallpdk01ZUdHN3lwTEpGNUJjbDVXcV9OcEZtTDFoWTNTYzk2ZEt0Z2xBRmJtcFdOLUNKVkdITWUzRk4tRVY4Y192RjluQzh6NVF1TWJsb0daVEZGN2lJUQ?oc=5\" target=\"_blank\">Finnish food tech firm Hailia poised to capitalize on skyrocketing protein demand, 100 percent fish momentum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-18",
+    "titulo": "Pricing Analysis: US importing more fresh whole salmon from Norway in 2026 despite tariffs",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORWsxNENqQmdBRWJwWXc1S1p2MXdLcEZaSURIZWtsUzA2djU3RXhDZmE5MGt1c21XQlVrWHBkVXBDbm5VLU54VmNHQzRXaXNoNXFVczlqb3FCTU9sejRIWGI3X2NoRjdJcEpTYUVUSFZ6TG5jb3BZeEp6VGxfXzZ0UW9FeEtyRzlvQTlacWs2OGRPMzVDOElBTVlSMVNCS3Y2YWdpSWI1ZkpEdEVGa0pEVUR0MEpBSjg?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxORWsxNENqQmdBRWJwWXc1S1p2MXdLcEZaSURIZWtsUzA2djU3RXhDZmE5MGt1c21XQlVrWHBkVXBDbm5VLU54VmNHQzRXaXNoNXFVczlqb3FCTU9sejRIWGI3X2NoRjdJcEpTYUVUSFZ6TG5jb3BZeEp6VGxfXzZ0UW9FeEtyRzlvQTlacWs2OGRPMzVDOElBTVlSMVNCS3Y2YWdpSWI1ZkpEdEVGa0pEVUR0MEpBSjg?oc=5\" target=\"_blank\">Pricing Analysis: US importing more fresh whole salmon from Norway in 2026 despite tariffs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
     "fecha": "2026-11-17",
@@ -243,6 +285,13 @@
     "fuente": "SeafoodSource News",
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMm5QaGswYTVaUDVBSmJjcEREWjRRcUlGUzNsT0prN21KdWI2djhoMGxoSW9OSnNDYWR5TnUzakFEM0xWN3QzVHozWUlvQ0EtSndPXzVvbGVkekRwZTlrbU1CV2Q2aGFjZWxBTjl5ODZCYkpGbDB1a01nbGI5NkpzNkdaTTk0dWJDUkkwNU1LUndXalU3RFdoeU8zaHVGMWdCNE5DWngyM2xpVEpMdnVlX09qSEdSYXJCS3h1M3NRWV9qZGI5RHlFamRMV09VQ3d0bXFyRHg4Nks?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMm5QaGswYTVaUDVBSmJjcEREWjRRcUlGUzNsT0prN21KdWI2djhoMGxoSW9OSnNDYWR5TnUzakFEM0xWN3QzVHozWUlvQ0EtSndPXzVvbGVkekRwZTlrbU1CV2Q2aGFjZWxBTjl5ODZCYkpGbDB1a01nbGI5NkpzNkdaTTk0dWJDUkkwNU1LUndXalU3RFdoeU8zaHVGMWdCNE5DWngyM2xpVEpMdnVlX09qSEdSYXJCS3h1M3NRWV9qZGI5RHlFamRMV09VQ3d0bXFyRHg4Nks?oc=5\" target=\"_blank\">University researchers dispersing hardier oyster seeds across Texas coastline to withstand low-salinity conditions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-17",
+    "titulo": "Unlocking Actionable Insights: Smarter Seafood Analytics with SFP's Seafood Metrics",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYTFxc2ZBLXlrdmFlUy1KbXpXV3kweDVUcUM0SUpjcUtRck1UNWlabC1yb3VIZm1aTXBqMGw0NlJpSTc2c0ctbXNVSXByNnFNNmdnNzVSTUVKdkJ2WVNBZmtucGctR21TajFlWGFHVEx2QWpaQmd0NF9KMU15MkEwRjROQW9QY0kwcGxZb2tuaFgzT1poUGJ5cXY4RkExOU90b3UtRnM1bzc5STR5RVUwWXk4NXRtT0xENV90RE9R?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPYTFxc2ZBLXlrdmFlUy1KbXpXV3kweDVUcUM0SUpjcUtRck1UNWlabC1yb3VIZm1aTXBqMGw0NlJpSTc2c0ctbXNVSXByNnFNNmdnNzVSTUVKdkJ2WVNBZmtucGctR21TajFlWGFHVEx2QWpaQmd0NF9KMU15MkEwRjROQW9QY0kwcGxZb2tuaFgzT1poUGJ5cXY4RkExOU90b3UtRnM1bzc5STR5RVUwWXk4NXRtT0xENV90RE9R?oc=5\" target=\"_blank\">Unlocking Actionable Insights: Smarter Seafood Analytics with SFP's Seafood Metrics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
     "fecha": "2026-11-16",
@@ -525,20 +574,6 @@
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxObVhOU1g2cFJXanBscE5fcGJYVlpEQ2Nzd1VlQmFwYmx5cVIyRllWUkFlcG9mZnlyMmtseU9zNWlyMTdOLTU3NmxWMllsVHlqZWFTanZIM0hyYzAwQnVKbjZOWlJlRTRnVkVub2lYc3pIUjFnaFZ0SmttWWhKUlVLTV9WcDJUZ2laTDJuZ0NKUmxoNDBxb3dydmliNlJGWHpTMTIwdzl0bGVfajVfdVZPWmZFU2xKdDNodVhUZGxZZjZCNFg4czc2dnFMQTlDM1U?oc=5\" target=\"_blank\">Mountain Dog Founder Kevin Thompson aims to support healthy, active lifestyles for pets through salmon treat business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
-    "fecha": "2026-11-13",
-    "titulo": "UK to require pelagic trawlers to carry cameras and GPS devices for electronic monitoring",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNa210MU1lNWxvVnRDYk5aeGFiMXYxQ09kSEU2M2xGNHdOSzNNS2FITGEwalJwdW1zZndreGNyREpwSVBTME0tLW9GM0hhU1lfUDNhTVdzdF9PbVJMNG81dXkwX0xJUWgyTVczV3J4TDRtejAtNndDNW5TWGZFNW5mRUZNc3lZQWpuR1ZkY2ZDSXhfaWUyVWhwbnZTTVZCam9EeU5PRXNndVRZeFhVcjJrZDRqWFFiN2NXanZqZktaYXFCQQ?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNa210MU1lNWxvVnRDYk5aeGFiMXYxQ09kSEU2M2xGNHdOSzNNS2FITGEwalJwdW1zZndreGNyREpwSVBTME0tLW9GM0hhU1lfUDNhTVdzdF9PbVJMNG81dXkwX0xJUWgyTVczV3J4TDRtejAtNndDNW5TWGZFNW5mRUZNc3lZQWpuR1ZkY2ZDSXhfaWUyVWhwbnZTTVZCam9EeU5PRXNndVRZeFhVcjJrZDRqWFFiN2NXanZqZktaYXFCQQ?oc=5\" target=\"_blank\">UK to require pelagic trawlers to carry cameras and GPS devices for electronic monitoring</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-11-13",
-    "titulo": "Shareholders reject Saudi Fisheries’ plan to raise nearly USD 90 million in capital",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQlRwV1N1bXljNzFfeEM5MDdYaFhDYTdsLUM2V2ptZWxmM1hfNWhsNzBQbEF1TnQ3cGh3Q01xTEhfX1dDZWJJM3FqWlRDNnJjTm14WVZpdDc1cDE1MkNEbjJsVnVOZ2tGYTdLTGNrNVJOazh3SC0wdV8zU081cGZaSXhUVWhUS29kcFRaZ2gyU0pxMDdDQTM2UWJ1Vy1mS0Z0V243SGk0N0g2UHgyOHFPMHRvQU9yMWFi?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQlRwV1N1bXljNzFfeEM5MDdYaFhDYTdsLUM2V2ptZWxmM1hfNWhsNzBQbEF1TnQ3cGh3Q01xTEhfX1dDZWJJM3FqWlRDNnJjTm14WVZpdDc1cDE1MkNEbjJsVnVOZ2tGYTdLTGNrNVJOazh3SC0wdV8zU081cGZaSXhUVWhUS29kcFRaZ2gyU0pxMDdDQTM2UWJ1Vy1mS0Z0V243SGk0N0g2UHgyOHFPMHRvQU9yMWFi?oc=5\" target=\"_blank\">Shareholders reject Saudi Fisheries’ plan to raise nearly USD 90 million in capital</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
     "fecha": "2026-11-12",
     "titulo": "Prefectura reincorporó dos aeronaves modernizadas para reforzar la vigilancia marítima",
     "fuente": "Pescare",
@@ -593,34 +628,6 @@
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/11/centolla-el-cfp-aprobo-un-programa-de-pesca-experimental-propuesto-por-tierra-del-fuego/",
     "resumen": "Según el representante provincial, la iniciativa complementa el régimen de cuotificación de la especie y apunta a conocer el potencial pesquero de Península Mitre, Isla de los Estados y el Canal Beagle. Salió por mayoría, con el voto negativo de Buenos Aires."
-  },
-  {
-    "fecha": "2026-11-12",
-    "titulo": "Scottish Sea Farms opens “Scotland’s biggest salmon farm” with launch of Billy Baa operations in Shetland",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQnRMVkc4TXpycnEweUxPNXJyMDhMQ1FoMVN5c0s5OXl3UVdiOGhORWtSOXJNVHNPa0YwWVRMQkFYVlcwMXJzV21rekJjc2djSlNrdHVVcnhkd08zT2FfSUZ1U2EtcHJpT2s4TG9rZS1hb3dSUXhjQ2FKSktnd3pWYzU5eVdYMUwwUUpET2c3WG9td1BNbFlreUZkV21KQXhaTmFrTlMxWEFmT2hIR3V6U1NfcHBJak1RdTNfOXBLS3Z0S0E5bXJycURUYnVPT1hNUFZvSQ?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQnRMVkc4TXpycnEweUxPNXJyMDhMQ1FoMVN5c0s5OXl3UVdiOGhORWtSOXJNVHNPa0YwWVRMQkFYVlcwMXJzV21rekJjc2djSlNrdHVVcnhkd08zT2FfSUZ1U2EtcHJpT2s4TG9rZS1hb3dSUXhjQ2FKSktnd3pWYzU5eVdYMUwwUUpET2c3WG9td1BNbFlreUZkV21KQXhaTmFrTlMxWEFmT2hIR3V6U1NfcHBJak1RdTNfOXBLS3Z0S0E5bXJycURUYnVPT1hNUFZvSQ?oc=5\" target=\"_blank\">Scottish Sea Farms opens “Scotland’s biggest salmon farm” with launch of Billy Baa operations in Shetland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-11-12",
-    "titulo": "Economist Tara Sinclair announced as keynote speaker for 2027 Seafood Expo North America",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTDZKTkVTYndXakhDTW41c3VPNDNraktjVnFnLUo4ZE1mZzdXa2dfaTdIakVqWkM4Vjg0YjVjaDA5dmlHWFFBc0VJVHpjZGhfd1NWcEI0OG5jZzAzaFZTZW45Vl9TVDhSc09CNWN6eGhuNEVTdENLN2Z3MkZhbHZ2aHcyNUp5UjBUbEM0MUtIWWg1dnRlNk1DWGZWcmgxSEk5bWpRSjFCMy1qZ0I1REhocFNIWE9SU0tVb3NKYlVlSWc?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTDZKTkVTYndXakhDTW41c3VPNDNraktjVnFnLUo4ZE1mZzdXa2dfaTdIakVqWkM4Vjg0YjVjaDA5dmlHWFFBc0VJVHpjZGhfd1NWcEI0OG5jZzAzaFZTZW45Vl9TVDhSc09CNWN6eGhuNEVTdENLN2Z3MkZhbHZ2aHcyNUp5UjBUbEM0MUtIWWg1dnRlNk1DWGZWcmgxSEk5bWpRSjFCMy1qZ0I1REhocFNIWE9SU0tVb3NKYlVlSWc?oc=5\" target=\"_blank\">Economist Tara Sinclair announced as keynote speaker for 2027 Seafood Expo North America</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-11-12",
-    "titulo": "Michael-Ann Rowe sets out to break down seafood consumption barriers through “Fishionista” social media show",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONmFxWWZxN1o4cGt0eWhCV1ZOcXJvNy1DUGJNYXdSMXBMTjBBck5NZmlHdW5UN2FXMXdxeDBZWVRUOEFtRlc3SnhKX3dHQXFtSEl5WTg4S1VCR2xmZkhMNVBfb09panB3QVJLYmxQMUw3MDIteUQ0REp5Qnl3R2J6OU5UUEVhN1drUDJkU0EzN21zVVRjWFhXM084REhaLVV4dWt5LXpkNmpwVDJkRHhZZXZfRVFyM3QtbThWV0IxRkQtdll6SW9FbzduNUlKQjRndGc3SmVJejk?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxONmFxWWZxN1o4cGt0eWhCV1ZOcXJvNy1DUGJNYXdSMXBMTjBBck5NZmlHdW5UN2FXMXdxeDBZWVRUOEFtRlc3SnhKX3dHQXFtSEl5WTg4S1VCR2xmZkhMNVBfb09panB3QVJLYmxQMUw3MDIteUQ0REp5Qnl3R2J6OU5UUEVhN1drUDJkU0EzN21zVVRjWFhXM084REhaLVV4dWt5LXpkNmpwVDJkRHhZZXZfRVFyM3QtbThWV0IxRkQtdll6SW9FbzduNUlKQjRndGc3SmVJejk?oc=5\" target=\"_blank\">Michael-Ann Rowe sets out to break down seafood consumption barriers through “Fishionista” social media show</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-11-12",
-    "titulo": "Canada continues investment in Atlantic salmon conservation with CAD 10 million grant",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLXFteHFQalNPd0N5ZGNjLWlXOVZJNUhWNTc2al9jRXVycjNySmFob0ZGS3RMWGNTN2NKVkZJWUV1bjI3RUNTTUJiNk9TcjhwU3poLTdkdlc3ck5fdy1SelBfWGtwdFFnZlJrMzBJZTR0cDFrT3VLQUtLVkpnaW5PV0F5eXIyLTczdGZ5b1BoVzd2MXZkZ1hHVmNqM2xxUDRSMkE1OWVocDVQTXZfNWZWMFdURU42UWtqcEdaUA?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPLXFteHFQalNPd0N5ZGNjLWlXOVZJNUhWNTc2al9jRXVycjNySmFob0ZGS3RMWGNTN2NKVkZJWUV1bjI3RUNTTUJiNk9TcjhwU3poLTdkdlc3ck5fdy1SelBfWGtwdFFnZlJrMzBJZTR0cDFrT3VLQUtLVkpnaW5PV0F5eXIyLTczdGZ5b1BoVzd2MXZkZ1hHVmNqM2xxUDRSMkE1OWVocDVQTXZfNWZWMFdURU42UWtqcEdaUA?oc=5\" target=\"_blank\">Canada continues investment in Atlantic salmon conservation with CAD 10 million grant</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
     "fecha": "2026-11-11",
@@ -733,13 +740,6 @@
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/pesqueras-argentinas-cerraron-ventas-por-mas-de-usd-9-millones-en-paris/",
     "resumen": "La ronda reunió a 14 empresas nacionales con compradores franceses y dejó 47 oportunidades comerciales adicionales. El langostino y la vieira patagónica integraron la oferta presentada para ampliar los canales de distribución de los productos argentinos en ese mercado."
-  },
-  {
-    "fecha": "2026-11-09",
-    "titulo": "Álvarez Castellano y su copiloto salieron ilesos de un fuerte vuelco en Dubái",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/alvarez-castellano-y-su-copiloto-salieron-ilesos-de-un-fuerte-vuelco-en-dubai/",
-    "resumen": "El presidente de Conarpesa Argentina resultó ileso junto a su coequiper tras un espectacular vuelco en el Rally de Dubai."
   },
   {
     "fecha": "2026-11-09",
