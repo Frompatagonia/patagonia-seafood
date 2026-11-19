@@ -1,31 +1,52 @@
 [
   {
-    "fecha": "2026-11-18",
+    "fecha": "2026-11-19",
     "titulo": "Monitoreo Satelital de Buques Pesqueros",
     "fuente": "MAGyP",
     "url": "https://www.magyp.gob.ar/sitio/areas/pesca_maritima/monitoreo/",
     "resumen": "Monitoreo oficial de buques reportando al sistema. Áreas: Zona Rinc&oacute;n (Res. CFP N&ordm; 27/2009 y posteriores)."
   },
   {
-    "fecha": "2026-11-18",
+    "fecha": "2026-11-19",
     "titulo": "Desembarques de Capturas Marítimas (2026)",
     "fuente": "MAGyP",
     "url": "https://www.magyp.gob.ar/sitio/areas/pesca_maritima/desembarques/",
     "resumen": "Estadísticas oficiales de desembarques por especie, flota y puerto. Datos disponibles: 2026, 2025, 2024, 2023, 2022, 2021, 2020."
   },
   {
-    "fecha": "2026-11-18",
+    "fecha": "2026-11-19",
     "titulo": "Ingreso de Buques a Puerto de Mar del Plata",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/ingreso-de-buques-a-puerto/",
-    "resumen": "Buques programados: BP DON NICOLA - 16:30 | BP EL MARISCO I - 16:30 | BP SANT´ANTONIO - 17:00 | BP ANDRES JORGE - 17:30. Actualización: 18.NOV.2026 16:40 HS."
+    "resumen": "Buques programados: BP JOSE MARCELO - 10:00 | BP GALEMAR - 18:30 | BP ANTONINO - 19:00. Actualización: 19.NOV.2026 06:40 HS."
   },
   {
-    "fecha": "2026-11-18",
+    "fecha": "2026-11-19",
     "titulo": "Buques Operando en ZEE Argentina",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/buques-operando/",
     "resumen": "Mapa interactivo de buques reportando al sistema. Áreas: Zona Común de Pesca (ARG-URU) / Zona de Veda Permanente de Juveniles de Merluza."
+  },
+  {
+    "fecha": "2026-11-19",
+    "titulo": "Los gremios marítimos endurecen su rechazo a la apertura del cabotaje y advierten sobre posibles medidas",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/los-gremios-maritimos-endurecen-su-rechazo-a-la-apertura-del-cabotaje-y-advierten-sobre-posibles-medidas/",
+    "resumen": "La Federación Sindical Marítima y Fluvial rechazó el dictamen de mayoría que se debate en el Senado y aseguró que sus propuestas de modificación no fueron atendidas. Los gremios anticiparon acciones en defensa de la Marina Mercante Nacional y los puestos de trabajo."
+  },
+  {
+    "fecha": "2026-11-19",
+    "titulo": "Nueva Pescanova launches new AI platform to optimize processes",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMXdtSUpDOXZNR2NiNE12dlBXNVZwTHg4aG1Yb1Q5Xy12Wi12THBwMm9VWGRRYXRmODltYmswaFhNT3ljeTA2YWNTTkVnLVdvQzR1TEx4R2Z1aEZwTzFFRUE3c1gwMU01d2YxNVZqcUpWc3ZGTXVZdkI2R3pnUWJQOVZVVGlqWXUteFlKOFg5WG5kTmJ1LUVFdERKTXI0dw?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQMXdtSUpDOXZNR2NiNE12dlBXNVZwTHg4aG1Yb1Q5Xy12Wi12THBwMm9VWGRRYXRmODltYmswaFhNT3ljeTA2YWNTTkVnLVdvQzR1TEx4R2Z1aEZwTzFFRUE3c1gwMU01d2YxNVZqcUpWc3ZGTXVZdkI2R3pnUWJQOVZVVGlqWXUteFlKOFg5WG5kTmJ1LUVFdERKTXI0dw?oc=5\" target=\"_blank\">Nueva Pescanova launches new AI platform to optimize processes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-19",
+    "titulo": "US Senate committee advances aquaculture permitting bill",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVkZEckFHejVOV3NGaFZJenRxWnJmazNYN2VSQXRfdnF3RVU1VXE4VkJVQnUxYVA1c0xpdi1xNDJyVEN4dzBmYlhHWTlhaHh1cHRPbVNOZ0ticTQxbmwxNEs1a3JVOVJOVXNRZ0doUFJCUzcwVFBxUFB3TU5HOG04Mm9KcEx1RnVURFhUbEVXdDBtRW9MNXc?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPVkZEckFHejVOV3NGaFZJenRxWnJmazNYN2VSQXRfdnF3RVU1VXE4VkJVQnUxYVA1c0xpdi1xNDJyVEN4dzBmYlhHWTlhaHh1cHRPbVNOZ0ticTQxbmwxNEs1a3JVOVJOVXNRZ0doUFJCUzcwVFBxUFB3TU5HOG04Mm9KcEx1RnVURFhUbEVXdDBtRW9MNXc?oc=5\" target=\"_blank\">US Senate committee advances aquaculture permitting bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
     "fecha": "2026-11-18",
@@ -61,6 +82,13 @@
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/udipa-respondio-a-sturzenegger-por-llamar-casta-a-la-pesca/",
     "resumen": "La entidad defendió a las familias pioneras de Mar del Plata e invitó al ministro a discutir cómo agregar valor a las exportaciones pesqueras."
+  },
+  {
+    "fecha": "2026-11-18",
+    "titulo": "El puerto despide a Juan Taranto",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/el-puerto-despide-a-juan-taranto-yuane/",
+    "resumen": "Tenía 76 años y era capitán y armador del Marbella. En el Espigón 1 lo recuerdan como aquella tarde de agosto, con el bolso rojo al hombro y apenas unas palabras antes de embarcar. “Me voy a buscar anchoíta”."
   },
   {
     "fecha": "2026-11-18",
@@ -166,6 +194,13 @@
     "fuente": "SeafoodSource News",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORWsxNENqQmdBRWJwWXc1S1p2MXdLcEZaSURIZWtsUzA2djU3RXhDZmE5MGt1c21XQlVrWHBkVXBDbm5VLU54VmNHQzRXaXNoNXFVczlqb3FCTU9sejRIWGI3X2NoRjdJcEpTYUVUSFZ6TG5jb3BZeEp6VGxfXzZ0UW9FeEtyRzlvQTlacWs2OGRPMzVDOElBTVlSMVNCS3Y2YWdpSWI1ZkpEdEVGa0pEVUR0MEpBSjg?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxORWsxNENqQmdBRWJwWXc1S1p2MXdLcEZaSURIZWtsUzA2djU3RXhDZmE5MGt1c21XQlVrWHBkVXBDbm5VLU54VmNHQzRXaXNoNXFVczlqb3FCTU9sejRIWGI3X2NoRjdJcEpTYUVUSFZ6TG5jb3BZeEp6VGxfXzZ0UW9FeEtyRzlvQTlacWs2OGRPMzVDOElBTVlSMVNCS3Y2YWdpSWI1ZkpEdEVGa0pEVUR0MEpBSjg?oc=5\" target=\"_blank\">Pricing Analysis: US importing more fresh whole salmon from Norway in 2026 despite tariffs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-18",
+    "titulo": "Canadian government needs to commit to improving Atlantic fisheries monitoring, environmental nonprofit report stresses",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQN0ZQeTkyQkFEZWtwTjdnbzVDQkkyWEZIR1FvazI4TWozQXlJbFVHc2NhTUJPR2pGenBBYXhFWm1vUjdxalhMaFl3cjBSZmVZWnB0VVFSTi1iQmhObVN1ZUxNaTFRTjEzYjAtMVBTbDd5LTlVcUloWVQtQ2hqOEVZMGZ4SmxPcEE5Unk4ZUNYUjFDak9aU0ZJTzIyaVI4bkxmeU1TUkNTLWtXeW8zeW1VNU5KV0FBVldTSmctdHRGM1RGWHB0QTBLYzQxTGhvcWhaTkhCNXFxeWtzQkcycmE0UDNCNVNoaGhs?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQN0ZQeTkyQkFEZWtwTjdnbzVDQkkyWEZIR1FvazI4TWozQXlJbFVHc2NhTUJPR2pGenBBYXhFWm1vUjdxalhMaFl3cjBSZmVZWnB0VVFSTi1iQmhObVN1ZUxNaTFRTjEzYjAtMVBTbDd5LTlVcUloWVQtQ2hqOEVZMGZ4SmxPcEE5Unk4ZUNYUjFDak9aU0ZJTzIyaVI4bkxmeU1TUkNTLWtXeW8zeW1VNU5KV0FBVldTSmctdHRGM1RGWHB0QTBLYzQxTGhvcWhaTkhCNXFxeWtzQkcycmE0UDNCNVNoaGhs?oc=5\" target=\"_blank\">Canadian government needs to commit to improving Atlantic fisheries monitoring, environmental nonprofit report stresses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
     "fecha": "2026-11-17",
@@ -553,27 +588,6 @@
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQclZ2Mm4xOGVjbXJTbFp4NTdJbnA1SE1uVUw1ZzFMMXRFRDcxV3BCcHZ2Q0ttTEl1YW02Z0JrN3pSbkU5SXJsWHVwQUl5SDU5NnBDMmU1UmpNbmQyWVFVMXJqU0ZIZ0kzbjFFZDRFenkza0d5MUItNjBDYm5qVmczaUhvMU0xWndQc2xNTm1ZSTVHOGtQYTlaZEt4eWtVX2VVamdKdFhDOTFSTE5zelh2aXhQdWJzZXZJeU5OTE9QT3lEMjl0MktzYjlB?oc=5\" target=\"_blank\">Grieg Seafood reports Q3 loss following algal event, stresses continued need to drive down costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
-    "fecha": "2026-11-13",
-    "titulo": "European governments reach agreement on fisheries statistics framework",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1R1R2o2RTV3NVdzZTNoVTFCNERSSHRRYm9MNXMwN1FmMkU5c2lBVFJrSFhGUU9uMGdaNFdhaGROV0xnM1JMTjhkZDJlRnhMYmxQVlB0a05RczJZRXFFM0RWSHJWTVVPQVVUU2d5dEx1aWZUSlZSRXpReUF1OGs4WU9hUnJxT1JEek1fRXdWRWJVUHdESGduQmhzVFQtS3Vvc1kyY0lzeTc?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1R1R2o2RTV3NVdzZTNoVTFCNERSSHRRYm9MNXMwN1FmMkU5c2lBVFJrSFhGUU9uMGdaNFdhaGROV0xnM1JMTjhkZDJlRnhMYmxQVlB0a05RczJZRXFFM0RWSHJWTVVPQVVUU2d5dEx1aWZUSlZSRXpReUF1OGs4WU9hUnJxT1JEek1fRXdWRWJVUHdESGduQmhzVFQtS3Vvc1kyY0lzeTc?oc=5\" target=\"_blank\">European governments reach agreement on fisheries statistics framework</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-11-13",
-    "titulo": "Pacific Seafood hires new senior director of Alaska operations; Tropo Farms CEO announces departure",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObGd1MVAwSDI2RWFPM1IyZDBXRmZxcy1WdDJTZFdkWGE5S1ZXbmlZYzVpekJFai1GU0hYallaWmVmU0R2dnFjNEozc2tOX0ZzR3R0TncwbUduMk04QlBUcmxtNHU3TnpJeS1LLTQycVJqOVZRM3dnXzlFRTZWSkgwU0JVa09lcnJQWk5rTXM2ajh5aUxFQV9sREswR2hqUkdyLTBMWTNXMGFUdW81Z290OVBKbzhobDZwUWJkc0NtdTFJZ2NRclZReV9nWFN1dw?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxObGd1MVAwSDI2RWFPM1IyZDBXRmZxcy1WdDJTZFdkWGE5S1ZXbmlZYzVpekJFai1GU0hYallaWmVmU0R2dnFjNEozc2tOX0ZzR3R0TncwbUduMk04QlBUcmxtNHU3TnpJeS1LLTQycVJqOVZRM3dnXzlFRTZWSkgwU0JVa09lcnJQWk5rTXM2ajh5aUxFQV9sREswR2hqUkdyLTBMWTNXMGFUdW81Z290OVBKbzhobDZwUWJkc0NtdTFJZ2NRclZReV9nWFN1dw?oc=5\" target=\"_blank\">Pacific Seafood hires new senior director of Alaska operations; Tropo Farms CEO announces departure</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-11-13",
-    "titulo": "Mountain Dog Founder Kevin Thompson aims to support healthy, active lifestyles for pets through salmon treat business",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObVhOU1g2cFJXanBscE5fcGJYVlpEQ2Nzd1VlQmFwYmx5cVIyRllWUkFlcG9mZnlyMmtseU9zNWlyMTdOLTU3NmxWMllsVHlqZWFTanZIM0hyYzAwQnVKbjZOWlJlRTRnVkVub2lYc3pIUjFnaFZ0SmttWWhKUlVLTV9WcDJUZ2laTDJuZ0NKUmxoNDBxb3dydmliNlJGWHpTMTIwdzl0bGVfajVfdVZPWmZFU2xKdDNodVhUZGxZZjZCNFg4czc2dnFMQTlDM1U?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxObVhOU1g2cFJXanBscE5fcGJYVlpEQ2Nzd1VlQmFwYmx5cVIyRllWUkFlcG9mZnlyMmtseU9zNWlyMTdOLTU3NmxWMllsVHlqZWFTanZIM0hyYzAwQnVKbjZOWlJlRTRnVkVub2lYc3pIUjFnaFZ0SmttWWhKUlVLTV9WcDJUZ2laTDJuZ0NKUmxoNDBxb3dydmliNlJGWHpTMTIwdzl0bGVfajVfdVZPWmZFU2xKdDNodVhUZGxZZjZCNFg4czc2dnFMQTlDM1U?oc=5\" target=\"_blank\">Mountain Dog Founder Kevin Thompson aims to support healthy, active lifestyles for pets through salmon treat business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
     "fecha": "2026-11-12",
     "titulo": "Prefectura reincorporó dos aeronaves modernizadas para reforzar la vigilancia marítima",
     "fuente": "Pescare",
@@ -726,20 +740,6 @@
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/el-coral-blanco-se-hundio-en-el-puerto-antes-de-su-traslado-al-parque-submarino-kiokko-rua/",
     "resumen": "Desde hace 7 meses se informó que sería trasladado para recrear el parque submarino Kiokko Rúa. La burocracia administrativa nuevamente hunde el avance hacia la eficiencia portuaria."
-  },
-  {
-    "fecha": "2026-11-09",
-    "titulo": "La pesca argentina creció 24% hasta septiembre y exportó más",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/la-pesca-argentina-crecio-24-hasta-septiembre-y-exporto-mas/",
-    "resumen": "Los crustáceos explicaron el retroceso interanual informado por el INDEC. El balance hasta el 30 de septiembre conserva una mejora sobre 2025, aunque el desempeño de las flotas muestra una diferencia marcada: los congeladores sostienen la expansión y los fresqueros acumulan una baja."
-  },
-  {
-    "fecha": "2026-11-09",
-    "titulo": "Pesqueras argentinas cerraron ventas por más de USD 9 millones en París",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/pesqueras-argentinas-cerraron-ventas-por-mas-de-usd-9-millones-en-paris/",
-    "resumen": "La ronda reunió a 14 empresas nacionales con compradores franceses y dejó 47 oportunidades comerciales adicionales. El langostino y la vieira patagónica integraron la oferta presentada para ampliar los canales de distribución de los productos argentinos en ese mercado."
   },
   {
     "fecha": "2026-11-09",
