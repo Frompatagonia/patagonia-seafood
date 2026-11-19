@@ -18,7 +18,7 @@
     "titulo": "Ingreso de Buques a Puerto de Mar del Plata",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/ingreso-de-buques-a-puerto/",
-    "resumen": "Buques programados: BP JOSE MARCELO - 10:00 | BP GALEMAR - 18:30 | BP ANTONINO - 19:00. Actualización: 19.NOV.2026 06:40 HS."
+    "resumen": "Buques programados: BP ANTONINO - 18:30 | BP GALEMAR - 19:30. Actualización: 19.NOV.2026 16:30 HS."
   },
   {
     "fecha": "2026-11-19",
@@ -36,6 +36,62 @@
   },
   {
     "fecha": "2026-11-19",
+    "titulo": "Prefectura evacuó en helicóptero a una pasajera del crucero AIDAsol frente a la costa bonaerense",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/prefectura-evacuo-en-helicoptero-a-una-pasajera-del-crucero-aidasol-frente-a-la-costa-bonaerense/",
+    "resumen": "La mujer, de 63 años, presentaba síntomas compatibles con un ACV. El buque se desvió hacia Mar del Plata y, a la altura de Arenas Verdes, cerca de Quequén, el registro de navegación lo ubicó a 19,3 nudos, con viento del sudoeste de casi 20 nudos."
+  },
+  {
+    "fecha": "2026-11-19",
+    "titulo": "Cambian los requisitos del sello Alimentos Argentinos para la merluza negra congelada a bordo",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/cambian-los-requisitos-del-sello-alimentos-argentinos-para-la-merluza-negra-congelada-a-bordo/",
+    "resumen": "La medida incorpora cambios en las condiciones de congelación, los controles de calidad y el envasado del producto. El nuevo protocolo busca adecuar las exigencias a la operatoria de los buques pesqueros y fortalecer la competitividad de la merluza negra argentina en los mercados internacionales."
+  },
+  {
+    "fecha": "2026-11-19",
+    "titulo": "EINAVAL 2026 abrió en Mar del Plata y hoy la pesca debate su competitividad",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/einaval-2026-abrio-en-mar-del-plata-y-hoy-la-pesca-debate-su-competitividad/",
+    "resumen": "La novena edición del Encuentro Internacional de la Industria Naval reúne hasta el viernes a empresarios, autoridades y especialistas nacionales e internacionales. Durante la apertura, los referentes del sector destacaron la necesidad de fortalecer la producción, incorporar tecnología y construir una agenda de desarrollo a largo plazo."
+  },
+  {
+    "fecha": "2026-11-19",
+    "titulo": "Trazabilidad pesquera: Suárez defendió el sistema vigente y Lerena pidió reformular los proyectos",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/11/trazabilidad-pesquera-suarez-defendio-el-sistema-vigente-y-lerena-pidio-reformular-los-proyectos/",
+    "resumen": "Ante la Comisión de Intereses Marítimos de Diputados, Julián Suárez sostuvo que el país ya certifica sus capturas en forma digital y César Lerena propuso que el SENASA unifique el régimen por decreto. El presidente de la comisión planteó cerrar la etapa informativa y acelerar el trámite."
+  },
+  {
+    "fecha": "2026-11-19",
+    "titulo": "A la espera del inicio de la temporada y la cuotificación",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/11/a-la-espera-del-inicio-de-la-temporada-y-la-cuotificacion/",
+    "resumen": "En Chubut toda la cadena productiva de la pesca aguarda el inicio de la zafra de aguas provinciales. El mal tiempo ha demorado la finalización de la prospección. El viernes la flota vuelve a zona de pesca. En el sector coinciden que un sistema de cuotas ordenaría mejor la pesquería."
+  },
+  {
+    "fecha": "2026-11-19",
+    "titulo": "SICONARA advirtió a Prefectura por personal extranjero que embarca en flota potera",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/11/siconara-advirtio-a-prefectura-por-personal-extranjero-que-embarca-en-flota-potera/",
+    "resumen": "Desde el Sindicato de Conductores Navales de la República Argentina elevaron una nota en que pidieron se regule el embarque de extranjeros que desarrolla tareas en sala de máquinas sin integrar la dotación de seguridad ni de explotación ni saber hablar castellano."
+  },
+  {
+    "fecha": "2026-11-19",
+    "titulo": "Desregulación del cabotaje: “Es una decisión política que tendrá responsables»",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/11/desregulacion-del-cabotaje-es-una-decision-politica-que-tendra-responsables/",
+    "resumen": "La Fe.Si.Ma.F. cuestionó el proyecto de mayoría que se debate en el Senado y aseguró que no cuenta con el respaldo de ninguno de los gremios que integran la Federación. Advirtió que la desregulación de la actividad amenaza los puestos de trabajo, la soberanía del transporte y el futuro de la Marina Mercante Nacional."
+  },
+  {
+    "fecha": "2026-11-19",
+    "titulo": "UDIPA a Sturzenegger: “Desconoce más de 100 años de actividad productiva”",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/11/udipa-a-sturzenegger-desconoce-mas-de-100-anos-de-actividad-productiva/",
+    "resumen": "La Unión de Intereses Pesqueros Argentinos repudió las declaraciones del ministro de Desregulación sobre “la familia y la historia del sector pesquero”, reivindicó a los pioneros que llegaron al país hace más de un siglo y le reprochó no haber recibido nunca a la industria."
+  },
+  {
+    "fecha": "2026-11-19",
     "titulo": "Nueva Pescanova launches new AI platform to optimize processes",
     "fuente": "SeafoodSource News",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMXdtSUpDOXZNR2NiNE12dlBXNVZwTHg4aG1Yb1Q5Xy12Wi12THBwMm9VWGRRYXRmODltYmswaFhNT3ljeTA2YWNTTkVnLVdvQzR1TEx4R2Z1aEZwTzFFRUE3c1gwMU01d2YxNVZqcUpWc3ZGTXVZdkI2R3pnUWJQOVZVVGlqWXUteFlKOFg5WG5kTmJ1LUVFdERKTXI0dw?oc=5",
@@ -47,6 +103,34 @@
     "fuente": "SeafoodSource News",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVkZEckFHejVOV3NGaFZJenRxWnJmazNYN2VSQXRfdnF3RVU1VXE4VkJVQnUxYVA1c0xpdi1xNDJyVEN4dzBmYlhHWTlhaHh1cHRPbVNOZ0ticTQxbmwxNEs1a3JVOVJOVXNRZ0doUFJCUzcwVFBxUFB3TU5HOG04Mm9KcEx1RnVURFhUbEVXdDBtRW9MNXc?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPVkZEckFHejVOV3NGaFZJenRxWnJmazNYN2VSQXRfdnF3RVU1VXE4VkJVQnUxYVA1c0xpdi1xNDJyVEN4dzBmYlhHWTlhaHh1cHRPbVNOZ0ticTQxbmwxNEs1a3JVOVJOVXNRZ0doUFJCUzcwVFBxUFB3TU5HOG04Mm9KcEx1RnVURFhUbEVXdDBtRW9MNXc?oc=5\" target=\"_blank\">US Senate committee advances aquaculture permitting bill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-19",
+    "titulo": "Hatch Blue invests in AI diagnostic company Hadl",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdGVsaENLcG5zYm15NE5tX3ZNdXFvWlFjdGl3NFR6amUtanhVZ2hQalhhMFR5ODhYNzVMMnBYdml2VWlid2xwYW5RckFhd083akdzeXJyZzJrcjVkRFlZdFFEVmFlVEJvWERZajJHRVlHMDNWZXM2Rk54NEVfNk9uUlRvVjZqRzhyRGs1V3hIRVBxTlQ1ZWwwZFR1SkI5S01Yb0dpc0NR?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPdGVsaENLcG5zYm15NE5tX3ZNdXFvWlFjdGl3NFR6amUtanhVZ2hQalhhMFR5ODhYNzVMMnBYdml2VWlid2xwYW5RckFhd083akdzeXJyZzJrcjVkRFlZdFFEVmFlVEJvWERZajJHRVlHMDNWZXM2Rk54NEVfNk9uUlRvVjZqRzhyRGs1V3hIRVBxTlQ1ZWwwZFR1SkI5S01Yb0dpc0NR?oc=5\" target=\"_blank\">Hatch Blue invests in AI diagnostic company Hadl</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-19",
+    "titulo": "Wholesaler Quirch Foods acquires Mies Family Foods, strengthening Midwest presence",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR0MwcGV0dUptSnQ5M2dhRUx6aklZRWdFUS1Obzg4V2g3cVk3WWVFNmlpQjRGMkxLTTI5ci1nM0lSMHpmb2lOZzFETDdrZ2lvcXl6TVBxRkZZRWJyT0pkTWVTTHkzbms2Y1NZelNtOEcxQUFxdy13OU1RcW5qbVMxcTE1TC1WTV9MYUE1eDkzS09sd1BxMUQzdDRfZ2FGandwbVVkQVJRT0RGVzFvc3oxbzhMM2x6RUU?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPR0MwcGV0dUptSnQ5M2dhRUx6aklZRWdFUS1Obzg4V2g3cVk3WWVFNmlpQjRGMkxLTTI5ci1nM0lSMHpmb2lOZzFETDdrZ2lvcXl6TVBxRkZZRWJyT0pkTWVTTHkzbms2Y1NZelNtOEcxQUFxdy13OU1RcW5qbVMxcTE1TC1WTV9MYUE1eDkzS09sd1BxMUQzdDRfZ2FGandwbVVkQVJRT0RGVzFvc3oxbzhMM2x6RUU?oc=5\" target=\"_blank\">Wholesaler Quirch Foods acquires Mies Family Foods, strengthening Midwest presence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-19",
+    "titulo": "ISSF adopts new conservation measures expanding its labor audit requirements",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSDRNb2xWN3BpcFlBc2UtSDVKcnQ1N1d0LU8tbHRncmhvdGdwVEZVdzNxZE1HbTBoclVyTjR0RllCdzQxYWdrMEZTSGo2dklfaGRkTHBIVFRmcXhMR085dzA4TklnR0FmOGs0WjBseFhxdkkwVG1QOGZHQ2JFTmZ2QzNZRjU0ek80aUo0NTl0T25VNldPYW1LR1MyTDVhMGFZSjd5ZFhSWWszel96Sk5kXw?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNSDRNb2xWN3BpcFlBc2UtSDVKcnQ1N1d0LU8tbHRncmhvdGdwVEZVdzNxZE1HbTBoclVyTjR0RllCdzQxYWdrMEZTSGo2dklfaGRkTHBIVFRmcXhMR085dzA4TklnR0FmOGs0WjBseFhxdkkwVG1QOGZHQ2JFTmZ2QzNZRjU0ek80aUo0NTl0T25VNldPYW1LR1MyTDVhMGFZSjd5ZFhSWWszel96Sk5kXw?oc=5\" target=\"_blank\">ISSF adopts new conservation measures expanding its labor audit requirements</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-19",
+    "titulo": "October marks continuation of yearlong retail trends; inflation impacts fresh and frozen seafood but ambient sales stay resilient",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVnlRRllnbUV5UHE4Y2x4aThGeTZqRnNfcXNGNURmeWtEM0cwbHlvXzd3bjhNd3dHc0VYcXdaOXRmVlFjVVNnUVVyNXZPQnNwOXlYcGgxRkJ1RklTM1NZbGpKMWl0VDVzRFZJT2gyb19oZFoyMXRDcDEtR0NvRTBDbUh0eWxzS3g0dWdZSTJ2YTc2UjBGVEJTYjdVeGlISzhVTmRCM2sxTHJsdzZodmYzd0tpVGNsUEJRYlpGQm9RSjNycWZVdVkwU21nMTE1ZFhkOF9XdGlnejB6ak9RSmVDUzd2TVBQVHZfNWtjWFpKNkRqSUptUXc?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVnlRRllnbUV5UHE4Y2x4aThGeTZqRnNfcXNGNURmeWtEM0cwbHlvXzd3bjhNd3dHc0VYcXdaOXRmVlFjVVNnUVVyNXZPQnNwOXlYcGgxRkJ1RklTM1NZbGpKMWl0VDVzRFZJT2gyb19oZFoyMXRDcDEtR0NvRTBDbUh0eWxzS3g0dWdZSTJ2YTc2UjBGVEJTYjdVeGlISzhVTmRCM2sxTHJsdzZodmYzd0tpVGNsUEJRYlpGQm9RSjNycWZVdVkwU21nMTE1ZFhkOF9XdGlnejB6ak9RSmVDUzd2TVBQVHZfNWtjWFpKNkRqSUptUXc?oc=5\" target=\"_blank\">October marks continuation of yearlong retail trends; inflation impacts fresh and frozen seafood but ambient sales stay resilient</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
     "fecha": "2026-11-18",
@@ -560,34 +644,6 @@
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQNDEzM3M4S2FrcGdadjAwQ0FHbms2czR6NlE2dU9rOGR1NWg2bFJfNlZwRWM1MmM0elA3YXljc1k4M3N4YTlZbjVCYXRzaks1M3dLR0w3d3hPWS1xRENzRHAydHZWWlR2R2N6SXBhcUJRS3RPZVJONUZvcUllY2RpSXJBWGNWN1lNazVVTE0tSEotaXpxbVB5c0lubk5wM3ZBVERVS01n?oc=5\" target=\"_blank\">Ode acquires majority stake of Namdal to expand its farming capacity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
-    "fecha": "2026-11-13",
-    "titulo": "Atlantic salmon from Norway prices and volumes steady in Week 45",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOXzhZa3pZR2t2MldRZnlkRVVSZEhUSFIxMGgzMHRhdjFnT0hmX2tLSUV1dGlWM3BaMllYUklyZ2ZSd2F6TE1Lc2w2ZWtpU3RrU09fNGIwWFQ1V0NQM2NYZGxBR2t2dGp2LWs2aE5fTW1pSkQ4VjBjUm1UbC1kUC1ZVGtQQzg1VDZDUXQ2cG5GakY3S3NXZWo5MEdmWU9aeHMt?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOXzhZa3pZR2t2MldRZnlkRVVSZEhUSFIxMGgzMHRhdjFnT0hmX2tLSUV1dGlWM3BaMllYUklyZ2ZSd2F6TE1Lc2w2ZWtpU3RrU09fNGIwWFQ1V0NQM2NYZGxBR2t2dGp2LWs2aE5fTW1pSkQ4VjBjUm1UbC1kUC1ZVGtQQzg1VDZDUXQ2cG5GakY3S3NXZWo5MEdmWU9aeHMt?oc=5\" target=\"_blank\">Atlantic salmon from Norway prices and volumes steady in Week 45</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-11-13",
-    "titulo": "Tasmania closes off rock lobster, dive fisheries due to trade risks associated with salmon-farming antibiotics",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcmg3ODdnWm1pbUJwQThtV3ZHUlowUWM1Sm03YzM4My15c3pydzM1cjEtM3lQb21yeWk1VFhReVlWc1RBT3Z4Nk12MzR5LTI2VWlqd1FVeWhZTDdtcEduNkMwM2pHX0stcFpCcEo0bWRENE8yNndyTDFTS1hGMHpqOFRfbzdPdWliLVNlYnJCTmtyXzU5UkZlZzc3S0YxUjdJbENzZGIwbXNnckxEc2dqNThGLXB5WV9XLXpNd2NnckV2Nkc5YjUwYjVLZjZSQ3MyNXVlSm51NVdrS1pE?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxQcmg3ODdnWm1pbUJwQThtV3ZHUlowUWM1Sm03YzM4My15c3pydzM1cjEtM3lQb21yeWk1VFhReVlWc1RBT3Z4Nk12MzR5LTI2VWlqd1FVeWhZTDdtcEduNkMwM2pHX0stcFpCcEo0bWRENE8yNndyTDFTS1hGMHpqOFRfbzdPdWliLVNlYnJCTmtyXzU5UkZlZzc3S0YxUjdJbENzZGIwbXNnckxEc2dqNThGLXB5WV9XLXpNd2NnckV2Nkc5YjUwYjVLZjZSQ3MyNXVlSm51NVdrS1pE?oc=5\" target=\"_blank\">Tasmania closes off rock lobster, dive fisheries due to trade risks associated with salmon-farming antibiotics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-11-13",
-    "titulo": "Democrats seek answers on Trump’s Endangered Species Act rollbacks as they prepare to take over Congress",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNV21abGFwdTBjQlhoTXVnYWFwYVBFcnNRRzRyZm96bDJoSnhwbnE1WlUzT1oxVno2R2FVNTVsWlpNVE93S0NDazJxYTg0a2dqNTZSSF93bXYwWW4zQzZwNUxucDR6UDgyeGhkVjBjeVl6UVhDY0lnMzlPR19qNmx5aWE2aGtaUDU0Tjg5VGdfY2FBNllRMDMtdExMZFFwcloyUjY1Ql9Tb19hUE95MjFqY0hBYXVtYkg3YUppdDhBZzFsb0g4TjU0VkZPRnhXdHFnT2VfWTVR?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNV21abGFwdTBjQlhoTXVnYWFwYVBFcnNRRzRyZm96bDJoSnhwbnE1WlUzT1oxVno2R2FVNTVsWlpNVE93S0NDazJxYTg0a2dqNTZSSF93bXYwWW4zQzZwNUxucDR6UDgyeGhkVjBjeVl6UVhDY0lnMzlPR19qNmx5aWE2aGtaUDU0Tjg5VGdfY2FBNllRMDMtdExMZFFwcloyUjY1Ql9Tb19hUE95MjFqY0hBYXVtYkg3YUppdDhBZzFsb0g4TjU0VkZPRnhXdHFnT2VfWTVR?oc=5\" target=\"_blank\">Democrats seek answers on Trump’s Endangered Species Act rollbacks as they prepare to take over Congress</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-11-13",
-    "titulo": "Grieg Seafood reports Q3 loss following algal event, stresses continued need to drive down costs",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQclZ2Mm4xOGVjbXJTbFp4NTdJbnA1SE1uVUw1ZzFMMXRFRDcxV3BCcHZ2Q0ttTEl1YW02Z0JrN3pSbkU5SXJsWHVwQUl5SDU5NnBDMmU1UmpNbmQyWVFVMXJqU0ZIZ0kzbjFFZDRFenkza0d5MUItNjBDYm5qVmczaUhvMU0xWndQc2xNTm1ZSTVHOGtQYTlaZEt4eWtVX2VVamdKdFhDOTFSTE5zelh2aXhQdWJzZXZJeU5OTE9QT3lEMjl0MktzYjlB?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQclZ2Mm4xOGVjbXJTbFp4NTdJbnA1SE1uVUw1ZzFMMXRFRDcxV3BCcHZ2Q0ttTEl1YW02Z0JrN3pSbkU5SXJsWHVwQUl5SDU5NnBDMmU1UmpNbmQyWVFVMXJqU0ZIZ0kzbjFFZDRFenkza0d5MUItNjBDYm5qVmczaUhvMU0xWndQc2xNTm1ZSTVHOGtQYTlaZEt4eWtVX2VVamdKdFhDOTFSTE5zelh2aXhQdWJzZXZJeU5OTE9QT3lEMjl0MktzYjlB?oc=5\" target=\"_blank\">Grieg Seafood reports Q3 loss following algal event, stresses continued need to drive down costs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
     "fecha": "2026-11-12",
     "titulo": "Prefectura reincorporó dos aeronaves modernizadas para reforzar la vigilancia marítima",
     "fuente": "Pescare",
@@ -708,13 +764,6 @@
   },
   {
     "fecha": "2026-11-10",
-    "titulo": "FONAPE: el CFP asignó $19.853 millones. El sector pesquero aportó $52.835 millones en 2026",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/fonape-el-cfp-asigno-19853-millones-el-sector-pesquero-aporto-52835-millones-en-2026/",
-    "resumen": "La investigación y el control marítimo concentrarán $5.900 millones. Las cinco provincias pesqueras tendrán una participación idéntica a la de la Nación en el tramo coparticipable. El Consejo también dispuso una remesa adicional de $385,7 millones por embarque de inspectores."
-  },
-  {
-    "fecha": "2026-11-10",
     "titulo": "Evalúan postergar la prospección de langostino por mal tiempo",
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/11/evaluan-postergar-la-prospeccion-de-langostino-por-mal-tiempo/",
@@ -726,20 +775,6 @@
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/11/torres-tomo-juramento-a-sebastian-cejas-como-nuevo-secretario-de-pesca/",
     "resumen": "Diego Brandán fue designado al frente del Instituto Provincial de la Vivienda y Desarrollo Urbano. Gabriel Aguilar será el nuevo representante de Chubut ante el Consejo Federal Pesquero."
-  },
-  {
-    "fecha": "2026-11-09",
-    "titulo": "Malvinas: La jueza Federal de Río Grande prohibió pescar a doce empresas y grupos españoles",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/malvinas-la-jueza-federal-de-rio-grande-prohibio-pescar-a-doce-empresas-y-grupos-espanoles/",
-    "resumen": "La Fundación Agustina Lerena informó que la cautelar también alcanza a siete estructuras hispano-isleñas y exige documentar sus operaciones. El juzgado pidió antecedentes sobre permisos y cuotas de las firmas nacionales investigadas, para las cuales la legislación pesquera contempla la caducidad ante vinculaciones prohibidas."
-  },
-  {
-    "fecha": "2026-11-09",
-    "titulo": "El Coral Blanco se hundió en el puerto antes de su traslado al parque submarino Kiokko Rúa",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/el-coral-blanco-se-hundio-en-el-puerto-antes-de-su-traslado-al-parque-submarino-kiokko-rua/",
-    "resumen": "Desde hace 7 meses se informó que sería trasladado para recrear el parque submarino Kiokko Rúa. La burocracia administrativa nuevamente hunde el avance hacia la eficiencia portuaria."
   },
   {
     "fecha": "2026-11-09",
@@ -817,40 +852,5 @@
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/11/la-justicia-de-chubut-avalo-los-contratos-eventuales-en-la-pesca/",
     "resumen": "El esquema de contrataciones en forma eventual es una herramienta ampliamente utilizada en la industria pesquera por su característica zafrera. Un tribunal de alzada confirmó la validez de esa modalidad de contratación de un trabajador de una planta procesadora de langostino. Se aplicó la normativa previa a la reforma laboral."
-  },
-  {
-    "fecha": "2026-11-04",
-    "titulo": "La jueza que frenó Sea Lion asumió la demanda por la pesca en Malvinas",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/11/la-jueza-que-freno-sea-lion-asumio-la-demanda-por-la-pesca-en-malvinas/",
-    "resumen": "Mariel Borruto reconoció la legitimación de la Fundación Agustina Lerena y dispuso que el reclamo de hasta 26.465 millones de dólares tramite por la vía ordinaria. Antes de decidir si frena a las empresas demandadas, ordenó sumar informes del INIDEP y registros de la Prefectura."
-  },
-  {
-    "fecha": "2026-11-04",
-    "titulo": "CAPEAR ALFA expuso la falta de respuestas oficiales a los problemas del sector",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/11/capear-alfa-expuso-la-falta-de-respuestas-oficiales-a-los-problemas-del-sector/",
-    "resumen": "Un informe de la Cámara fresquera marplatense reveló que de veintiún solicitudes a distintos estamentos del Estado fueron resueltos dos y diecinueve todavía están pendientes de resolución o se resolvieron de manera parcial."
-  },
-  {
-    "fecha": "2026-11-04",
-    "titulo": "Crean una plataforma “para transparentar la información que el Estado no publica”",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/11/crean-una-plataforma-para-transparentar-la-informacion-que-el-estado-no-publica/",
-    "resumen": "Dos organizaciones de la sociedad civil reunieron, mediante pedidos de acceso a la información pública, datos de 520 buques y de sus armadores, permisos, cuotas y sanciones. Advierten que la información sigue incompleta y reclaman que avance en Diputados un proyecto para abrir el Registro de la Pesca."
-  },
-  {
-    "fecha": "2026-11-03",
-    "titulo": "Informe laboral marplatense: más personas trabajando y más desocupadas",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/11/informe-laboral-marplatense-mas-personas-trabajando-y-mas-desocupadas/",
-    "resumen": "En Mar del Plata el Grupo Estudios del Trabajo de la Universidad Nacional difundió su relevamiento en el que determinó que la desocupación creció 9,9% en el segundo trimestre del año aunque hubo 8 mil personas más ocupadas."
-  },
-  {
-    "fecha": "2026-11-03",
-    "titulo": "La CGT rechazó la apertura del cabotaje nacional a buques extranjeros",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/11/la-cgt-rechazo-la-apertura-del-cabotaje-nacional-a-buques-extranjeros/",
-    "resumen": "La central obrera advirtió por el impacto sobre el empleo y la soberanía. “Defender el cabotaje nacional es defender la Patria”, argumentó al pedirle a los senadores que no voten la propuesta de La Libertad Avanza."
   }
 ]
