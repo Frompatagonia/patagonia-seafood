@@ -622,10 +622,11 @@
       "images/flota/00010 (2).webp": "2026-11-14T14:41:02.642Z",
       "images/calamar/TENTACULO1.webp": "2026-11-15T12:25:06.716Z",
       "images/merluza/entera-hg/00707.webp": "2026-11-17T15:17:43.727Z",
-      "images/planta/3177007.webp": "2026-11-19T03:56:07.553Z"
+      "images/planta/3177007.webp": "2026-11-19T03:56:07.553Z",
+      "images/flota/00054.webp": "2026-11-20T02:46:37.917Z"
     },
-    "lastPostDate": "2026-11-19T03:56:07.553Z",
-    "lastPath": "images/planta/3177007.webp"
+    "lastPostDate": "2026-11-20T02:46:37.917Z",
+    "lastPath": "images/flota/00054.webp"
   },
   "videos": {
     "posted": {
@@ -653,5 +654,5 @@
     "lastPostDate": "2026-11-11T01:38:29.623Z",
     "lastKey": "salmuera"
   },
-  "updatedAt": "2026-11-19T21:06:59.821Z"
+  "updatedAt": "2026-11-20T02:46:37.917Z"
 }
