@@ -644,10 +644,11 @@
   "videos": {
     "posted": {
       "videos/BARCO CONVENCIONAL TRABAJANDO.mp4": "2026-11-10T14:03:14.090Z",
-      "videos/BARCOS TEMPORAL.mp4": "2026-11-15T04:05:13.365Z"
+      "videos/BARCOS TEMPORAL.mp4": "2026-11-15T04:05:13.365Z",
+      "videos/Clasificacion Parasitos Filet.mp4": "2026-11-20T18:56:28.623Z"
     },
-    "lastPostDate": "2026-11-15T04:05:13.365Z",
-    "lastPath": "videos/BARCOS TEMPORAL.mp4"
+    "lastPostDate": "2026-11-20T18:56:28.623Z",
+    "lastPath": "videos/Clasificacion Parasitos Filet.mp4"
   },
   "ports": {
     "used": {
@@ -667,5 +668,5 @@
     "lastPostDate": "2026-11-11T01:38:29.623Z",
     "lastKey": "salmuera"
   },
-  "updatedAt": "2026-11-20T10:46:57.372Z"
+  "updatedAt": "2026-11-20T18:56:28.623Z"
 }
