@@ -600,8 +600,8 @@
     }
   },
   "lastNewsPostDate": "2026-11-21T07:54:18.729Z",
-  "lastProductPostDate": "2026-11-18T14:53:16.791Z",
-  "lastProductKey": "elaborados",
+  "lastProductPostDate": "2026-11-21T21:23:57.794Z",
+  "lastProductKey": "langostino",
   "recipe": {
     "dayKey": "2026-11-17",
     "mealId": "53349",
@@ -683,5 +683,5 @@
     "lastPostDate": "2026-11-11T01:38:29.623Z",
     "lastKey": "salmuera"
   },
-  "updatedAt": "2026-11-21T15:50:26.829Z"
+  "updatedAt": "2026-11-21T21:23:57.794Z"
 }
