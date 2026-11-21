@@ -1,27 +1,27 @@
 [
   {
-    "fecha": "2026-11-20",
+    "fecha": "2026-11-21",
     "titulo": "Monitoreo Satelital de Buques Pesqueros",
     "fuente": "MAGyP",
     "url": "https://www.magyp.gob.ar/sitio/areas/pesca_maritima/monitoreo/",
     "resumen": "Monitoreo oficial de buques reportando al sistema. Áreas: Zona Rinc&oacute;n (Res. CFP N&ordm; 27/2009 y posteriores)."
   },
   {
-    "fecha": "2026-11-20",
+    "fecha": "2026-11-21",
     "titulo": "Desembarques de Capturas Marítimas (2026)",
     "fuente": "MAGyP",
     "url": "https://www.magyp.gob.ar/sitio/areas/pesca_maritima/desembarques/",
     "resumen": "Estadísticas oficiales de desembarques por especie, flota y puerto. Datos disponibles: 2026, 2025, 2024, 2023, 2022, 2021, 2020."
   },
   {
-    "fecha": "2026-11-20",
+    "fecha": "2026-11-21",
     "titulo": "Ingreso de Buques a Puerto de Mar del Plata",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/ingreso-de-buques-a-puerto/",
-    "resumen": "Buques programados: BIP MAR ARGENTINO - 17:00 | BP YANI G - 18:00 | BP HUAFENG 882 - 19:00 | BP MADONNINA DEL MARE - 20:30 | BP FIDES FE II - 20:30 | BP GURISES - 21:00. Actualización: 20.NOV.2026 16:30 HS."
+    "resumen": "Buques programados: BP MARIA GLORIA - 04:00 | BP NIÑO JESUS DE PRAGA - 04:30. Actualización: 20.NOV.2026 21:30 HS."
   },
   {
-    "fecha": "2026-11-20",
+    "fecha": "2026-11-21",
     "titulo": "Buques Operando en ZEE Argentina",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/buques-operando/",
@@ -61,6 +61,13 @@
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/mar-del-plata-sumo-mas-de-6-500-toneladas-de-merluza-comun-del-efectivo-sur-en-seis-dias/",
     "resumen": "Entre el 11 y el 17 de noviembre, ocho de cada diez toneladas que se incorporaron al registro del puerto correspondieron a ese efectivo. En el mismo período, Mar del Plata concentró el 71,4% del aumento de los desembarques del país."
+  },
+  {
+    "fecha": "2026-11-20",
+    "titulo": "Chubut habilitó la zafra de langostino 2026-2027 desde este sábado",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/chubut-habilito-la-zafra-de-langostino-2026-2027-desde-este-sabado/",
+    "resumen": "La flota de Chubut quedó habilitada a la pesca a partir de las cero horas de mañana, sábado 21 de noviembre. La decisión pone fin a casi veinte días de incertidumbre en el Puerto Rawson por el inicio de una zafra que esperan las tripulaciones y empresas pesqueras, las plantas procesadoras y los compradores del langostino salvaje del Atlántico Sur."
   },
   {
     "fecha": "2026-11-20",
@@ -761,13 +768,6 @@
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/11/centolla-el-cfp-aprobo-un-programa-de-pesca-experimental-propuesto-por-tierra-del-fuego/",
     "resumen": "Según el representante provincial, la iniciativa complementa el régimen de cuotificación de la especie y apunta a conocer el potencial pesquero de Península Mitre, Isla de los Estados y el Canal Beagle. Salió por mayoría, con el voto negativo de Buenos Aires."
-  },
-  {
-    "fecha": "2026-11-11",
-    "titulo": "CAPIP reclama reactivar el fondo acuícola para impulsar la producción industrial",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/capip-reclama-reactivar-el-fondo-acuicola-para-impulsar-la-produccion-industrial/",
-    "resumen": "La Jornada Nacional de Acuicultura, realizada en Puerto Madryn, reunió a investigadores, empresarios y autoridades para analizar las posibilidades de expansión de la actividad. CAPIP pidió reactivar el financiamiento previsto en la legislación nacional para transformar desarrollos científicos en emprendimientos comerciales y ampliar la producción argentina de alimentos acuáticos."
   },
   {
     "fecha": "2026-11-11",
