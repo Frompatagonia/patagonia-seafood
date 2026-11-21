@@ -584,9 +584,22 @@
         "id": "18135564916752634",
         "at": "2026-11-20T10:46:57.372Z"
       }
+    },
+    "https://pescare.com.ar/la-pesca-costera-de-mar-del-plata-advierte-que-mas-del-20-de-sus-barcos-podria-quedar-inactivo/": {
+      "title": "La pesca costera de Mar del Plata advierte que más del 20% de sus barcos podría quedar inactivo",
+      "date": "2026-11-20",
+      "url": "https://pescare.com.ar/la-pesca-costera-de-mar-del-plata-advierte-que-mas-del-20-de-sus-barcos-podria-quedar-inactivo/",
+      "facebook": {
+        "id": "1208224315713852_122136176715420852",
+        "at": "2026-11-21T07:54:08.638Z"
+      },
+      "instagram": {
+        "id": "17897729541682479",
+        "at": "2026-11-21T07:54:18.729Z"
+      }
     }
   },
-  "lastNewsPostDate": "2026-11-20T10:46:57.372Z",
+  "lastNewsPostDate": "2026-11-21T07:54:18.729Z",
   "lastProductPostDate": "2026-11-18T14:53:16.791Z",
   "lastProductKey": "elaborados",
   "recipe": {
@@ -669,5 +682,5 @@
     "lastPostDate": "2026-11-11T01:38:29.623Z",
     "lastKey": "salmuera"
   },
-  "updatedAt": "2026-11-21T00:34:02.997Z"
+  "updatedAt": "2026-11-21T07:54:18.729Z"
 }
