@@ -670,10 +670,11 @@
       "san-antonio-oeste": "2026-11-14T00:04:51.222Z",
       "punta-colorada": "2026-11-15T23:40:21.648Z",
       "puerto-madryn": "2026-11-18T05:22:44.322Z",
-      "rawson": "2026-11-19T21:06:59.821Z"
+      "rawson": "2026-11-19T21:06:59.821Z",
+      "camarones": "2026-11-21T15:50:26.828Z"
     },
-    "lastPostDate": "2026-11-19T21:06:59.821Z",
-    "lastKey": "rawson"
+    "lastPostDate": "2026-11-21T15:50:26.828Z",
+    "lastKey": "camarones"
   },
   "chef": {
     "used": {
@@ -682,5 +683,5 @@
     "lastPostDate": "2026-11-11T01:38:29.623Z",
     "lastKey": "salmuera"
   },
-  "updatedAt": "2026-11-21T07:54:18.729Z"
+  "updatedAt": "2026-11-21T15:50:26.829Z"
 }
