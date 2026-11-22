@@ -597,9 +597,22 @@
         "id": "17897729541682479",
         "at": "2026-11-21T07:54:18.729Z"
       }
+    },
+    "https://pescare.com.ar/dia-mundial-de-la-pesca-el-desafio-de-transformar-la-riqueza-pesquera-en-alimentacion/": {
+      "title": "Día Mundial de la Pesca: el desafío de transformar la riqueza pesquera en alimentación",
+      "date": "2026-11-21",
+      "url": "https://pescare.com.ar/dia-mundial-de-la-pesca-el-desafio-de-transformar-la-riqueza-pesquera-en-alimentacion/",
+      "facebook": {
+        "id": "1208224315713852_122136357993420852",
+        "at": "2026-11-22T01:50:52.248Z"
+      },
+      "instagram": {
+        "id": "18651678556012667",
+        "at": "2026-11-22T01:51:07.246Z"
+      }
     }
   },
-  "lastNewsPostDate": "2026-11-21T07:54:18.729Z",
+  "lastNewsPostDate": "2026-11-22T01:51:07.246Z",
   "lastProductPostDate": "2026-11-21T21:23:57.794Z",
   "lastProductKey": "langostino",
   "recipe": {
@@ -683,5 +696,5 @@
     "lastPostDate": "2026-11-11T01:38:29.623Z",
     "lastKey": "salmuera"
   },
-  "updatedAt": "2026-11-21T21:23:57.794Z"
+  "updatedAt": "2026-11-22T01:51:07.246Z"
 }
