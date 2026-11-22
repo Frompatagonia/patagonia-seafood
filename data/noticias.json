@@ -18,7 +18,7 @@
     "titulo": "Ingreso de Buques a Puerto de Mar del Plata",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/ingreso-de-buques-a-puerto/",
-    "resumen": "Buques programados: BP VERAZ - 00:30 | BP LANZA SECA - 01:00 | BP PADRE PIO - 04:00 | BP CENTAURO 2000 - 05:00 | BP SAN JORGE MARTIR - 06:00 | BP RAFFAELA - 20:00. Actualización: 21.NOV.2026 22:20 HS."
+    "resumen": "Buques programados: BP CENTAURO 2000 - 16:30 | BP RAFFAELA - 20:00. Actualización: 22.NOV.2026 14:20 HS."
   },
   {
     "fecha": "2026-11-22",
@@ -26,6 +26,13 @@
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/buques-operando/",
     "resumen": "Mapa interactivo de buques reportando al sistema. Áreas: Zona Común de Pesca (ARG-URU) / Zona de Veda Permanente de Juveniles de Merluza."
+  },
+  {
+    "fecha": "2026-11-22",
+    "titulo": "López Cazorla puso en cifras lo que la pesca argentina le deja al país",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/lopez-cazorla-puso-en-cifras-lo-que-la-pesca-argentina-le-deja-al-pais/",
+    "resumen": "“Yo no puedo avalar que el sector no paga”, sostuvo el subsecretario. Ocho días antes de que Federico Sturzenegger afirmara lo contrario en Mar del Plata, el Consejo Federal Pesquero había aprobado distribuir $19.853 millones entre la Nación, las provincias y los organismos que investigan y vigilan el caladero."
   },
   {
     "fecha": "2026-11-21",
@@ -733,13 +740,6 @@
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/11/presentaron-la-novena-edicion-de-einaval/",
     "resumen": "Con una conferencia de prensa en la Oficina de Turismo de Mar del Plata anunciaron la realización del Encuentro Internacional Naval 2026 que se celebrará entre el 18 y 20 de noviembre en el Hotel Provincial. Organiza la Asociación Bonaerense de la Industria Naval."
-  },
-  {
-    "fecha": "2026-11-12",
-    "titulo": "Prefectura reincorporó dos aeronaves modernizadas para reforzar la vigilancia marítima",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/prefectura-reincorporo-dos-aeronaves-modernizadas-para-reforzar-la-vigilancia-maritima/",
-    "resumen": "El avión CASA C-212 Isla Gran Malvina y un helicóptero Ecureuil regresaron al servicio tras completar trabajos de mantenimiento y modernización. La incorporación de radares, cámaras infrarrojas y sistemas digitales permitirá mejorar el control de embarcaciones, la detección de actividades ilegales y las operaciones de búsqueda y rescate."
   },
   {
     "fecha": "2026-11-12",
