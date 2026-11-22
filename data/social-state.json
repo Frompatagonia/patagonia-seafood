@@ -610,9 +610,22 @@
         "id": "18651678556012667",
         "at": "2026-11-22T01:51:07.246Z"
       }
+    },
+    "https://pescare.com.ar/arcor-cierra-la-campagnola-en-mar-del-plata-se-reemplazara-la-produccion-local-por-conservas-importadas/": {
+      "title": "Arcor cierra La Campagnola en Mar del Plata. Se reemplazará la producción local por conservas importadas",
+      "date": "2026-11-21",
+      "url": "https://pescare.com.ar/arcor-cierra-la-campagnola-en-mar-del-plata-se-reemplazara-la-produccion-local-por-conservas-importadas/",
+      "facebook": {
+        "id": "1208224315713852_122136561189420852",
+        "at": "2026-11-22T17:31:43.036Z"
+      },
+      "instagram": {
+        "id": "18135630445826061",
+        "at": "2026-11-22T17:31:54.395Z"
+      }
     }
   },
-  "lastNewsPostDate": "2026-11-22T01:51:07.246Z",
+  "lastNewsPostDate": "2026-11-22T17:31:54.395Z",
   "lastProductPostDate": "2026-11-21T21:23:57.794Z",
   "lastProductKey": "langostino",
   "recipe": {
@@ -697,5 +710,5 @@
     "lastPostDate": "2026-11-11T01:38:29.623Z",
     "lastKey": "salmuera"
   },
-  "updatedAt": "2026-11-22T09:09:04.870Z"
+  "updatedAt": "2026-11-22T17:31:54.395Z"
 }
