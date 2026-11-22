@@ -3,3 +3,6 @@
 !.env.example
 meta-token.txt
 *.secret
+node_modules/
+dist/
+.astro/

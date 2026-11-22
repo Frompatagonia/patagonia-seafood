@@ -2,9 +2,9 @@
 .footer-whatsapp .fw-wa{display:inline-flex;align-items:center;gap:6px;width:fit-content}.footer-whatsapp .fw-wa svg{width:18px;height:18px;flex:none}.footer-whatsapp .fw-wa span{font-weight:600}.contacto-card .fw-wa{gap:8px}.contacto-card .fw-wa svg{width:20px;height:20px;flex:none}
 /* === From Patagonia visual updates === */
 
-.page-hero--flota[data-astro-cid-m3ltrsfr]{background:linear-gradient(90deg,rgba(4,18,32,.82) 0%,rgba(4,18,32,.45) 62%,rgba(4,18,32,.68) 100%),url('/patagonia-seafood/images/hero/flota-hero.jpg') calc(50% + 2cm) calc(38% + 1.5cm)/cover no-repeat!important;border-bottom:0!important;min-height:340px;display:flex;align-items:center}
+.page-hero--flota[data-astro-cid-m3ltrsfr]{background:linear-gradient(90deg,rgba(4,18,32,.82) 0%,rgba(4,18,32,.45) 62%,rgba(4,18,32,.68) 100%),url('/images/hero/flota-hero.jpg') calc(50% + 2cm) calc(38% + 1.5cm)/cover no-repeat!important;border-bottom:0!important;min-height:340px;display:flex;align-items:center}
 .page-hero--flota[data-astro-cid-m3ltrsfr] h1,.page-hero--flota[data-astro-cid-m3ltrsfr] p{color:#fff!important;text-shadow:0 2px 14px rgba(0,0,0,.6)}
-.page-hero--catalogo[data-astro-cid-bg7e42cm]{background:linear-gradient(90deg,rgba(4,18,32,.86) 0%,rgba(4,18,32,.5) 60%,rgba(4,18,32,.72) 100%),url('/patagonia-seafood/images/hero/catalogo-hero.jpg') center 42%/cover no-repeat!important;border-bottom:0!important;min-height:320px;display:flex;align-items:center;padding:var(--spacing-12) 0!important}
+.page-hero--catalogo[data-astro-cid-bg7e42cm]{background:linear-gradient(90deg,rgba(4,18,32,.86) 0%,rgba(4,18,32,.5) 60%,rgba(4,18,32,.72) 100%),url('/images/hero/catalogo-hero.jpg') center 42%/cover no-repeat!important;border-bottom:0!important;min-height:320px;display:flex;align-items:center;padding:var(--spacing-12) 0!important}
 .page-hero--catalogo[data-astro-cid-bg7e42cm] h1,.page-hero--catalogo[data-astro-cid-bg7e42cm] p{color:#fff!important;text-shadow:0 2px 14px rgba(0,0,0,.6)}
 .page-hero--catalogo[data-astro-cid-bg7e42cm] p{color:rgba(255,255,255,.92)!important}
 .page-hero--comercial[data-astro-cid-dm232ogw] .container[data-astro-cid-dm232ogw]{transform:translateY(1.5cm)}
@@ -57,13 +57,13 @@
 .herramienta-titulo,.herramienta-descripcion{text-shadow:0 1px 8px rgba(0,0,0,.75)}
 
 /* === noticias background photo === */
-.noticias-section{background:linear-gradient(180deg,rgba(4,18,32,.92) 0%,rgba(4,18,32,.86) 55%,rgba(4,18,32,.94) 100%),url('/patagonia-seafood/images/hero/ingreso-puerto.jpg') center/cover no-repeat!important}
+.noticias-section{background:linear-gradient(180deg,rgba(4,18,32,.92) 0%,rgba(4,18,32,.86) 55%,rgba(4,18,32,.94) 100%),url('/images/hero/ingreso-puerto.jpg') center/cover no-repeat!important}
 
 .noticias-section .noticia-fuente{margin-left:.5rem!important}
 
 
 /* === Contacto hero === */
-.page-hero--contacto[data-astro-cid-2mxdoeuz]{background:linear-gradient(90deg,rgba(4,18,32,.86) 0%,rgba(4,18,32,.46) 55%,rgba(4,18,32,.72) 100%),url('/patagonia-seafood/images/contacto/cotizacion-bg.png') center 6%/cover no-repeat!important;border-bottom:0!important;min-height:340px;display:flex;align-items:center}
+.page-hero--contacto[data-astro-cid-2mxdoeuz]{background:linear-gradient(90deg,rgba(4,18,32,.86) 0%,rgba(4,18,32,.46) 55%,rgba(4,18,32,.72) 100%),url('/images/contacto/cotizacion-bg.png') center 6%/cover no-repeat!important;border-bottom:0!important;min-height:340px;display:flex;align-items:center}
 .page-hero--contacto[data-astro-cid-2mxdoeuz] h1,.page-hero--contacto[data-astro-cid-2mxdoeuz] p{color:#fff!important;text-shadow:0 2px 14px rgba(0,0,0,.65)}
 .page-hero--contacto[data-astro-cid-2mxdoeuz] p{color:rgba(255,255,255,.92)!important;max-width:640px}
 @media(max-width:768px){.page-hero--contacto[data-astro-cid-2mxdoeuz]{min-height:300px;background-position:center 8%}}

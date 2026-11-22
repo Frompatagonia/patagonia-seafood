@@ -59,7 +59,7 @@ async function fetchRSS(feed) {
   try {
     const res = await fetch(feed.url, {
       headers: {
-        'User-Agent': 'FromPatagoniaNewsBot/1.0 (+https://frompatagonia.github.io/patagonia-seafood/)',
+        'User-Agent': 'FromPatagoniaNewsBot/1.0 (+https://www.frompatagoniaseafood.com.ar/)',
         Accept: 'application/rss+xml,application/xml,text/xml,text/html,*/*'
       },
       signal: AbortSignal.timeout(20000)

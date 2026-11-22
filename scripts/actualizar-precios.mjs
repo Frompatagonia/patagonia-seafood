@@ -3,7 +3,7 @@ import { fileURLToPath } from 'node:url';
 
 const DATA_PATH = fileURLToPath(new URL('../data/precios-mercado.json', import.meta.url));
 const WINDOW_DAYS = 60;
-const USER_AGENT = 'FromPatagoniaSeafood/1.0 (+https://frompatagonia.github.io/patagonia-seafood/)';
+const USER_AGENT = 'FromPatagoniaSeafood/1.0 (+https://www.frompatagoniaseafood.com.ar/)';
 const BROWSER_UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36';
 
 const ARGENTINA_DATE = new Intl.DateTimeFormat('en-CA', {
