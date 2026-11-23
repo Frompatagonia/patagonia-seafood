@@ -1,31 +1,45 @@
 [
   {
-    "fecha": "2026-11-22",
+    "fecha": "2026-11-23",
     "titulo": "Monitoreo Satelital de Buques Pesqueros",
     "fuente": "MAGyP",
     "url": "https://www.magyp.gob.ar/sitio/areas/pesca_maritima/monitoreo/",
     "resumen": "Monitoreo oficial de buques reportando al sistema. Áreas: Zona Rinc&oacute;n (Res. CFP N&ordm; 27/2009 y posteriores)."
   },
   {
-    "fecha": "2026-11-22",
+    "fecha": "2026-11-23",
     "titulo": "Desembarques de Capturas Marítimas (2026)",
     "fuente": "MAGyP",
     "url": "https://www.magyp.gob.ar/sitio/areas/pesca_maritima/desembarques/",
     "resumen": "Estadísticas oficiales de desembarques por especie, flota y puerto. Datos disponibles: 2026, 2025, 2024, 2023, 2022, 2021, 2020."
   },
   {
-    "fecha": "2026-11-22",
+    "fecha": "2026-11-23",
     "titulo": "Ingreso de Buques a Puerto de Mar del Plata",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/ingreso-de-buques-a-puerto/",
-    "resumen": "Buques programados: BP CENTAURO 2000 - 16:30 | BP RAFFAELA - 20:00. Actualización: 22.NOV.2026 16:00 HS."
+    "resumen": "Buques programados: BP FLORIDABLANCA - 00:30 | BP PORTOBELO I - 01:30 | BP DON ESCIPION - 02:00 | BP ATREVIDO - 07:30 | BP MARLENE DEL CARMEN - 07:30 | BP DON NATALIO - 16:30 | BP CANAL DE BEAGLE - 18:30 | BP UCHI - 22:00. Actualización: 22.NOV.2026 22:30 HS."
   },
   {
-    "fecha": "2026-11-22",
+    "fecha": "2026-11-23",
     "titulo": "Buques Operando en ZEE Argentina",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/buques-operando/",
     "resumen": "Mapa interactivo de buques reportando al sistema. Áreas: Zona Común de Pesca (ARG-URU) / Zona de Veda Permanente de Juveniles de Merluza."
+  },
+  {
+    "fecha": "2026-11-23",
+    "titulo": "Chubut: comenzó la temporada y la flota se concentra al norte",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/11/chubut-comenzo-la-temporada-y-la-flota-se-concentra-al-norte/",
+    "resumen": "El sábado quedó oficialmente habilitada la pesquería comercial de la especie langostino entre los paralelos 43° y 44°S en aguas provinciales. La mayoría de los barcos se concentra al norte y frente a Rawson. Empezó la actividad en las plantas."
+  },
+  {
+    "fecha": "2026-11-23",
+    "titulo": "La Campagnola pagaría el 100% de las indemnizaciones",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/11/la-campagnola-pagaria-el-100-de-las-indemnizaciones/",
+    "resumen": "Tras anunciar el cierre de la conservera en Mar del Plata la empresa del Grupo Arcor comunicó su intención en una reunión de la que participaron el SOIP y el Ministerio de Trabajo bonaerense. Se vuelven a reunir este martes en La Plata."
   },
   {
     "fecha": "2026-11-22",
@@ -705,20 +719,6 @@
     "fuente": "SeafoodSource News",
     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUF9FNDNjLTlSakYyWEI5M01sTWRGV2hxM3NiX3NTM1lSVEktcTR4cVVyanE3WjA4NjY0R2o5YWN6OEx1YWFic3FxQjdPQ2pCX3J5RTZXQ0JqSzlvVmxkMGhjTG5sbjVmY2dXYjFfN2ZJOXRVanZiSE1BRmM1ejJKd1E5MVhrZDU5RTAzSGtubFN5cTRMbFNXMjBfZ2VCYloyTk5nRUhURDFuMm5QOVFIYk53TTJaYkxlYy01RWN3cnZMRkZoZ3FnRFFmaHZoS3J0RjI0dlRwckswdw?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUF9FNDNjLTlSakYyWEI5M01sTWRGV2hxM3NiX3NTM1lSVEktcTR4cVVyanE3WjA4NjY0R2o5YWN6OEx1YWFic3FxQjdPQ2pCX3J5RTZXQ0JqSzlvVmxkMGhjTG5sbjVmY2dXYjFfN2ZJOXRVanZiSE1BRmM1ejJKd1E5MVhrZDU5RTAzSGtubFN5cTRMbFNXMjBfZ2VCYloyTk5nRUhURDFuMm5QOVFIYk53TTJaYkxlYy01RWN3cnZMRkZoZ3FnRFFmaHZoS3J0RjI0dlRwckswdw?oc=5\" target=\"_blank\">Recent surge in humphead wrasse exports from Indonesia prompts concerns over sustainability, CITES loopholes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-10-29",
-    "titulo": "“Un proyecto que intentan llamar de soberanía y se redactó en Estados Unidos”",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/10/un-proyecto-que-intentan-llamar-de-soberania-y-se-redacto-en-estados-unidos/",
-    "resumen": "El dictamen de la Ley de Soberanía reunió 60 firmas sin que la oposición tuviera el texto y varios diputados acusaron al gobierno de ceder ante Estados Unidos. Los cambios acotan las sanciones por Malvinas. Para la pesca, la herramienta sigue siendo el artículo 27 bis de la Ley de Pesca."
-  },
-  {
-    "fecha": "2026-10-29",
-    "titulo": "“Hay una política de discriminación hacia la pesca”",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/10/hay-una-politica-de-discriminacion-hacia-la-pesca/",
-    "resumen": "Fernando Rivera, presidente de CaIPA, desglosa el aumento de costos que enfrenta la industria en tierra y en el mar, los cuales se elevaron mucho más que la variación del tipo de cambio. “La situación es insostenible”, aseguró."
   },
   {
     "fecha": "2026-10-29",
