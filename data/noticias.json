@@ -1,31 +1,73 @@
 [
   {
-    "fecha": "2026-11-24",
+    "fecha": "2026-11-25",
     "titulo": "Monitoreo Satelital de Buques Pesqueros",
     "fuente": "MAGyP",
     "url": "https://www.magyp.gob.ar/sitio/areas/pesca_maritima/monitoreo/",
     "resumen": "Monitoreo oficial de buques reportando al sistema. Áreas: Zona Rinc&oacute;n (Res. CFP N&ordm; 27/2009 y posteriores)."
   },
   {
-    "fecha": "2026-11-24",
+    "fecha": "2026-11-25",
     "titulo": "Desembarques de Capturas Marítimas (2026)",
     "fuente": "MAGyP",
     "url": "https://www.magyp.gob.ar/sitio/areas/pesca_maritima/desembarques/",
     "resumen": "Estadísticas oficiales de desembarques por especie, flota y puerto. Datos disponibles: 2026, 2025, 2024, 2023, 2022, 2021, 2020."
   },
   {
-    "fecha": "2026-11-24",
+    "fecha": "2026-11-25",
     "titulo": "Ingreso de Buques a Puerto de Mar del Plata",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/ingreso-de-buques-a-puerto/",
-    "resumen": "Buques programados: BP CERES - 23:00 | BP CTE.LUIS PIEDRABUENA - 23:30. Actualización: 24.NOV.2026 22:30 HS."
+    "resumen": "Buques programados: BP SFIDA - 17:30 | BP MARIANELA - 18:00 | BP DON RAIMUNDO - 18:30 | BP LUIGI - 21:30 | BP RASMUS EFFERSOE - 22:00. Actualización: 25.NOV.2026 11:30 HS."
   },
   {
-    "fecha": "2026-11-24",
+    "fecha": "2026-11-25",
     "titulo": "Buques Operando en ZEE Argentina",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/buques-operando/",
     "resumen": "Mapa interactivo de buques reportando al sistema. Áreas: Zona Común de Pesca (ARG-URU) / Zona de Veda Permanente de Juveniles de Merluza."
+  },
+  {
+    "fecha": "2026-11-25",
+    "titulo": "La Fundación Lerena pedirá sumar al MSC a la demanda por la pesca en Malvinas",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/la-fundacion-lerena-pedira-sumar-al-msc-a-la-demanda-por-la-pesca-en-malvinas/",
+    "resumen": "El planteo alcanza al sello de sustentabilidad de la pesquería de merluza negra. Para César Lerena, certificar una actividad bajo administración isleña implica un reconocimiento comercial de esa gestión."
+  },
+  {
+    "fecha": "2026-11-25",
+    "titulo": "El CFP cambió cómo se calcula el tope del 45% en las cuotas de centolla",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/el-cfp-cambio-como-se-calcula-el-tope-del-45-en-las-cuotas-de-centolla/",
+    "resumen": "Santa Cruz reclama administrar 355 toneladas como reserva social y pidió suspender la inscripción de las cuotas en dos zonas de su jurisdicción. Dos pesqueras solicitaron los antecedentes del reparto."
+  },
+  {
+    "fecha": "2026-11-25",
+    "titulo": "Conarpesa enfrenta otra paralización judicial de buques en plena temporada de langostino",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/conarpesa-enfrenta-otra-paralizacion-judicial-de-buques-en-plena-temporada-de-langostino/",
+    "resumen": "La empresa asegura haber cumplido con las exigencias económicas y las garantías requeridas por la Justicia. La imposibilidad de operar en plena temporada de langostino en Chubut afecta a 25 marineros y a más de 400 trabajadores vinculados al procesamiento en tierra."
+  },
+  {
+    "fecha": "2026-11-25",
+    "titulo": "Santa Cruz solicita descargas en andana para la temporada de calamar 2027",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/santa-cruz-solicita-descargas-en-andana-para-la-temporada-de-calamar-2027/",
+    "resumen": "La Provincia inició gestiones ante Prefectura Naval Argentina para ampliar la capacidad operativa de Puerto Deseado y Caleta Paula durante los meses de mayor actividad de la flota potera."
+  },
+  {
+    "fecha": "2026-11-25",
+    "titulo": "Namibia, Spain sign MoU to deepen seafood collaboration",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPemg0dEdfaEI3ODF1cEN3TmRlYVo4UXVkU0szMU9VQU4tQTlpNFYwV0JNdDJna0t3VWNYbnVGRzlLWlFYOGY5aDFGcUkzNHhLN3htTUVKbjljZERnbmlKcmdqdEJiaXdVLXhVLUtNTkliem9adGROTnNRLTJHYXdtMHc3V3RFRUhxQkp1b09IRnFQeXM?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPemg0dEdfaEI3ODF1cEN3TmRlYVo4UXVkU0szMU9VQU4tQTlpNFYwV0JNdDJna0t3VWNYbnVGRzlLWlFYOGY5aDFGcUkzNHhLN3htTUVKbjljZERnbmlKcmdqdEJiaXdVLXhVLUtNTkliem9adGROTnNRLTJHYXdtMHc3V3RFRUhxQkp1b09IRnFQeXM?oc=5\" target=\"_blank\">Namibia, Spain sign MoU to deepen seafood collaboration</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-25",
+    "titulo": "US Gulf shrimpers, fishers sue over 2023 oil spill",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbFNvWkI2UEhuTVhCTm1sN3daLWhFWGx5Ql9NWEgta2J2MkNNb0U4SUNQY2JNM3VqdW80RUQ3WmdfcGVncjRLRm9GOTlHZ1duWDVzbUtxYTRqYkJsNjZiTE1pNVFLMWlRcFZPQUhtOFp3eHdjTjB3NWFENEFZRUlfTGxvOWtmS2t2WGhpSw?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPbFNvWkI2UEhuTVhCTm1sN3daLWhFWGx5Ql9NWEgta2J2MkNNb0U4SUNQY2JNM3VqdW80RUQ3WmdfcGVncjRLRm9GOTlHZ1duWDVzbUtxYTRqYkJsNjZiTE1pNVFLMWlRcFZPQUhtOFp3eHdjTjB3NWFENEFZRUlfTGxvOWtmS2t2WGhpSw?oc=5\" target=\"_blank\">US Gulf shrimpers, fishers sue over 2023 oil spill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
     "fecha": "2026-11-24",
@@ -652,20 +694,6 @@
   },
   {
     "fecha": "2026-11-16",
-    "titulo": "Italia frena la pesca de Gambero Rosso y limita su oferta hasta fin de año",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/italia-frena-la-pesca-de-gambero-rosso-y-limita-su-oferta-hasta-fin-de-ano/",
-    "resumen": "El cierre alcanza a dos especies de profundidad en Sicilia. La medida se suma a las interrupciones aplicadas desde agosto y aporta contexto al interés de los compradores italianos por ampliar el abastecimiento de langostino argentino."
-  },
-  {
-    "fecha": "2026-11-16",
-    "titulo": "SPI Astilleros recibió al patrullero ARA Luis Piedrabuena y brindó apoyo logístico en Caleta Olivia",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/spi-astilleros-recibio-al-patrullero-ara-luis-piedrabuena-y-brindo-apoyo-logistico-en-caleta-olivia/",
-    "resumen": "La recepción del patrullero oceánico requirió un sistema específico de defensas para el amarre, suministro eléctrico y servicios técnicos. La operación coordinó al astillero con las autoridades portuarias de Santa Cruz y Prefectura."
-  },
-  {
-    "fecha": "2026-11-16",
     "titulo": "Sturzenegger obsesionado: “Yo lo llamo una casta naviera pesquera”",
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/11/sturzenegger-obsesionado-yo-lo-llamo-una-casta-naviera-pesquera/",
@@ -712,27 +740,6 @@
     "fuente": "SeafoodSource News",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNW11UWZidkJuSGR2YUFoUHI4SzFiWVJrbDMtY1dYR0Mzd2w1TzItWjJ4LWJSSWJVWDFQWHRJamp4RGl4Tm92UmoxVlhSVlNEaVFFclU2dEQwM01mcUFrSGFuOGFCSmVKZVpiRnAwckU3RGlQRFk3aHR6RnNMN1NNZnFkMkQ2aXRwWnZSRjRFSW1SeXdLVE1pSjRzMFI1dzlmeEF0Z0JYSjVqWTdmNkVRaXFBMA?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQNW11UWZidkJuSGR2YUFoUHI4SzFiWVJrbDMtY1dYR0Mzd2w1TzItWjJ4LWJSSWJVWDFQWHRJamp4RGl4Tm92UmoxVlhSVlNEaVFFclU2dEQwM01mcUFrSGFuOGFCSmVKZVpiRnAwckU3RGlQRFk3aHR6RnNMN1NNZnFkMkQ2aXRwWnZSRjRFSW1SeXdLVE1pSjRzMFI1dzlmeEF0Z0JYSjVqWTdmNkVRaXFBMA?oc=5\" target=\"_blank\">Rabobank: Aquaculture growth expected in 2027, but salmon expansion set to stall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-11-16",
-    "titulo": "Maine opens formal rulemaking on farmed fish welfare following petition",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU1NYZHBXWm1jT284dGRNdGJOZkVvb2Fpd1Baa1hzNWhJTVd5eGd5RktYeTQtRk1xYVhabk5lTkVaWWNVMEY5azVIWEpLMmxrbXVBeVRSVzRHbDYzOXdKS1ozM2QxbkFrUWRSbGF3SjdSS29SRXp6R2hiYjY2dWU0SHRYS01YRFd0VXc1UEc1Qm9SNmk0UU9keTZkdjAwRnl6Z1Z3dXdheHRTZw?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU1NYZHBXWm1jT284dGRNdGJOZkVvb2Fpd1Baa1hzNWhJTVd5eGd5RktYeTQtRk1xYVhabk5lTkVaWWNVMEY5azVIWEpLMmxrbXVBeVRSVzRHbDYzOXdKS1ozM2QxbkFrUWRSbGF3SjdSS29SRXp6R2hiYjY2dWU0SHRYS01YRFd0VXc1UEc1Qm9SNmk0UU9keTZkdjAwRnl6Z1Z3dXdheHRTZw?oc=5\" target=\"_blank\">Maine opens formal rulemaking on farmed fish welfare following petition</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-11-14",
-    "titulo": "Chubut inició la prospección para definir la apertura de la temporada de langostino",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/chubut-inicio-la-prospeccion-para-definir-la-apertura-de-la-temporada-de-langostino/",
-    "resumen": "La flota trabaja en dos grupos, al norte a casi 30 millas náuticas al NE de Rawson y al sur a 15 millas náuticas al S del mismo puerto chubutense. El esquema provincial asigna once embarcaciones a cada área y contempla dos jornadas de evaluación. Los resultados permitirán determinar si el recurso reúne las condiciones para habilitar la pesca comercial."
-  },
-  {
-    "fecha": "2026-11-14",
-    "titulo": "Cambios en Pesca de Chubut: expectativas por la nueva gestión y respeto por acuerdos existentes",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/cambios-en-pesca-de-chubut-expectativas-por-la-nueva-gestion-y-respeto-por-acuerdos-existentes/",
-    "resumen": "El presidente del Grupo Conarpesa destacó el trabajo realizado por Diego Brandán y Andrés Arbeletche, expresó su confianza en los nuevos funcionarios y remarcó la importancia de mantener reglas claras y acuerdos que permitan sostener el desarrollo de la actividad pesquera."
   },
   {
     "fecha": "2026-11-13",
@@ -810,13 +817,6 @@
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/11/dos-nombres-conocidos-vuelven-a-escena-de-la-pesca-chubutense/",
     "resumen": "Los cambios dispuestos por Ignacio Torres en la conducción pesquera marcaron el regreso de dos viejos conocidos de la estructura administrativa de Chubut: Gabriel Aguilar y Sebastián Cejas. Desembarcaron en la Secretaría de Pesca durante el gobierno de Arcioni, hoy vuelven a ocupar posiciones estratégicas."
-  },
-  {
-    "fecha": "2026-11-10",
-    "titulo": "Norcod has first-ever profitable quarter in Q3 2026",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVTNnTTZaNDVkejc3SmZzU3h3SGJ6VXJhQ2hmTDdDLVczMlBHRGEzUmczV1JoZWxyeDJDcldkZUFvUmhFZU96alBRNTEwdlAxb3BKc3NJaEFNangwQWpHTXpsM0dKOXZjd0tSRUFmWmdvTE03LVR5aG9wWWdSXzJ0bDVLcHlBbWc0NFlKeG14OA?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQVTNnTTZaNDVkejc3SmZzU3h3SGJ6VXJhQ2hmTDdDLVczMlBHRGEzUmczV1JoZWxyeDJDcldkZUFvUmhFZU96alBRNTEwdlAxb3BKc3NJaEFNangwQWpHTXpsM0dKOXZjd0tSRUFmWmdvTE03LVR5aG9wWWdSXzJ0bDVLcHlBbWc0NFlKeG14OA?oc=5\" target=\"_blank\">Norcod has first-ever profitable quarter in Q3 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
     "fecha": "2026-11-02",
