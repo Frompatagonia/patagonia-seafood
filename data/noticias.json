@@ -18,7 +18,7 @@
     "titulo": "Ingreso de Buques a Puerto de Mar del Plata",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/ingreso-de-buques-a-puerto/",
-    "resumen": "Buques programados: BP LUIGI - 20:15 | BP RASMUS EFFERSOE - 21:00 | BP CIUDAD FELIZ - 22:00. Actualización: 25.NOV.2026 20:00 HS."
+    "resumen": "Buques programados: BP ORYONG 756 - 07:00. Actualización: 26.NOV.2026 14:50 HS."
   },
   {
     "fecha": "2026-11-26",
@@ -33,6 +33,20 @@
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/dos-empresas-compiten-por-el-nuevo-muelle-de-la-base-naval-de-ushuaia/",
     "resumen": "La Armada proyecta habilitar los primeros 240 metros para sus lanchas patrulleras. El muelle completo permitirá abastecer al rompehielos Almirante Irízar y al buque logístico Patagonia en instalaciones navales propias. Hoy, ambos dependen del puerto comercial para preparar las campañas antárticas."
+  },
+  {
+    "fecha": "2026-11-26",
+    "titulo": "Ushuaia y Rawson encabezaron las mayores descargas semanales de pescados",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/ushuaia-y-rawson-encabezaron-las-mayores-descargas-semanales-de-pescados/",
+    "resumen": "La flota surimera explicó el aumento en el puerto fueguino y el langostino patagónico, el de la capital chubutense. En el país, los desembarques de merluza común del efectivo sur ya superaron el volumen de todo 2025."
+  },
+  {
+    "fecha": "2026-11-26",
+    "titulo": "Buenos Aires cerró la zafra de corvina rubia en aguas territoriales",
+    "fuente": "Pescare",
+    "url": "https://pescare.com.ar/buenos-aires-cerro-la-zafra-de-corvina-rubia-en-aguas-territoriales/",
+    "resumen": "Los muestreos detectaron una proporción creciente de juveniles en las capturas. La Provincia puso fin a la temporada antes del verano, cuando la corvina rubia alcanza su período de mayor desove en el estuario."
   },
   {
     "fecha": "2026-11-26",
@@ -754,20 +768,6 @@
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/ara-san-juan-mar-del-plata-homenajeo-a-sus-44-tripulantes-a-nueve-anos-del-hundimiento/",
     "resumen": "Familiares y autoridades participaron de la ceremonia en la Escollera Norte. Copias de mensajes navales consultadas por PESCARE permiten reconstruir parte de la información sobre buques pesqueros que se transmitía al submarino y las instrucciones impartidas para su regreso a puerto."
-  },
-  {
-    "fecha": "2026-11-16",
-    "titulo": "Chubut: el mal tiempo interrumpe la prospección y demora la temporada de langostino",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/chubut-el-mal-tiempo-interrumpe-la-prospeccion-y-demora-la-temporada-de-langostino/",
-    "resumen": "Capitanes consultados reportaron buena talla comercial y persistencia de merluza, incluso después de ajustar las maniobras de arrastre. El pronóstico de mal tiempo interrumpió el relevamiento. La jornada pendiente deberá completar la información necesaria para evaluar la apertura de la temporada."
-  },
-  {
-    "fecha": "2026-11-16",
-    "titulo": "El Senado avanza con la apertura del cabotaje y los gremios amplían su rechazo",
-    "fuente": "Pescare",
-    "url": "https://pescare.com.ar/el-senado-avanza-con-la-apertura-del-cabotaje-y-los-gremios-amplian-su-rechazo/",
-    "resumen": "Tres sindicatos cuestionaron los dictámenes sobre el ingreso de buques extranjeros al transporte entre puertos argentinos. El reclamo alcanza las condiciones laborales, la continuidad de la flota nacional y el trabajo de los astilleros. La iniciativa espera su tratamiento mientras siguen las negociaciones sobre el texto."
   },
   {
     "fecha": "2026-11-16",
