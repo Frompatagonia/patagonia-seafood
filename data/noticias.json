@@ -18,7 +18,7 @@
     "titulo": "Ingreso de Buques a Puerto de Mar del Plata",
     "fuente": "Pescare",
     "url": "https://pescare.com.ar/ingreso-de-buques-a-puerto/",
-    "resumen": "Buques programados: BP SFIDA - 17:30 | BP MARIANELA - 18:00 | BP DON RAIMUNDO - 18:30 | BP LUIGI - 21:30 | BP RASMUS EFFERSOE - 22:00. Actualización: 25.NOV.2026 11:30 HS."
+    "resumen": "Buques programados: BP LUIGI - 20:15 | BP RASMUS EFFERSOE - 21:00 | BP CIUDAD FELIZ - 22:00. Actualización: 25.NOV.2026 20:00 HS."
   },
   {
     "fecha": "2026-11-25",
@@ -57,6 +57,34 @@
   },
   {
     "fecha": "2026-11-25",
+    "titulo": "Cuotificación de langostino: “Es aplicar los criterios y parámetros de la Ley”",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/11/cuotificacion-de-langostino-es-aplicar-los-criterios-y-parametros-de-la-ley/",
+    "resumen": "La Subsecretaría de Pesca estaría por elevar al CFP la propuesta de cuotificación del langostino. Eduardo Boiero, presidente de CaPeCA, considera innecesario convocar antes a la Comisión de Seguimiento, como piden algunas cámaras marplatenses: “No hay mucho para inventar”."
+  },
+  {
+    "fecha": "2026-11-25",
+    "titulo": "Elogio de la casta",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/11/elogio-de-la-casta/",
+    "resumen": "Últimamente se dice que somos casta. La acusación tiene algo halagador, como cuando a uno lo confunden con alguien más rico, y sería descortés rechazarla sin antes probarse el traje. Hagámoslo con método, como corresponde a una aristocracia recién nombrada."
+  },
+  {
+    "fecha": "2026-11-25",
+    "titulo": "Apolo Fish: reclamo obrero por demora en el pago de indemnizaciones",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/11/apolo-fish-reclamo-obrero-por-demora-en-el-pago-de-indemnizaciones/",
+    "resumen": "Son trabajadores que habían sido despedidos de la pesquera hace 18 meses. Denunciaron que los nuevos propietarios no pagan las cuotas del acuerdo de desvinculación, en el que le reconocieron el 50% de la indemnización."
+  },
+  {
+    "fecha": "2026-11-25",
+    "titulo": "Comienza obra que aportará mayor operatividad a la pesca en Puerto Deseado",
+    "fuente": "Revista Puerto",
+    "url": "https://revistapuerto.com.ar/2026/11/comienza-obra-que-aportara-mayor-operatividad-a-la-pesca-en-puerto-deseado/",
+    "resumen": "DyOPSA ejecuta la reconstrucción del Sitio 4 y la zona de transición del Sitio 3. Los trabajos estarían concluidos a fines de 2027. Puerto Deseado experimenta un crecimiento del 42% de los desembarques pesqueros en lo que va del año respecto al anterior."
+  },
+  {
+    "fecha": "2026-11-25",
     "titulo": "Namibia, Spain sign MoU to deepen seafood collaboration",
     "fuente": "SeafoodSource News",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPemg0dEdfaEI3ODF1cEN3TmRlYVo4UXVkU0szMU9VQU4tQTlpNFYwV0JNdDJna0t3VWNYbnVGRzlLWlFYOGY5aDFGcUkzNHhLN3htTUVKbjljZERnbmlKcmdqdEJiaXdVLXhVLUtNTkliem9adGROTnNRLTJHYXdtMHc3V3RFRUhxQkp1b09IRnFQeXM?oc=5",
@@ -68,6 +96,62 @@
     "fuente": "SeafoodSource News",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbFNvWkI2UEhuTVhCTm1sN3daLWhFWGx5Ql9NWEgta2J2MkNNb0U4SUNQY2JNM3VqdW80RUQ3WmdfcGVncjRLRm9GOTlHZ1duWDVzbUtxYTRqYkJsNjZiTE1pNVFLMWlRcFZPQUhtOFp3eHdjTjB3NWFENEFZRUlfTGxvOWtmS2t2WGhpSw?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPbFNvWkI2UEhuTVhCTm1sN3daLWhFWGx5Ql9NWEgta2J2MkNNb0U4SUNQY2JNM3VqdW80RUQ3WmdfcGVncjRLRm9GOTlHZ1duWDVzbUtxYTRqYkJsNjZiTE1pNVFLMWlRcFZPQUhtOFp3eHdjTjB3NWFENEFZRUlfTGxvOWtmS2t2WGhpSw?oc=5\" target=\"_blank\">US Gulf shrimpers, fishers sue over 2023 oil spill</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-25",
+    "titulo": "New report debunks economic arguments for high seas transshipment",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd3NlQUVYSFl0bnBKZVpyRXFRSGV2YTVmRjk1ZkpNdHdJcGFONFc5Vl9xT2xIRFJqNkVVdWdNbFg4TWhNSHViZHhMUi1oa1U4dXVQOVl3REJielU5ZVRhLTh1eWx1X2VYaEtQN0hiQjdqVFNMUDVRay0zQ3dtMFBoVlJSVGRZMy0wN0lVWWlLVDRKTDB3aUJ5Y1RrYjJlSFBrR0E?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQd3NlQUVYSFl0bnBKZVpyRXFRSGV2YTVmRjk1ZkpNdHdJcGFONFc5Vl9xT2xIRFJqNkVVdWdNbFg4TWhNSHViZHhMUi1oa1U4dXVQOVl3REJielU5ZVRhLTh1eWx1X2VYaEtQN0hiQjdqVFNMUDVRay0zQ3dtMFBoVlJSVGRZMy0wN0lVWWlLVDRKTDB3aUJ5Y1RrYjJlSFBrR0E?oc=5\" target=\"_blank\">New report debunks economic arguments for high seas transshipment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-25",
+    "titulo": "Vietnam Shrimp Association calls for curbs on raw shrimp imports amid domestic losses",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb0pzN0ZVZ0d5MlFkRTV4clQtWktBZG9YQkg1T0NZY19FZXl6b3hyQ1ota0I3S3JXV3dpRkJwRnJQMG1vOXc5bF91T25LNWgxVXdDMTFkY3UwcjVIMWE2dUpSMFBSMHVRakEteUtxQnREX0d2a24teVluSnJNek5ZQ0V5Z3ZxUlNQdVhOLWItVTRIdzM5LUxRMWllR2lpTmpFZWpyUElITVE1TmQxalJUZXJpTWk3aXNzcG8teA?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPb0pzN0ZVZ0d5MlFkRTV4clQtWktBZG9YQkg1T0NZY19FZXl6b3hyQ1ota0I3S3JXV3dpRkJwRnJQMG1vOXc5bF91T25LNWgxVXdDMTFkY3UwcjVIMWE2dUpSMFBSMHVRakEteUtxQnREX0d2a24teVluSnJNek5ZQ0V5Z3ZxUlNQdVhOLWItVTRIdzM5LUxRMWllR2lpTmpFZWpyUElITVE1TmQxalJUZXJpTWk3aXNzcG8teA?oc=5\" target=\"_blank\">Vietnam Shrimp Association calls for curbs on raw shrimp imports amid domestic losses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-25",
+    "titulo": "NEAFC makes progress but still failed to curb root cause of pelagic overfishing",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNLUlMTExCT3dLYVlXTkpuR1FONm5vR1VhYTQ0XzBEMU9ZN0xrdDZiTkl5aFg5UVY3d2FrQkxSQ2dQc1E5Tjc0WVhOTlZuYV9OdnVfek9nX0F6UmdlUXlUUmNkUlRUelJ6OHltSFNKcTIyNGhqbzIzOVRHMERaZ2JKVjhRS2tCN2UxRzVIYTdjMHNuV21OcDZYT1lXRWJNaWdwSENydkE0WDBaY192VmRrUkZTNnI?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNLUlMTExCT3dLYVlXTkpuR1FONm5vR1VhYTQ0XzBEMU9ZN0xrdDZiTkl5aFg5UVY3d2FrQkxSQ2dQc1E5Tjc0WVhOTlZuYV9OdnVfek9nX0F6UmdlUXlUUmNkUlRUelJ6OHltSFNKcTIyNGhqbzIzOVRHMERaZ2JKVjhRS2tCN2UxRzVIYTdjMHNuV21OcDZYT1lXRWJNaWdwSENydkE0WDBaY192VmRrUkZTNnI?oc=5\" target=\"_blank\">NEAFC makes progress but still failed to curb root cause of pelagic overfishing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-25",
+    "titulo": "ASMI-led survey finds EU CATCH requirements are already a burden for Alaska seafood companies",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPc0dRa0tVeS14Z2ltUTZ3MERwUXZGUHpJQ1FUWHBNc2lLYnJMTXlLX3RocVRndUNqTGlpemMxamV2bmxWblc2d0N0d1ZQaXNSelFCRkdZUlp1eE1keVB2STh0SFJNRGJUOVBBYmk3T0JfUFRZQzJNT2F4eWZ6NXFVS0lKQzY0T0d0WXhOUk9EMmtjcTJRcW81SDJqNzFma0VJM0NxeHEtR1llTDhLR0NPM0syMVVBQ3NReElTeDlEazBSeEtnTFZTeGl3S1dHdGFOZEt1bzBlR0RFVG1XNWpNRDlDYkU2VGs?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi5wFBVV95cUxPc0dRa0tVeS14Z2ltUTZ3MERwUXZGUHpJQ1FUWHBNc2lLYnJMTXlLX3RocVRndUNqTGlpemMxamV2bmxWblc2d0N0d1ZQaXNSelFCRkdZUlp1eE1keVB2STh0SFJNRGJUOVBBYmk3T0JfUFRZQzJNT2F4eWZ6NXFVS0lKQzY0T0d0WXhOUk9EMmtjcTJRcW81SDJqNzFma0VJM0NxeHEtR1llTDhLR0NPM0syMVVBQ3NReElTeDlEazBSeEtnTFZTeGl3S1dHdGFOZEt1bzBlR0RFVG1XNWpNRDlDYkU2VGs?oc=5\" target=\"_blank\">ASMI-led survey finds EU CATCH requirements are already a burden for Alaska seafood companies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-25",
+    "titulo": "Alutiiq Grown takes home top prize at 2026 Alaska Symphony of Seafood",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMy02THlSUHlvd3VubE5HZXprSDVLWFFoMnNtZTE1b2Y4OXAtYWJhQktRa0JkZ1ZIZXJhQW8zYnFSdmozc0oyNFVjWFdHVnBsempYQUwxa1dZV1htQmJHR1B5QmhGaEhfWmZYUXRQLUFfS1d5RzFLcHVTdzRKTEdzZk5ONzR3clppQlRXMzJaX09PcnJsX3I2RGdmWFNXNmZwcDlnZjBrVTBIQm55U21hRmpLZ29sdGQtOFVBUkZVZkN2dW5DWG1VNnVXbm8wemh6NXc?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMy02THlSUHlvd3VubE5HZXprSDVLWFFoMnNtZTE1b2Y4OXAtYWJhQktRa0JkZ1ZIZXJhQW8zYnFSdmozc0oyNFVjWFdHVnBsempYQUwxa1dZV1htQmJHR1B5QmhGaEhfWmZYUXRQLUFfS1d5RzFLcHVTdzRKTEdzZk5ONzR3clppQlRXMzJaX09PcnJsX3I2RGdmWFNXNmZwcDlnZjBrVTBIQm55U21hRmpLZ29sdGQtOFVBUkZVZkN2dW5DWG1VNnVXbm8wemh6NXc?oc=5\" target=\"_blank\">Alutiiq Grown takes home top prize at 2026 Alaska Symphony of Seafood</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-25",
+    "titulo": "Trump administration proposes new set of tariffs that could hit billions in seafood trade",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRkw0OFI4NU5waEE4TGhYWkt0NFdkeXQyamttYnVJWUxLRk5lWHM5c1pHUkdLUmNvTmJxODBjQnUxV05Ud0ZkMVNYbDUwTTFlTHZiRG4wTWU1Y2gwX0JtZWRObE1rc0stOGVVYXVmSjhXOGlwanctaGtYMVljRGoxZVE4V1VSWlgxNG1tenR4ajlXZW9nRnM3bmZfUThIeTY0aXBrUkZxck02aE8tbzl3ZkpibUF5RmhfdTBxTGtTZFdHQQ?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRkw0OFI4NU5waEE4TGhYWkt0NFdkeXQyamttYnVJWUxLRk5lWHM5c1pHUkdLUmNvTmJxODBjQnUxV05Ud0ZkMVNYbDUwTTFlTHZiRG4wTWU1Y2gwX0JtZWRObE1rc0stOGVVYXVmSjhXOGlwanctaGtYMVljRGoxZVE4V1VSWlgxNG1tenR4ajlXZW9nRnM3bmZfUThIeTY0aXBrUkZxck02aE8tbzl3ZkpibUF5RmhfdTBxTGtTZFdHQQ?oc=5\" target=\"_blank\">Trump administration proposes new set of tariffs that could hit billions in seafood trade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-25",
+    "titulo": "Under ambitious growth scenario, Vietnam seafood exports could approach USD 16 billion by 2029, industry body predicts",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaTZDdklrUHV0VTZFWVhESFpWcGxJS0lwNVJ4OEYzTG55Vkd1Y3Etd01ublhxT2JleFNUdG5YaXFDbWhmMWI4WDhSMDZvNFlNWU9McC1RZmNsUHBIa0FGWG9fMEhZRThULUEyS3IwRFRaU0YydVhOSlNoQk9QX1lXSERPRFY5NUdobFYzLW9teXl5alNnV0tZckgwZXkybnp3Z3R3LVk1UzR6dWN5Y1RpTXpfYlNIOG1hU05QTk56RktVeUZnbnp3NWxPZDJNX2pETVBNdDJBNXUzZFFQTWM1R2gtNGdnUQ?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxPaTZDdklrUHV0VTZFWVhESFpWcGxJS0lwNVJ4OEYzTG55Vkd1Y3Etd01ublhxT2JleFNUdG5YaXFDbWhmMWI4WDhSMDZvNFlNWU9McC1RZmNsUHBIa0FGWG9fMEhZRThULUEyS3IwRFRaU0YydVhOSlNoQk9QX1lXSERPRFY5NUdobFYzLW9teXl5alNnV0tZckgwZXkybnp3Z3R3LVk1UzR6dWN5Y1RpTXpfYlNIOG1hU05QTk56RktVeUZnbnp3NWxPZDJNX2pETVBNdDJBNXUzZFFQTWM1R2gtNGdnUQ?oc=5\" target=\"_blank\">Under ambitious growth scenario, Vietnam seafood exports could approach USD 16 billion by 2029, industry body predicts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-25",
+    "titulo": "Pricing Analysis: Atlantic salmon prices and volumes looking strong in the near term, while supply looks steady in long term",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQc1JCckc0RUtUNS1UZmJycVlpeElGVmpvZFF4UjRNWkhrMF9FQkJHWTlqNEp4XzZRWDFsY1lTSlI1MG00X2EtdVB3aEp0Tmprcy1BMm91bEJIMGlFVjlrY01RVzdNbEZYaE1meDNoVDdHZ055VEtPTlNpRnlJQnd6NDh2a0FBc1NsTExHelBBLWlQU2pVVHUtbVVuMktDdFFtM3pRZHZqaEJKcjBoYUhnbnc1NHNNZEVfU2I4RFN5LXdvVmZmRUplUHZoRGNRUHpMWS1fblUzVlVpLUNDU1JyMVp1NTlSWDdjU1A1STRB?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxQc1JCckc0RUtUNS1UZmJycVlpeElGVmpvZFF4UjRNWkhrMF9FQkJHWTlqNEp4XzZRWDFsY1lTSlI1MG00X2EtdVB3aEp0Tmprcy1BMm91bEJIMGlFVjlrY01RVzdNbEZYaE1meDNoVDdHZ055VEtPTlNpRnlJQnd6NDh2a0FBc1NsTExHelBBLWlQU2pVVHUtbVVuMktDdFFtM3pRZHZqaEJKcjBoYUhnbnc1NHNNZEVfU2I4RFN5LXdvVmZmRUplUHZoRGNRUHpMWS1fblUzVlVpLUNDU1JyMVp1NTlSWDdjU1A1STRB?oc=5\" target=\"_blank\">Pricing Analysis: Atlantic salmon prices and volumes looking strong in the near term, while supply looks steady in long term</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
     "fecha": "2026-11-24",
@@ -166,6 +250,20 @@
     "fuente": "SeafoodSource News",
     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMGgyYTFaNVJZZEFKVW9UbURER0IyVjB2WlIyMnVHWElWa0NVOW5vT1hSOHlwLUxFb3o5YnVzWm5CYUdBZktNalRvZU0wTEJBVDd5Q1U5Z3htWkVVWnpfWkt3Y1VwS1JKY0xqdkp4Mk9fbG9nMUtSLW1idkx6LXZyNUk1bXlfVG01QlF2S3pMSFBycTVLYzNHNTNZRWF2aFJjU2gwU2szbE1QaUJNSjFzUkswVHl3YTR4WUFoMzZTejd3V2lYWnNvU1FBRXZRUlJ0dy1aQWo0Z2xBc3RuaEJRQkwwelk2RzNN?oc=5",
     "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMGgyYTFaNVJZZEFKVW9UbURER0IyVjB2WlIyMnVHWElWa0NVOW5vT1hSOHlwLUxFb3o5YnVzWm5CYUdBZktNalRvZU0wTEJBVDd5Q1U5Z3htWkVVWnpfWkt3Y1VwS1JKY0xqdkp4Mk9fbG9nMUtSLW1idkx6LXZyNUk1bXlfVG01QlF2S3pMSFBycTVLYzNHNTNZRWF2aFJjU2gwU2szbE1QaUJNSjFzUkswVHl3YTR4WUFoMzZTejd3V2lYWnNvU1FBRXZRUlJ0dy1aQWo0Z2xBc3RuaEJRQkwwelk2RzNN?oc=5\" target=\"_blank\">East African countries adopt silver cyprinid standard, seeking to boost food security, safety across Lake Victoria Basin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-24",
+    "titulo": "Nature’s Best surimi products aiming to provide retailers with stability that crab can no longer guarantee",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLTM4X2FUTU44ZG03TUtFdFlSLTA3UlRrUGZIYzVtSGtKeVZ0RWNLTVZiMXJ2REJWR1dJVnVOeDZzMnVJZ1Y4anJ4Y2l4Q285ODZyMlhUWTVwWEl2YURVelNIWUkwaEdBd2t1SFh5NERZSnRYOU11N3hyQmtJYkJKTVpsbnBuT0JyMm53NFloRloxbGhrMHJiYXVlalZIbHhqN3N6SUd6ZklJS0hBODBiOWlxZkRkcVdhRlF1NFRsWTZnR2FkUWNsWF81NThaZGZ4bFR2Y0cwVXY?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLTM4X2FUTU44ZG03TUtFdFlSLTA3UlRrUGZIYzVtSGtKeVZ0RWNLTVZiMXJ2REJWR1dJVnVOeDZzMnVJZ1Y4anJ4Y2l4Q285ODZyMlhUWTVwWEl2YURVelNIWUkwaEdBd2t1SFh5NERZSnRYOU11N3hyQmtJYkJKTVpsbnBuT0JyMm53NFloRloxbGhrMHJiYXVlalZIbHhqN3N6SUd6ZklJS0hBODBiOWlxZkRkcVdhRlF1NFRsWTZnR2FkUWNsWF81NThaZGZ4bFR2Y0cwVXY?oc=5\" target=\"_blank\">Nature’s Best surimi products aiming to provide retailers with stability that crab can no longer guarantee</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
+  },
+  {
+    "fecha": "2026-11-24",
+    "titulo": "Consultancy study highlights mounting tension between Chilean salmon industry’s drive for innovation and external uncertainties",
+    "fuente": "SeafoodSource News",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZlRHMkp0Qm1aYXNzR3AxcnNJWmZyYVZxWVhQdUI1QTFtSjk5WWlQQ3cxZjlVRlh4M2xBODZvQmowUmRLbzVtQkhDODVEbTRFT3lrVTlBWFhYLW5yZXlvbFo4eUl6R0JpaGNGTHI4aVA5OFVYV3k4c3dkbjRRMVdHN04xS1I1OXJ4N1l3M2JjTFZsR2thcUtreUR0bC1nQl9NcEYxZ0x4LVJZWjVPY2psRV9aUVEzcFBuYVkwdzBpaWR2Vmpsa092YTd4aGFtVGVrSlhib3hjSFJNM205WE94aDZNdEF4MGF4eVN1N2owVkxYRHNs?oc=5",
+    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZlRHMkp0Qm1aYXNzR3AxcnNJWmZyYVZxWVhQdUI1QTFtSjk5WWlQQ3cxZjlVRlh4M2xBODZvQmowUmRLbzVtQkhDODVEbTRFT3lrVTlBWFhYLW5yZXlvbFo4eUl6R0JpaGNGTHI4aVA5OFVYV3k4c3dkbjRRMVdHN04xS1I1OXJ4N1l3M2JjTFZsR2thcUtreUR0bC1nQl9NcEYxZ0x4LVJZWjVPY2psRV9aUVEzcFBuYVkwdzBpaWR2Vmpsa092YTd4aGFtVGVrSlhib3hjSFJNM205WE94aDZNdEF4MGF4eVN1N2owVkxYRHNs?oc=5\" target=\"_blank\">Consultancy study highlights mounting tension between Chilean salmon industry’s drive for innovation and external uncertainties</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
     "fecha": "2026-11-23",
@@ -574,27 +672,6 @@
     "resumen": "La puesta en funcionamiento está prevista para el 18 de diciembre y marcará el regreso de las operaciones de reparación naval en seco después de dos décadas de inactividad. En una primera etapa comenzará a trabajar con dos gradas de las cinco proyectadas. Prevé recibir pesqueros para mantenimiento y reparación que actualmente son llevados al norte."
   },
   {
-    "fecha": "2026-11-18",
-    "titulo": "Canadian sea cucumber harvesters welcome new trade deal with China",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNWdvSjY1aDBuSlZmQmJEdWpNQ3dpS1hOT1QwZHhYYXRkRklEclBaSTR4QlRfdFM0SlV5SmNYblBPMzl4dmRiVUtOWll0QnNtU1hnRjBlSDNtYzVzb1JNZVVSV3V5bzNKLWtFTzZjWUo0ODdOZUwyeHZaa3YtWDZtcmhFelp5Q20zUE1pZ1JDNzJZajJTclBFaEhuMHZuSjU4by0w?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNNWdvSjY1aDBuSlZmQmJEdWpNQ3dpS1hOT1QwZHhYYXRkRklEclBaSTR4QlRfdFM0SlV5SmNYblBPMzl4dmRiVUtOWll0QnNtU1hnRjBlSDNtYzVzb1JNZVVSV3V5bzNKLWtFTzZjWUo0ODdOZUwyeHZaa3YtWDZtcmhFelp5Q20zUE1pZ1JDNzJZajJTclBFaEhuMHZuSjU4by0w?oc=5\" target=\"_blank\">Canadian sea cucumber harvesters welcome new trade deal with China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-11-18",
-    "titulo": "Vietnamese shrimp exporters adjusting product strategies, farming practices to ensure medium-term sales growth",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSTJTclRRanN4WG9uMUhuQzFaSjhWVjlyWEZCdmhUaEQ5N0RvRG1CSEd5VjYtMUoyY1FlcllxMFZhakZJSEt6NGJxT1Q4SUFMQWozTjFKbmpPdllSU2xWby1zTGRVdE42WTlabDIydkV4WnJXWDNKOVhNQ3ZwdEVRRFEzb3Z2Q0VuRWN5a0tiQjlvX1VXNGdmNDhuV1NSWklqWi03SDdUYWlUWmRCUEdfbldwUm5QTlBZQ3NxbFp1bHZhdmRlOFdham5fUWg5LVB3VGZ6VnB0OWEzZ3Nj?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSTJTclRRanN4WG9uMUhuQzFaSjhWVjlyWEZCdmhUaEQ5N0RvRG1CSEd5VjYtMUoyY1FlcllxMFZhakZJSEt6NGJxT1Q4SUFMQWozTjFKbmpPdllSU2xWby1zTGRVdE42WTlabDIydkV4WnJXWDNKOVhNQ3ZwdEVRRFEzb3Z2Q0VuRWN5a0tiQjlvX1VXNGdmNDhuV1NSWklqWi03SDdUYWlUWmRCUEdfbldwUm5QTlBZQ3NxbFp1bHZhdmRlOFdham5fUWg5LVB3VGZ6VnB0OWEzZ3Nj?oc=5\" target=\"_blank\">Vietnamese shrimp exporters adjusting product strategies, farming practices to ensure medium-term sales growth</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-11-18",
-    "titulo": "Canadian government needs to commit to improving Atlantic fisheries monitoring, environmental nonprofit report stresses",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQN0ZQeTkyQkFEZWtwTjdnbzVDQkkyWEZIR1FvazI4TWozQXlJbFVHc2NhTUJPR2pGenBBYXhFWm1vUjdxalhMaFl3cjBSZmVZWnB0VVFSTi1iQmhObVN1ZUxNaTFRTjEzYjAtMVBTbDd5LTlVcUloWVQtQ2hqOEVZMGZ4SmxPcEE5Unk4ZUNYUjFDak9aU0ZJTzIyaVI4bkxmeU1TUkNTLWtXeW8zeW1VNU5KV0FBVldTSmctdHRGM1RGWHB0QTBLYzQxTGhvcWhaTkhCNXFxeWtzQkcycmE0UDNCNVNoaGhs?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxQN0ZQeTkyQkFEZWtwTjdnbzVDQkkyWEZIR1FvazI4TWozQXlJbFVHc2NhTUJPR2pGenBBYXhFWm1vUjdxalhMaFl3cjBSZmVZWnB0VVFSTi1iQmhObVN1ZUxNaTFRTjEzYjAtMVBTbDd5LTlVcUloWVQtQ2hqOEVZMGZ4SmxPcEE5Unk4ZUNYUjFDak9aU0ZJTzIyaVI4bkxmeU1TUkNTLWtXeW8zeW1VNU5KV0FBVldTSmctdHRGM1RGWHB0QTBLYzQxTGhvcWhaTkhCNXFxeWtzQkcycmE0UDNCNVNoaGhs?oc=5\" target=\"_blank\">Canadian government needs to commit to improving Atlantic fisheries monitoring, environmental nonprofit report stresses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
     "fecha": "2026-11-17",
     "titulo": "Los desembarques pesqueros en Argentina alcanzan su mayor nivel en cuatro años",
     "fuente": "Pescare",
@@ -644,27 +721,6 @@
     "resumen": "Reclaman análisis urgentes y advierten sobre el impacto económico de una medida que interrumpe la actividad en el tramo final de la temporada. Consideran apresurada la veda sin la existencia de muestreos. Piden ser atendidos por las autoridades de la Secretaría de Pesca de Chubut."
   },
   {
-    "fecha": "2026-11-17",
-    "titulo": "Canada, China reach new agreement that expands tariff cuts on Canadian seafood",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbjdqZm5DOHVaZWZGOWI3WUZMMmxtdFdKa2pnTmNGM0N3QUgyMU9iVGNVa1BYaF9RMFBoVEsyaTZTeGRnSmxtUTFmdVAxOVFoQVQyQ29UVWV4N3RHeUVmeElxUHBSQVE1VzBBNHBVOWpsVEkzaU54aHQ4R1RBZzRYYzNlenVMTjRsR3o0Q3I3MzR1ME5nSzI2Q29kd3BFemxKNmhlMV92SW1WQjluc3cweTBR?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNbjdqZm5DOHVaZWZGOWI3WUZMMmxtdFdKa2pnTmNGM0N3QUgyMU9iVGNVa1BYaF9RMFBoVEsyaTZTeGRnSmxtUTFmdVAxOVFoQVQyQ29UVWV4N3RHeUVmeElxUHBSQVE1VzBBNHBVOWpsVEkzaU54aHQ4R1RBZzRYYzNlenVMTjRsR3o0Q3I3MzR1ME5nSzI2Q29kd3BFemxKNmhlMV92SW1WQjluc3cweTBR?oc=5\" target=\"_blank\">Canada, China reach new agreement that expands tariff cuts on Canadian seafood</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-11-17",
-    "titulo": "Lerøy Seafood Group acquires additional portion of Sjøtroll Havbruk",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQY2EyZzBQWE5MbjRacUVReVNfaEo3NzNuS3Q0QW82TmstLW5yVml6aWV3TGkxekxseWtmaU5GZ3QyajVZRzFOU3REbjJHVDk4WGxnVC1qT2o3UlNNdXlscHJtVUFtRVdPUGYtVHJrbS1aVTJDX2VELTllZ3l5UThtTE1pV09mckJNckJLWllobldVcUkyR0k3Mzlid1Y3NUx5NWlPMw?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQY2EyZzBQWE5MbjRacUVReVNfaEo3NzNuS3Q0QW82TmstLW5yVml6aWV3TGkxekxseWtmaU5GZ3QyajVZRzFOU3REbjJHVDk4WGxnVC1qT2o3UlNNdXlscHJtVUFtRVdPUGYtVHJrbS1aVTJDX2VELTllZ3l5UThtTE1pV09mckJNckJLWllobldVcUkyR0k3Mzlid1Y3NUx5NWlPMw?oc=5\" target=\"_blank\">Lerøy Seafood Group acquires additional portion of Sjøtroll Havbruk</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-11-17",
-    "titulo": "Chinese province Fujian enjoying seafood export surge to Africa",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSzU2V0VsRVhIR3hDZkFLTlpFOUpnWC1MLWg0TG1jaXBJNloxTzAzaXVaS3BpeHQtX3BWTzl0LU1jd2ZHVWoxYy1VeHRNT0ZVZTMxM1ZyOEFhRXI4QlFqZzhBOUJJX0VqSjdsZ3lQQmF6Z0YwVjBLYzdoX2QyNV9hR0d1UHdnWG8yX2Rid1hHTWRQTHg0Wk04SURUd1FLQUE?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPSzU2V0VsRVhIR3hDZkFLTlpFOUpnWC1MLWg0TG1jaXBJNloxTzAzaXVaS3BpeHQtX3BWTzl0LU1jd2ZHVWoxYy1VeHRNT0ZVZTMxM1ZyOEFhRXI4QlFqZzhBOUJJX0VqSjdsZ3lQQmF6Z0YwVjBLYzdoX2QyNV9hR0d1UHdnWG8yX2Rid1hHTWRQTHg0Wk04SURUd1FLQUE?oc=5\" target=\"_blank\">Chinese province Fujian enjoying seafood export surge to Africa</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
     "fecha": "2026-11-16",
     "titulo": "ARA San Juan: Mar del Plata homenajeó a sus 44 tripulantes a nueve años del hundimiento",
     "fuente": "Pescare",
@@ -712,34 +768,6 @@
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/11/cafrexport-pide-aliviar-la-presion-tributaria-municipal/",
     "resumen": "Desde la Cámara de Frigoríficos Exportadores en Mar del Plata piden exenciones, eximiciones y la eliminación del pago de sobretasas que acentúan los costos operativos. Una audiencia con el Intendente que no encuentra lugar en la agenda."
-  },
-  {
-    "fecha": "2026-11-16",
-    "titulo": "Peruvian fishing sector faces USD 3 billion in export losses due to El Niño-disrupted anchovy season",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX2lzZkVBNTNRMlNJempRRGtqaG15TlRQc3MxeFNDOWF2OVo1c3FLa3BBWDQybFFkMU56MlI0V2RuSGU4c095a1NHU2pDenpNQ3BLUmduYm9KcUFaUHM1bnprVVR2ZkVPa1VBQTZiVXBMUjA3ME9ITmlUSjk5dzctOUg1MUJpNGdVWExPa04ycy0xZ1pNcDhHblZHUDlFZWRmcG15cl9TUTJvZGhESDR0MFA3TkhudE1zN1laQzJDMXg2V2NxalBpbVEyMllSakVj?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX2lzZkVBNTNRMlNJempRRGtqaG15TlRQc3MxeFNDOWF2OVo1c3FLa3BBWDQybFFkMU56MlI0V2RuSGU4c095a1NHU2pDenpNQ3BLUmduYm9KcUFaUHM1bnprVVR2ZkVPa1VBQTZiVXBMUjA3ME9ITmlUSjk5dzctOUg1MUJpNGdVWExPa04ycy0xZ1pNcDhHblZHUDlFZWRmcG15cl9TUTJvZGhESDR0MFA3TkhudE1zN1laQzJDMXg2V2NxalBpbVEyMllSakVj?oc=5\" target=\"_blank\">Peruvian fishing sector faces USD 3 billion in export losses due to El Niño-disrupted anchovy season</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-11-16",
-    "titulo": "New right whale estimate shows species continued to decline in 2025",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOG9NMmQyRllWWGlJLTZRX1dmeVd0dFh2bm9XTUpMU0tvLVY3SGwyNG9hOU5TTnIxcnJldjAwbzMtTWxVaHc2MGw0S0RqVGVUMzRCYWRuXzdNd2NnMkI0SVVCOUdranhEemxqUnBpWmRpWlBUdnB1a0c0VElVQXRIblRIVXFVbGdNb1ZvWVBuYkhvX1VLZkdUQlVkWmZaSkRzMGxQdQ?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPOG9NMmQyRllWWGlJLTZRX1dmeVd0dFh2bm9XTUpMU0tvLVY3SGwyNG9hOU5TTnIxcnJldjAwbzMtTWxVaHc2MGw0S0RqVGVUMzRCYWRuXzdNd2NnMkI0SVVCOUdranhEemxqUnBpWmRpWlBUdnB1a0c0VElVQXRIblRIVXFVbGdNb1ZvWVBuYkhvX1VLZkdUQlVkWmZaSkRzMGxQdQ?oc=5\" target=\"_blank\">New right whale estimate shows species continued to decline in 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-11-16",
-    "titulo": "Huon Aquaculture breaks ground on expansion project in Australia",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWUNybXIyM2FNU09LdUk1dHptaHVNY1dhZGxGcFktazlUckZ0X21qdjZId3cyaERxZWtUWVcyVndvVERfTEVfVHVQRFF5RzNqLUp2UWFfczVLdVd4cmJXVlNRUnlsMmVyZVBkQjlQY1p2eGZuMVM5YzZnVXB6M2QyWV84Zm9tOGFzUjM4dXJwdXJ4dkJ1bHhTV3hsdnNmem8x?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOWUNybXIyM2FNU09LdUk1dHptaHVNY1dhZGxGcFktazlUckZ0X21qdjZId3cyaERxZWtUWVcyVndvVERfTEVfVHVQRFF5RzNqLUp2UWFfczVLdVd4cmJXVlNRUnlsMmVyZVBkQjlQY1p2eGZuMVM5YzZnVXB6M2QyWV84Zm9tOGFzUjM4dXJwdXJ4dkJ1bHhTV3hsdnNmem8x?oc=5\" target=\"_blank\">Huon Aquaculture breaks ground on expansion project in Australia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
-  },
-  {
-    "fecha": "2026-11-16",
-    "titulo": "Rabobank: Aquaculture growth expected in 2027, but salmon expansion set to stall",
-    "fuente": "SeafoodSource News",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNW11UWZidkJuSGR2YUFoUHI4SzFiWVJrbDMtY1dYR0Mzd2w1TzItWjJ4LWJSSWJVWDFQWHRJamp4RGl4Tm92UmoxVlhSVlNEaVFFclU2dEQwM01mcUFrSGFuOGFCSmVKZVpiRnAwckU3RGlQRFk3aHR6RnNMN1NNZnFkMkQ2aXRwWnZSRjRFSW1SeXdLVE1pSjRzMFI1dzlmeEF0Z0JYSjVqWTdmNkVRaXFBMA?oc=5",
-    "resumen": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQNW11UWZidkJuSGR2YUFoUHI4SzFiWVJrbDMtY1dYR0Mzd2w1TzItWjJ4LWJSSWJVWDFQWHRJamp4RGl4Tm92UmoxVlhSVlNEaVFFclU2dEQwM01mcUFrSGFuOGFCSmVKZVpiRnAwckU3RGlQRFk3aHR6RnNMN1NNZnFkMkQ2aXRwWnZSRjRFSW1SeXdLVE1pSjRzMFI1dzlmeEF0Z0JYSjVqWTdmNkVRaXFBMA?oc=5\" target=\"_blank\">Rabobank: Aquaculture growth expected in 2027, but salmon expansion set to stall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">SeafoodSource</font>"
   },
   {
     "fecha": "2026-11-13",
@@ -824,33 +852,5 @@
     "fuente": "Revista Puerto",
     "url": "https://revistapuerto.com.ar/2026/11/gremios-solicitaron-la-derogacion-de-la-resolucion-190-26/",
     "resumen": "El Centro de Patrones y el SAON lo pidieron mediante una nota elevada al CFP. Aseguran que es ilegal y afecta la seguridad de las tripulaciones. Es la norma que flexibiliza los beneficios de incrementar el esfuerzo pesquero contemplada para la construcción de barcos nuevos y que ahora alcanza con repararlos en más de un 60%."
-  },
-  {
-    "fecha": "2026-11-02",
-    "titulo": "Un barco del INIDEP llega al golfo San Matías para la campaña de hubbsi",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/11/un-barco-del-inidep-llega-al-golfo-san-matias-para-la-campana-de-hubbsi/",
-    "resumen": "Para este lunes está previsto el arribo del BIP Mar Argentino al golfo San Matías para realizar una campaña científica destinada a evaluar el estado del recurso merluza común. El relevamiento contará con la participación de científicos del CIMAS y tendrá una duración estimada de entre 10 y 12 días."
-  },
-  {
-    "fecha": "2026-11-02",
-    "titulo": "Camarones busca darle valor a las algas con nuevos proyectos",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/11/camarones-busca-darle-valor-a-las-algas-con-nuevos-proyectos/",
-    "resumen": "En la localidad chubutense, con el acompañamiento de la Escuela Secundaria N° 721, un grupo de jóvenes las transforma en alimentos y una emprendedora artesanal, apoyada por la Fundación Rewilding Argentina, las incorpora a cosméticos naturales, generando nuevas oportunidades económicas."
-  },
-  {
-    "fecha": "2026-11-02",
-    "titulo": "A pesar del esfuerzo de Argentina y Chile la CCRVMA volvió a cerrar sin acuerdo de AMP",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/11/a-pesar-del-esfuerzo-de-argentina-y-chile-la-ccrvma-volvio-a-cerrar-sin-acuerdo-de-amp/",
-    "resumen": "La 45ª reunión de la comisión que gestiona los recursos marinos antárticos terminó sin aprobar nuevas Áreas Marinas Protegidas ni medidas adicionales para el kril. La iniciativa binacional, que combina zonas vedadas con zonas abiertas a la pesca, seguirá en negociación con vistas a 2027."
-  },
-  {
-    "fecha": "2026-11-02",
-    "titulo": "Tres mil ochocientos millones de pesos para demoler la galería de los silos",
-    "fuente": "Revista Puerto",
-    "url": "https://revistapuerto.com.ar/2026/11/tres-mil-ochocientos-millones-de-pesos-para-demoler-la-galeria-de-los-silos/",
-    "resumen": "En Mar del Plata el Consorcio Portuario llamó a licitación para eliminar la tradicional estructura en inmediaciones del Muelle 3. Se presentaron siete ofertas para llevar adelante una obra que debe ejecutarse en 210 días corridos."
   }
 ]
